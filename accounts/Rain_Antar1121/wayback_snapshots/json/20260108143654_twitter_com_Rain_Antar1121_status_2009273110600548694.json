@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2008942347057549342",
+    "created_at": "2026-01-08T14:36:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T15:36:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009273110600548694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1498893713178644482",
+          "start": 0,
+          "username": "ParanQidAndrQid"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009273110600548694",
+    "in_reply_to_user_id": "1498893713178644482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009268979286655362",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ParanQidAndrQid 呜啊好可怕咱好像也是练声之后早上很容易一直咳…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2008942347057549342",
+        "created_at": "2026-01-08T14:36:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T15:36:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009273110600548694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1498893713178644482",
+              "start": 0,
+              "username": "ParanQidAndrQid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009273110600548694",
+        "in_reply_to_user_id": "1498893713178644482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009268979286655362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ParanQidAndrQid 呜啊好可怕咱好像也是练声之后早上很容易一直咳…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498893713178644482",
+        "conversation_id": "2008942347057549342",
+        "created_at": "2026-01-08T14:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T15:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009268979286655362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009268979286655362",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009247738526105831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 我也不确定有没有关系 但我这两年练声以来好像是咽炎更频繁了🤒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的杂物 | 认真观察有趣的世界 | 想要…专属咱抱着的猫猫 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2910,
+          "following_count": 4344,
+          "like_count": 8314,
+          "listed_count": 5,
+          "media_count": 120,
+          "tweet_count": 1406
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-02T05:31:35.000Z",
+        "description": "「八寶山最後的少女偶像」 ｜ 抒澄/Cassie ｜ She/They",
+        "id": "1498893713178644482",
+        "location": "在你背后！",
+        "name": "呆頭鵝Cassie🍭🏳️‍⚧️",
+        "pinned_tweet_id": "1815959150519804155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949882996213088256/kBnA9xb0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 506,
+          "like_count": 23904,
+          "listed_count": 1,
+          "media_count": 192,
+          "tweet_count": 4774
+        },
+        "username": "ParanQidAndrQid",
+        "verified": false
+      }
+    ]
+  }
+}

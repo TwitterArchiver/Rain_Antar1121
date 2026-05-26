@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1944383046217572507",
+    "created_at": "2025-07-13T15:08:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T16:08:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944413607787172214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1664948430920359936",
+          "start": 0,
+          "username": "Snowcomics9452"
+        },
+        {
+          "end": 29,
+          "id": "1739472736693735424",
+          "start": 16,
+          "username": "guo_lao32576"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944413607787172214",
+    "in_reply_to_user_id": "1664948430920359936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944400785074479517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Snowcomics9452 @guo_lao32576 喵喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1944383046217572507",
+        "created_at": "2025-07-13T15:08:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T16:08:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944413607787172214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1664948430920359936",
+              "start": 0,
+              "username": "Snowcomics9452"
+            },
+            {
+              "end": 29,
+              "id": "1739472736693735424",
+              "start": 16,
+              "username": "guo_lao32576"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944413607787172214",
+        "in_reply_to_user_id": "1664948430920359936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944400785074479517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snowcomics9452 @guo_lao32576 喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1664948430920359936",
+        "conversation_id": "1944383046217572507",
+        "created_at": "2025-07-13T14:17:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T15:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944400785074479517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 29,
+              "id": "1739472736693735424",
+              "start": 16,
+              "username": "guo_lao32576"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944400785074479517",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944383046217572507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 @guo_lao32576 貓貓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1919740598187147331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941572059953238016/-KAyC7ip_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1779,
+          "following_count": 2607,
+          "like_count": 4593,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 759
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-03T10:53:52.000Z",
+        "description": "雪花手機新聞的中文版 /🏳️‍⚧️斷續含糖MtX/F🍥/\n這裡是雪花新聞中心，追蹤各大品牌最新手機、平板等移動裝置的資訊與爆料平台。致力於為您第一時間帶來消息、掌握科技圈的最新動態。\n另類雪花: @RusndageSNF English: @Snowcomics 小貓窩: @SchneeSchmit",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 98,
+                "username": "RusndageSNF"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "Snowcomics"
+              },
+              {
+                "end": 150,
+                "start": 137,
+                "username": "SchneeSchmit"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transky.mtf.wiki",
+                "end": 23,
+                "expanded_url": "https://transky.mtf.wiki/",
+                "start": 0,
+                "url": "https://t.co/z3o74Bauki"
+              }
+            ]
+          }
+        },
+        "id": "1664948430920359936",
+        "location": "香港 | Hong Kong",
+        "name": "雪花 (中文) ❄️",
+        "pinned_tweet_id": "1930283656918249583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939666470113280000/TkkDO3rn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1708,
+          "following_count": 3156,
+          "like_count": 34186,
+          "listed_count": 2,
+          "media_count": 864,
+          "tweet_count": 6833
+        },
+        "url": "https://t.co/z3o74Bauki",
+        "username": "Snowcomics9452",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-26T02:26:43.000Z",
+        "description": "\"I will destroy everything, including myself.\"\n''Then I wil disappear forever.''",
+        "id": "1739472736693735424",
+        "name": "月下缭乱",
+        "pinned_tweet_id": "1933205748504551869",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901519759788904448/svZ9dAeV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 986,
+          "like_count": 5827,
+          "listed_count": 3,
+          "media_count": 130,
+          "tweet_count": 2248
+        },
+        "username": "guo_lao32576",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1937058403450581484",
+    "created_at": "2025-06-23T17:54:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T18:54:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937207654209978440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "156219202",
+          "start": 0,
+          "username": "ToshinoAyano"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937207654209978440",
+    "in_reply_to_user_id": "156219202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937059491776008324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ToshinoAyano 欸嘿嘿…蓝调的时间卡的正好嘛，再加上这几天香港的云真的很壮观…🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1937058403450581484",
+        "created_at": "2025-06-23T17:54:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T18:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937207654209978440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "156219202",
+              "start": 0,
+              "username": "ToshinoAyano"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937207654209978440",
+        "in_reply_to_user_id": "156219202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937059491776008324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ToshinoAyano 欸嘿嘿…蓝调的时间卡的正好嘛，再加上这几天香港的云真的很壮观…🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "156219202",
+        "conversation_id": "1937058403450581484",
+        "created_at": "2025-06-23T08:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T09:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937059491776008324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937059491776008324",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937058403450581484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 瑞瑞的摄影技术好赞呀，拍摄好有质感hhh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1919740598187147331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910722822059810817/tWPhmxtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1497,
+          "following_count": 2220,
+          "like_count": 3814,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 636
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2010-06-16T09:46:30.000Z",
+        "description": "香甜（涩涩？）小雪糕！偶尔大概会写点有意思的东西",
+        "id": "156219202",
+        "location": "Singapore",
+        "name": "小雪糕🍦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890028735317061632/5yyb6lQk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 1377,
+          "like_count": 6689,
+          "listed_count": 3,
+          "media_count": 53,
+          "tweet_count": 2279
+        },
+        "username": "ToshinoAyano",
+        "verified": true
+      }
+    ]
+  }
+}

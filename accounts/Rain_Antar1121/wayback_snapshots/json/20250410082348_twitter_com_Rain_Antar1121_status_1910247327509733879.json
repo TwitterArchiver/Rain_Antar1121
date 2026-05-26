@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1910232214677397598",
+    "created_at": "2025-04-10T08:23:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-10T09:23:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910247327509733879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1803639221556748289",
+          "start": 0,
+          "username": "Haruhi_LAP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910247327509733879",
+    "in_reply_to_user_id": "1803639221556748289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910232214677397598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Haruhi_LAP 舞裙香暖金泥凤，画梁语燕惊残梦～"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1910232214677397598].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1910232214677397598",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1910232214677397598"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1910232214677397598",
+        "created_at": "2025-04-10T08:23:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T09:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910247327509733879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1803639221556748289",
+              "start": 0,
+              "username": "Haruhi_LAP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910247327509733879",
+        "in_reply_to_user_id": "1803639221556748289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910232214677397598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haruhi_LAP 舞裙香暖金泥凤，画梁语燕惊残梦～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 有容易抱住别人的习惯 | 小透明属性 | 同类互fo喵 | 贴贴看到这里的每一只小可爱～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907202223526105088/utcwf0PV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 436,
+          "like_count": 333,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 95
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-20T04:02:57.000Z",
+        "description": "双相 / 阿斯伯格 / 已出柜含糖MTF / 家长无奈党 / ACGN爱好者-永远的Otaku / 马列毛主义者-暴力革命 / INTP 5w4 / 性别不重要,有爱就好了(已有恋人) / 希望可以被用“她”来提及(拜托了,这对我很重要) / 会回of(没回可以私信提醒我) / 永远也最好的姐姐们:@A_Asystem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 150,
+                "username": "A_Asystem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/haruhi_lap1/",
+                "end": 23,
+                "expanded_url": "http://ngl.link/haruhi_lap1/",
+                "start": 0,
+                "url": "https://t.co/qzzl69shOO"
+              }
+            ]
+          }
+        },
+        "id": "1803639221556748289",
+        "location": "神々が恋した幻想郷",
+        "name": "Haruhi🏳️‍⚧️",
+        "pinned_tweet_id": "1898779605944918090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878497128290603008/9toHanjP_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 237,
+          "like_count": 4414,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 1643
+        },
+        "url": "https://t.co/qzzl69shOO",
+        "username": "Haruhi_LAP",
+        "verified": false
+      }
+    ]
+  }
+}

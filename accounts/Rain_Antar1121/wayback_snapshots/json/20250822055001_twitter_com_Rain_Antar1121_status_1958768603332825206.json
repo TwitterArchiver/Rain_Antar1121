@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1958573300881530965",
+    "created_at": "2025-08-22T05:50:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T06:50:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958768603332825206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1918831724898951168",
+          "start": 0,
+          "username": "XYN1789927"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958768603332825206",
+    "in_reply_to_user_id": "1918831724898951168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958573300881530965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XYN1789927 教我粤语🥺😭一点不会"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1958573300881530965",
+        "created_at": "2025-08-22T05:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T06:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958768603332825206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1918831724898951168",
+              "start": 0,
+              "username": "XYN1789927"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958768603332825206",
+        "in_reply_to_user_id": "1918831724898951168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958573300881530965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XYN1789927 教我粤语🥺😭一点不会"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918831724898951168",
+        "conversation_id": "1958573300881530965",
+        "created_at": "2025-08-21T16:53:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T17:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958573300881530965"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1958573300881530965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "破防了，外国人的粤语都比我讲得好。我被开除广东籍了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2094,
+          "following_count": 3042,
+          "like_count": 5432,
+          "listed_count": 3,
+          "media_count": 75,
+          "tweet_count": 907
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T00:55:16.000Z",
+        "description": "笨蛋mtf一只（），有时易燃易爆炸",
+        "id": "1918831724898951168",
+        "location": "雌二醇星球",
+        "name": "萤火虫二号机",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918900774639398912/vHSj0QaK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 124,
+          "like_count": 6252,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1456
+        },
+        "username": "XYN1789927",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2051650935366283558",
+    "created_at": "2026-05-05T13:18:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T14:18:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051652685192122681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051652685192122681",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051650935366283558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen 真的是大部分吗…需要具体统计，如果没人给出调查结果的话我愿意过两天尝试做一下\n按咱的印象不至于是大部分，希望我是对的呢…\n可是无论如何自杀率确实太高了…很值得思考的问题呜呜🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1586,
+        "media_key": "3_2051650924310073344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHjtpUKakAAYG-C.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2051650935366283558",
+        "created_at": "2026-05-05T13:18:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T14:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051652685192122681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051652685192122681",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051650935366283558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 真的是大部分吗…需要具体统计，如果没人给出调查结果的话我愿意过两天尝试做一下\n按咱的印象不至于是大部分，希望我是对的呢…\n可是无论如何自杀率确实太高了…很值得思考的问题呜呜🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051650924310073344"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051650935366283558",
+        "created_at": "2026-05-05T13:11:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T14:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051650935366283558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AgOcQnLwu3",
+              "end": 72,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2051650935366283558/photo/1",
+              "media_key": "3_2051650924310073344",
+              "start": 49,
+              "url": "https://t.co/AgOcQnLwu3"
+            },
+            {
+              "display_url": "x.com/wtxycco/status…",
+              "end": 96,
+              "expanded_url": "https://twitter.com/wtxycco/status/1905998653095035205",
+              "start": 73,
+              "url": "https://t.co/lmMD1WmLz5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051650935366283558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905998653095035205",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其中大部分已不在人世，包括推主本人……\n\n为什么跨性别群体自杀率异常之高呢？\n\n为什么？凭什么？ https://t.co/AgOcQnLwu3 https://t.co/lmMD1WmLz5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2033518993160736859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042559105353842688/Hs-yW50g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3996,
+          "following_count": 5989,
+          "like_count": 13449,
+          "listed_count": 10,
+          "media_count": 249,
+          "tweet_count": 2868
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 和猫猫 @HuamanX09 贴贴喵！| CN/EN/JP | まのさば好き | 友跨 | 想当猫猫\n日语号：@NihonKanjousen\n互 fo 标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "HuamanX09"
+              },
+              {
+                "end": 76,
+                "start": 61,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 108,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 85,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2619,
+          "following_count": 791,
+          "like_count": 17942,
+          "listed_count": 9,
+          "media_count": 974,
+          "tweet_count": 5367
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

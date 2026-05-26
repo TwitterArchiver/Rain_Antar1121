@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2038894722555777381",
+    "created_at": "2026-03-31T08:38:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T09:38:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038898843086160372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1829436939826774016",
+          "start": 0,
+          "username": "dachuan_CN5622"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038898843086160372",
+    "in_reply_to_user_id": "1829436939826774016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038896323475440082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dachuan_CN5622 耶咪～贴你w୯(⁠*⁠´⁠ω⁠｀⁠*⁠)୬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2038894722555777381",
+        "created_at": "2026-03-31T08:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T09:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038898843086160372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1829436939826774016",
+              "start": 0,
+              "username": "dachuan_CN5622"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038898843086160372",
+        "in_reply_to_user_id": "1829436939826774016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038896323475440082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dachuan_CN5622 耶咪～贴你w୯(⁠*⁠´⁠ω⁠｀⁠*⁠)୬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829436939826774016",
+        "conversation_id": "2038894722555777381",
+        "created_at": "2026-03-31T08:28:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T09:28:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038896323475440082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038896323475440082",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038894722555777381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 我对这种团体的人不会恶语相向，会温柔对待！（抽象到让我严重不适的除外）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2033518993160736859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3634,
+          "following_count": 5441,
+          "like_count": 11899,
+          "listed_count": 8,
+          "media_count": 206,
+          "tweet_count": 2380
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-30T08:32:32.000Z",
+        "description": "中/日/英综合大号: @dachuan_DC \n喜欢数码📱/怀旧📟，喜欢玩气球🎈～\n我不一定每天上推，请留意；只发日常、玩气球、数码、怀旧等内容；喜欢涩涩但是不发涩涩，不键政，对我友好的人都会对你友好，如有无言follow请见谅。\n在我这打广告的先过191.9以上🚪，不然拉黑。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "dachuan_DC"
+              }
+            ]
+          }
+        },
+        "id": "1829436939826774016",
+        "location": "🚪11.4/51.4/191.9/810 互粉/友好者免费",
+        "name": "Dachuan (aka. 大川)🎈📱📟",
+        "pinned_tweet_id": "2034242904101966165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829437032466386944/tDzx14ik_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 256,
+          "like_count": 2324,
+          "listed_count": 2,
+          "media_count": 351,
+          "tweet_count": 1066
+        },
+        "username": "dachuan_CN5622",
+        "verified": false
+      }
+    ]
+  }
+}

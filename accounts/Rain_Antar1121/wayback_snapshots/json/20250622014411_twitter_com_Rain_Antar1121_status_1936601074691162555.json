@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1936566931697627471",
+    "created_at": "2025-06-22T01:44:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T02:44:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936601074691162555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1421238969346445316",
+          "start": 0,
+          "username": "qianduzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936601074691162555",
+    "in_reply_to_user_id": "1421238969346445316",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936566931697627471",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qianduzz 抱住～揉揉～扔掉不可爱的事情～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1936566910335803392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuARWDZXYAAUWEw.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1936566931697627471",
+        "created_at": "2025-06-22T01:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T02:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936601074691162555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1421238969346445316",
+              "start": 0,
+              "username": "qianduzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936601074691162555",
+        "in_reply_to_user_id": "1421238969346445316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936566931697627471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianduzz 抱住～揉揉～扔掉不可爱的事情～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936566910335803392"
+          ]
+        },
+        "author_id": "1421238969346445316",
+        "conversation_id": "1936566931697627471",
+        "created_at": "2025-06-21T23:28:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T00:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936566931697627471"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4rmAHMIOlQ",
+              "end": 49,
+              "expanded_url": "https://x.com/qianduzz/status/1936566931697627471/photo/1",
+              "media_key": "3_1936566910335803392",
+              "start": 26,
+              "url": "https://t.co/4rmAHMIOlQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936566931697627471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "死亡离我越来越近 它永远都笼罩着我 推着我前往死亡 https://t.co/4rmAHMIOlQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1919740598187147331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910722822059810817/tWPhmxtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1478,
+          "following_count": 2195,
+          "like_count": 3759,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 615
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-30T22:39:18.000Z",
+        "description": "死亡倒计时中～私宅阴暗b isfp mtx  非二元性别者    重度精神病 精神状态不太稳定 od 自伤 雪兔 会发癫 0.5  泛性恋 成分复杂 可以做你的树洞噢   (全是负能量/介意慎入)   可以叫我天天！我很好说话 喜欢所有乖宝宝  欢迎互fo！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhangweishihundan.com",
+                "end": 23,
+                "expanded_url": "https://www.zhangweishihundan.com/",
+                "start": 0,
+                "url": "https://t.co/dhhgMYDCl2"
+              }
+            ]
+          }
+        },
+        "id": "1421238969346445316",
+        "location": "上海市奉贤区",
+        "name": "前度",
+        "pinned_tweet_id": "1891299718463934716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881935423548870656/foFkOjX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 510,
+          "like_count": 2109,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 911
+        },
+        "url": "https://t.co/dhhgMYDCl2",
+        "username": "qianduzz",
+        "verified": false
+      }
+    ]
+  }
+}

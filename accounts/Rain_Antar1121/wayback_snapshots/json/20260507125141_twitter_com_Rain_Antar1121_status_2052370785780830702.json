@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2052361650468974648",
+    "created_at": "2026-05-07T12:51:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T13:51:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052370785780830702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1813188041793761280",
+          "start": 0,
+          "username": "lightboat111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052370785780830702",
+    "in_reply_to_user_id": "1813188041793761280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052361650468974648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lightboat111 我们会一直存在的哦～会长久传递这份温暖喵🏳️‍⚧️😘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2052361650468974648",
+        "created_at": "2026-05-07T12:51:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T13:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052370785780830702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813188041793761280",
+              "start": 0,
+              "username": "lightboat111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052370785780830702",
+        "in_reply_to_user_id": "1813188041793761280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052361650468974648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lightboat111 我们会一直存在的哦～会长久传递这份温暖喵🏳️‍⚧️😘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813188041793761280",
+        "conversation_id": "2052361650468974648",
+        "created_at": "2026-05-07T12:15:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T13:15:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052361650468974648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rain_Antar1121…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/Rain_Antar1121/status/2052346517000986852",
+              "start": 46,
+              "url": "https://t.co/epzG3JwLFs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052361650468974648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052346517000986852",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们的存在就是对恶意最大的反抗，也是对彼此最大的依托与安慰。\n\n我们跨性别是温暖的团体哦！ https://t.co/epzG3JwLFs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042559105353842688/Hs-yW50g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4022,
+          "following_count": 5998,
+          "like_count": 13615,
+          "listed_count": 10,
+          "media_count": 256,
+          "tweet_count": 2950
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-16T12:25:01.000Z",
+        "description": "05/177/60，infp/天秤/🍥2025.10.5/喜欢涩涩、文学、音乐/王者、洛克王国页游和手游、鸣潮、音游",
+        "id": "1813188041793761280",
+        "location": "万达广场",
+        "name": "轻舟🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1994693420875493416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931226453334712320/c0pIs-rI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 974,
+          "like_count": 813,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 380
+        },
+        "username": "lightboat111",
+        "verified": false
+      }
+    ]
+  }
+}

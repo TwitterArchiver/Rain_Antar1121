@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2044172152006664555",
+    "created_at": "2026-04-15T06:24:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T07:24:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044300707583668375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1869440990970556416",
+          "start": 0,
+          "username": "SnowfairySerina"
+        },
+        {
+          "end": 26,
+          "id": "1811265295849598976",
+          "start": 17,
+          "username": "KiraMyao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044300707583668375",
+    "in_reply_to_user_id": "1869440990970556416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044298771056808351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SnowfairySerina @KiraMyao 哇…地球的另一端诶…好厉害哒，想去玩₍ᐢ..ᐢ₎♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2044172152006664555",
+        "created_at": "2026-04-15T06:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T07:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044300707583668375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1869440990970556416",
+              "start": 0,
+              "username": "SnowfairySerina"
+            },
+            {
+              "end": 26,
+              "id": "1811265295849598976",
+              "start": 17,
+              "username": "KiraMyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044300707583668375",
+        "in_reply_to_user_id": "1869440990970556416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044298771056808351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnowfairySerina @KiraMyao 哇…地球的另一端诶…好厉害哒，想去玩₍ᐢ..ᐢ₎♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869440990970556416",
+        "conversation_id": "2044172152006664555",
+        "created_at": "2026-04-15T06:16:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T07:16:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044298771056808351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 25,
+              "id": "1811265295849598976",
+              "start": 16,
+              "username": "KiraMyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044298771056808351",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044288359766655236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 @KiraMyao 我也是滴，以后我们可以在布宜诺斯艾利斯的城市里遇到嘛🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2033518993160736859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042559105353842688/Hs-yW50g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3783,
+          "following_count": 5710,
+          "like_count": 12788,
+          "listed_count": 8,
+          "media_count": 224,
+          "tweet_count": 2599
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-18T17:54:48.000Z",
+        "description": "行可行之处，伴旅人之舟。在数字荒原里，种下星空绿洲。//23岁hrt的mtf.//如果你使用我的推文用来佐证你的政治立场或揣测我的政治倾向，你会被立刻屏蔽。不要让政治污染我的海畔小屋。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/novel/show.php…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/novel/show.php?id=25860609",
+                "start": 0,
+                "url": "https://t.co/3DFuJVsHdD"
+              }
+            ]
+          }
+        },
+        "id": "1869440990970556416",
+        "location": "摄平星系 清江海畔 古城高川",
+        "name": "⛩️摇光的市隐日记🏳️‍⚧️⭐ || 旅者星辰✨",
+        "pinned_tweet_id": "2044043172003885531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969068756061323264/fJoUuOUi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 1059,
+          "like_count": 3834,
+          "listed_count": 5,
+          "media_count": 649,
+          "tweet_count": 5146
+        },
+        "url": "https://t.co/3DFuJVsHdD",
+        "username": "SnowfairySerina",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T05:04:57.000Z",
+        "description": "KiraMyao🌎きらみゃお🌏星绮喵                                      \n  \nTech💾meme👻",
+        "id": "1811265295849598976",
+        "location": "Japan",
+        "name": "KiraMyao🐱",
+        "pinned_tweet_id": "2043007235786445150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011461446195130369/v137vh6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 343,
+          "like_count": 9028,
+          "listed_count": 1,
+          "media_count": 323,
+          "tweet_count": 1119
+        },
+        "username": "KiraMyao",
+        "verified": true
+      }
+    ]
+  }
+}

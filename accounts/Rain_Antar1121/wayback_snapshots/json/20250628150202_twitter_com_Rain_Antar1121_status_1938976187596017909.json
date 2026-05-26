@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1938057514815545751",
+    "created_at": "2025-06-28T15:02:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T16:02:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938976187596017909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1723532985679704064",
+          "start": 0,
+          "username": "HFLMTF"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Rain_Antar1121…",
+          "end": 163,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/1937868730597572991?t=rWLnKVxUDU2bwHG0CrT3Bw&s=19",
+          "start": 140,
+          "url": "https://t.co/8vs6pMtlFb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938976187596017909",
+    "in_reply_to_user_id": "1723532985679704064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937868730597572991",
+        "type": "quoted"
+      },
+      {
+        "id": "1938057514815545751",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HFLMTF 喵，虽然懒得管这烂事了，但还是得说，目前咱看来没反转\n图一貌似太信口胡说了（）\n现已知：\n虽然小兔是一中的，但一中根本没法复读啊（）她只是休过学\n名字是真的喵，她改过名\n关于分数，小兔在抖音发了拍屏和下载成绩证明的视频，可信度应该比任何说造假的言论高了\n此外参见\nhttps://t.co/8vs6pMtlFb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1938057506234028032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuVdCJ1b0AAoSad.jpg",
+        "width": 688
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1938057506313670662",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuVdCKIbEAY2KMe.jpg",
+        "width": 864
+      },
+      {
+        "height": 344,
+        "media_key": "3_1938057506737295360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuVdCLtbEAA4YmK.jpg",
+        "width": 336
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1938057514815545751",
+        "created_at": "2025-06-28T15:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T16:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938976187596017909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1723532985679704064",
+              "start": 0,
+              "username": "HFLMTF"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Rain_Antar1121…",
+              "end": 163,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/1937868730597572991?t=rWLnKVxUDU2bwHG0CrT3Bw&s=19",
+              "start": 140,
+              "url": "https://t.co/8vs6pMtlFb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938976187596017909",
+        "in_reply_to_user_id": "1723532985679704064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937868730597572991",
+            "type": "quoted"
+          },
+          {
+            "id": "1938057514815545751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HFLMTF 喵，虽然懒得管这烂事了，但还是得说，目前咱看来没反转\n图一貌似太信口胡说了（）\n现已知：\n虽然小兔是一中的，但一中根本没法复读啊（）她只是休过学\n名字是真的喵，她改过名\n关于分数，小兔在抖音发了拍屏和下载成绩证明的视频，可信度应该比任何说造假的言论高了\n此外参见\nhttps://t.co/8vs6pMtlFb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1937821804447547841",
+        "created_at": "2025-06-25T13:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T14:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937868730597572991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1886617628124569600",
+              "start": 0,
+              "username": "Momizi5127"
+            },
+            {
+              "end": 20,
+              "id": "1750485481207590912",
+              "start": 12,
+              "username": "zmsghhz"
+            },
+            {
+              "end": 36,
+              "id": "1934723202158395393",
+              "start": 21,
+              "username": "chenkeer070427"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937868730597572991",
+        "in_reply_to_user_id": "1886617628124569600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 18452,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937866042694607072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Momizi5127 @zmsghhz @chenkeer070427 通过这一句话，证明小兔本质上是坏人或者知道自己在干什么，不是一个很强的结论\n跟她交流了两天之后，咱觉得…目前看来\n一，她并不很缺钱\n二，她把自己的号包装成这样纯粹是因为对圆角不切实际的幻想和缺爱\n三，她还没有实际的行动\n只要上述三点事实成立，只要小兔的性格是真实的，我就值得劝她"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938057506234028032",
+            "3_1938057506313670662",
+            "3_1938057506737295360"
+          ]
+        },
+        "author_id": "1723532985679704064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1938057514815545751",
+        "created_at": "2025-06-26T02:11:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T03:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938057514815545751"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HtHhhyHTXl",
+              "end": 37,
+              "expanded_url": "https://x.com/HFLMTF/status/1938057514815545751/photo/1",
+              "media_key": "3_1938057506234028032",
+              "start": 14,
+              "url": "https://t.co/HtHhhyHTXl"
+            },
+            {
+              "display_url": "pic.x.com/HtHhhyHTXl",
+              "end": 37,
+              "expanded_url": "https://x.com/HFLMTF/status/1938057514815545751/photo/1",
+              "media_key": "3_1938057506313670662",
+              "start": 14,
+              "url": "https://t.co/HtHhhyHTXl"
+            },
+            {
+              "display_url": "pic.x.com/HtHhhyHTXl",
+              "end": 37,
+              "expanded_url": "https://x.com/HFLMTF/status/1938057514815545751/photo/1",
+              "media_key": "3_1938057506737295360",
+              "start": 14,
+              "url": "https://t.co/HtHhhyHTXl"
+            },
+            {
+              "display_url": "x.com/HFLMTF/status/…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/HFLMTF/status/1937848900960088460",
+              "start": 38,
+              "url": "https://t.co/PB4Z7BQNsH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938057514815545751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3098,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937848900960088460",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是小丑🤡\n居然还有反转😓 https://t.co/HtHhhyHTXl https://t.co/PB4Z7BQNsH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1919740598187147331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910722822059810817/tWPhmxtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1615,
+          "following_count": 2330,
+          "like_count": 4098,
+          "listed_count": 2,
+          "media_count": 45,
+          "tweet_count": 683
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-12T02:47:55.000Z",
+        "description": "2007出厂/准大一喽～/165-49kg/是mtf🏳️‍⚧️/持证含糖?🧐/双相情感障碍🥺/欢迎扩列(私信)喵~/🚪20(同类免费)/最爱的老公(老婆)酱🥰 @coldtea2025",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 80,
+                "username": "coldtea2025"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hfabc.cn",
+                "end": 23,
+                "expanded_url": "https://www.hfabc.cn/",
+                "start": 0,
+                "url": "https://t.co/gVcRWnsHpA"
+              }
+            ]
+          }
+        },
+        "id": "1723532985679704064",
+        "location": "附近1km",
+        "name": "HFRin🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906154664061784064/SJLzvXuT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1744,
+          "following_count": 195,
+          "like_count": 1067,
+          "listed_count": 3,
+          "media_count": 107,
+          "tweet_count": 1140
+        },
+        "url": "https://t.co/gVcRWnsHpA",
+        "username": "HFLMTF",
+        "verified": false
+      }
+    ]
+  }
+}

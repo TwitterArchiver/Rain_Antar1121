@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2056801640976642227",
+    "created_at": "2026-05-20T14:10:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T15:10:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057101628134900206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "4123608315",
+          "start": 0,
+          "username": "c5brm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057101628134900206",
+    "in_reply_to_user_id": "4123608315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056973321296924976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@c5brm 干杯🍻啾…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056973314187513856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIvWVLia0AA-p55.jpg",
+        "width": 1436
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2056801640976642227",
+        "created_at": "2026-05-20T14:10:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T15:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057101628134900206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "4123608315",
+              "start": 0,
+              "username": "c5brm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057101628134900206",
+        "in_reply_to_user_id": "4123608315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056973321296924976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c5brm 干杯🍻啾…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056973314187513856"
+          ]
+        },
+        "author_id": "4123608315",
+        "conversation_id": "2056801640976642227",
+        "created_at": "2026-05-20T05:40:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T06:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056973321296924976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o8JLpyJ9Sz",
+              "end": 39,
+              "expanded_url": "https://x.com/c5brm/status/2056973321296924976/photo/1",
+              "media_key": "3_2056973314187513856",
+              "start": 16,
+              "url": "https://t.co/o8JLpyJ9Sz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056973321296924976",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056801640976642227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 https://t.co/o8JLpyJ9Sz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4166,
+          "following_count": 6117,
+          "like_count": 14292,
+          "listed_count": 10,
+          "media_count": 281,
+          "tweet_count": 3315
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2015-11-06T02:15:39.000Z",
+        "description": "男／178／57／慢热／广东人／作息不规律／时常疯言疯语／有时候会鉴政／幽默感0️⃣／喜欢瞎逛／不是很会拍照／不od💊🚫／不自杀🔪🚫／还没有性转的计划🏳️‍⚧️🚫／平等善待所有人❤️／欢迎提问👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wang10649",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wang10649",
+                "start": 0,
+                "url": "https://t.co/TAF1OraO76"
+              }
+            ]
+          }
+        },
+        "id": "4123608315",
+        "location": "魅力大湾区",
+        "name": "小凯有点忙💦",
+        "pinned_tweet_id": "2039292335805378883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054968762022219776/CNZ-fXl-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 615,
+          "like_count": 4552,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 1567
+        },
+        "url": "https://t.co/TAF1OraO76",
+        "username": "c5brm",
+        "verified": false
+      }
+    ]
+  }
+}

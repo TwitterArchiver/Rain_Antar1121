@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2055674634641514923",
+    "created_at": "2026-05-17T08:01:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T09:01:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055921751285203047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2008278731782320129",
+          "start": 0,
+          "username": "TxtText404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055921751285203047",
+    "in_reply_to_user_id": "2008278731782320129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055674634641514923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TxtText404 感谢转载咱的调查喵…谢谢支持～🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 685,
+        "media_key": "3_2055667564819234816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcywkFXwAAJkku.jpg",
+        "width": 1188
+      },
+      {
+        "height": 677,
+        "media_key": "3_2055670109335654400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIc1ErJXEAAj9cc.png",
+        "width": 595
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2055674634641514923",
+        "created_at": "2026-05-17T08:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T09:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055921751285203047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2008278731782320129",
+              "start": 0,
+              "username": "TxtText404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055921751285203047",
+        "in_reply_to_user_id": "2008278731782320129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055674634641514923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TxtText404 感谢转载咱的调查喵…谢谢支持～🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055667564819234816",
+            "3_2055670109335654400"
+          ]
+        },
+        "author_id": "2008278731782320129",
+        "conversation_id": "2055674634641514923",
+        "created_at": "2026-05-16T15:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T16:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055674634641514923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4fbmRjB7zD",
+              "end": 125,
+              "expanded_url": "https://x.com/TxtText404/status/2055674634641514923/photo/1",
+              "media_key": "3_2055667564819234816",
+              "start": 102,
+              "url": "https://t.co/4fbmRjB7zD"
+            },
+            {
+              "display_url": "pic.x.com/4fbmRjB7zD",
+              "end": 125,
+              "expanded_url": "https://x.com/TxtText404/status/2055674634641514923/photo/1",
+              "media_key": "3_2055670109335654400",
+              "start": 102,
+              "url": "https://t.co/4fbmRjB7zD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055674634641514923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 53,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你B依旧分不清男娘药娘这一块👍\n笑个群体都笑不对\n了解是没有的\n嘲讽是必须的\n事情是不考证的\n脑子是不带的\n平时说说就算了，现实里谁不想急头白脸的发一张小众群体的惨状凸显自己的优越感呢，反正我是大多数😂 https://t.co/4fbmRjB7zD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042559105353842688/Hs-yW50g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4148,
+          "following_count": 6120,
+          "like_count": 14226,
+          "listed_count": 10,
+          "media_count": 275,
+          "tweet_count": 3243
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-05T20:45:52.000Z",
+        "description": "业余 C 艹 Java 开发者\n友跨 | LGBT+友好 | 不谈政治",
+        "id": "2008278731782320129",
+        "name": "Txt-Text",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037526310801874944/yFe9G3Zj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 13,
+          "like_count": 539,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 87
+        },
+        "username": "TxtText404",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977597206883659776",
+        "3_1977597206741102592",
+        "3_1977597206761988096",
+        "3_1977597205495296000"
+      ]
+    },
+    "author_id": "1894461745277931524",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1977597211346427956",
+    "created_at": "2025-10-13T04:48:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T05:48:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1977597211346427956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 129,
+          "id": "156219202",
+          "start": 116,
+          "username": "ToshinoAyano"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bXPLFi118J",
+          "end": 186,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/1977597211346427956/photo/1",
+          "media_key": "3_1977597206883659776",
+          "start": 163,
+          "url": "https://t.co/bXPLFi118J"
+        },
+        {
+          "display_url": "pic.x.com/bXPLFi118J",
+          "end": 186,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/1977597211346427956/photo/1",
+          "media_key": "3_1977597206741102592",
+          "start": 163,
+          "url": "https://t.co/bXPLFi118J"
+        },
+        {
+          "display_url": "pic.x.com/bXPLFi118J",
+          "end": 186,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/1977597211346427956/photo/1",
+          "media_key": "3_1977597206761988096",
+          "start": 163,
+          "url": "https://t.co/bXPLFi118J"
+        },
+        {
+          "display_url": "pic.x.com/bXPLFi118J",
+          "end": 186,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/1977597211346427956/photo/1",
+          "media_key": "3_1977597205495296000",
+          "start": 163,
+          "url": "https://t.co/bXPLFi118J"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "6635b2fcebd13c64"
+    },
+    "id": "1977597211346427956",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🇸🇬🥰～\n（人都回家了推还没发完）\n樟宜机场喵，喜欢有设计感的室内场景～尤其是天顶能透进自然光的这种…能让景物色彩鲜艳光影分明的感觉つ♡⊂\n还有到处都是绿油油的叶子…热带的植物拍出来特别绿- ̗̀ෆ( ˶'ᵕ'˶)ෆ ̖́- \n以及@ToshinoAyano请咱吃的 Cendol …椰糖甜喵甜，口感很独特的亚达子，好吃呜… https://t.co/bXPLFi118J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1977597206883659776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3HWLpEa8AAo3En.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1977597206741102592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3HWLoibsAA2Vsf.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1977597206761988096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3HWLonaYAAZG-w.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1977597205495296000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3HWLj5aMAAPyO9.jpg",
+        "width": 1536
+      }
+    ],
+    "places": [
+      {
+        "country": "Singapore",
+        "country_code": "SG",
+        "full_name": "East Region, Singapore",
+        "geo": {
+          "bbox": [
+            103.89216999988,
+            1.30157724092846,
+            104.085566789885,
+            1.44093662101956
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "6635b2fcebd13c64",
+        "name": "East Region",
+        "place_type": "admin"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977597206883659776",
+            "3_1977597206741102592",
+            "3_1977597206761988096",
+            "3_1977597205495296000"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1977597211346427956",
+        "created_at": "2025-10-13T04:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T05:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977597211346427956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 129,
+              "id": "156219202",
+              "start": 116,
+              "username": "ToshinoAyano"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bXPLFi118J",
+              "end": 186,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/1977597211346427956/photo/1",
+              "media_key": "3_1977597206883659776",
+              "start": 163,
+              "url": "https://t.co/bXPLFi118J"
+            },
+            {
+              "display_url": "pic.x.com/bXPLFi118J",
+              "end": 186,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/1977597211346427956/photo/1",
+              "media_key": "3_1977597206741102592",
+              "start": 163,
+              "url": "https://t.co/bXPLFi118J"
+            },
+            {
+              "display_url": "pic.x.com/bXPLFi118J",
+              "end": 186,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/1977597211346427956/photo/1",
+              "media_key": "3_1977597206761988096",
+              "start": 163,
+              "url": "https://t.co/bXPLFi118J"
+            },
+            {
+              "display_url": "pic.x.com/bXPLFi118J",
+              "end": 186,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/1977597211346427956/photo/1",
+              "media_key": "3_1977597205495296000",
+              "start": 163,
+              "url": "https://t.co/bXPLFi118J"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "6635b2fcebd13c64"
+        },
+        "id": "1977597211346427956",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🇸🇬🥰～\n（人都回家了推还没发完）\n樟宜机场喵，喜欢有设计感的室内场景～尤其是天顶能透进自然光的这种…能让景物色彩鲜艳光影分明的感觉つ♡⊂\n还有到处都是绿油油的叶子…热带的植物拍出来特别绿- ̗̀ෆ( ˶'ᵕ'˶)ෆ ̖́- \n以及@ToshinoAyano请咱吃的 Cendol …椰糖甜喵甜，口感很独特的亚达子，好吃呜… https://t.co/bXPLFi118J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩子🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 软软的温顺小动物 | 社恐小透明 | 随时发作的中二病 | 会自觉抱住可爱的存在 | 天文/航空/航天/科幻/理工文史都会看看 | 认真观察有趣的世界 | 想要…专属于咱抱着的人 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2375,
+          "following_count": 3592,
+          "like_count": 6444,
+          "listed_count": 4,
+          "media_count": 88,
+          "tweet_count": 1045
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2010-06-16T09:46:30.000Z",
+        "description": "是涩涩雪糕哇！是椰子Potong！/神秘小蛋糕@SweetCream37012/不好好说话的私信会拉黑！/提问箱：https://t.co/Z6eakkatCP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 23,
+                "username": "SweetCream37012"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/toshinoayano",
+                "end": 80,
+                "expanded_url": "http://ngl.link/toshinoayano",
+                "start": 57,
+                "url": "https://t.co/Z6eakkatCP"
+              }
+            ]
+          }
+        },
+        "id": "156219202",
+        "location": "Singapore",
+        "name": "小雪糕🍦",
+        "pinned_tweet_id": "1974796763535122538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890028735317061632/5yyb6lQk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1892,
+          "following_count": 1759,
+          "like_count": 14880,
+          "listed_count": 7,
+          "media_count": 22,
+          "tweet_count": 6402
+        },
+        "username": "ToshinoAyano",
+        "verified": true
+      }
+    ]
+  }
+}

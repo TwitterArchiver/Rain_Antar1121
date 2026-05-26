@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1969046269965259057",
+    "created_at": "2025-09-20T12:06:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T13:06:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969372513387102584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1839830744316686336",
+          "start": 0,
+          "username": "shushuyun321"
+        },
+        {
+          "end": 22,
+          "id": "1073978763434545152",
+          "start": 14,
+          "username": "sotr233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969372513387102584",
+    "in_reply_to_user_id": "1839830744316686336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969344774462124451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shushuyun321 @sotr233 🤤哈啊哈啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1969046269965259057",
+        "created_at": "2025-09-20T12:06:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T13:06:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969372513387102584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1839830744316686336",
+              "start": 0,
+              "username": "shushuyun321"
+            },
+            {
+              "end": 22,
+              "id": "1073978763434545152",
+              "start": 14,
+              "username": "sotr233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969372513387102584",
+        "in_reply_to_user_id": "1839830744316686336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969344774462124451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shushuyun321 @sotr233 🤤哈啊哈啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839830744316686336",
+        "conversation_id": "1969046269965259057",
+        "created_at": "2025-09-20T10:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T11:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969344774462124451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 24,
+              "id": "1073978763434545152",
+              "start": 16,
+              "username": "sotr233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969344774462124451",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969308511591911624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 @sotr233 补药😰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～| 这一句用来提醒咱重新写Bio",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2226,
+          "following_count": 3344,
+          "like_count": 5965,
+          "listed_count": 4,
+          "media_count": 78,
+          "tweet_count": 973
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T00:53:37.000Z",
+        "description": "amab trans🏳️‍⚧️丨坐标魔都丨186/63丨无证含糖丨半炸柜 家长不管丨HRT:2017~2018 2025.3.21至今丨性取向正常🏳️‍🌈Pan丨同类互fo喵丨呜呜呜不要骂我qwq",
+        "id": "1839830744316686336",
+        "location": "🚪5201314",
+        "name": "芸舒🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926064456888360960/MAGwaW4g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 366,
+          "like_count": 384,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 1487
+        },
+        "username": "shushuyun321",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-15T16:31:05.000Z",
+        "description": "Stray birds of summer come to my window to sing and fly away / \n\n🌠 @Tsezzz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 67,
+                "username": "Tsezzz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kira.moe",
+                "end": 23,
+                "expanded_url": "http://kira.moe",
+                "start": 0,
+                "url": "https://t.co/sPyKfPWEIZ"
+              }
+            ]
+          }
+        },
+        "id": "1073978763434545152",
+        "location": "白沙地",
+        "name": "Sotr",
+        "pinned_tweet_id": "1956441571223842900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953535532128243712/5pjpFo0l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1011,
+          "following_count": 1570,
+          "like_count": 54196,
+          "listed_count": 9,
+          "media_count": 709,
+          "tweet_count": 3684
+        },
+        "url": "https://t.co/sPyKfPWEIZ",
+        "username": "sotr233",
+        "verified": false
+      }
+    ]
+  }
+}

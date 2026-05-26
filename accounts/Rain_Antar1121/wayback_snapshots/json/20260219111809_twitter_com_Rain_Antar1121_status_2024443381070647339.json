@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2024300310605549703",
+    "created_at": "2026-02-19T11:18:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T12:18:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024443381070647339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "982573829250727937",
+          "start": 0,
+          "username": "Nothing_poi8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024443381070647339",
+    "in_reply_to_user_id": "982573829250727937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024439892974153932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nothing_poi8 可是咱以为没餐，已经吃饱了呜）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2024300310605549703",
+        "created_at": "2026-02-19T11:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T12:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024443381070647339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "982573829250727937",
+              "start": 0,
+              "username": "Nothing_poi8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024443381070647339",
+        "in_reply_to_user_id": "982573829250727937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024439892974153932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nothing_poi8 可是咱以为没餐，已经吃饱了呜）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "982573829250727937",
+        "conversation_id": "2024300310605549703",
+        "created_at": "2026-02-19T11:04:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T12:04:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024439892974153932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024439892974153932",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024300310605549703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 晚上如果没吃饭的话没餐就很难受了x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的杂物 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3297,
+          "following_count": 4929,
+          "like_count": 9740,
+          "listed_count": 6,
+          "media_count": 140,
+          "tweet_count": 1765
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2018-04-07T11:00:31.000Z",
+        "description": "Have a happy life./压力不会转化成动力，压力只会转化成病历。\nEnglish ok 日本語は翻訳機を使います。\n很开心认识你/お会いできて光栄です。/It's a pleasure to meet you.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chibarika.site",
+                "end": 23,
+                "expanded_url": "https://chibarika.site",
+                "start": 0,
+                "url": "https://t.co/FReKuTpxpy"
+              }
+            ]
+          }
+        },
+        "id": "982573829250727937",
+        "location": "Tianjin",
+        "name": "千羽→上班",
+        "pinned_tweet_id": "1870784047674487059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009206487596593152/3yPRDqJY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 735,
+          "like_count": 8612,
+          "listed_count": 1,
+          "media_count": 291,
+          "tweet_count": 4160
+        },
+        "url": "https://t.co/FReKuTpxpy",
+        "username": "Nothing_poi8",
+        "verified": false
+      }
+    ]
+  }
+}

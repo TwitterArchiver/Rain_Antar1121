@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1924039888225341695",
+    "created_at": "2025-05-19T02:07:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T03:07:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924285663798874263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1798434424176226304",
+          "start": 0,
+          "username": "li8964you"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924285663798874263",
+    "in_reply_to_user_id": "1798434424176226304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924233166832672969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@li8964you 谢鸭～好鸭好鸭🦆˃ 𖥦 ˂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1924039888225341695",
+        "created_at": "2025-05-19T02:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T03:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924285663798874263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1798434424176226304",
+              "start": 0,
+              "username": "li8964you"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924285663798874263",
+        "in_reply_to_user_id": "1798434424176226304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924233166832672969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@li8964you 谢鸭～好鸭好鸭🦆˃ 𖥦 ˂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798434424176226304",
+        "conversation_id": "1924039888225341695",
+        "created_at": "2025-05-18T22:38:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T23:38:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924233166832672969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924233166832672969",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924039888225341695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 祝你开心🦆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 这几个字放这里用来占位♡♡tivjgfoajzb | 同类互fo喵 | 贴贴看到这里的每一只小可爱～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1919740598187147331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910722822059810817/tWPhmxtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764,
+          "following_count": 1182,
+          "like_count": 1571,
+          "listed_count": 2,
+          "media_count": 17,
+          "tweet_count": 374
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-05T19:19:23.000Z",
+        "description": "殷商幽靈\n他/it 大概是非二元",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuqizai.bsky.social",
+                "end": 23,
+                "expanded_url": "http://zhuqizai.bsky.social",
+                "start": 0,
+                "url": "https://t.co/djjtvHtFuk"
+              }
+            ]
+          }
+        },
+        "id": "1798434424176226304",
+        "location": "不在这里",
+        "name": "離遊🏳️‍⚧️",
+        "pinned_tweet_id": "1804539852467356094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920636124722065408/3kx6w4Ac_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 393,
+          "like_count": 24501,
+          "listed_count": 2,
+          "media_count": 140,
+          "tweet_count": 2308
+        },
+        "url": "https://t.co/djjtvHtFuk",
+        "username": "li8964you",
+        "verified": false
+      }
+    ]
+  }
+}

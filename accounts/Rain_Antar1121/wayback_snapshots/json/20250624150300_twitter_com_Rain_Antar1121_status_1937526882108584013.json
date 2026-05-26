@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1937486919593779494",
+    "created_at": "2025-06-24T15:03:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T16:03:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937526882108584013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1934723202158395393",
+          "start": 0,
+          "username": "chenkeer070427"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937526882108584013",
+    "in_reply_to_user_id": "1934723202158395393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937486919593779494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenkeer070427 恭喜恭喜恭喜恭喜～🥳🥳🥳\n很厉害呢～(♡&gt;𖥦&lt;)/♥\n祝泥前程似锦喵🎉🎉🎉～❛˓◞˂̵✧\n\n另外，呜呜，也许不该多说一句，对不起…能考到这个分的脑子绝对不该天真到去圆角，绝对不…无论遇到什么情况都会有更好的办法呀，毕竟你自己的能力都摆在那里了…\n\n抱住你…爱不要这么找，希望泥能有更好的未来…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1696,
+        "media_key": "3_1937486915844079616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuNWFa_agAAu5OC.jpg",
+        "width": 1199
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1937486919593779494",
+        "created_at": "2025-06-24T15:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T16:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937526882108584013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1934723202158395393",
+              "start": 0,
+              "username": "chenkeer070427"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937526882108584013",
+        "in_reply_to_user_id": "1934723202158395393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937486919593779494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenkeer070427 恭喜恭喜恭喜恭喜～🥳🥳🥳\n很厉害呢～(♡&gt;𖥦&lt;)/♥\n祝泥前程似锦喵🎉🎉🎉～❛˓◞˂̵✧\n\n另外，呜呜，也许不该多说一句，对不起…能考到这个分的脑子绝对不该天真到去圆角，绝对不…无论遇到什么情况都会有更好的办法呀，毕竟你自己的能力都摆在那里了…\n\n抱住你…爱不要这么找，希望泥能有更好的未来…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937486915844079616"
+          ]
+        },
+        "author_id": "1934723202158395393",
+        "conversation_id": "1937486919593779494",
+        "created_at": "2025-06-24T12:24:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T13:24:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937486919593779494"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 101,
+              "start": 98,
+              "tag": "圆角"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1NqPC1rsiM",
+              "end": 151,
+              "expanded_url": "https://x.com/chenkeer070427/status/1937486919593779494/photo/1",
+              "media_key": "3_1937486915844079616",
+              "start": 128,
+              "url": "https://t.co/1NqPC1rsiM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937486919593779494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 480,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "咪哇哇哇哇！大家快看快看～！！！\n比小兔高三最高分（592）～～～高了43分呢！！！！！\n635唔啊啊啊啊！\n厉害！好棒！恭喜！太可爱了！！！哼～小兔我也太强惹～～～qwq\n（咪咪咪大家快来找我 #圆角 呀，就当是给我的奖励吧⌯&gt;ᴗo⌯ .ᐟ.ᐟ） https://t.co/1NqPC1rsiM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1919740598187147331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910722822059810817/tWPhmxtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1506,
+          "following_count": 2250,
+          "like_count": 3883,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 644
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-16T21:23:00.000Z",
+        "description": "07，mtf，171cm-53kg（在减肥了awa）/娇郁系，是地雷女，偏M/❤️想被爱呀想被爱❤️/极端社恐但粘人/有一些精神方面的问题，我会od自残哟（对不起π_π）/想成为天使，想爱着每一个人/最后欢迎同类互fo互转哦，一起萌萌的//🚪88/188/288，人在 #南京 ，圆角练习ing……",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 138,
+                "start": 135,
+                "tag": "南京"
+              }
+            ]
+          }
+        },
+        "id": "1934723202158395393",
+        "location": "江浙沪",
+        "name": "🎀小兔软软🎀ちゃん～🏳️‍⚧️",
+        "pinned_tweet_id": "1936401224443818363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934726752544411650/Ptiefcde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 18,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 48
+        },
+        "username": "chenkeer070427",
+        "verified": false
+      }
+    ]
+  }
+}

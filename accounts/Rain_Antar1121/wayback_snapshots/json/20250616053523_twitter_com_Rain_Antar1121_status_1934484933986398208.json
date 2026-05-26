@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1934484553139417128",
+    "created_at": "2025-06-16T05:35:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T06:35:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934484933986398208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1385659420722487300",
+          "start": 0,
+          "username": "huahuachaotian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934484933986398208",
+    "in_reply_to_user_id": "1385659420722487300",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934484553139417128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huahuachaotian 喵呜哇～贴紧紧✩*.˶˃ ᵕ ˂˵ .*❤️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1934484548370468864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtircokakAA90tH.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1934484553139417128",
+        "created_at": "2025-06-16T05:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T06:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934484933986398208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1385659420722487300",
+              "start": 0,
+              "username": "huahuachaotian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934484933986398208",
+        "in_reply_to_user_id": "1385659420722487300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934484553139417128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huahuachaotian 喵呜哇～贴紧紧✩*.˶˃ ᵕ ˂˵ .*❤️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934484548370468864"
+          ]
+        },
+        "author_id": "1385659420722487300",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1934484553139417128",
+        "created_at": "2025-06-16T05:33:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T06:33:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934484553139417128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinityweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1934202099073753088/SQcqXQHc?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1934202099073753088/SQcqXQHc?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/AxNvIv7x4W"
+            },
+            {
+              "display_url": "pic.x.com/HFYCmkerns",
+              "end": 64,
+              "expanded_url": "https://x.com/huahuachaotian/status/1934484553139417128/photo/1",
+              "media_key": "3_1934484548370468864",
+              "start": 41,
+              "url": "https://t.co/HFYCmkerns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934484553139417128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/AxNvIv7x4W https://t.co/HFYCmkerns"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1919740598187147331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910722822059810817/tWPhmxtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1382,
+          "following_count": 2058,
+          "like_count": 3412,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 574
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-23T18:18:54.000Z",
+        "description": "一个有超强少女心的可爱无性恋女孩子，梦想就是变甜变可爱，不要问性别问就是女孩子，我天赋党/年龄党/家长党/家庭党/中奖党（五党不沾一点的卑微xyn🤕🤕），持证含糖。手术什么的不如自己来，自己动手丰衣足食，利多卡因是我最后的倔强。",
+        "id": "1385659420722487300",
+        "name": "华华超甜吖🍥（抽象玩意）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721337619811078144/P-2abQnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 97,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 108
+        },
+        "username": "huahuachaotian",
+        "verified": false
+      }
+    ]
+  }
+}

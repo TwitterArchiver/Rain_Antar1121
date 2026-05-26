@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1967579163407347818",
+    "created_at": "2025-09-15T13:30:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T14:30:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967581860365767068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1531432040909918209",
+          "start": 0,
+          "username": "Ethanwu1234"
+        },
+        {
+          "end": 24,
+          "id": "1552069424043085824",
+          "start": 13,
+          "username": "tirito1154"
+        },
+        {
+          "end": 37,
+          "id": "1945200532471341056",
+          "start": 25,
+          "username": "LuLuCapcake"
+        },
+        {
+          "end": 50,
+          "id": "1666402694494560256",
+          "start": 38,
+          "username": "Kafu_Chiino"
+        },
+        {
+          "end": 67,
+          "id": "1637259196524789760",
+          "start": 51,
+          "username": "2023Hanliw19700"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967581860365767068",
+    "in_reply_to_user_id": "1531432040909918209",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967579163407347818",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ethanwu1234 @tirito1154 @LuLuCapcake @Kafu_Chiino @2023Hanliw19700 喵耶喵耶喵～૮₍❤️&gt;𖥦&lt;₎ა～贴紧紧w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_1967579158781075456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G04-0fqboAAs3y5.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1967579163407347818",
+        "created_at": "2025-09-15T13:30:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T14:30:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967581860365767068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1531432040909918209",
+              "start": 0,
+              "username": "Ethanwu1234"
+            },
+            {
+              "end": 24,
+              "id": "1552069424043085824",
+              "start": 13,
+              "username": "tirito1154"
+            },
+            {
+              "end": 37,
+              "id": "1945200532471341056",
+              "start": 25,
+              "username": "LuLuCapcake"
+            },
+            {
+              "end": 50,
+              "id": "1666402694494560256",
+              "start": 38,
+              "username": "Kafu_Chiino"
+            },
+            {
+              "end": 67,
+              "id": "1637259196524789760",
+              "start": 51,
+              "username": "2023Hanliw19700"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967581860365767068",
+        "in_reply_to_user_id": "1531432040909918209",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967579163407347818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ethanwu1234 @tirito1154 @LuLuCapcake @Kafu_Chiino @2023Hanliw19700 喵耶喵耶喵～૮₍❤️&gt;𖥦&lt;₎ა～贴紧紧w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967579158781075456"
+          ]
+        },
+        "author_id": "1531432040909918209",
+        "conversation_id": "1967579163407347818",
+        "created_at": "2025-09-15T13:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T14:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967579163407347818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 33,
+              "id": "1552069424043085824",
+              "start": 22,
+              "username": "tirito1154"
+            },
+            {
+              "end": 46,
+              "id": "1945200532471341056",
+              "start": 34,
+              "username": "LuLuCapcake"
+            },
+            {
+              "end": 68,
+              "id": "1894461745277931524",
+              "start": 53,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 87,
+              "id": "1666402694494560256",
+              "start": 75,
+              "username": "Kafu_Chiino"
+            },
+            {
+              "end": 104,
+              "id": "1637259196524789760",
+              "start": 88,
+              "username": "2023Hanliw19700"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infintytweet.me/family-tree",
+              "end": 132,
+              "expanded_url": "https://infintytweet.me/family-tree",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1965600774551207938/KGGM8J9u?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1965600774551207938/KGGM8J9u?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 109,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infintytweet.me/family-tree",
+              "url": "https://t.co/JzsiDcvKMV"
+            },
+            {
+              "display_url": "pic.x.com/NmrUvEpDtM",
+              "end": 156,
+              "expanded_url": "https://x.com/Ethanwu1234/status/1967579163407347818/photo/1",
+              "media_key": "3_1967579158781075456",
+              "start": 133,
+              "url": "https://t.co/NmrUvEpDtM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967579163407347818",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @tirito1154 @LuLuCapcake\n👰 配偶: @Rain_Antar1121\n👶 孩子: @Kafu_Chiino @2023Hanliw19700\n\n➡️ https://t.co/JzsiDcvKMV https://t.co/NmrUvEpDtM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～| 这一句用来提醒咱重新写Bio",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2211,
+          "following_count": 3290,
+          "like_count": 5880,
+          "listed_count": 4,
+          "media_count": 78,
+          "tweet_count": 958
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-31T00:27:23.000Z",
+        "description": "09 ｜双｜男",
+        "id": "1531432040909918209",
+        "name": "刺猬QWQ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965090807179821056/8o1Rm8w7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 129,
+          "like_count": 8814,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 216
+        },
+        "username": "Ethanwu1234",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-26T23:13:24.000Z",
+        "description": "老公@baigeinblzil",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "baigeinblzil"
+              }
+            ]
+          }
+        },
+        "id": "1552069424043085824",
+        "location": "广东省, 深圳市 龙岗区",
+        "name": "桉瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832764706228187136/mpqnmKQb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 244,
+          "like_count": 2985,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 523
+        },
+        "username": "tirito1154",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-15T19:15:31.000Z",
+        "description": "我会坚持走我自己的道路下去.....无论发生什么\n\n生产日期2008-03-08 HRT2025-07-05 什么技能也不会 初中辍学 正在努力攒钱 25岁之前完成srs",
+        "id": "1945200532471341056",
+        "location": "你的心里",
+        "name": "事露露酱呀~🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1964440373432111408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957544090175959041/kWXKF_gl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 282,
+          "like_count": 309,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 263
+        },
+        "username": "LuLuCapcake",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-07T11:13:17.000Z",
+        "description": "",
+        "id": "1666402694494560256",
+        "name": "CHINO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1666402947209793537/jb9jjts2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 132,
+          "like_count": 4809,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 293
+        },
+        "username": "Kafu_Chiino",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-19T01:06:41.000Z",
+        "description": "INFP🧐",
+        "id": "1637259196524789760",
+        "location": "台湾",
+        "name": "小蘑菇.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951736338832826368/QekZ8OgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 51,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 97
+        },
+        "username": "2023Hanliw19700",
+        "verified": false
+      }
+    ]
+  }
+}

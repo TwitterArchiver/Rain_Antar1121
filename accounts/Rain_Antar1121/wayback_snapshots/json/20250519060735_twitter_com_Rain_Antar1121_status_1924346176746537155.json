@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1924344905956282857",
+    "created_at": "2025-05-19T06:07:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T07:07:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924346176746537155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1357178963349680129",
+          "start": 0,
+          "username": "C_Nizik"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924346176746537155",
+    "in_reply_to_user_id": "1357178963349680129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924344905956282857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@C_Nizik ☀️是呜…补想去，热化惹😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1924344905956282857",
+        "created_at": "2025-05-19T06:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T07:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924346176746537155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1357178963349680129",
+              "start": 0,
+              "username": "C_Nizik"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924346176746537155",
+        "in_reply_to_user_id": "1357178963349680129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924344905956282857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@C_Nizik ☀️是呜…补想去，热化惹😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1357178963349680129",
+        "conversation_id": "1924344905956282857",
+        "created_at": "2025-05-19T06:02:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T07:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924344905956282857"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1924344905956282857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要晒昏了，我不要去上学☀️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 这几个字放这里用来占位♡♡tivjgfoajzb | 同类互fo喵 | 贴贴看到这里的每一只小可爱～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1919740598187147331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910722822059810817/tWPhmxtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 1193,
+          "like_count": 1613,
+          "listed_count": 2,
+          "media_count": 17,
+          "tweet_count": 381
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-04T04:07:52.000Z",
+        "description": "咚咚咚（敲），大笨蛋你在里面吗？让我也一起进去吧😋",
+        "id": "1357178963349680129",
+        "location": "距你一扇门的距离",
+        "name": "可可🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800865980572463105/cSQxsZuL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 115,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 76
+        },
+        "username": "C_Nizik",
+        "verified": false
+      }
+    ]
+  }
+}

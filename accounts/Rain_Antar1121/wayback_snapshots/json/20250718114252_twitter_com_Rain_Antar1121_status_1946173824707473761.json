@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1944899823166963725",
+    "created_at": "2025-07-18T11:42:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T12:42:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946173824707473761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1869440990970556416",
+          "start": 0,
+          "username": "SnowfairySerina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946173824707473761",
+    "in_reply_to_user_id": "1869440990970556416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945822070647964069",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SnowfairySerina 揉揉～很近又有体积的云团团最好看啦˃ 𖥦 ˂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_1945821974061543424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwDyxqgWcAAcWCa.jpg",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "media_key": "3_1945821973994717184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwDyxqQawAAxKcw.jpg",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "media_key": "3_1945821974921445376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwDyxttXgAA4KG9.jpg",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "media_key": "3_1945821976527847424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwDyxzsXQAAay7n.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1944899823166963725",
+        "created_at": "2025-07-18T11:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T12:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946173824707473761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1869440990970556416",
+              "start": 0,
+              "username": "SnowfairySerina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946173824707473761",
+        "in_reply_to_user_id": "1869440990970556416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945822070647964069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnowfairySerina 揉揉～很近又有体积的云团团最好看啦˃ 𖥦 ˂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945821974061543424",
+            "3_1945821973994717184",
+            "3_1945821974921445376",
+            "3_1945821976527847424"
+          ]
+        },
+        "author_id": "1869440990970556416",
+        "conversation_id": "1944899823166963725",
+        "created_at": "2025-07-17T12:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T13:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945822070647964069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2oIqHZWGay",
+              "end": 45,
+              "expanded_url": "https://x.com/SnowfairySerina/status/1945822070647964069/photo/1",
+              "media_key": "3_1945821974061543424",
+              "start": 22,
+              "url": "https://t.co/2oIqHZWGay"
+            },
+            {
+              "display_url": "pic.x.com/2oIqHZWGay",
+              "end": 45,
+              "expanded_url": "https://x.com/SnowfairySerina/status/1945822070647964069/photo/1",
+              "media_key": "3_1945821973994717184",
+              "start": 22,
+              "url": "https://t.co/2oIqHZWGay"
+            },
+            {
+              "display_url": "pic.x.com/2oIqHZWGay",
+              "end": 45,
+              "expanded_url": "https://x.com/SnowfairySerina/status/1945822070647964069/photo/1",
+              "media_key": "3_1945821974921445376",
+              "start": 22,
+              "url": "https://t.co/2oIqHZWGay"
+            },
+            {
+              "display_url": "pic.x.com/2oIqHZWGay",
+              "end": 45,
+              "expanded_url": "https://x.com/SnowfairySerina/status/1945822070647964069/photo/1",
+              "media_key": "3_1945821976527847424",
+              "start": 22,
+              "url": "https://t.co/2oIqHZWGay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945822070647964069",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944899823166963725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 悄悄摸摸头 https://t.co/2oIqHZWGay"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1919740598187147331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1823,
+          "following_count": 2680,
+          "like_count": 4673,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 774
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-18T17:54:48.000Z",
+        "description": "福冈在住/铁路吟游诗人/mtf//我是一颗星，4亿岁了/象征自由开放包容团结的深空四角星旗必将走向世界///\n我的柚柚猫咪是最可爱的，我永远爱大猫咪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yaokuanguniver…",
+                "end": 23,
+                "expanded_url": "https://t.me/yaokuanguniverse",
+                "start": 0,
+                "url": "https://t.co/C5JIQAhDNj"
+              }
+            ]
+          }
+        },
+        "id": "1869440990970556416",
+        "location": "星空文明摄平星系云屏市北云区星辰官邸",
+        "name": "🌈⛩️雪原剑仙🏳️‍⚧️✨（星空驻地观察员）",
+        "pinned_tweet_id": "1945808874591895936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936323099076460544/Q47kACZn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 564,
+          "like_count": 1515,
+          "listed_count": 2,
+          "media_count": 260,
+          "tweet_count": 1874
+        },
+        "url": "https://t.co/C5JIQAhDNj",
+        "username": "SnowfairySerina",
+        "verified": false
+      }
+    ]
+  }
+}

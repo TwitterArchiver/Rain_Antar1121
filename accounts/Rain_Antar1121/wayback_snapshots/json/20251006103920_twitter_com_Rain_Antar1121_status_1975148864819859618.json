@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975148853419728896",
+        "3_1975148833920475136",
+        "3_1975148846658580481",
+        "3_1975148842522906624"
+      ]
+    },
+    "author_id": "1894461745277931524",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1975148864819859618",
+    "created_at": "2025-10-06T10:39:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T11:39:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975148864819859618"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/C9AvLdaU2F",
+          "end": 179,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/1975148864819859618/photo/1",
+          "media_key": "3_1975148853419728896",
+          "start": 156,
+          "url": "https://t.co/C9AvLdaU2F"
+        },
+        {
+          "display_url": "pic.x.com/C9AvLdaU2F",
+          "end": 179,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/1975148864819859618/photo/1",
+          "media_key": "3_1975148833920475136",
+          "start": 156,
+          "url": "https://t.co/C9AvLdaU2F"
+        },
+        {
+          "display_url": "pic.x.com/C9AvLdaU2F",
+          "end": 179,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/1975148864819859618/photo/1",
+          "media_key": "3_1975148846658580481",
+          "start": 156,
+          "url": "https://t.co/C9AvLdaU2F"
+        },
+        {
+          "display_url": "pic.x.com/C9AvLdaU2F",
+          "end": 179,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/1975148864819859618/photo/1",
+          "media_key": "3_1975148842522906624",
+          "start": 156,
+          "url": "https://t.co/C9AvLdaU2F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975148864819859618",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是一条在南海上的万米高空发的推喵～☆～（ゝ。∂\n主包在SQ831航班上飞新加坡🇸🇬w～第一次坐新加坡航空和B777-300ER咪，载咱的是9V-SNC小可爱\n而且终于又不用挂梯子啦❛˓◞˂̵✧\n新航服务真好呜…饭也好吃…吃过最好吃的飞机餐，🤤\n呜嘿大家还有一个小时可以在fr24上视奸主包哦\n (◍＞◡＜◍) https://t.co/C9AvLdaU2F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1975148853419728896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2kjatqaYAAnxHf.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1975148833920475136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2kjZlBbYAAkicT.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1975148846658580481",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2kjaUebcAEpdRj.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1975148842522906624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2kjaFEaEAA36Xe.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975148853419728896",
+            "3_1975148833920475136",
+            "3_1975148846658580481",
+            "3_1975148842522906624"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1975148864819859618",
+        "created_at": "2025-10-06T10:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T11:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975148864819859618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C9AvLdaU2F",
+              "end": 179,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/1975148864819859618/photo/1",
+              "media_key": "3_1975148853419728896",
+              "start": 156,
+              "url": "https://t.co/C9AvLdaU2F"
+            },
+            {
+              "display_url": "pic.x.com/C9AvLdaU2F",
+              "end": 179,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/1975148864819859618/photo/1",
+              "media_key": "3_1975148833920475136",
+              "start": 156,
+              "url": "https://t.co/C9AvLdaU2F"
+            },
+            {
+              "display_url": "pic.x.com/C9AvLdaU2F",
+              "end": 179,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/1975148864819859618/photo/1",
+              "media_key": "3_1975148846658580481",
+              "start": 156,
+              "url": "https://t.co/C9AvLdaU2F"
+            },
+            {
+              "display_url": "pic.x.com/C9AvLdaU2F",
+              "end": 179,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/1975148864819859618/photo/1",
+              "media_key": "3_1975148842522906624",
+              "start": 156,
+              "url": "https://t.co/C9AvLdaU2F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975148864819859618",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是一条在南海上的万米高空发的推喵～☆～（ゝ。∂\n主包在SQ831航班上飞新加坡🇸🇬w～第一次坐新加坡航空和B777-300ER咪，载咱的是9V-SNC小可爱\n而且终于又不用挂梯子啦❛˓◞˂̵✧\n新航服务真好呜…饭也好吃…吃过最好吃的飞机餐，🤤\n呜嘿大家还有一个小时可以在fr24上视奸主包哦\n (◍＞◡＜◍) https://t.co/C9AvLdaU2F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩子🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 软软的温顺小动物 | 社恐小透明 | 随时发作的中二病 | 会自觉抱住可爱的存在 | 天文/航空/航天/科幻/理工文史各种杂货 | 认真观察有趣的世界 | 想要…专属于咱抱着的人 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2324,
+          "following_count": 3515,
+          "like_count": 6210,
+          "listed_count": 4,
+          "media_count": 79,
+          "tweet_count": 1004
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      }
+    ]
+  }
+}

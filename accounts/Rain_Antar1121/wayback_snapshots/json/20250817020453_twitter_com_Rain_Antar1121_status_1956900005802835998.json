@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1956378474308112672",
+    "created_at": "2025-08-17T02:04:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T03:04:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956900005802835998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1495230648897859584",
+          "start": 0,
+          "username": "xiaocanghuili"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956900005802835998",
+    "in_reply_to_user_id": "1495230648897859584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956883700463099987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaocanghuili 😭😭😭坏坏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1956378474308112672",
+        "created_at": "2025-08-17T02:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T03:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956900005802835998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1495230648897859584",
+              "start": 0,
+              "username": "xiaocanghuili"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956900005802835998",
+        "in_reply_to_user_id": "1495230648897859584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956883700463099987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaocanghuili 😭😭😭坏坏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495230648897859584",
+        "conversation_id": "1956378474308112672",
+        "created_at": "2025-08-17T01:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T02:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956883700463099987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956883700463099987",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956378474308112672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 有反跨小团体一直在涂，我画的跨旗也被涂掉了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2053,
+          "following_count": 3004,
+          "like_count": 5276,
+          "listed_count": 3,
+          "media_count": 70,
+          "tweet_count": 874
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-20T02:55:57.000Z",
+        "description": "我说不要",
+        "id": "1495230648897859584",
+        "name": "小仓绘里",
+        "pinned_tweet_id": "1956575705141325977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1495230718674227202/0vRC_mZd_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 415,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 37
+        },
+        "username": "xiaocanghuili",
+        "verified": false
+      }
+    ]
+  }
+}

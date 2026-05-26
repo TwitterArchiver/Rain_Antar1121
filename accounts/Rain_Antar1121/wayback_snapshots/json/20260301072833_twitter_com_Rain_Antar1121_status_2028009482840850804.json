@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2027987374710620462",
+    "created_at": "2026-03-01T07:28:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T08:28:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028009482840850804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1791886253547233280",
+          "start": 0,
+          "username": "InFrieren"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028009482840850804",
+    "in_reply_to_user_id": "1791886253547233280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028008946053878040",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@InFrieren 很合理诶…明年咱也想去新加坡看看年味(⁠*⁠´⁠ω⁠｀⁠*⁠)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2027987374710620462",
+        "created_at": "2026-03-01T07:28:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T08:28:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028009482840850804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1791886253547233280",
+              "start": 0,
+              "username": "InFrieren"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028009482840850804",
+        "in_reply_to_user_id": "1791886253547233280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028008946053878040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@InFrieren 很合理诶…明年咱也想去新加坡看看年味(⁠*⁠´⁠ω⁠｀⁠*⁠)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791886253547233280",
+        "conversation_id": "2027987374710620462",
+        "created_at": "2026-03-01T07:26:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T08:26:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028008946053878040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028008946053878040",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027987374710620462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 在新加坡过的年，感觉那里的年味也比国内更浓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的杂物 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3372,
+          "following_count": 5056,
+          "like_count": 10175,
+          "listed_count": 7,
+          "media_count": 156,
+          "tweet_count": 1903
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-18T17:39:40.000Z",
+        "description": "",
+        "id": "1791886253547233280",
+        "location": "Cathay",
+        "name": "Frieren",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889610423336574976/StRXSTTt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 184,
+          "like_count": 1896,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 191
+        },
+        "username": "InFrieren",
+        "verified": false
+      }
+    ]
+  }
+}

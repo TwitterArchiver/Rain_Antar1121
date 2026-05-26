@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1976224583679344964",
+    "created_at": "2025-10-09T09:53:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T10:53:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976224583679344964"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ToshinoAyano/s…",
+          "end": 81,
+          "expanded_url": "https://twitter.com/ToshinoAyano/status/1976222630358454383",
+          "start": 58,
+          "url": "https://t.co/gwE0OPjV03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976224583679344964",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976222630358454383",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "抱抱抱抱抱雪糕糕～亲亲软软贴贴舔咪～🥰🥰🥰\n在🇸🇬能有可以抱的人真的好幸运啊…超开心w～\n૮ ´͈ ᗜ `͈ ა♡ https://t.co/gwE0OPjV03"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1976222623152607232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2z0AVoaEAAgSx2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1976224583679344964",
+        "created_at": "2025-10-09T09:53:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T10:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976224583679344964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ToshinoAyano/s…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/ToshinoAyano/status/1976222630358454383",
+              "start": 58,
+              "url": "https://t.co/gwE0OPjV03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976224583679344964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976222630358454383",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抱抱抱抱抱雪糕糕～亲亲软软贴贴舔咪～🥰🥰🥰\n在🇸🇬能有可以抱的人真的好幸运啊…超开心w～\n૮ ´͈ ᗜ `͈ ა♡ https://t.co/gwE0OPjV03"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976222623152607232"
+          ]
+        },
+        "author_id": "156219202",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1976222630358454383",
+        "created_at": "2025-10-09T09:46:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T10:46:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976222630358454383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 34,
+              "id": "1894461745277931524",
+              "start": 19,
+              "username": "Rain_Antar1121"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EbsSj2pWYg",
+              "end": 58,
+              "expanded_url": "https://x.com/ToshinoAyano/status/1976222630358454383/photo/1",
+              "media_key": "3_1976222623152607232",
+              "start": 35,
+              "url": "https://t.co/EbsSj2pWYg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976222630358454383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小瑞瑞来到了椰子雪糕的国度！欢迎哇！\n@Rain_Antar1121 https://t.co/EbsSj2pWYg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩子🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 软软的温顺小动物 | 社恐小透明 | 随时发作的中二病 | 会自觉抱住可爱的存在 | 天文/航空/航天/科幻/理工文史各种杂货 | 认真观察有趣的世界 | 想要…专属于咱抱着的人 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2334,
+          "following_count": 3513,
+          "like_count": 6262,
+          "listed_count": 4,
+          "media_count": 82,
+          "tweet_count": 1019
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2010-06-16T09:46:30.000Z",
+        "description": "是涩涩雪糕哇！是椰子Potong！/神秘小蛋糕@SweetCream37012/不好好说话的私信会拉黑！/提问箱：https://t.co/Z6eakkatCP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 23,
+                "username": "SweetCream37012"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/toshinoayano",
+                "end": 80,
+                "expanded_url": "http://ngl.link/toshinoayano",
+                "start": 57,
+                "url": "https://t.co/Z6eakkatCP"
+              }
+            ]
+          }
+        },
+        "id": "156219202",
+        "location": "Singapore",
+        "name": "小雪糕🍦",
+        "pinned_tweet_id": "1974796763535122538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890028735317061632/5yyb6lQk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1859,
+          "following_count": 1751,
+          "like_count": 14775,
+          "listed_count": 7,
+          "media_count": 20,
+          "tweet_count": 6329
+        },
+        "username": "ToshinoAyano",
+        "verified": true
+      }
+    ]
+  }
+}

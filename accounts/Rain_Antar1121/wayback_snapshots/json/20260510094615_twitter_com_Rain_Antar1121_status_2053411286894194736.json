@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2053410479826235814",
+    "created_at": "2026-05-10T09:46:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T10:46:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053411286894194736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1378376814389694468",
+          "start": 0,
+          "username": "McFlurry_2001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053411286894194736",
+    "in_reply_to_user_id": "1378376814389694468",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053410479826235814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@McFlurry_2001 唔唔不至于（）只是想找老朋友们贴贴了嘛🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2053410479826235814",
+        "created_at": "2026-05-10T09:46:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T10:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053411286894194736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1378376814389694468",
+              "start": 0,
+              "username": "McFlurry_2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053411286894194736",
+        "in_reply_to_user_id": "1378376814389694468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053410479826235814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@McFlurry_2001 唔唔不至于（）只是想找老朋友们贴贴了嘛🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1378376814389694468",
+        "conversation_id": "2053410479826235814",
+        "created_at": "2026-05-10T09:43:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T10:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053410479826235814"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rain_Antar1121…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Rain_Antar1121/status/2053052810821066991",
+              "start": 8,
+              "url": "https://t.co/qqXCA0w8YY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053410479826235814",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053052810821066991",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可汗大点兵，， https://t.co/qqXCA0w8YY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042559105353842688/Hs-yW50g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4070,
+          "following_count": 6051,
+          "like_count": 13898,
+          "listed_count": 10,
+          "media_count": 260,
+          "tweet_count": 3056
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-03T16:00:47.000Z",
+        "description": "",
+        "id": "1378376814389694468",
+        "name": "β Cygni",
+        "pinned_tweet_id": "2050730304349024739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051729004512862208/hZ6-PUyz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 7356,
+          "like_count": 156583,
+          "listed_count": 3,
+          "media_count": 908,
+          "tweet_count": 26492
+        },
+        "username": "McFlurry_2001",
+        "verified": false
+      }
+    ]
+  }
+}

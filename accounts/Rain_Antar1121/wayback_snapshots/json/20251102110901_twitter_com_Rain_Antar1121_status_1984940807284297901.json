@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1984670524526731467",
+    "created_at": "2025-11-02T11:09:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T12:09:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984940807284297901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1918831724898951168",
+          "start": 0,
+          "username": "XYN1789927"
+        },
+        {
+          "end": 24,
+          "id": "1744316513291747328",
+          "start": 12,
+          "username": "shuifenziya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984940807284297901",
+    "in_reply_to_user_id": "1918831724898951168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984897763381772551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XYN1789927 @shuifenziya (づ◡ど)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1984670524526731467",
+        "created_at": "2025-11-02T11:09:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T12:09:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984940807284297901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1918831724898951168",
+              "start": 0,
+              "username": "XYN1789927"
+            },
+            {
+              "end": 24,
+              "id": "1744316513291747328",
+              "start": 12,
+              "username": "shuifenziya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984940807284297901",
+        "in_reply_to_user_id": "1918831724898951168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984897763381772551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XYN1789927 @shuifenziya (づ◡ど)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918831724898951168",
+        "conversation_id": "1984670524526731467",
+        "created_at": "2025-11-02T08:17:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T09:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984897763381772551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 28,
+              "id": "1744316513291747328",
+              "start": 16,
+              "username": "shuifenziya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984897763381772551",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984817162109046808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 @shuifenziya 可恶笨蛋情侣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩子🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 软软的温顺小动物 | 社恐小透明 | 随时发作的中二病 | 会自觉抱住可爱的存在 | 天文/航空/航天/科幻/理工文史都会看看 | 认真观察有趣的世界 | 想要…专属于咱抱着的人 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2478,
+          "following_count": 3786,
+          "like_count": 6865,
+          "listed_count": 5,
+          "media_count": 91,
+          "tweet_count": 1117
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T00:55:16.000Z",
+        "description": "笨蛋mtf一只（），有时易燃易爆炸",
+        "id": "1918831724898951168",
+        "location": "雌二醇星球",
+        "name": "萤火虫二号机",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918900774639398912/vHSj0QaK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 131,
+          "like_count": 7752,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1825
+        },
+        "username": "XYN1789927",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-08T11:14:12.000Z",
+        "description": "我...我....是水分子呀/08年17岁/休学中ing.../无证🍥hrt6个月/💥已炸柜/167cm60kg/坐标广东清远/负能/🚪35/不接线下/是条杂鱼🐟~~/SAD/互fo/喜欢六花和六花/不鉴证/小鸟游六花单推/",
+        "id": "1744316513291747328",
+        "location": "我在二次元",
+        "name": "水分子🍥（雌堕版...♡）",
+        "pinned_tweet_id": "1976921242499531228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934294610022678528/3f0NJBAR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1263,
+          "following_count": 846,
+          "like_count": 21721,
+          "listed_count": 3,
+          "media_count": 201,
+          "tweet_count": 1619
+        },
+        "username": "shuifenziya",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1939025541623095614",
+    "created_at": "2025-06-29T15:34:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T16:34:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939346750592164111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1653477927865171968",
+          "start": 0,
+          "username": "qqnjjwb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939346750592164111",
+    "in_reply_to_user_id": "1653477927865171968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 54,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939025541623095614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qqnjjwb 生日快乐耶🎂🎉～咪～🥳"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 787,
+        "media_key": "3_1939025538179297280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GujNdB2WcAAnBTr.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1939025541623095614",
+        "created_at": "2025-06-29T15:34:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T16:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939346750592164111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1653477927865171968",
+              "start": 0,
+              "username": "qqnjjwb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939346750592164111",
+        "in_reply_to_user_id": "1653477927865171968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939025541623095614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qqnjjwb 生日快乐耶🎂🎉～咪～🥳"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939025538179297280"
+          ]
+        },
+        "author_id": "1653477927865171968",
+        "conversation_id": "1939025541623095614",
+        "created_at": "2025-06-28T18:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T19:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939025541623095614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4lhJWD311z",
+              "end": 58,
+              "expanded_url": "https://x.com/qqnjjwb/status/1939025541623095614/photo/1",
+              "media_key": "3_1939025538179297280",
+              "start": 35,
+              "url": "https://t.co/4lhJWD311z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939025541623095614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 644,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对不起...能当误你们几秒钟祝我生日快乐嘛？........谢谢你们 https://t.co/4lhJWD311z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1919740598187147331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910722822059810817/tWPhmxtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1640,
+          "following_count": 2373,
+          "like_count": 4168,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 691
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-02T19:14:02.000Z",
+        "description": "06/躯体化/双向/无证含🍬/内向/情绪崩溃/先这样吧。\n对不起...给大家带来了负面情绪...都是我不好\n🤔不知道活着的意义，但依旧在活着的道路上。",
+        "id": "1653477927865171968",
+        "name": "柯楠🍥",
+        "pinned_tweet_id": "1939025541623095614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939286471392755712/Nrtp2I9J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 119,
+          "like_count": 141,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 83
+        },
+        "username": "qqnjjwb",
+        "verified": false
+      }
+    ]
+  }
+}

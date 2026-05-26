@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1933959852671516885",
+    "created_at": "2025-06-15T02:56:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T03:56:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934082449065247193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1744316513291747328",
+          "start": 0,
+          "username": "shuifenziya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934082449065247193",
+    "in_reply_to_user_id": "1894461745277931524",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934082299274158412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuifenziya 如果泥甚至不考虑ta的意志，不理解ta对你的看法\n如果这些话还要轮到咱来说\n如果泥看见这些还会不开心，而只想沉浸在自己的感觉里\n那为什么ta会觉得自己值得羡慕呢？\n实际上就是这样\n这种…藏在问题预设倾向里的幻觉…值得打碎吧\n在看的话，回复下呗…什么都行\n（2/2）"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "水分子自己说的哦",
+        "height": 1090,
+        "media_key": "3_1934082292026335232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtc9mO6aYAAqoEa.jpg",
+        "width": 1228
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1933959852671516885",
+        "created_at": "2025-06-15T02:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T03:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934082449065247193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744316513291747328",
+              "start": 0,
+              "username": "shuifenziya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934082449065247193",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934082299274158412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuifenziya 如果泥甚至不考虑ta的意志，不理解ta对你的看法\n如果这些话还要轮到咱来说\n如果泥看见这些还会不开心，而只想沉浸在自己的感觉里\n那为什么ta会觉得自己值得羡慕呢？\n实际上就是这样\n这种…藏在问题预设倾向里的幻觉…值得打碎吧\n在看的话，回复下呗…什么都行\n（2/2）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934082292026335232"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "conversation_id": "1933959852671516885",
+        "created_at": "2025-06-15T02:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T03:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934082299274158412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744316513291747328",
+              "start": 0,
+              "username": "shuifenziya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IbUYhnCkLt",
+              "end": 179,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/1934082299274158412/photo/1",
+              "media_key": "3_1934082292026335232",
+              "start": 156,
+              "url": "https://t.co/IbUYhnCkLt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934082299274158412",
+        "in_reply_to_user_id": "1744316513291747328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933959852671516885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuifenziya 噗，水分子似乎以为不直说是谁，ta就不会介意了（笑，摊手）\n嗯，对于我？显然。ra被泥困住了。\n喵，可是，对于ta…\n如果泥为了“做任何事”的执念有太多无必要的付出，让ta担心，而且也没改变什么\n如果泥觉得，ta看不到，或者泥不直说是谁，说关于ta的某些话就不会让ta无奈\n（1/2） https://t.co/IbUYhnCkLt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1919740598187147331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910722822059810817/tWPhmxtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1364,
+          "following_count": 2019,
+          "like_count": 3288,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 563
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-08T11:14:12.000Z",
+        "description": "我...我....是水分子呀/08年17岁/休学中ing.../无证🍥hrt6个月/💥已炸柜/167cm50kg/坐标广东清远/负能/🚪35/不接线下/是条杂鱼🐟~~/SAD/互fo/喜欢六花和六花/不鉴证/小鸟游六花单推/",
+        "id": "1744316513291747328",
+        "location": "我在二次元",
+        "name": "水分子🍥",
+        "pinned_tweet_id": "1931598977729786328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931459440957587457/6bSR725R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 914,
+          "following_count": 655,
+          "like_count": 19440,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 1296
+        },
+        "username": "shuifenziya",
+        "verified": false
+      }
+    ]
+  }
+}

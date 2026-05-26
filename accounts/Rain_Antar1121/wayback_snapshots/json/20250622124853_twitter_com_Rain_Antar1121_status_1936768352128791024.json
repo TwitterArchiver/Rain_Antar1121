@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1936485911652683825",
+    "created_at": "2025-06-22T12:48:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T13:48:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936768352128791024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1869440990970556416",
+          "start": 0,
+          "username": "SnowfairySerina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936768352128791024",
+    "in_reply_to_user_id": "1869440990970556416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936562608100040713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SnowfairySerina 好欸好欸～咱还没出过国呢つ♡⊂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_1936562538205822976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuANXj8WQAA9-Rz.jpg",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "media_key": "3_1936562538424270848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuANXkwbgAACqcr.jpg",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "media_key": "3_1936562539078230016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuANXnMWIAAZdlu.jpg",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "media_key": "3_1936562539342757888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuANXoLagAAGWhK.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1936485911652683825",
+        "created_at": "2025-06-22T12:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T13:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936768352128791024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1869440990970556416",
+              "start": 0,
+              "username": "SnowfairySerina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936768352128791024",
+        "in_reply_to_user_id": "1869440990970556416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936562608100040713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnowfairySerina 好欸好欸～咱还没出过国呢つ♡⊂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936562538205822976",
+            "3_1936562538424270848",
+            "3_1936562539078230016",
+            "3_1936562539342757888"
+          ]
+        },
+        "author_id": "1869440990970556416",
+        "conversation_id": "1936485911652683825",
+        "created_at": "2025-06-21T23:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T00:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936562608100040713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rXeUDjPYBq",
+              "end": 51,
+              "expanded_url": "https://x.com/SnowfairySerina/status/1936562608100040713/photo/1",
+              "media_key": "3_1936562538205822976",
+              "start": 28,
+              "url": "https://t.co/rXeUDjPYBq"
+            },
+            {
+              "display_url": "pic.x.com/rXeUDjPYBq",
+              "end": 51,
+              "expanded_url": "https://x.com/SnowfairySerina/status/1936562608100040713/photo/1",
+              "media_key": "3_1936562538424270848",
+              "start": 28,
+              "url": "https://t.co/rXeUDjPYBq"
+            },
+            {
+              "display_url": "pic.x.com/rXeUDjPYBq",
+              "end": 51,
+              "expanded_url": "https://x.com/SnowfairySerina/status/1936562608100040713/photo/1",
+              "media_key": "3_1936562539078230016",
+              "start": 28,
+              "url": "https://t.co/rXeUDjPYBq"
+            },
+            {
+              "display_url": "pic.x.com/rXeUDjPYBq",
+              "end": 51,
+              "expanded_url": "https://x.com/SnowfairySerina/status/1936562608100040713/photo/1",
+              "media_key": "3_1936562539342757888",
+              "start": 28,
+              "url": "https://t.co/rXeUDjPYBq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936562608100040713",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936485911652683825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 不错不错，下次来福冈玩 https://t.co/rXeUDjPYBq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1919740598187147331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910722822059810817/tWPhmxtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1486,
+          "following_count": 2196,
+          "like_count": 3770,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 620
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-18T17:54:48.000Z",
+        "description": "福冈在住/铁路吟游诗人/mtf//我是一颗星，4亿岁了。\n我的柚柚猫咪是最可爱的，我永远爱大猫咪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yaokuanguniver…",
+                "end": 23,
+                "expanded_url": "https://t.me/yaokuanguniverse",
+                "start": 0,
+                "url": "https://t.co/C5JIQAhDNj"
+              }
+            ]
+          }
+        },
+        "id": "1869440990970556416",
+        "location": "星空文明摄平星系云屏市北云区星辰官邸",
+        "name": "🌈⛩️雪原剑仙🏳️‍⚧️✨（铁路吟游者）",
+        "pinned_tweet_id": "1936681546880274679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936323099076460544/Q47kACZn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 545,
+          "like_count": 1311,
+          "listed_count": 2,
+          "media_count": 228,
+          "tweet_count": 1600
+        },
+        "url": "https://t.co/C5JIQAhDNj",
+        "username": "SnowfairySerina",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1955525204962316570",
+    "created_at": "2025-08-13T10:48:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T11:48:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955582236528693369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1490602971171725313",
+          "start": 0,
+          "username": "iwlzff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955582236528693369",
+    "in_reply_to_user_id": "1490602971171725313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955525204962316570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iwlzff 呜…抱抱，节哀顺变哦🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1955525204962316570",
+        "created_at": "2025-08-13T10:48:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T11:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955582236528693369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1490602971171725313",
+              "start": 0,
+              "username": "iwlzff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955582236528693369",
+        "in_reply_to_user_id": "1490602971171725313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955525204962316570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iwlzff 呜…抱抱，节哀顺变哦🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490602971171725313",
+        "conversation_id": "1955525204962316570",
+        "created_at": "2025-08-13T07:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T08:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955525204962316570"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955525204962316570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天外婆去世了，虽然我从记事起外婆就痴呆了，没什么感情，但是还是挺难过的。我想总结一下我对亲人去世伤心的点：\n1. 听到消息\n2. 见到遗体\n3. 见到遗体面容，与往日无异，但阴阳两隔\n4. 抚摸遗体，尚有余温，但无心跳\n5. 余温淡去，最后的“生命迹象”消逝\n6. 抬离床榻，进入冰棺，从此相隔（火化前）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2015,
+          "following_count": 2968,
+          "like_count": 5144,
+          "listed_count": 3,
+          "media_count": 68,
+          "tweet_count": 832
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T08:27:52.000Z",
+        "description": "🏳️‍⚧️ sub 可爱姐姐💛@shushuyun321",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "shushuyun321"
+              }
+            ]
+          }
+        },
+        "id": "1490602971171725313",
+        "location": "金陵/顺天/天府",
+        "name": "癸水",
+        "pinned_tweet_id": "1944422241250488666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725831178564079616/eKYT4J5b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 1714,
+          "like_count": 5183,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 1228
+        },
+        "username": "iwlzff",
+        "verified": false
+      }
+    ]
+  }
+}

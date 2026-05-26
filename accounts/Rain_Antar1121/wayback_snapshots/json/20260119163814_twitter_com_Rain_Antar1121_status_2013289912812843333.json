@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2013284361471230006",
+    "created_at": "2026-01-19T16:38:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T17:38:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013289912812843333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1531432040909918209",
+          "start": 0,
+          "username": "Ethanwu1234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013289912812843333",
+    "in_reply_to_user_id": "1531432040909918209",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013284361471230006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ethanwu1234 戳戳૮₍ᵔ⤙ᵔ₎ა"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2013284361471230006",
+        "created_at": "2026-01-19T16:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T17:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013289912812843333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1531432040909918209",
+              "start": 0,
+              "username": "Ethanwu1234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013289912812843333",
+        "in_reply_to_user_id": "1531432040909918209",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013284361471230006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ethanwu1234 戳戳૮₍ᵔ⤙ᵔ₎ა"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1531432040909918209",
+        "conversation_id": "2013284361471230006",
+        "created_at": "2026-01-19T16:16:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T17:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013284361471230006"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013284361471230006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好无聊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的杂物 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3038,
+          "following_count": 4504,
+          "like_count": 8716,
+          "listed_count": 5,
+          "media_count": 126,
+          "tweet_count": 1490
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-31T00:27:23.000Z",
+        "description": "09 ｜双｜男｜❤️‍🩹姐姐：@Rain_Antar1121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "Rain_Antar1121"
+              }
+            ]
+          }
+        },
+        "id": "1531432040909918209",
+        "name": "刺猬QWQ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011830726186999808/DvAjCCP-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 420,
+          "like_count": 17839,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 800
+        },
+        "username": "Ethanwu1234",
+        "verified": false
+      }
+    ]
+  }
+}

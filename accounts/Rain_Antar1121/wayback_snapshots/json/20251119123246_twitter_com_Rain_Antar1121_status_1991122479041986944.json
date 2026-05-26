@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1991077440152609233",
+    "created_at": "2025-11-19T12:32:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T13:32:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991122479041986944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1985485034875191296",
+          "start": 0,
+          "username": "Chuqiking521"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991122479041986944",
+    "in_reply_to_user_id": "1985485034875191296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991077440152609233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chuqiking521 唔不吃糖的话青春期过了痘痘也会消失的差不多的…坚持护肤很有用哦，痘印什么的医美也能解决啦…咱就是说单纯为了这个吃糖没必要呜( ⸝⸝⸝•_•⸝⸝⸝ )"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1991077440152609233",
+        "created_at": "2025-11-19T12:32:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T13:32:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991122479041986944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1985485034875191296",
+              "start": 0,
+              "username": "Chuqiking521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991122479041986944",
+        "in_reply_to_user_id": "1985485034875191296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991077440152609233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chuqiking521 唔不吃糖的话青春期过了痘痘也会消失的差不多的…坚持护肤很有用哦，痘印什么的医美也能解决啦…咱就是说单纯为了这个吃糖没必要呜( ⸝⸝⸝•_•⸝⸝⸝ )"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985485034875191296",
+        "conversation_id": "1991077440152609233",
+        "created_at": "2025-11-19T09:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T10:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991077440152609233"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991077440152609233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在想一个很严肃的事情 究竟要不要吃药 如果不吃怎么改变我这个体毛巨多长得又快还雄高导致的痤疮问题——-"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩子🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 软软的温顺小动物 | 社恐小透明 | 随时发作的中二病 | 会自觉抱住可爱的存在 | 天文/航空/航天/科幻/理工文史都会看看 | 认真观察有趣的世界 | 想要…专属于咱抱着的人 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2573,
+          "following_count": 3931,
+          "like_count": 7233,
+          "listed_count": 5,
+          "media_count": 95,
+          "tweet_count": 1183
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-03T23:12:27.000Z",
+        "description": "05|🇷🇺｜无证不含糖｜减肥已完成17%｜互fo｜欢迎同类贴贴｜扩Q私聊 直男X片姐X｜转生谨慎中｜我喜欢的人喵@letogrilsIove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "letogrilsIove"
+              }
+            ]
+          }
+        },
+        "id": "1985485034875191296",
+        "name": "楚祺—OFFICAL🏳️‍⚧️",
+        "pinned_tweet_id": "1987660294588698878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987670769627811840/dAhK404m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 48,
+          "like_count": 306,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 297
+        },
+        "username": "Chuqiking521",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1924136598435946781",
+    "created_at": "2025-05-18T17:27:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T18:27:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924154952722895223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "17235228",
+          "start": 0,
+          "username": "INP1458"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924154952722895223",
+    "in_reply_to_user_id": "17235228",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 27,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924136598435946781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@INP1458 刻板印象自有刻板印象的道理ww\n其实理工科和木桶饭重合度都不相上下地明显高…数物化生信无一例外…都像自然形成的\n只是专精某科的木桶饭当然会更注意自己的领域吧～\n不知道有没有人总结过这之间的完整逻辑联系૮₍˶•ᴗ•˶₎ა"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1924136598435946781",
+        "created_at": "2025-05-18T17:27:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T18:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924154952722895223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "17235228",
+              "start": 0,
+              "username": "INP1458"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924154952722895223",
+        "in_reply_to_user_id": "17235228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924136598435946781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@INP1458 刻板印象自有刻板印象的道理ww\n其实理工科和木桶饭重合度都不相上下地明显高…数物化生信无一例外…都像自然形成的\n只是专精某科的木桶饭当然会更注意自己的领域吧～\n不知道有没有人总结过这之间的完整逻辑联系૮₍˶•ᴗ•˶₎ა"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "17235228",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1924136598435946781",
+        "created_at": "2025-05-18T16:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T17:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924136598435946781"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1924136598435946781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 196,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "mtf在前端和化学方面的重合度已经到了一种诡异的程度，而且好像还是自然形成的，因为我从小就对科学感兴趣，三年级开始接触h5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 这几个字放这里用来占位♡♡tivjgfoajzb | 同类互fo喵 | 贴贴看到这里的每一只小可爱～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1919740598187147331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910722822059810817/tWPhmxtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 1180,
+          "like_count": 1561,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 372
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2008-11-07T17:53:43.000Z",
+        "description": "09高一物化生 | 🎂11.04 | 🏳️‍⚧️MtF | 🏳️‍🌈Les | 🍥HRT 2024.08.09 | 158/39kg",
+        "id": "17235228",
+        "location": "看看你后面",
+        "name": "INP🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906832804794839040/voz7SQY8_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 120,
+          "like_count": 672,
+          "listed_count": 2,
+          "media_count": 29,
+          "tweet_count": 454
+        },
+        "username": "INP1458",
+        "verified": false
+      }
+    ]
+  }
+}

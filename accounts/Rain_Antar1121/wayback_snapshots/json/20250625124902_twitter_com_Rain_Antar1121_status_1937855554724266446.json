@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1937821804447547841",
+    "created_at": "2025-06-25T12:49:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T13:49:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937855554724266446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1750485481207590912",
+          "start": 0,
+          "username": "zmsghhz"
+        },
+        {
+          "end": 24,
+          "id": "1934723202158395393",
+          "start": 9,
+          "username": "chenkeer070427"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937855554724266446",
+    "in_reply_to_user_id": "1750485481207590912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937851215465029896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zmsghhz @chenkeer070427 欸嘿，照你自己的逻辑，分数和该不该劝劝小兔也毫无关系呀～\n抱抱你哦～૮ ´͈ ᗜ `͈ ა♡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 989,
+        "media_key": "3_1937851209320431616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuShaF8bAAAh2MY.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1937821804447547841",
+        "created_at": "2025-06-25T12:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T13:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937855554724266446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1750485481207590912",
+              "start": 0,
+              "username": "zmsghhz"
+            },
+            {
+              "end": 24,
+              "id": "1934723202158395393",
+              "start": 9,
+              "username": "chenkeer070427"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937855554724266446",
+        "in_reply_to_user_id": "1750485481207590912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937851215465029896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zmsghhz @chenkeer070427 欸嘿，照你自己的逻辑，分数和该不该劝劝小兔也毫无关系呀～\n抱抱你哦～૮ ´͈ ᗜ `͈ ა♡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937851209320431616"
+          ]
+        },
+        "author_id": "1750485481207590912",
+        "conversation_id": "1937821804447547841",
+        "created_at": "2025-06-25T12:31:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T13:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937851215465029896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 31,
+              "id": "1934723202158395393",
+              "start": 16,
+              "username": "chenkeer070427"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/avJ7oDRysT",
+              "end": 72,
+              "expanded_url": "https://x.com/zmsghhz/status/1937851215465029896/photo/1",
+              "media_key": "3_1937851209320431616",
+              "start": 49,
+              "url": "https://t.co/avJ7oDRysT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937851215465029896",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937846782110880154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 @chenkeer070427 帮不了，我就是个考400分的fw https://t.co/avJ7oDRysT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1919740598187147331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910722822059810817/tWPhmxtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1519,
+          "following_count": 2262,
+          "like_count": 3930,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 654
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-25T11:47:33.000Z",
+        "description": "",
+        "id": "1750485481207590912",
+        "name": "逐梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1750486153592188928/JHhnXfFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 9,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "username": "zmsghhz",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-16T21:23:00.000Z",
+        "description": "07，mtf，171cm-53kg（在减肥了awa）/娇郁系，是地雷女，偏M/❤️想被爱呀想被爱❤️/极端社恐但粘人/有一些精神方面的问题，我会od自残哟（对不起π_π）/想成为天使，想爱着每一个人/最后欢迎同类互fo互转哦，一起萌萌的//🚪88/188/288，人在 #南京 ，圆角练习ing……",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 138,
+                "start": 135,
+                "tag": "南京"
+              }
+            ]
+          }
+        },
+        "id": "1934723202158395393",
+        "location": "江浙沪",
+        "name": "🎀小兔软软🎀ちゃん～🏳️‍⚧️",
+        "pinned_tweet_id": "1936401224443818363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934726752544411650/Ptiefcde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1208,
+          "following_count": 18,
+          "like_count": 99,
+          "listed_count": 3,
+          "media_count": 26,
+          "tweet_count": 60
+        },
+        "username": "chenkeer070427",
+        "verified": false
+      }
+    ]
+  }
+}

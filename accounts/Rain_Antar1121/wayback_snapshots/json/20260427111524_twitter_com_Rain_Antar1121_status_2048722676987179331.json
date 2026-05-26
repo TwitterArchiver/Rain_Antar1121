@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2048703977756532740",
+    "created_at": "2026-04-27T11:15:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T12:15:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048722676987179331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1928705633135767600",
+          "start": 0,
+          "username": "AuroraLight_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048722676987179331",
+    "in_reply_to_user_id": "1928705633135767600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048714855553663316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AuroraLight_01 谢耶～ฅ( ̳• ·̫ • ̳ฅ)喵喵贴～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2048703977756532740",
+        "created_at": "2026-04-27T11:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T12:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048722676987179331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1928705633135767600",
+              "start": 0,
+              "username": "AuroraLight_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048722676987179331",
+        "in_reply_to_user_id": "1928705633135767600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048714855553663316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AuroraLight_01 谢耶～ฅ( ̳• ·̫ • ̳ฅ)喵喵贴～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928705633135767600",
+        "conversation_id": "2048703977756532740",
+        "created_at": "2026-04-27T10:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T11:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048714855553663316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048714855553663316",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048703977756532740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 恭喜🎉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2033518993160736859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042559105353842688/Hs-yW50g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3912,
+          "following_count": 5881,
+          "like_count": 13115,
+          "listed_count": 8,
+          "media_count": 232,
+          "tweet_count": 2682
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "13岁 7年级 也许是泛性恋？推龄最小的？\n无证含糖🍥🏳️‍⚧️ -2026.4.7 -MTF女孩子\n喜欢折腾Windows 电脑和会一点编程\n不自残🔪 不Od💊 苹果粉\n分享我的日常生活和技术\n关注芸光谢谢喵~（目标1000fo QWQ）\n\"色彩交替变换，年华就这般易逝\"",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Coxe_Pica",
+                "end": 23,
+                "expanded_url": "http://t.me/Coxe_Pica",
+                "start": 0,
+                "url": "https://t.co/ic4apAkY69"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北潜江",
+        "name": "芸光酱𝗔𝘂𝗿𝗼𝗿𝗮𝗟𝗶𝗴𝗵𝘁 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041475934608380289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045758360814026752/BKtY2cdM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 27,
+          "like_count": 909,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 360
+        },
+        "url": "https://t.co/ic4apAkY69",
+        "username": "AuroraLight_01",
+        "verified": true
+      }
+    ]
+  }
+}

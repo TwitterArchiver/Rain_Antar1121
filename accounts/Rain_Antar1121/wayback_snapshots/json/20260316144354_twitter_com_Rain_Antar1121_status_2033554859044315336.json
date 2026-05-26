@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2032684273552040275",
+    "created_at": "2026-03-16T14:43:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T15:43:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033554859044315336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1531432040909918209",
+          "start": 0,
+          "username": "Ethanwu1234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033554859044315336",
+    "in_reply_to_user_id": "1531432040909918209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032684273552040275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ethanwu1234 不可以。绑起来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2032684273552040275",
+        "created_at": "2026-03-16T14:43:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T15:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033554859044315336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1531432040909918209",
+              "start": 0,
+              "username": "Ethanwu1234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033554859044315336",
+        "in_reply_to_user_id": "1531432040909918209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032684273552040275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ethanwu1234 不可以。绑起来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1531432040909918209",
+        "conversation_id": "2032684273552040275",
+        "created_at": "2026-03-14T05:04:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T06:04:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032684273552040275"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032684273552040275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃安眠药真的可以死吗……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的杂物 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2033518993160736859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3504,
+          "following_count": 5248,
+          "like_count": 11215,
+          "listed_count": 8,
+          "media_count": 199,
+          "tweet_count": 2243
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-31T00:27:23.000Z",
+        "description": "",
+        "id": "1531432040909918209",
+        "name": "刺猬QWQ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032371637388193792/ie4jbofz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 443,
+          "like_count": 20451,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 1023
+        },
+        "username": "Ethanwu1234",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1983874864454025248",
+    "created_at": "2025-10-30T21:28:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T22:28:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984009479176991121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1930929865789931520",
+          "start": 0,
+          "username": "mi_huan030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984009479176991121",
+    "in_reply_to_user_id": "1930929865789931520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983874864454025248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mi_huan030 好欸…窝也想学…感觉这是门学不完的技术🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1983874864454025248",
+        "created_at": "2025-10-30T21:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T22:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984009479176991121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1930929865789931520",
+              "start": 0,
+              "username": "mi_huan030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984009479176991121",
+        "in_reply_to_user_id": "1930929865789931520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983874864454025248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mi_huan030 好欸…窝也想学…感觉这是门学不完的技术🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1930929865789931520",
+        "conversation_id": "1983874864454025248",
+        "created_at": "2025-10-30T12:33:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T13:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983874864454025248"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983874864454025248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉要开始学扎头发了（🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩子🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 软软的温顺小动物 | 社恐小透明 | 随时发作的中二病 | 会自觉抱住可爱的存在 | 天文/航空/航天/科幻/理工文史都会看看 | 认真观察有趣的世界 | 想要…专属于咱抱着的人 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2463,
+          "following_count": 3751,
+          "like_count": 6770,
+          "listed_count": 5,
+          "media_count": 89,
+          "tweet_count": 1108
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-06T10:09:01.000Z",
+        "description": "各得其所｜豪🐱@sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "sanmiguelnoodle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mihuan1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mihuan1",
+                "start": 0,
+                "url": "https://t.co/4qvoOYAuDS"
+              }
+            ]
+          }
+        },
+        "id": "1930929865789931520",
+        "name": "mi huan🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973475440745652225/OHryGGmO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 413,
+          "like_count": 13108,
+          "listed_count": 1,
+          "media_count": 385,
+          "tweet_count": 3225
+        },
+        "url": "https://t.co/4qvoOYAuDS",
+        "username": "mi_huan030",
+        "verified": false
+      }
+    ]
+  }
+}

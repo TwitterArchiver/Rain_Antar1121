@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1953820151750558106",
+    "created_at": "2025-08-08T17:32:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T18:32:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953871935651103060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1545787268501106688",
+          "start": 0,
+          "username": "zzzChumo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953871935651103060",
+    "in_reply_to_user_id": "1545787268501106688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953820151750558106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzzChumo 呜喵，摸摸，咕～\nS7人够少的啦（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3207,
+        "media_key": "3_1953820112043315200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx1dCkVbEAAlm04.jpg",
+        "width": 2414
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1953820151750558106",
+        "created_at": "2025-08-08T17:32:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T18:32:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953871935651103060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545787268501106688",
+              "start": 0,
+              "username": "zzzChumo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953871935651103060",
+        "in_reply_to_user_id": "1545787268501106688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953820151750558106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzzChumo 呜喵，摸摸，咕～\nS7人够少的啦（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953820112043315200"
+          ]
+        },
+        "author_id": "1545787268501106688",
+        "conversation_id": "1953820151750558106",
+        "created_at": "2025-08-08T14:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T15:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953820151750558106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mlsMwcNM52",
+              "end": 51,
+              "expanded_url": "https://x.com/zzzChumo/status/1953820151750558106/photo/1",
+              "media_key": "3_1953820112043315200",
+              "start": 28,
+              "url": "https://t.co/mlsMwcNM52"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953820151750558106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 332,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "幽默伸腿小孩姐😅\n唐逼滞纳人天天做爱不带套生一堆又不管 https://t.co/mlsMwcNM52"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1952,
+          "following_count": 2891,
+          "like_count": 4992,
+          "listed_count": 3,
+          "media_count": 63,
+          "tweet_count": 803
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T15:09:53.000Z",
+        "description": "有双相会发癫/中 Eng/無言フォロー失礼します/版权头图非请勿用/术术人/人称代词随意 但是被叫she her会很高兴/三代目/逃生舱@whatisnickidk/情商为0不会说话/智商为0放弃思考/机佬/热衷收集各种电子垃圾/四分之一个技术宅/错字受/沉迷刷推无法自拔/这个人懒死了，什么都没写 (⁠°∀⁠。)（？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 68,
+                "username": "whatisnickidk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zzcm.fun",
+                "end": 23,
+                "expanded_url": "http://zzcm.fun",
+                "start": 0,
+                "url": "https://t.co/W0n01joHsj"
+              }
+            ]
+          }
+        },
+        "id": "1545787268501106688",
+        "location": "地狱",
+        "name": "仿生初墨会梦见电子智障吗🍥",
+        "pinned_tweet_id": "1932777949692133812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886333649223868416/eRpWKwqP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2398,
+          "following_count": 976,
+          "like_count": 77373,
+          "listed_count": 7,
+          "media_count": 803,
+          "tweet_count": 3299
+        },
+        "url": "https://t.co/W0n01joHsj",
+        "username": "zzzChumo",
+        "verified": true
+      }
+    ]
+  }
+}

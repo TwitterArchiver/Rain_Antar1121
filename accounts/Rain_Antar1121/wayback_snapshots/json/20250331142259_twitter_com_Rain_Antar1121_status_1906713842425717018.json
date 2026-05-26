@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1906680047731343632",
+    "created_at": "2025-03-31T14:22:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T15:22:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906713842425717018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1532663208393117696",
+          "start": 0,
+          "username": "Ziverk2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906713842425717018",
+    "in_reply_to_user_id": "1532663208393117696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906680047731343632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ziverk2 抱抱…心疼Eina喵🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1906680047731343632",
+        "created_at": "2025-03-31T14:22:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T15:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906713842425717018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1532663208393117696",
+              "start": 0,
+              "username": "Ziverk2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906713842425717018",
+        "in_reply_to_user_id": "1532663208393117696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906680047731343632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ziverk2 抱抱…心疼Eina喵🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1532663208393117696",
+        "conversation_id": "1906680047731343632",
+        "created_at": "2025-03-31T12:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T13:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906680047731343632"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1906680047731343632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 947,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "对不起大家，Eina还是回来了.....\n其他事情Eina不想再说了...只对大家好好道歉..由于Eina的激动（当然不仅仅是冲动，但是无意义....）、在发了好些负面情绪影响的推文后停用了账号并且做了些事情..这造成了不小的圈内情绪影响.....也许Eina真的该死...刺激了朋友、甚至连帮助的能力都没有....."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 软乎乎的温顺小动物 | 小透明属性 | 同类互fo喵 | 贴贴看到这里的每一只小可爱～",
+        "id": "1894461745277931524",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894461978212446208/pKE9xTjn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 326,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 32
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-03T09:59:29.000Z",
+        "description": "一只没有成年的成年猫猫w\n|MTX(F)🏳️‍⚧️🍥 SINCE 2024.11\n| Esperanto!\n|间歇发病(紫餐不o)\n| PUBGM |飞车|战双..\n| 原生JS(+PHP) Web\n| Java(+Lua)原生安卓开发\n| Office @mtitstudio",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 128,
+                "username": "mtitstudio"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "einashome.byethost22.com",
+                "end": 23,
+                "expanded_url": "http://einashome.byethost22.com",
+                "start": 0,
+                "url": "https://t.co/AFyZbAfS0k"
+              }
+            ]
+          }
+        },
+        "id": "1532663208393117696",
+        "location": "Tianfu",
+        "name": "Einaちゃん🍥（=^𖥦^=）~",
+        "pinned_tweet_id": "1884407282454482944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864480412086439936/I2-BmRO2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2029,
+          "following_count": 4296,
+          "like_count": 121759,
+          "listed_count": 7,
+          "media_count": 89,
+          "tweet_count": 8078
+        },
+        "url": "https://t.co/AFyZbAfS0k",
+        "username": "Ziverk2",
+        "verified": false
+      }
+    ]
+  }
+}

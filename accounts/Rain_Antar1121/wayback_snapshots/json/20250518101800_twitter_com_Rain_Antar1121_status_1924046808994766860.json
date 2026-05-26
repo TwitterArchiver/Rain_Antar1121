@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1924039888225341695",
+    "created_at": "2025-05-18T10:18:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T11:18:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924046808994766860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1605245047590780928",
+          "start": 0,
+          "username": "khdrd4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924046808994766860",
+    "in_reply_to_user_id": "1605245047590780928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924044249164911015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@khdrd4 可可爱爱鸭～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1924039888225341695",
+        "created_at": "2025-05-18T10:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T11:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924046808994766860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1605245047590780928",
+              "start": 0,
+              "username": "khdrd4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924046808994766860",
+        "in_reply_to_user_id": "1605245047590780928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924044249164911015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@khdrd4 可可爱爱鸭～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605245047590780928",
+        "conversation_id": "1924039888225341695",
+        "created_at": "2025-05-18T10:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T11:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924044249164911015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924044249164911015",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924039888225341695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 好可爱的鸭鸭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 这几个字放这里用来占位♡♡tivjgfoajzb | 同类互fo喵 | 贴贴看到这里的每一只小可爱～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1919740598187147331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910722822059810817/tWPhmxtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 1151,
+          "like_count": 1481,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 355
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-20T16:53:45.000Z",
+        "description": "2009/8/19\n推特经常炸掉喵，梯子也没问题，根本不知道什么原因。想聊天的话请加我qq喵 3073309640",
+        "id": "1605245047590780928",
+        "location": "距离您439m",
+        "name": "khdrd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784751371708944384/zJKEhXae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 646,
+          "like_count": 64747,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1027
+        },
+        "username": "khdrd4",
+        "verified": false
+      }
+    ]
+  }
+}

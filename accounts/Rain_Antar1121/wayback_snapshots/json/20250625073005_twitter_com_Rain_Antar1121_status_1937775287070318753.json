@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1937571852383314269",
+    "created_at": "2025-06-25T07:30:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T08:30:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937775287070318753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1744316513291747328",
+          "start": 0,
+          "username": "shuifenziya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937775287070318753",
+    "in_reply_to_user_id": "1744316513291747328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937766702416306394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuifenziya 对不起对不起对不起\n小ra当然要管！！管好自己啊水…别别别别别，嗯呜，又出什么事了吗别这样啊\n抱住抱住抱住૮₍ɵ̷﹏ɵ̷̥̥᷅₎ა"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1524,
+        "media_key": "3_1937766696363958272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuRUiypbIAAT93F.jpg",
+        "width": 1886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1937571852383314269",
+        "created_at": "2025-06-25T07:30:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T08:30:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937775287070318753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744316513291747328",
+              "start": 0,
+              "username": "shuifenziya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937775287070318753",
+        "in_reply_to_user_id": "1744316513291747328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937766702416306394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuifenziya 对不起对不起对不起\n小ra当然要管！！管好自己啊水…别别别别别，嗯呜，又出什么事了吗别这样啊\n抱住抱住抱住૮₍ɵ̷﹏ɵ̷̥̥᷅₎ა"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937766696363958272"
+          ]
+        },
+        "author_id": "1744316513291747328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1937571852383314269",
+        "created_at": "2025-06-25T06:55:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T07:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937766702416306394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tMjGtLwFa8",
+              "end": 43,
+              "expanded_url": "https://x.com/shuifenziya/status/1937766702416306394/photo/1",
+              "media_key": "3_1937766696363958272",
+              "start": 20,
+              "url": "https://t.co/tMjGtLwFa8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937766702416306394",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937766322789843414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 你管我 https://t.co/tMjGtLwFa8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1919740598187147331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910722822059810817/tWPhmxtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1510,
+          "following_count": 2252,
+          "like_count": 3892,
+          "listed_count": 2,
+          "media_count": 42,
+          "tweet_count": 647
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-08T11:14:12.000Z",
+        "description": "我...我....是水分子呀/08年17岁/休学中ing.../无证🍥hrt6个月/💥已炸柜/167cm50kg/坐标广东清远/负能/🚪35/不接线下/是条杂鱼🐟~~/SAD/互fo/喜欢六花和六花/不鉴证/小鸟游六花单推/",
+        "id": "1744316513291747328",
+        "location": "我在二次元",
+        "name": "水分子🍥（饿死版）",
+        "pinned_tweet_id": "1931598977729786328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934294610022678528/3f0NJBAR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 684,
+          "like_count": 20845,
+          "listed_count": 2,
+          "media_count": 155,
+          "tweet_count": 1419
+        },
+        "username": "shuifenziya",
+        "verified": false
+      }
+    ]
+  }
+}

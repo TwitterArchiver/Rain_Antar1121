@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1942311960382714151",
+    "created_at": "2025-07-07T21:41:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T22:41:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942338304961306939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1739472736693735424",
+          "start": 0,
+          "username": "guo_lao32576"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942338304961306939",
+    "in_reply_to_user_id": "1739472736693735424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942311960382714151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guo_lao32576 咱在的话才不会允许月喝这么多呢…才不要哇，对自己好一点\n记得该记住的东西ww\n还有一千一百九十八公里，等咱哦～\n也不会再让月说对不起了叭️❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1942311960382714151",
+        "created_at": "2025-07-07T21:41:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T22:41:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942338304961306939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1739472736693735424",
+              "start": 0,
+              "username": "guo_lao32576"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942338304961306939",
+        "in_reply_to_user_id": "1739472736693735424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942311960382714151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guo_lao32576 咱在的话才不会允许月喝这么多呢…才不要哇，对自己好一点\n记得该记住的东西ww\n还有一千一百九十八公里，等咱哦～\n也不会再让月说对不起了叭️❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739472736693735424",
+        "conversation_id": "1942311960382714151",
+        "created_at": "2025-07-07T19:57:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T20:57:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942311960382714151"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1942311960382714151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喝了两升酒..\n记得...记得什么呢....\n对不起。。。\n..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1919740598187147331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941572059953238016/-KAyC7ip_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1736,
+          "following_count": 2531,
+          "like_count": 4464,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 730
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-26T02:26:43.000Z",
+        "description": "\"I will destroy everything, including myself.\"\n''Then I wil disappear forever.''",
+        "id": "1739472736693735424",
+        "name": "月下缭乱",
+        "pinned_tweet_id": "1933205748504551869",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901519759788904448/svZ9dAeV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 978,
+          "like_count": 5818,
+          "listed_count": 3,
+          "media_count": 130,
+          "tweet_count": 2247
+        },
+        "username": "guo_lao32576",
+        "verified": false
+      }
+    ]
+  }
+}

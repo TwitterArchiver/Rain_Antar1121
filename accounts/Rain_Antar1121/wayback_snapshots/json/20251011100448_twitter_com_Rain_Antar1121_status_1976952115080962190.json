@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1976952115080962190",
+    "created_at": "2025-10-11T10:04:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T11:04:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976952115080962190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1875494825145069568",
+          "start": 3,
+          "username": "tbh2319"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976952115080962190",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976146211024331019",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tbh2319: 泰补有效期一年的220，泰补有效期半年的180，诺坤复85，艾斯妥凝胶115，满500送鲨鲨，关注点赞转发抽10盒有效期半年的泰补，一星期后开奖，有效期半年的泰补只有41盒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1976952115080962190",
+        "created_at": "2025-10-11T10:04:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T11:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976952115080962190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1875494825145069568",
+              "start": 3,
+              "username": "tbh2319"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976952115080962190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976146211024331019",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tbh2319: 泰补有效期一年的220，泰补有效期半年的180，诺坤复85，艾斯妥凝胶115，满500送鲨鲨，关注点赞转发抽10盒有效期半年的泰补，一星期后开奖，有效期半年的泰补只有41盒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875494825145069568",
+        "conversation_id": "1976146211024331019",
+        "created_at": "2025-10-09T04:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T05:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976146211024331019"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976146211024331019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 232,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "泰补有效期一年的220，泰补有效期半年的180，诺坤复85，艾斯妥凝胶115，满500送鲨鲨，关注点赞转发抽10盒有效期半年的泰补，一星期后开奖，有效期半年的泰补只有41盒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩子🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 软软的温顺小动物 | 社恐小透明 | 随时发作的中二病 | 会自觉抱住可爱的存在 | 天文/航空/航天/科幻/理工文史都会看看 | 认真观察有趣的世界 | 想要…专属于咱抱着的人 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2370,
+          "following_count": 3577,
+          "like_count": 6420,
+          "listed_count": 4,
+          "media_count": 87,
+          "tweet_count": 1043
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-04T10:49:59.000Z",
+        "description": "98年大龄mtf，售卖正规进口药品，全球可发，@tbh2318，@tbh2319，长居🇹🇭，下午七点前当日发出",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "tbh2318"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "tbh2319"
+              }
+            ]
+          }
+        },
+        "id": "1875494825145069568",
+        "location": "曼谷",
+        "name": "乇乇 momo 糖商 🏳️‍⚧️🍥泰补，诺坤复，艾斯妥凝胶",
+        "pinned_tweet_id": "1974474954147307814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973628541406420995/wuFkH3a3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 991,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 15
+        },
+        "username": "tbh2319",
+        "verified": true
+      }
+    ]
+  }
+}

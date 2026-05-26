@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1929278710886400494",
+    "created_at": "2025-06-02T01:59:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T02:59:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929357237941674053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1744316513291747328",
+          "start": 0,
+          "username": "shuifenziya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929357237941674053",
+    "in_reply_to_user_id": "1744316513291747328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929278710886400494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuifenziya 啊，水水五点钟还没睡…先抱着吧，抱住抱住抱住…呜，凌晨的梦里咱就在抱着你哭\n喵…等泥醒来的时候…\n嗯，也成熟点呗，既然也知道这样不好就主动点尝试改变呗…别再说“不会”了，泥可以的…除非动力还是不够\n对叭，咱一直对好水水有某种信念的\n♡(.◜ω◝.)♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1929278710886400494",
+        "created_at": "2025-06-02T01:59:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T02:59:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929357237941674053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744316513291747328",
+              "start": 0,
+              "username": "shuifenziya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929357237941674053",
+        "in_reply_to_user_id": "1744316513291747328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929278710886400494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuifenziya 啊，水水五点钟还没睡…先抱着吧，抱住抱住抱住…呜，凌晨的梦里咱就在抱着你哭\n喵…等泥醒来的时候…\n嗯，也成熟点呗，既然也知道这样不好就主动点尝试改变呗…别再说“不会”了，泥可以的…除非动力还是不够\n对叭，咱一直对好水水有某种信念的\n♡(.◜ω◝.)♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744316513291747328",
+        "conversation_id": "1929278710886400494",
+        "created_at": "2025-06-01T20:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T21:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929278710886400494"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1929278710886400494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 330,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想要钱想要钱，我上推就是来要饭的，我好废物，只能靠网络乞讨来吃饭。破水分子破水分子，水分子就是个* *的人，不是人！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1919740598187147331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910722822059810817/tWPhmxtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1032,
+          "following_count": 1579,
+          "like_count": 2523,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 509
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-08T11:14:12.000Z",
+        "description": "我...我....是水分子呀/08年17岁/休学中ing.../无证🍥hrt6个月/💥已炸柜/167cm49kg/坐标广东清远/负能/🚪35/不接线下/是条杂鱼🐟~~/SAD/互fo/喜欢六花和六花/不鉴证/小鸟游六花单推/",
+        "id": "1744316513291747328",
+        "location": "我在二次元",
+        "name": "一个水分子🍥",
+        "pinned_tweet_id": "1924306437486067956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925266758442827776/geSMUFNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 873,
+          "following_count": 587,
+          "like_count": 18547,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 1229
+        },
+        "username": "shuifenziya",
+        "verified": false
+      }
+    ]
+  }
+}

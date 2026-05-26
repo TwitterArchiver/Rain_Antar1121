@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2051542710889411068",
+    "created_at": "2026-05-05T10:09:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T11:09:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051605292388172085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1353322529964756995",
+          "start": 0,
+          "username": "Minamikimon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051605292388172085",
+    "in_reply_to_user_id": "1353322529964756995",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051583153941496208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minamikimon 喵ww好嗯…只是咱一直不太习惯米线的口感🥺嗯呢有机会会多试几种～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2051542710889411068",
+        "created_at": "2026-05-05T10:09:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T11:09:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051605292388172085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1353322529964756995",
+              "start": 0,
+              "username": "Minamikimon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051605292388172085",
+        "in_reply_to_user_id": "1353322529964756995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051583153941496208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minamikimon 喵ww好嗯…只是咱一直不太习惯米线的口感🥺嗯呢有机会会多试几种～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353322529964756995",
+        "conversation_id": "2051542710889411068",
+        "created_at": "2026-05-05T08:41:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T09:41:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051583153941496208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051583153941496208",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051542710889411068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 在滇國可以探索各種各樣的米線\n過橋米線並不是滇人日常的食物"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2033518993160736859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042559105353842688/Hs-yW50g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3995,
+          "following_count": 5988,
+          "like_count": 13439,
+          "listed_count": 10,
+          "media_count": 248,
+          "tweet_count": 2858
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-24T12:43:40.000Z",
+        "description": "滇國酒瘋子，二潤準備中，AI畫師 中文/日本語/English 南條愛乃一番推し! 井口裕香が推し，單推七海麻美❤️❤️❤️",
+        "id": "1353322529964756995",
+        "location": "Tachikawa",
+        "name": "希子が負けない🇬🇧🇮🇪",
+        "pinned_tweet_id": "1829145407836110873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043726742280679425/owxBVGvj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5369,
+          "following_count": 1675,
+          "like_count": 168790,
+          "listed_count": 22,
+          "media_count": 1031,
+          "tweet_count": 4843
+        },
+        "username": "Minamikimon",
+        "verified": true
+      }
+    ]
+  }
+}

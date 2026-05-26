@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1939700386832826418",
+    "created_at": "2025-06-30T15:23:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T16:23:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939706443927888069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "623965569",
+          "start": 0,
+          "username": "nothousand"
+        },
+        {
+          "end": 27,
+          "id": "1934723202158395393",
+          "start": 12,
+          "username": "chenkeer070427"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939706443927888069",
+    "in_reply_to_user_id": "623965569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939703133556621330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nothousand @chenkeer070427 😡😡😡不要取笑…主包不就是不愿意露脸吗，挡严实一点怎么泥了😭\n👿👿👿哼喵"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [chenkeer070427].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "chenkeer070427",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "chenkeer070427"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1939700386832826418",
+        "created_at": "2025-06-30T15:23:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T16:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939706443927888069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "623965569",
+              "start": 0,
+              "username": "nothousand"
+            },
+            {
+              "end": 27,
+              "id": "1934723202158395393",
+              "start": 12,
+              "username": "chenkeer070427"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939706443927888069",
+        "in_reply_to_user_id": "623965569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939703133556621330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nothousand @chenkeer070427 😡😡😡不要取笑…主包不就是不愿意露脸吗，挡严实一点怎么泥了😭\n👿👿👿哼喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "623965569",
+        "conversation_id": "1939700386832826418",
+        "created_at": "2025-06-30T15:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T16:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939703133556621330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 31,
+              "id": "1934723202158395393",
+              "start": 16,
+              "username": "chenkeer070427"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939703133556621330",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939700386832826418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 @chenkeer070427 我的妈一半马赛克笑死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1919740598187147331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910722822059810817/tWPhmxtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1647,
+          "following_count": 2375,
+          "like_count": 4175,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 694
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-01T16:27:02.000Z",
+        "description": "/记录一些异世界的碎碎念w #INFJ\n/谨慎fo因为我们可能不是一类人，或者不是你以为的那类人喔\n/不定期删除三无号，不同频的人还请见谅\n/视情况会回fo哒（原则上不回fo未成年抱歉\n//雷自残od各种赤裸色色看到这样的人会unfo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 14,
+                "tag": "INFJ"
+              }
+            ]
+          }
+        },
+        "id": "623965569",
+        "location": "earth",
+        "name": "芊芊不是茜茜🏳️‍⚧️",
+        "pinned_tweet_id": "1934938474685293041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937700873003823104/vKI_0ofL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 65,
+          "like_count": 1321,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 771
+        },
+        "username": "nothousand",
+        "verified": false
+      }
+    ]
+  }
+}

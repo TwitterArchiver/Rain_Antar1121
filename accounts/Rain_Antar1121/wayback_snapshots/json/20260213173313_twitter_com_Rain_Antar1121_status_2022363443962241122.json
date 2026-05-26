@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2020683986838954330",
+    "created_at": "2026-02-13T17:33:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T18:33:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022363443962241122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2007397795532333056",
+          "start": 0,
+          "username": "shaoxiancao1314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022363443962241122",
+    "in_reply_to_user_id": "2007397795532333056",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020683986838954330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shaoxiancao1314 ૮ ´͈ ᗜ `͈ ა♡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 866,
+        "media_key": "3_2020683983286304768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HArpYHMaAAARaMd.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020683984410411008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HArpYLYagAADbYE.jpg",
+        "width": 921
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020683984074936321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HArpYKIbkAEHoOI.jpg",
+        "width": 921
+      },
+      {
+        "height": 921,
+        "media_key": "3_2020683983638634496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HArpYIgaIAAsoRX.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2020683986838954330",
+        "created_at": "2026-02-13T17:33:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T18:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022363443962241122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2007397795532333056",
+              "start": 0,
+              "username": "shaoxiancao1314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022363443962241122",
+        "in_reply_to_user_id": "2007397795532333056",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020683986838954330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shaoxiancao1314 ૮ ´͈ ᗜ `͈ ა♡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020683983286304768",
+            "3_2020683984410411008",
+            "3_2020683984074936321",
+            "3_2020683983638634496"
+          ]
+        },
+        "author_id": "2007397795532333056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          }
+        ],
+        "conversation_id": "2020683986838954330",
+        "created_at": "2026-02-09T02:19:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T03:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020683986838954330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xPzIXsCpxu",
+              "end": 183,
+              "expanded_url": "https://x.com/shaoxiancao1314/status/2020683986838954330/photo/1",
+              "media_key": "3_2020683983286304768",
+              "start": 160,
+              "url": "https://t.co/xPzIXsCpxu"
+            },
+            {
+              "display_url": "pic.x.com/xPzIXsCpxu",
+              "end": 183,
+              "expanded_url": "https://x.com/shaoxiancao1314/status/2020683986838954330/photo/1",
+              "media_key": "3_2020683984410411008",
+              "start": 160,
+              "url": "https://t.co/xPzIXsCpxu"
+            },
+            {
+              "display_url": "pic.x.com/xPzIXsCpxu",
+              "end": 183,
+              "expanded_url": "https://x.com/shaoxiancao1314/status/2020683986838954330/photo/1",
+              "media_key": "3_2020683984074936321",
+              "start": 160,
+              "url": "https://t.co/xPzIXsCpxu"
+            },
+            {
+              "display_url": "pic.x.com/xPzIXsCpxu",
+              "end": 183,
+              "expanded_url": "https://x.com/shaoxiancao1314/status/2020683986838954330/photo/1",
+              "media_key": "3_2020683983638634496",
+              "start": 160,
+              "url": "https://t.co/xPzIXsCpxu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020683986838954330",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 44265,
+          "like_count": 266,
+          "quote_count": 6,
+          "reply_count": 219,
+          "retweet_count": 200
+        },
+        "reply_settings": "everyone",
+        "text": "仙草🌿の新年福利抽奖🎉\n关注点赞转帖评论即可参与\n一等奖×1：一瓶200ml大瓶10倍凝胶（可折现100💰🧧）\n二等奖×3：一瓶100ml小瓶10倍凝胶（可折现60💰🧧）\n三等奖×5：5💰红包🧧\n谢谢大家の支持与参与~\n一周后开奖 \n中奖者请在7天内回复咱的私信哦 中奖7天后没有回复将默认弃权将奖品随机发给其他参与者 https://t.co/xPzIXsCpxu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的杂物 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3217,
+          "following_count": 4763,
+          "like_count": 9328,
+          "listed_count": 6,
+          "media_count": 132,
+          "tweet_count": 1683
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-03T10:25:12.000Z",
+        "description": "10倍凝胶请联系TG https://t.co/eQ5f55oGxr丨\nmtf地雷系女子丨09年161cm药娘丨曾20小时内极限逃离扭转机构丨坐标郑州丨照片在亮点丨对象兼闺蜜@YuwenT233丨姐姐@Delusions6515 @Snegur0chk 丨纯绿交友🚪18私信口令 同类免 蓝V必回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 87,
+                "username": "YuwenT233"
+              },
+              {
+                "end": 114,
+                "start": 100,
+                "username": "Delusions6515"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "Snegur0chk"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/shaoxiancao1314",
+                "end": 34,
+                "expanded_url": "http://t.me/shaoxiancao1314",
+                "start": 11,
+                "url": "https://t.co/eQ5f55oGxr"
+              }
+            ]
+          }
+        },
+        "id": "2007397795532333056",
+        "location": "坐在唐毓文无敌几把上",
+        "name": "烧仙草🍥🏳️‍⚧️（出10倍凝胶）",
+        "pinned_tweet_id": "2020683986838954330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007399225236361216/pD-sGP7Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 347,
+          "like_count": 1958,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 123
+        },
+        "username": "shaoxiancao1314",
+        "verified": true
+      }
+    ]
+  }
+}

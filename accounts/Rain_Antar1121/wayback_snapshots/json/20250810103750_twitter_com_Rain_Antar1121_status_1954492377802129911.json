@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1954473882783473820",
+    "created_at": "2025-08-10T10:37:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T11:37:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954492377802129911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1886244852201029633",
+          "start": 0,
+          "username": "william_owl_hoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954492377802129911",
+    "in_reply_to_user_id": "1886244852201029633",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954487297266815051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@william_owl_hoo ૮ ´͈ ᗜ `͈ ა♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1954473882783473820",
+        "created_at": "2025-08-10T10:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T11:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954492377802129911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1886244852201029633",
+              "start": 0,
+              "username": "william_owl_hoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954492377802129911",
+        "in_reply_to_user_id": "1886244852201029633",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954487297266815051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@william_owl_hoo ૮ ´͈ ᗜ `͈ ა♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886244852201029633",
+        "conversation_id": "1954473882783473820",
+        "created_at": "2025-08-10T10:17:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T11:17:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954487297266815051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954487297266815051",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954473882783473820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 (ﾉ*ﾟｰﾟ)ﾉ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1973,
+          "following_count": 2919,
+          "like_count": 5036,
+          "listed_count": 3,
+          "media_count": 64,
+          "tweet_count": 807
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T02:46:51.000Z",
+        "description": "高校三年生/有機化学/音楽/東方",
+        "id": "1886244852201029633",
+        "location": "幻想郷",
+        "name": "Marisa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950012629151547392/GWr-UOqp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 28,
+          "like_count": 292,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 53
+        },
+        "username": "william_owl_hoo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2051632397347869055",
+    "created_at": "2026-05-06T17:06:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T18:06:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052072553028751680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1779149099084009472",
+          "start": 0,
+          "username": "MikuLoverr_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052072553028751680",
+    "in_reply_to_user_id": "1779149099084009472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051632397347869055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MikuLoverr_ 喵呜…咱记得你的头像哦…🥺揉揉喵…愿小c安息呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051632394294403072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHjcyueaIAAtyb4.jpg",
+        "width": 916
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2051632397347869055",
+        "created_at": "2026-05-06T17:06:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T18:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052072553028751680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1779149099084009472",
+              "start": 0,
+              "username": "MikuLoverr_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052072553028751680",
+        "in_reply_to_user_id": "1779149099084009472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051632397347869055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MikuLoverr_ 喵呜…咱记得你的头像哦…🥺揉揉喵…愿小c安息呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051632394294403072"
+          ]
+        },
+        "author_id": "1779149099084009472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051632397347869055",
+        "created_at": "2026-05-05T11:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T12:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051632397347869055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0GKLknCObT",
+              "end": 96,
+              "expanded_url": "https://x.com/MikuLoverr_/status/2051632397347869055/photo/1",
+              "media_key": "3_2051632394294403072",
+              "start": 73,
+              "url": "https://t.co/0GKLknCObT"
+            },
+            {
+              "display_url": "x.com/wtxycCO/status…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/wtxycCO/status/1905998653095035205",
+              "start": 97,
+              "url": "https://t.co/fhaevDZU7X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051632397347869055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 954,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905998653095035205",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我在别人的转推上看到了小c当时的一个帖子\n当时我是红圈这一个\n这个打舞萌外键都痛的孩子\n到底受了多大的痛苦才选择亚硝酸钠……\n晚安，我想你了…… https://t.co/0GKLknCObT https://t.co/fhaevDZU7X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2033518993160736859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042559105353842688/Hs-yW50g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4014,
+          "following_count": 5993,
+          "like_count": 13560,
+          "listed_count": 10,
+          "media_count": 254,
+          "tweet_count": 2929
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-13T14:06:24.000Z",
+        "description": "Miku单推人/抑郁疯癫二相体/SRS预备/音游痴迷/重庆09年17岁理科牲/mtf🏳️‍⚧️/里推 @HiddenEmmMiku/双相ADHD感统失调/恋人 @mikumiku3648 /tips：本人玩梗不等同于自己实际立场",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "HiddenEmmMiku"
+              },
+              {
+                "end": 93,
+                "start": 80,
+                "username": "mikumiku3648"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ys-api.mihoyo.com/event/download…",
+                "end": 23,
+                "expanded_url": "https://ys-api.mihoyo.com/event/download_porter/link/ys_cn/official/android_default",
+                "start": 0,
+                "url": "https://t.co/rz5fLl5d1r"
+              }
+            ]
+          }
+        },
+        "id": "1779149099084009472",
+        "location": "劳资蜀道山",
+        "name": "emm🥝",
+        "pinned_tweet_id": "1994783507596677183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007766586707648513/c_VucSAa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1547,
+          "following_count": 1143,
+          "like_count": 30396,
+          "listed_count": 12,
+          "media_count": 991,
+          "tweet_count": 14774
+        },
+        "url": "https://t.co/rz5fLl5d1r",
+        "username": "MikuLoverr_",
+        "verified": false
+      }
+    ]
+  }
+}

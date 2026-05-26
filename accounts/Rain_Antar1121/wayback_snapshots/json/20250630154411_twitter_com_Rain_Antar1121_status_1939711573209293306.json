@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1939710133371859018",
+    "created_at": "2025-06-30T15:44:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T16:44:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939711573209293306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1739472736693735424",
+          "start": 0,
+          "username": "guo_lao32576"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939711573209293306",
+    "in_reply_to_user_id": "1739472736693735424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 23,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939710133371859018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guo_lao32576 不好不好不好…😡不许走哦～既然有人离开是不好的事…那月就要好好陪大家哦～也希望陪伴能让月乐观一点\n抱紧紧w…🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1939710133371859018",
+        "created_at": "2025-06-30T15:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T16:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939711573209293306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1739472736693735424",
+              "start": 0,
+              "username": "guo_lao32576"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939711573209293306",
+        "in_reply_to_user_id": "1739472736693735424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939710133371859018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guo_lao32576 不好不好不好…😡不许走哦～既然有人离开是不好的事…那月就要好好陪大家哦～也希望陪伴能让月乐观一点\n抱紧紧w…🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739472736693735424",
+        "conversation_id": "1939710133371859018",
+        "created_at": "2025-06-30T15:38:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T16:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939710133371859018"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1939710133371859018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "结果都还是离开了呢\n咱也选一天走好不好呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1919740598187147331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910722822059810817/tWPhmxtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1648,
+          "following_count": 2379,
+          "like_count": 4183,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 697
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-26T02:26:43.000Z",
+        "description": "「承载着梦的脆弱心灵」",
+        "id": "1739472736693735424",
+        "name": "月下缭乱",
+        "pinned_tweet_id": "1933205748504551869",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901519759788904448/svZ9dAeV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 974,
+          "like_count": 5849,
+          "listed_count": 3,
+          "media_count": 130,
+          "tweet_count": 2221
+        },
+        "username": "guo_lao32576",
+        "verified": false
+      }
+    ]
+  }
+}

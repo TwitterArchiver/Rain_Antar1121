@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2006029188008985044",
+    "created_at": "2025-12-30T15:51:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T16:51:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006030280771936410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1731865096345780224",
+          "start": 0,
+          "username": "Ustinian_XiXi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006030280771936410",
+    "in_reply_to_user_id": "1731865096345780224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006029188008985044",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ustinian_XiXi 呜圆嘟嘟好温柔…揉圆嘟( ⸝⸝⸝•_•⸝⸝⸝ )♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2006029188008985044",
+        "created_at": "2025-12-30T15:51:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T16:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006030280771936410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1731865096345780224",
+              "start": 0,
+              "username": "Ustinian_XiXi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006030280771936410",
+        "in_reply_to_user_id": "1731865096345780224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006029188008985044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ustinian_XiXi 呜圆嘟嘟好温柔…揉圆嘟( ⸝⸝⸝•_•⸝⸝⸝ )♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1731865096345780224",
+        "conversation_id": "2006029188008985044",
+        "created_at": "2025-12-30T15:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T16:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006029188008985044"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006029188008985044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实很不喜欢刷推(｢･ω･)｢\n要么gd要么引起别人gd\n跨圈就是这样的\n充斥着负面情绪\n我无力拯救别人\n我能做的最多只是说一些好听的话，提一些过来人的建议，然后就没有然后了\n我觉得跨子最需要的是从医学上证明性别焦虑是某种疾病\n或者说这是适合中国文化环境的去污名化"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的杂物 | 认真观察有趣的世界 | 想要…专属咱抱着的猫猫 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2852,
+          "following_count": 4294,
+          "like_count": 8087,
+          "listed_count": 5,
+          "media_count": 106,
+          "tweet_count": 1336
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-05T02:36:44.000Z",
+        "description": "是超级圆圆的嘟嘟鱼！(｢･ω･)｢\n持证含糖，hrt  2023.12.7",
+        "id": "1731865096345780224",
+        "name": "✎ℳ₯㎕希曦🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734585005718839296/RvMQy4gy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 413,
+          "like_count": 94,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 261
+        },
+        "username": "Ustinian_XiXi",
+        "verified": false
+      }
+    ]
+  }
+}

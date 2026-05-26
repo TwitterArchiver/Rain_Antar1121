@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2055627914339922286",
+    "created_at": "2026-05-16T12:58:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T13:58:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055634030725562757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1928850603939352576",
+          "start": 0,
+          "username": "stellimbris"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055634030725562757",
+    "in_reply_to_user_id": "1928850603939352576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055633534073577624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stellimbris 夏天咱最喜欢的就是云…大团团软绵绵的云…🥰有蓝天白云拍什么都好看\n不过旅行到热带海边就能天天看这种云了，或者大理这种面山背海的地方"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2055627914339922286",
+        "created_at": "2026-05-16T12:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055634030725562757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1928850603939352576",
+              "start": 0,
+              "username": "stellimbris"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055634030725562757",
+        "in_reply_to_user_id": "1928850603939352576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055633534073577624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stellimbris 夏天咱最喜欢的就是云…大团团软绵绵的云…🥰有蓝天白云拍什么都好看\n不过旅行到热带海边就能天天看这种云了，或者大理这种面山背海的地方"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928850603939352576",
+        "conversation_id": "2055627914339922286",
+        "created_at": "2026-05-16T12:56:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:56:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055633534073577624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055633534073577624",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055627914339922286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 夏天要到了.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042559105353842688/Hs-yW50g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4125,
+          "following_count": 6077,
+          "like_count": 14121,
+          "listed_count": 10,
+          "media_count": 272,
+          "tweet_count": 3200
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-31T16:29:57.000Z",
+        "description": "「一个穷极一生的活人」经常摄影•有时调色•偶尔发图 X 未成其名而风起云涌 X 随机泼洒随笔 X 摸索AI X 依旧做题蛆 X milthm drinker X 是活生生的人 Y 大傻逼🔱",
+        "id": "1928850603939352576",
+        "location": "Antarctica",
+        "name": "Stellimbris🐧",
+        "pinned_tweet_id": "2048327095156089110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039206985833517056/6Bsumz-M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 223,
+          "like_count": 1113,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 586
+        },
+        "username": "stellimbris",
+        "verified": false
+      }
+    ]
+  }
+}

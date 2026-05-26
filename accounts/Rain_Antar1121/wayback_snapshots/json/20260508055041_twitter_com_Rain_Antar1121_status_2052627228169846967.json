@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2052448168173039629",
+    "created_at": "2026-05-08T05:50:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T06:50:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052627228169846967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2039504366755790848",
+          "start": 0,
+          "username": "AsumiBloom"
+        },
+        {
+          "end": 21,
+          "id": "1811265295849598976",
+          "start": 12,
+          "username": "KiraMyao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052627228169846967",
+    "in_reply_to_user_id": "2039504366755790848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052584801685983587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsumiBloom @KiraMyao 你们好厉害…窝啥也不会呜呜😭😭😭\n爬…爬虫…听起来好神奇…像魔法一样😵‍💫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2052448168173039629",
+        "created_at": "2026-05-08T05:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T06:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052627228169846967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2039504366755790848",
+              "start": 0,
+              "username": "AsumiBloom"
+            },
+            {
+              "end": 21,
+              "id": "1811265295849598976",
+              "start": 12,
+              "username": "KiraMyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052627228169846967",
+        "in_reply_to_user_id": "2039504366755790848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052584801685983587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsumiBloom @KiraMyao 你们好厉害…窝啥也不会呜呜😭😭😭\n爬…爬虫…听起来好神奇…像魔法一样😵‍💫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039504366755790848",
+        "conversation_id": "2052448168173039629",
+        "created_at": "2026-05-08T03:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T04:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052584801685983587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1811265295849598976",
+              "start": 0,
+              "username": "KiraMyao"
+            },
+            {
+              "end": 25,
+              "id": "1894461745277931524",
+              "start": 10,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052584801685983587",
+        "in_reply_to_user_id": "1811265295849598976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052472305960517766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KiraMyao @Rain_Antar1121 可以搞一个爬虫，把名字全输进去之后自动把头像全爬下来，然后把图片压缩一下之后排到一张比较大的空白图片中…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042559105353842688/Hs-yW50g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4038,
+          "following_count": 6008,
+          "like_count": 13691,
+          "listed_count": 10,
+          "media_count": 256,
+          "tweet_count": 2982
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-02T00:45:24.000Z",
+        "description": "喜欢xnn/xyn丨求互fo丨INFP/ISFP丨26.4.8螺+凝胶丨中度社恐丨重度失眠丨长期内不会紫砂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/asumibloom",
+                "end": 23,
+                "expanded_url": "https://ngl.link/asumibloom",
+                "start": 0,
+                "url": "https://t.co/I4tM6i6R7O"
+              }
+            ]
+          }
+        },
+        "id": "2039504366755790848",
+        "name": "澄花🍥",
+        "pinned_tweet_id": "2039916482445124085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039732354839871489/pX1wI3ao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 129,
+          "like_count": 602,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 559
+        },
+        "url": "https://t.co/I4tM6i6R7O",
+        "username": "AsumiBloom",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T05:04:57.000Z",
+        "description": "KiraMyao🌎きらみゃお🌏星绮喵                                      \n  \nTech💾 meme👻 Equal❤️\n\nUnderstand risk. Move through it.😡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "equal.kiramayo.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://equal.kiramayo.dpdns.org",
+                "start": 0,
+                "url": "https://t.co/HY2O2A4Kqa"
+              }
+            ]
+          }
+        },
+        "id": "1811265295849598976",
+        "location": "Japan",
+        "name": "KiraMyao🐱",
+        "pinned_tweet_id": "2043007235786445150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050442466428616704/Cd6JwXLB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 355,
+          "like_count": 9564,
+          "listed_count": 3,
+          "media_count": 371,
+          "tweet_count": 1484
+        },
+        "url": "https://t.co/HY2O2A4Kqa",
+        "username": "KiraMyao",
+        "verified": true
+      }
+    ]
+  }
+}

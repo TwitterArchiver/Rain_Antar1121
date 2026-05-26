@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2054133469211709816",
+    "created_at": "2026-05-12T16:43:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T17:43:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054241128996819036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2001945255403503616",
+          "start": 0,
+          "username": "paradox142777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054241128996819036",
+    "in_reply_to_user_id": "2001945255403503616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054223838196691395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@paradox142777 欸这个人味很重的前景真的需要厚重嘛…🥺）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2054133469211709816",
+        "created_at": "2026-05-12T16:43:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T17:43:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054241128996819036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2001945255403503616",
+              "start": 0,
+              "username": "paradox142777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054241128996819036",
+        "in_reply_to_user_id": "2001945255403503616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054223838196691395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paradox142777 欸这个人味很重的前景真的需要厚重嘛…🥺）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001945255403503616",
+        "conversation_id": "2054133469211709816",
+        "created_at": "2026-05-12T15:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T16:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054223838196691395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054223838196691395",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054133469211709816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 这个滤镜反而增添了一丝厚重感呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042559105353842688/Hs-yW50g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4079,
+          "following_count": 6059,
+          "like_count": 13965,
+          "listed_count": 10,
+          "media_count": 265,
+          "tweet_count": 3100
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-19T09:18:51.000Z",
+        "description": "MTF｜无证含糖🍥｜工业设计牛马:Plasticity & Creo｜本人纯社恐，但欢迎私聊｜互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xiaohongshu.com/user/profile/6…",
+                "end": 23,
+                "expanded_url": "https://www.xiaohongshu.com/user/profile/62f278f2000000001e01c987",
+                "start": 0,
+                "url": "https://t.co/HeId3UQT6G"
+              }
+            ]
+          }
+        },
+        "id": "2001945255403503616",
+        "name": "双联金高平parAdox🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051490232651169792/UIsBJcQQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 122,
+          "like_count": 417,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 57
+        },
+        "url": "https://t.co/HeId3UQT6G",
+        "username": "paradox142777",
+        "verified": false
+      }
+    ]
+  }
+}

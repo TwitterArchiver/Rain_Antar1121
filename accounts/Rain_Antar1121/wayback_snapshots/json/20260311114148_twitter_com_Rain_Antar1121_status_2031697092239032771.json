@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1769702571860713787",
+    "created_at": "2026-03-11T11:41:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T12:41:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031697092239032771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1625169157510823941",
+          "start": 0,
+          "username": "bnzhungxiox1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031697092239032771",
+    "in_reply_to_user_id": "1625169157510823941",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1769702571860713787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bnzhungxiox1 ૮ ´͈ ᗜ `͈ ა♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1769702571860713787",
+        "created_at": "2026-03-11T11:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T12:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031697092239032771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1625169157510823941",
+              "start": 0,
+              "username": "bnzhungxiox1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031697092239032771",
+        "in_reply_to_user_id": "1625169157510823941",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1769702571860713787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bnzhungxiox1 ૮ ´͈ ᗜ `͈ ა♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1625169157510823941",
+        "conversation_id": "1769702571860713787",
+        "created_at": "2024-03-18T12:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-03-18T13:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1769702571860713787"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1769702571860713787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1545,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "交友条\n 回复（什么都可以！！）就可以和我互fo，女生可以加绿泡泡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的杂物 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3475,
+          "following_count": 5211,
+          "like_count": 10848,
+          "listed_count": 8,
+          "media_count": 182,
+          "tweet_count": 2093
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-13T16:25:38.000Z",
+        "description": "",
+        "id": "1625169157510823941",
+        "name": "苏晓缘",
+        "pinned_tweet_id": "1769702571860713787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713421050124673024/BELBMcP5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 563,
+          "like_count": 4409,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 191
+        },
+        "username": "bnzhungxiox1",
+        "verified": false
+      }
+    ]
+  }
+}

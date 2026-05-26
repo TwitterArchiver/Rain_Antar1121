@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1930359787054870529"
+      ],
+      "media_source_tweet_id": [
+        "1930359823952163020"
+      ]
+    },
+    "author_id": "1894461745277931524",
+    "conversation_id": "1930411332576391336",
+    "created_at": "2025-06-04T23:48:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T00:48:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930411332576391336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1744316513291747328",
+          "start": 3,
+          "username": "shuifenziya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ati1TdU4uo",
+          "end": 97,
+          "expanded_url": "https://x.com/shuifenziya/status/1930359823952163020/video/1",
+          "media_key": "7_1930359787054870529",
+          "start": 74,
+          "url": "https://t.co/Ati1TdU4uo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930411332576391336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930359823952163020",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shuifenziya: 快养不起咯，有人要嘛QAQ无偿领养。我连我自己都快养不活了...也不想说太多了，广东清远这边的可以过来拿任选（） https://t.co/Ati1TdU4uo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13943,
+        "height": 1280,
+        "media_key": "7_1930359787054870529",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1930359787054870529/pu/img/0EG73GcRqSsHVk9g.jpg",
+        "public_metrics": {
+          "view_count": 63
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1930359787054870529/pu/vid/avc1/320x568/WWIyV9MloskSdzgB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1930359787054870529/pu/vid/avc1/480x852/c4MdLEpNLvp0EJJc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1930359787054870529/pu/vid/avc1/720x1280/-qDdkKbs8MIFxE9C.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1930359787054870529/pu/pl/A06WsxjQ2lpkx0zU.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1930359787054870529"
+          ],
+          "media_source_tweet_id": [
+            "1930359823952163020"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "conversation_id": "1930411332576391336",
+        "created_at": "2025-06-04T23:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T00:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930411332576391336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1744316513291747328",
+              "start": 3,
+              "username": "shuifenziya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ati1TdU4uo",
+              "end": 97,
+              "expanded_url": "https://x.com/shuifenziya/status/1930359823952163020/video/1",
+              "media_key": "7_1930359787054870529",
+              "start": 74,
+              "url": "https://t.co/Ati1TdU4uo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930411332576391336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930359823952163020",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shuifenziya: 快养不起咯，有人要嘛QAQ无偿领养。我连我自己都快养不活了...也不想说太多了，广东清远这边的可以过来拿任选（） https://t.co/Ati1TdU4uo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1930359787054870529"
+          ]
+        },
+        "author_id": "1744316513291747328",
+        "conversation_id": "1930359823952163020",
+        "created_at": "2025-06-04T20:23:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T21:23:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930359823952163020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ati1TdU4uo",
+              "end": 80,
+              "expanded_url": "https://x.com/shuifenziya/status/1930359823952163020/video/1",
+              "media_key": "7_1930359787054870529",
+              "start": 57,
+              "url": "https://t.co/Ati1TdU4uo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930359823952163020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "快养不起咯，有人要嘛QAQ无偿领养。我连我自己都快养不活了...也不想说太多了，广东清远这边的可以过来拿任选（） https://t.co/Ati1TdU4uo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1919740598187147331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910722822059810817/tWPhmxtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1085,
+          "following_count": 1675,
+          "like_count": 2665,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 525
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-08T11:14:12.000Z",
+        "description": "我...我....是水分子呀/08年17岁/休学中ing.../无证🍥hrt6个月/💥已炸柜/167cm50kg/坐标广东清远/负能/🚪35/不接线下/是条杂鱼🐟~~/SAD/互fo/喜欢六花和六花/不鉴证/小鸟游六花单推/",
+        "id": "1744316513291747328",
+        "location": "我在二次元",
+        "name": "一个水分子🍥",
+        "pinned_tweet_id": "1924306437486067956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925266758442827776/geSMUFNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 880,
+          "following_count": 622,
+          "like_count": 18873,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 1253
+        },
+        "username": "shuifenziya",
+        "verified": false
+      }
+    ]
+  }
+}

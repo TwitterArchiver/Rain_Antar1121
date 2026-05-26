@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1935456912327458846",
+    "created_at": "2025-06-19T13:41:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T14:41:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935694404909699433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1672670387409395712",
+          "start": 0,
+          "username": "YENA_QWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935694404909699433",
+    "in_reply_to_user_id": "1672670387409395712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935456912327458846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YENA_QWQ 喵耶ω＜=)ρ⌒☆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1935456912327458846",
+        "created_at": "2025-06-19T13:41:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T14:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935694404909699433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1672670387409395712",
+              "start": 0,
+              "username": "YENA_QWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935694404909699433",
+        "in_reply_to_user_id": "1672670387409395712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935456912327458846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YENA_QWQ 喵耶ω＜=)ρ⌒☆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672670387409395712",
+        "conversation_id": "1935456912327458846",
+        "created_at": "2025-06-18T21:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T22:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935456912327458846"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1935456912327458846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 800,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呐，要和奈奈互关吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1919740598187147331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910722822059810817/tWPhmxtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1443,
+          "following_count": 2148,
+          "like_count": 3622,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 593
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-24T18:18:15.000Z",
+        "description": "至少还有别人爱我，不是吗。",
+        "id": "1672670387409395712",
+        "location": "0772",
+        "name": "叶奈–YENA🍥",
+        "pinned_tweet_id": "1935451404682080385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916143077393371136/bcs8Oqin_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1012,
+          "following_count": 323,
+          "like_count": 521,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 39
+        },
+        "username": "YENA_QWQ",
+        "verified": false
+      }
+    ]
+  }
+}

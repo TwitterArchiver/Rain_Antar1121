@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1954140533930278912",
+        "3_1954140533930233856"
+      ],
+      "media_source_tweet_id": [
+        "1954140540586328289",
+        "1954140540586328289"
+      ]
+    },
+    "author_id": "1894461745277931524",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10051379260",
+          "name": "Love, Chunibyo and Other Delusions"
+        }
+      }
+    ],
+    "conversation_id": "1954375910360265037",
+    "created_at": "2025-08-10T02:55:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T03:55:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954375910360265037"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "凸ちゃん",
+          "probability": 0.8077,
+          "start": 18,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 45,
+          "start": 33,
+          "tag": "凸守早苗生誕祭2025"
+        },
+        {
+          "end": 59,
+          "start": 48,
+          "tag": "中二病でも恋がしたい"
+        },
+        {
+          "end": 70,
+          "start": 62,
+          "tag": "chu2koi"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1909976704216641536",
+          "start": 3,
+          "username": "rikkaaaa0612"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XN7FuVrLDU",
+          "end": 94,
+          "expanded_url": "https://x.com/rikkaaaa0612/status/1954140540586328289/photo/1",
+          "media_key": "3_1954140533930278912",
+          "start": 71,
+          "url": "https://t.co/XN7FuVrLDU"
+        },
+        {
+          "display_url": "pic.x.com/XN7FuVrLDU",
+          "end": 94,
+          "expanded_url": "https://x.com/rikkaaaa0612/status/1954140540586328289/photo/1",
+          "media_key": "3_1954140533930233856",
+          "start": 71,
+          "url": "https://t.co/XN7FuVrLDU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954375910360265037",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954140540586328289",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rikkaaaa0612: 凸ちゃん誕生日おめでとう！\n #凸守早苗生誕祭2025 \n #中二病でも恋がしたい \n #chu2koi https://t.co/XN7FuVrLDU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_1954140533930278912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx6Adk4bQAAy3WC.jpg",
+        "width": 455
+      },
+      {
+        "height": 463,
+        "media_key": "3_1954140533930233856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx6Adk4akAAx-2O.jpg",
+        "width": 564
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954140533930278912",
+            "3_1954140533930233856"
+          ],
+          "media_source_tweet_id": [
+            "1954140540586328289",
+            "1954140540586328289"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051379260",
+              "name": "Love, Chunibyo and Other Delusions"
+            }
+          }
+        ],
+        "conversation_id": "1954375910360265037",
+        "created_at": "2025-08-10T02:55:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T03:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954375910360265037"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "凸ちゃん",
+              "probability": 0.8077,
+              "start": 18,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 33,
+              "tag": "凸守早苗生誕祭2025"
+            },
+            {
+              "end": 59,
+              "start": 48,
+              "tag": "中二病でも恋がしたい"
+            },
+            {
+              "end": 70,
+              "start": 62,
+              "tag": "chu2koi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1909976704216641536",
+              "start": 3,
+              "username": "rikkaaaa0612"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XN7FuVrLDU",
+              "end": 94,
+              "expanded_url": "https://x.com/rikkaaaa0612/status/1954140540586328289/photo/1",
+              "media_key": "3_1954140533930278912",
+              "start": 71,
+              "url": "https://t.co/XN7FuVrLDU"
+            },
+            {
+              "display_url": "pic.x.com/XN7FuVrLDU",
+              "end": 94,
+              "expanded_url": "https://x.com/rikkaaaa0612/status/1954140540586328289/photo/1",
+              "media_key": "3_1954140533930233856",
+              "start": 71,
+              "url": "https://t.co/XN7FuVrLDU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954375910360265037",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954140540586328289",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rikkaaaa0612: 凸ちゃん誕生日おめでとう！\n #凸守早苗生誕祭2025 \n #中二病でも恋がしたい \n #chu2koi https://t.co/XN7FuVrLDU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954140533930278912",
+            "3_1954140533930233856"
+          ]
+        },
+        "author_id": "1909976704216641536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051379260",
+              "name": "Love, Chunibyo and Other Delusions"
+            }
+          }
+        ],
+        "conversation_id": "1954140540586328289",
+        "created_at": "2025-08-09T11:19:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T12:19:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954140540586328289"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "凸ちゃん",
+              "probability": 0.7863,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 15,
+              "tag": "凸守早苗生誕祭2025"
+            },
+            {
+              "end": 41,
+              "start": 30,
+              "tag": "中二病でも恋がしたい"
+            },
+            {
+              "end": 52,
+              "start": 44,
+              "tag": "chu2koi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XN7FuVrLDU",
+              "end": 76,
+              "expanded_url": "https://x.com/rikkaaaa0612/status/1954140540586328289/photo/1",
+              "media_key": "3_1954140533930278912",
+              "start": 53,
+              "url": "https://t.co/XN7FuVrLDU"
+            },
+            {
+              "display_url": "pic.x.com/XN7FuVrLDU",
+              "end": 76,
+              "expanded_url": "https://x.com/rikkaaaa0612/status/1954140540586328289/photo/1",
+              "media_key": "3_1954140533930233856",
+              "start": 53,
+              "url": "https://t.co/XN7FuVrLDU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954140540586328289",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1213,
+          "like_count": 81,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "凸ちゃん誕生日おめでとう！\n #凸守早苗生誕祭2025 \n #中二病でも恋がしたい \n #chu2koi https://t.co/XN7FuVrLDU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1970,
+          "following_count": 2912,
+          "like_count": 5031,
+          "listed_count": 3,
+          "media_count": 63,
+          "tweet_count": 805
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-09T14:28:38.000Z",
+        "description": "中二病でも恋がしたい!の聖地巡礼してます。 中二恋関連のこととか色々。",
+        "id": "1909976704216641536",
+        "location": "滋賀県(願望)",
+        "name": "lite.",
+        "pinned_tweet_id": "1932944241329910045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910823179263848448/MCyvkGCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 36,
+          "like_count": 836,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 92
+        },
+        "username": "rikkaaaa0612",
+        "verified": false
+      }
+    ]
+  }
+}

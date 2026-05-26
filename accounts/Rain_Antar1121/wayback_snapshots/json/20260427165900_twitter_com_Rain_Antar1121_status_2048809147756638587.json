@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2048703977756532740",
+    "created_at": "2026-04-27T16:59:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T17:59:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048809147756638587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1816008766502100992",
+          "start": 0,
+          "username": "Y205621"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048809147756638587",
+    "in_reply_to_user_id": "1816008766502100992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048749695581966591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y205621 耶嘻嘻贴姐姐♡=•ㅅ＜=)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2048703977756532740",
+        "created_at": "2026-04-27T16:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T17:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048809147756638587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1816008766502100992",
+              "start": 0,
+              "username": "Y205621"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048809147756638587",
+        "in_reply_to_user_id": "1816008766502100992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048749695581966591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y205621 耶嘻嘻贴姐姐♡=•ㅅ＜=)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816008766502100992",
+        "conversation_id": "2048703977756532740",
+        "created_at": "2026-04-27T13:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T14:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048749695581966591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048749695581966591",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048703977756532740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 喔喔喔好厉害！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2033518993160736859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042559105353842688/Hs-yW50g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3925,
+          "following_count": 5898,
+          "like_count": 13183,
+          "listed_count": 8,
+          "media_count": 232,
+          "tweet_count": 2712
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-24T07:13:31.000Z",
+        "description": "",
+        "id": "1816008766502100992",
+        "name": "锦瑜🍥",
+        "pinned_tweet_id": "1924671918004961570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042517046148411392/-o0IvEVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 118,
+          "like_count": 267,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 193
+        },
+        "username": "Y205621",
+        "verified": false
+      }
+    ]
+  }
+}

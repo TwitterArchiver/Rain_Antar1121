@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2049729488288977330",
+    "created_at": "2026-04-30T12:15:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T13:15:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049824846339813714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1890717486343233536",
+          "start": 0,
+          "username": "SyHina233086"
+        },
+        {
+          "end": 23,
+          "id": "2031270533359349761",
+          "start": 14,
+          "username": "senzhiwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049824846339813714",
+    "in_reply_to_user_id": "1890717486343233536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049812592089276531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SyHina233086 @senzhiwu 哼哼，这个笨蛋就是欠敲♡=•ㅅ＜=)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2049729488288977330",
+        "created_at": "2026-04-30T12:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T13:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049824846339813714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1890717486343233536",
+              "start": 0,
+              "username": "SyHina233086"
+            },
+            {
+              "end": 23,
+              "id": "2031270533359349761",
+              "start": 14,
+              "username": "senzhiwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049824846339813714",
+        "in_reply_to_user_id": "1890717486343233536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049812592089276531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SyHina233086 @senzhiwu 哼哼，这个笨蛋就是欠敲♡=•ㅅ＜=)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1890717486343233536",
+        "conversation_id": "2049729488288977330",
+        "created_at": "2026-04-30T11:26:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T12:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049812592089276531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 25,
+              "id": "2031270533359349761",
+              "start": 16,
+              "username": "senzhiwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049812592089276531",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049749971210313851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 @senzhiwu 太温柔了，可以直接骂ta的😪已经私下骂ta了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2033518993160736859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042559105353842688/Hs-yW50g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3956,
+          "following_count": 5931,
+          "like_count": 13228,
+          "listed_count": 8,
+          "media_count": 237,
+          "tweet_count": 2754
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-15T10:59:21.000Z",
+        "description": "随机出现/116岁09.81/普通高2生/intp/5w4or9w8/精神正常的想炸飞所有人/adhd干预治疗中…/mt Helicopter gunship/会互fo/dark p😻/cat/like化学/编程/computer-related/vrc/l4d2like！❤️‍🔥/\n精神恢复正常🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Hikarikae",
+                "end": 23,
+                "expanded_url": "http://t.me/Hikarikae",
+                "start": 0,
+                "url": "https://t.co/NOu2TRx7ft"
+              }
+            ]
+          }
+        },
+        "id": "1890717486343233536",
+        "name": "Hikaruna💫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043683198501322752/R5PNYRBH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 47,
+          "like_count": 205,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 93
+        },
+        "url": "https://t.co/NOu2TRx7ft",
+        "username": "SyHina233086",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-10T07:27:30.000Z",
+        "description": "一个什么都不擅长的废物吧（或许❓）生产日期2008（真的重要吗🤔）mtx（为啥不是mtf😭）ENTP-T（不知道测了有啥用😇）究极大爱慕（真的能说吗😨）hrt 3.29（未免太短了吧😡）🇲🇾留学生/常驻南京 欢迎来吉隆坡和南京找我玩喵（谁会跟长相顺男玩呢😭） 碎碎念：好想被人爱",
+        "id": "2031270533359349761",
+        "location": "你家门口",
+        "name": "senzhiwu🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2048801052687024280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047353915830882304/u21sPFyG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 209,
+          "like_count": 1365,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 1194
+        },
+        "username": "senzhiwu",
+        "verified": false
+      }
+    ]
+  }
+}

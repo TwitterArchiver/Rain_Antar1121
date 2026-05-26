@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957001535889809408"
+      ]
+    },
+    "author_id": "1894461745277931524",
+    "conversation_id": "1956774296417939546",
+    "created_at": "2025-08-17T08:48:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T09:48:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957001538943246338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1768309380108406784",
+          "start": 0,
+          "username": "abaablon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jT7O762Ycu",
+          "end": 109,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/1957001538943246338/photo/1",
+          "media_key": "3_1957001535889809408",
+          "start": 86,
+          "url": "https://t.co/jT7O762Ycu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957001538943246338",
+    "in_reply_to_user_id": "1768309380108406784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956993187396083849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@abaablon 噗啊杭州的反跨还在南京写字向南京的反跨求救…你们真的好厉害呢\n呜预警一下南京这帮人可能会进攻你们…还有有精力的话能不能来救救南京这边，比如说咱的画🥹😭 https://t.co/jT7O762Ycu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 355,
+        "media_key": "3_1957001535889809408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyiqhzubIAAFNbr.png",
+        "width": 266
+      },
+      {
+        "height": 1091,
+        "media_key": "3_1956993184296550400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyii7rnbQAAynZe.jpg",
+        "width": 1296
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957001535889809408"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "conversation_id": "1956774296417939546",
+        "created_at": "2025-08-17T08:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T09:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957001538943246338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1768309380108406784",
+              "start": 0,
+              "username": "abaablon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jT7O762Ycu",
+              "end": 109,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/1957001538943246338/photo/1",
+              "media_key": "3_1957001535889809408",
+              "start": 86,
+              "url": "https://t.co/jT7O762Ycu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957001538943246338",
+        "in_reply_to_user_id": "1768309380108406784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956993187396083849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@abaablon 噗啊杭州的反跨还在南京写字向南京的反跨求救…你们真的好厉害呢\n呜预警一下南京这帮人可能会进攻你们…还有有精力的话能不能来救救南京这边，比如说咱的画🥹😭 https://t.co/jT7O762Ycu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956993184296550400"
+          ]
+        },
+        "author_id": "1768309380108406784",
+        "conversation_id": "1956774296417939546",
+        "created_at": "2025-08-17T08:15:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T09:15:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956993187396083849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kbUF0F3nQx",
+              "end": 75,
+              "expanded_url": "https://x.com/abaablon/status/1956993187396083849/photo/1",
+              "media_key": "3_1956993184296550400",
+              "start": 52,
+              "url": "https://t.co/kbUF0F3nQx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956993187396083849",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956989089422659590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 目前是这样，之前反跨人画的其它东西全被报复盖住了。\n不过应该会反攻ね。 https://t.co/kbUF0F3nQx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2057,
+          "following_count": 3005,
+          "like_count": 5287,
+          "listed_count": 3,
+          "media_count": 71,
+          "tweet_count": 877
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-14T16:13:15.000Z",
+        "description": "🇨🇳CN，EN/JP/FR学习中🌏语言学Linguistics\n🏳️‍⚧️糕中生MtF🍥泛性恋pan.🏳️‍🌈PRIDE\n☔二次元老公❤️『笠っち』\n☮️热爱和平☀️反对任何极端主义\n😘はは@kir1same7 ちち@SShn_30741 あね@KiraRettosei",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 95,
+                "username": "kir1same7"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "SShn_30741"
+              },
+              {
+                "end": 135,
+                "start": 122,
+                "username": "KiraRettosei"
+              }
+            ]
+          }
+        },
+        "id": "1768309380108406784",
+        "location": "kuishuu",
+        "name": "Abaablon🏳️‍🌈🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930635060648239104/oEijdb4T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 879,
+          "following_count": 324,
+          "like_count": 15367,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1139
+        },
+        "username": "abaablon",
+        "verified": false
+      }
+    ]
+  }
+}

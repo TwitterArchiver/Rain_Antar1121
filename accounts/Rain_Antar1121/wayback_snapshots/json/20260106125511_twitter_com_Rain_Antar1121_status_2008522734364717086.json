@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2008522690148319232",
+        "3_2008522690156785669",
+        "3_2008522690152591363",
+        "3_2008522690165096448"
+      ]
+    },
+    "author_id": "1894461745277931524",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2008522734364717086",
+    "created_at": "2026-01-06T12:55:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T13:55:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008522734364717086"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kklRZ7SVwf",
+          "end": 160,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/2008522734364717086/photo/1",
+          "media_key": "3_2008522690148319232",
+          "start": 137,
+          "url": "https://t.co/kklRZ7SVwf"
+        },
+        {
+          "display_url": "pic.x.com/kklRZ7SVwf",
+          "end": 160,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/2008522734364717086/photo/1",
+          "media_key": "3_2008522690156785669",
+          "start": 137,
+          "url": "https://t.co/kklRZ7SVwf"
+        },
+        {
+          "display_url": "pic.x.com/kklRZ7SVwf",
+          "end": 160,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/2008522734364717086/photo/1",
+          "media_key": "3_2008522690152591363",
+          "start": 137,
+          "url": "https://t.co/kklRZ7SVwf"
+        },
+        {
+          "display_url": "pic.x.com/kklRZ7SVwf",
+          "end": 160,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/2008522734364717086/photo/1",
+          "media_key": "3_2008522690165096448",
+          "start": 137,
+          "url": "https://t.co/kklRZ7SVwf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008522734364717086",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🇲🇴🥰～\n去澳门完全没有提前做攻略）也许因此，觉得这些氹仔的这些商场，很，同质化，就是当大型雕塑展看，，，虽然很出片但是并没很有符合当游乐场玩的那种预期˃ʍ˂\n唔，真的去欧洲看这种风格的建筑感觉会很不一样吗）会更金碧辉煌一点吗\n(｡•﹃•｡)井底之蛙好像还没出过真正的远门 https://t.co/kklRZ7SVwf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2008522690148319232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9-0vr2aQAA99vA.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2008522690156785669",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9-0vr4bcAU5c84.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2008522690152591363",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9-0vr3bcAM_O59.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2008522690165096448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9-0vr6aQAAqWOJ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008522690148319232",
+            "3_2008522690156785669",
+            "3_2008522690152591363",
+            "3_2008522690165096448"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2008522734364717086",
+        "created_at": "2026-01-06T12:55:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T13:55:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008522734364717086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kklRZ7SVwf",
+              "end": 160,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2008522734364717086/photo/1",
+              "media_key": "3_2008522690148319232",
+              "start": 137,
+              "url": "https://t.co/kklRZ7SVwf"
+            },
+            {
+              "display_url": "pic.x.com/kklRZ7SVwf",
+              "end": 160,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2008522734364717086/photo/1",
+              "media_key": "3_2008522690156785669",
+              "start": 137,
+              "url": "https://t.co/kklRZ7SVwf"
+            },
+            {
+              "display_url": "pic.x.com/kklRZ7SVwf",
+              "end": 160,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2008522734364717086/photo/1",
+              "media_key": "3_2008522690152591363",
+              "start": 137,
+              "url": "https://t.co/kklRZ7SVwf"
+            },
+            {
+              "display_url": "pic.x.com/kklRZ7SVwf",
+              "end": 160,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2008522734364717086/photo/1",
+              "media_key": "3_2008522690165096448",
+              "start": 137,
+              "url": "https://t.co/kklRZ7SVwf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008522734364717086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🇲🇴🥰～\n去澳门完全没有提前做攻略）也许因此，觉得这些氹仔的这些商场，很，同质化，就是当大型雕塑展看，，，虽然很出片但是并没很有符合当游乐场玩的那种预期˃ʍ˂\n唔，真的去欧洲看这种风格的建筑感觉会很不一样吗）会更金碧辉煌一点吗\n(｡•﹃•｡)井底之蛙好像还没出过真正的远门 https://t.co/kklRZ7SVwf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的杂物 | 认真观察有趣的世界 | 想要…专属咱抱着的猫猫 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2892,
+          "following_count": 4326,
+          "like_count": 8238,
+          "listed_count": 5,
+          "media_count": 117,
+          "tweet_count": 1379
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      }
+    ]
+  }
+}

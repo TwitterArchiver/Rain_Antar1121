@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019966279889940480",
+        "3_2019966280254767105"
+      ],
+      "media_source_tweet_id": [
+        "2019966283010429001",
+        "2019966283010429001"
+      ]
+    },
+    "author_id": "1894461745277931524",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2019968794001883330",
+    "created_at": "2026-02-07T02:57:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T03:57:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019968794001883330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1855413035890028544",
+          "start": 3,
+          "username": "MZiyu81757"
+        },
+        {
+          "end": 81,
+          "id": "1894461745277931524",
+          "start": 66,
+          "username": "Rain_Antar1121"
+        },
+        {
+          "end": 95,
+          "id": "1903681772803743744",
+          "start": 82,
+          "username": "zong_gu42511"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PKLNZqiGfV",
+          "end": 137,
+          "expanded_url": "https://x.com/MZiyu81757/status/2019966283010429001/photo/1",
+          "media_key": "3_2019966279889940480",
+          "start": 114,
+          "url": "https://t.co/PKLNZqiGfV"
+        },
+        {
+          "display_url": "pic.x.com/PKLNZqiGfV",
+          "end": 137,
+          "expanded_url": "https://x.com/MZiyu81757/status/2019966283010429001/photo/1",
+          "media_key": "3_2019966280254767105",
+          "start": 114,
+          "url": "https://t.co/PKLNZqiGfV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019968794001883330",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019966283010429001",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MZiyu81757: Miku&amp;伊蕾娜！！！！我从来没有想过会有人给我众筹礼物……呜呜呜呜呜呜呜呜好感动！！！\n（@Rain_Antar1121和@zong_gu42511的礼物！！！！谢谢你们！！！！！！） https://t.co/PKLNZqiGfV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2019966279889940480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAhcoRsbcAAo8Z-.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2019966280254767105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAhcoTDaQAEmyII.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019966279889940480",
+            "3_2019966280254767105"
+          ],
+          "media_source_tweet_id": [
+            "2019966283010429001",
+            "2019966283010429001"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2019968794001883330",
+        "created_at": "2026-02-07T02:57:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T03:57:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019968794001883330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1855413035890028544",
+              "start": 3,
+              "username": "MZiyu81757"
+            },
+            {
+              "end": 81,
+              "id": "1894461745277931524",
+              "start": 66,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 95,
+              "id": "1903681772803743744",
+              "start": 82,
+              "username": "zong_gu42511"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PKLNZqiGfV",
+              "end": 137,
+              "expanded_url": "https://x.com/MZiyu81757/status/2019966283010429001/photo/1",
+              "media_key": "3_2019966279889940480",
+              "start": 114,
+              "url": "https://t.co/PKLNZqiGfV"
+            },
+            {
+              "display_url": "pic.x.com/PKLNZqiGfV",
+              "end": 137,
+              "expanded_url": "https://x.com/MZiyu81757/status/2019966283010429001/photo/1",
+              "media_key": "3_2019966280254767105",
+              "start": 114,
+              "url": "https://t.co/PKLNZqiGfV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019968794001883330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019966283010429001",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MZiyu81757: Miku&amp;伊蕾娜！！！！我从来没有想过会有人给我众筹礼物……呜呜呜呜呜呜呜呜好感动！！！\n（@Rain_Antar1121和@zong_gu42511的礼物！！！！谢谢你们！！！！！！） https://t.co/PKLNZqiGfV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019966279889940480",
+            "3_2019966280254767105"
+          ]
+        },
+        "author_id": "1855413035890028544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2019966283010429001",
+        "created_at": "2026-02-07T02:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T03:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019966283010429001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 65,
+              "id": "1894461745277931524",
+              "start": 50,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 79,
+              "id": "1903681772803743744",
+              "start": 66,
+              "username": "zong_gu42511"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PKLNZqiGfV",
+              "end": 121,
+              "expanded_url": "https://x.com/MZiyu81757/status/2019966283010429001/photo/1",
+              "media_key": "3_2019966279889940480",
+              "start": 98,
+              "url": "https://t.co/PKLNZqiGfV"
+            },
+            {
+              "display_url": "pic.x.com/PKLNZqiGfV",
+              "end": 121,
+              "expanded_url": "https://x.com/MZiyu81757/status/2019966283010429001/photo/1",
+              "media_key": "3_2019966280254767105",
+              "start": 98,
+              "url": "https://t.co/PKLNZqiGfV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019966283010429001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Miku&amp;伊蕾娜！！！！我从来没有想过会有人给我众筹礼物……呜呜呜呜呜呜呜呜好感动！！！\n（@Rain_Antar1121和@zong_gu42511的礼物！！！！谢谢你们！！！！！！） https://t.co/PKLNZqiGfV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的杂物 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3184,
+          "following_count": 4720,
+          "like_count": 9218,
+          "listed_count": 6,
+          "media_count": 130,
+          "tweet_count": 1655
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-10T00:52:03.000Z",
+        "description": "路过人间的木子昱，喜欢分享生活中的美好与创意。\nhttps://t.co/I1W0OpyiqJ←⁠_⁠←匿名消息链接，欢迎提问喔\n❤️共生体@berrrry_na❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 70,
+                "username": "berrrry_na"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/muziyu_ziyu",
+                "end": 47,
+                "expanded_url": "https://ngl.link/muziyu_ziyu",
+                "start": 24,
+                "url": "https://t.co/I1W0OpyiqJ"
+              }
+            ]
+          }
+        },
+        "id": "1855413035890028544",
+        "location": "美好的二次元世界",
+        "name": "木子昱&MuZiyu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871950235607711744/WqcBvG_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 152,
+          "like_count": 654,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 837
+        },
+        "username": "MZiyu81757",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-23T05:34:46.000Z",
+        "description": "MtF🏳️‍⚧️ | 08年的南京女孩🍡 | ENFP | 抹茶控🍵｜同类互fo｜奥克兰🇳🇿上高中｜历史/诗词歌赋/小提琴🎻/古今各种动物的爱好家🐿️｜被心上人爱包围的孩子🥰",
+        "id": "1903681772803743744",
+        "location": "Auckland, New Zealand",
+        "name": "Rhythm Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1954675114332823583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004911650772496384/SR7bNs2B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 158,
+          "like_count": 380,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 132
+        },
+        "username": "zong_gu42511",
+        "verified": false
+      }
+    ]
+  }
+}

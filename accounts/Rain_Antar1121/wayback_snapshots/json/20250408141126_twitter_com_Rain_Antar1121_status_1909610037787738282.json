@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1909586091247624275",
+    "created_at": "2025-04-08T14:11:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-08T15:11:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909610037787738282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1904539885769457665",
+          "start": 0,
+          "username": "yanmin1105"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909610037787738282",
+    "in_reply_to_user_id": "1904539885769457665",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909586091247624275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanmin1105 喵呜♡=•ㅅ＜=^"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1909586091247624275",
+        "created_at": "2025-04-08T14:11:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T15:11:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909610037787738282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909610037787738282",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909586091247624275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 喵呜♡=•ㅅ＜=^"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1909586091247624275",
+        "created_at": "2025-04-08T12:36:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T13:36:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909586091247624275"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1909586091247624275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 150,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "HRT马上一个月了，在这条推文下抽三只xyn，送出礼品\n一等奖 数学之美首日封一套四枚（可折现16.66）\n二等奖 第九届亚洲冬季运动会首日封一套一枚（可折现8.88）\n三等奖 中国核工业创建七十周年首日封一套一枚（可折现6.66）\n另外还有随机惊喜哦\n有想要明信片的宝宝也可以私信我给我留地址和邮编啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 有容易抱住别人的习惯 | 小透明属性 | 同类互fo喵 | 贴贴看到这里的每一只小可爱～",
+        "id": "1894461745277931524",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907202223526105088/utcwf0PV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 411,
+          "like_count": 249,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 59
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "亦余心之所善兮，虽九死其犹未悔٩(๑^o^๑)۶",
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1906335074590625860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 65,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 31
+        },
+        "username": "yanmin1105",
+        "verified": false
+      }
+    ]
+  }
+}

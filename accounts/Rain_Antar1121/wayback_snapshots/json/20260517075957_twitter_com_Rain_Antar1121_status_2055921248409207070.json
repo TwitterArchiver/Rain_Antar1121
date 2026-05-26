@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2055749134054003011",
+    "created_at": "2026-05-17T07:59:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T08:59:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055921248409207070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1857802986837172224",
+          "start": 0,
+          "username": "LingJiaXin233"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/rain_antar1121…",
+          "end": 126,
+          "expanded_url": "https://twitter.com/rain_antar1121/status/2053052810821066991",
+          "start": 103,
+          "url": "https://t.co/II9TRX5R7K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055921248409207070",
+    "in_reply_to_user_id": "1857802986837172224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053052810821066991",
+        "type": "quoted"
+      },
+      {
+        "id": "2055749134054003011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LingJiaXin233 大家传了多少遍这个可是没什么人在意我做的调查呜呜🥹\n\n又要贴一遍啦…目前的结果是有4%的朋友永远离开了呢🕯️虽然不容乐观，但绝非大部分喵\n\n希望这个信口开河的谣言能尽快止息… https://t.co/II9TRX5R7K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053052801383890944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH3opTObgAANJ32.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055749124071518208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HId877-acAA0ixn.jpg",
+        "width": 963
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055749124079960064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HId878AbQAAohTl.jpg",
+        "width": 963
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2055749134054003011",
+        "created_at": "2026-05-17T07:59:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T08:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055921248409207070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/rain_antar1121…",
+              "end": 126,
+              "expanded_url": "https://twitter.com/rain_antar1121/status/2053052810821066991",
+              "start": 103,
+              "url": "https://t.co/II9TRX5R7K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055921248409207070",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053052810821066991",
+            "type": "quoted"
+          },
+          {
+            "id": "2055749134054003011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 大家传了多少遍这个可是没什么人在意我做的调查呜呜🥹\n\n又要贴一遍啦…目前的结果是有4%的朋友永远离开了呢🕯️虽然不容乐观，但绝非大部分喵\n\n希望这个信口开河的谣言能尽快止息… https://t.co/II9TRX5R7K"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053052801383890944"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "conversation_id": "2053052810821066991",
+        "created_at": "2026-05-09T10:01:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T11:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053052810821066991"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wtxycco/status…",
+              "end": 162,
+              "expanded_url": "https://x.com/wtxycco/status/1905998653095035205",
+              "start": 139,
+              "url": "https://t.co/HaNsHbTj2O"
+            },
+            {
+              "display_url": "pic.x.com/FUBFnIrTiy",
+              "end": 186,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2053052810821066991/photo/1",
+              "media_key": "3_2053052801383890944",
+              "start": 163,
+              "url": "https://t.co/FUBFnIrTiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053052810821066991",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 6959,
+          "like_count": 77,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905998653095035205",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喵呜～找到了75%去年同框的朋友～这样就作为阶段性成果叭\n\n可视化了大家的现状…图中是已找到账号的48位…有2位已逝世🕯️（黑白），6位账号今年没有活跃（半透明）\n\n“我们跨性别是温暖的团体哦！”～是哦，我们的颜色都还鲜艳，都在感受着彼此的温度拥抱生活哦ヾ(๑╹ヮ╹๑)ﾉ❤️\nhttps://t.co/HaNsHbTj2O https://t.co/FUBFnIrTiy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055749124071518208",
+            "3_2055749124079960064"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055749134054003011",
+        "created_at": "2026-05-16T20:36:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T21:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055749134054003011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZwRbvRzbPP",
+              "end": 122,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2055749134054003011/photo/1",
+              "media_key": "3_2055749124071518208",
+              "start": 99,
+              "url": "https://t.co/ZwRbvRzbPP"
+            },
+            {
+              "display_url": "pic.x.com/ZwRbvRzbPP",
+              "end": 122,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2055749134054003011/photo/1",
+              "media_key": "3_2055749124079960064",
+              "start": 99,
+              "url": "https://t.co/ZwRbvRzbPP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055749134054003011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 6906,
+          "like_count": 92,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "傻逼，老子的寿命可能比你短，老子可能活不过30岁，甚至20岁，但是我找到了生命的意义，我发现了真正的自己\n\n这总比你这个酒囊饭袋天天无所事事上网对性少数群体寻找优越感的标准znz有意义多了好吧🤣👎 https://t.co/ZwRbvRzbPP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042559105353842688/Hs-yW50g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4148,
+          "following_count": 6119,
+          "like_count": 14225,
+          "listed_count": 10,
+          "media_count": 275,
+          "tweet_count": 3242
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//最爱的姐姐@aparasr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 80,
+                "username": "aparasr"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2054985821275803784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5245,
+          "following_count": 699,
+          "like_count": 17060,
+          "listed_count": 11,
+          "media_count": 1522,
+          "tweet_count": 4642
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

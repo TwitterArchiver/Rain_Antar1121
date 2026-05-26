@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1945167183904170501",
+    "created_at": "2025-07-15T17:49:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T18:49:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945178992723570715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1836016357588307968",
+          "start": 0,
+          "username": "shihaihaia12345"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945178992723570715",
+    "in_reply_to_user_id": "1836016357588307968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945167183904170501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shihaihaia12345 耶喵耶～贴贴～૮₍♡&gt;𖥦&lt;₎ა"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1945167178573238272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv6fPjObUAAofjG.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1945167183904170501",
+        "created_at": "2025-07-15T17:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T18:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945178992723570715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1836016357588307968",
+              "start": 0,
+              "username": "shihaihaia12345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945178992723570715",
+        "in_reply_to_user_id": "1836016357588307968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945167183904170501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shihaihaia12345 耶喵耶～贴贴～૮₍♡&gt;𖥦&lt;₎ა"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945167178573238272"
+          ]
+        },
+        "author_id": "1836016357588307968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1945167183904170501",
+        "created_at": "2025-07-15T17:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T18:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945167183904170501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infintytweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/rEB3BFZZkt"
+            },
+            {
+              "display_url": "pic.x.com/bbxhtnjbBS",
+              "end": 64,
+              "expanded_url": "https://x.com/shihaihaia12345/status/1945167183904170501/photo/1",
+              "media_key": "3_1945167178573238272",
+              "start": 41,
+              "url": "https://t.co/bbxhtnjbBS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945167183904170501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/rEB3BFZZkt https://t.co/bbxhtnjbBS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1919740598187147331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1796,
+          "following_count": 2638,
+          "like_count": 4630,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 766
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-17T12:16:41.000Z",
+        "description": "",
+        "id": "1836016357588307968",
+        "name": "请输入名称",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941359470183055360/9xbIoNfh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 65,
+          "like_count": 287,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 180
+        },
+        "username": "shihaihaia12345",
+        "verified": false
+      }
+    ]
+  }
+}

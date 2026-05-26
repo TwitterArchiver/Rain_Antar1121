@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2029903331519516913",
+    "created_at": "2026-03-08T03:33:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T04:33:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030487005554155686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1670745101071417344",
+          "start": 0,
+          "username": "xingmin1145"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030487005554155686",
+    "in_reply_to_user_id": "1670745101071417344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030443693627294108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xingmin1145 嘻嘻🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2029903331519516913",
+        "created_at": "2026-03-08T03:33:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T04:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030487005554155686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1670745101071417344",
+              "start": 0,
+              "username": "xingmin1145"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030487005554155686",
+        "in_reply_to_user_id": "1670745101071417344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030443693627294108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingmin1145 嘻嘻🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1670745101071417344",
+        "conversation_id": "2029903331519516913",
+        "created_at": "2026-03-08T00:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T01:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030443693627294108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030443693627294108",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029903331519516913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 小巧思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的杂物 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3448,
+          "following_count": 5141,
+          "like_count": 10593,
+          "listed_count": 8,
+          "media_count": 172,
+          "tweet_count": 2033
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-19T10:47:36.000Z",
+        "description": "某只闵的小号\n为了看好康的所以出现了\n大号指路→ @1145xingmin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "1145xingmin"
+              }
+            ]
+          }
+        },
+        "id": "1670745101071417344",
+        "name": "闵委员长",
+        "pinned_tweet_id": "2024061139814957270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021109677166297090/SMNM9GWc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 173,
+          "like_count": 2693,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 827
+        },
+        "username": "xingmin1145",
+        "verified": false
+      }
+    ]
+  }
+}

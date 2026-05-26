@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1357835469099134977",
+          "name": "English language learning"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "2012382906681802936",
+    "created_at": "2026-01-17T13:34:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T14:34:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012519010219315593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1974810289549053952",
+          "start": 0,
+          "username": "Gb8oqkSoYH99085"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012519010219315593",
+    "in_reply_to_user_id": "1974810289549053952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012460538480226779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gb8oqkSoYH99085 私は現在、留学に備えてIELTSのトレーニングクラスに毎日通っています(⁠•⁠ ⁠▽⁠ ⁠•⁠;⁠)\\"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1357835469099134977",
+              "name": "English language learning"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2012382906681802936",
+        "created_at": "2026-01-17T13:34:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T14:34:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012519010219315593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1974810289549053952",
+              "start": 0,
+              "username": "Gb8oqkSoYH99085"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012519010219315593",
+        "in_reply_to_user_id": "1974810289549053952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012460538480226779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gb8oqkSoYH99085 私は現在、留学に備えてIELTSのトレーニングクラスに毎日通っています(⁠•⁠ ⁠▽⁠ ⁠•⁠;⁠)\\"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974810289549053952",
+        "conversation_id": "2012382906681802936",
+        "created_at": "2026-01-17T09:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T10:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012460538480226779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012460538480226779",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012382906681802936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 今は何してるの？(^-^)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的杂物 | 认真观察有趣的世界 | 想要…专属咱抱着的猫猫 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3019,
+          "following_count": 4491,
+          "like_count": 8603,
+          "listed_count": 5,
+          "media_count": 125,
+          "tweet_count": 1476
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-05T12:14:13.000Z",
+        "description": "",
+        "id": "1974810289549053952",
+        "name": "河合まこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974811537245458432/T0JDLLrq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 329,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 2954
+        },
+        "username": "Gb8oqkSoYH99085",
+        "verified": false
+      }
+    ]
+  }
+}

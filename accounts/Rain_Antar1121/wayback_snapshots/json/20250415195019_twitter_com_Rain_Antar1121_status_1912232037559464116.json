@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1912230909761536152",
+    "created_at": "2025-04-15T19:50:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-15T20:50:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912232037559464116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1882563916632666112",
+          "start": 0,
+          "username": "hhjnjkoguyunmo"
+        },
+        {
+          "end": 28,
+          "id": "1744316513291747328",
+          "start": 16,
+          "username": "shuifenziya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912232037559464116",
+    "in_reply_to_user_id": "1882563916632666112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912231760592838838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhjnjkoguyunmo @shuifenziya 好喵好喵～谢谢泥～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1912230909761536152",
+        "created_at": "2025-04-15T19:50:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T20:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912232037559464116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1882563916632666112",
+              "start": 0,
+              "username": "hhjnjkoguyunmo"
+            },
+            {
+              "end": 28,
+              "id": "1744316513291747328",
+              "start": 16,
+              "username": "shuifenziya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912232037559464116",
+        "in_reply_to_user_id": "1882563916632666112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912231760592838838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhjnjkoguyunmo @shuifenziya 好喵好喵～谢谢泥～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882563916632666112",
+        "conversation_id": "1912230909761536152",
+        "created_at": "2025-04-15T19:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T20:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912231760592838838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 28,
+              "id": "1744316513291747328",
+              "start": 16,
+              "username": "shuifenziya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912231760592838838",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912230909761536152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 @shuifenziya 不要生气啦，想办法和大家和和睦睦相处才是真哦~🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 有容易抱住别人的习惯 | 小透明属性 | 同类互fo喵 | 贴贴看到这里的每一只小可爱～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910722822059810817/tWPhmxtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 512,
+          "like_count": 479,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 149
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-23T23:00:12.000Z",
+        "description": "学过国学、美术、c/c++、古建筑的小学五年级辍学废物，也是一名诗人，同时还是一位心学家，热爱中国文化，逍遥自在，无为无不为。喜欢交朋友，欢迎大家找我玩。😋\n挚友@Konekoutena",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "Konekoutena"
+              }
+            ]
+          }
+        },
+        "id": "1882563916632666112",
+        "name": "变成阿良河的顾云沫",
+        "pinned_tweet_id": "1908670462554738863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909435314600644608/kr_0pOtE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 244,
+          "like_count": 46283,
+          "listed_count": 3,
+          "media_count": 65,
+          "tweet_count": 8337
+        },
+        "username": "hhjnjkoguyunmo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-08T11:14:12.000Z",
+        "description": "泥萌豪....我...我...是...水分子~08年17岁/167cm/47kg/mtf/坐标广东/喜欢动漫二次元/无证🍥含糖5个月/不键政/性格普通温柔/素质良好/略有负能/疑双/SAD/好交友大家快和我互fo！/喵/单推小鸟游六花喵！！",
+        "id": "1744316513291747328",
+        "location": "我在二次元很想你...",
+        "name": "一个水分子🍥喵~",
+        "pinned_tweet_id": "1912114164275024025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1750519071307939840/lUw0IFlT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 260,
+          "like_count": 9567,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 521
+        },
+        "username": "shuifenziya",
+        "verified": false
+      }
+    ]
+  }
+}

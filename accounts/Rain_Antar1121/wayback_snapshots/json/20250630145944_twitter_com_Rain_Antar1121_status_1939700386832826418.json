@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1939700352804397056",
+        "3_1939700353613836288",
+        "3_1939700353219649537"
+      ]
+    },
+    "author_id": "1894461745277931524",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1939700386832826418",
+    "created_at": "2025-06-30T14:59:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T15:59:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1939700386832826418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 22,
+          "id": "1934723202158395393",
+          "start": 7,
+          "username": "chenkeer070427"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rJCl4QRo5v",
+          "end": 180,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/1939700386832826418/video/1",
+          "media_key": "7_1939700352804397056",
+          "start": 157,
+          "url": "https://t.co/rJCl4QRo5v"
+        },
+        {
+          "display_url": "pic.x.com/rJCl4QRo5v",
+          "end": 180,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/1939700386832826418/video/1",
+          "media_key": "3_1939700353613836288",
+          "start": 157,
+          "url": "https://t.co/rJCl4QRo5v"
+        },
+        {
+          "display_url": "pic.x.com/rJCl4QRo5v",
+          "end": 180,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/1939700386832826418/video/1",
+          "media_key": "3_1939700353219649537",
+          "start": 157,
+          "url": "https://t.co/rJCl4QRo5v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939700386832826418",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "线下单杀小兔喵@chenkeer070427\nο(=•ω＜=)ρ⌒☆\n（呜可惜她号没了…）\n图一是天赋党小兔喵，小兔超会拍照但真人比照片好看一万倍w🥹\n咱太丑…只能留一只手出镜啦🥺\n也是第一次见到同城的小可爱呢…好幸运哒🥰\n还有在新街口次饭和逛街，给小兔买猫耳～累似了呢…下次陪小兔玩轻松点，或者抱着逛˃ 𖥦 ˂ https://t.co/rJCl4QRo5v"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [chenkeer070427].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "chenkeer070427",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "chenkeer070427"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5400,
+        "height": 1280,
+        "media_key": "7_1939700352804397056",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1939700352804397056/pu/img/fRTjc18KhONyQqyA.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1939700352804397056/pu/vid/avc1/320x568/dMoy2I1yw3T311yj.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1939700352804397056/pu/vid/avc1/480x852/sf4BkKBqOEEBJ8lO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1939700352804397056/pu/vid/avc1/720x1280/4VB4Gm2jL0G06_bs.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1939700352804397056/pu/pl/seZXTxh7lnupjTaa.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1638,
+        "media_key": "3_1939700353613836288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuszMdPaMAA_yBu.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1939700353219649537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuszMbxbYAEN3QI.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1939700352804397056",
+            "3_1939700353613836288",
+            "3_1939700353219649537"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1939700386832826418",
+        "created_at": "2025-06-30T14:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T15:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939700386832826418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1934723202158395393",
+              "start": 7,
+              "username": "chenkeer070427"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rJCl4QRo5v",
+              "end": 180,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/1939700386832826418/video/1",
+              "media_key": "7_1939700352804397056",
+              "start": 157,
+              "url": "https://t.co/rJCl4QRo5v"
+            },
+            {
+              "display_url": "pic.x.com/rJCl4QRo5v",
+              "end": 180,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/1939700386832826418/video/1",
+              "media_key": "3_1939700353613836288",
+              "start": 157,
+              "url": "https://t.co/rJCl4QRo5v"
+            },
+            {
+              "display_url": "pic.x.com/rJCl4QRo5v",
+              "end": 180,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/1939700386832826418/video/1",
+              "media_key": "3_1939700353219649537",
+              "start": 157,
+              "url": "https://t.co/rJCl4QRo5v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939700386832826418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "线下单杀小兔喵@chenkeer070427\nο(=•ω＜=)ρ⌒☆\n（呜可惜她号没了…）\n图一是天赋党小兔喵，小兔超会拍照但真人比照片好看一万倍w🥹\n咱太丑…只能留一只手出镜啦🥺\n也是第一次见到同城的小可爱呢…好幸运哒🥰\n还有在新街口次饭和逛街，给小兔买猫耳～累似了呢…下次陪小兔玩轻松点，或者抱着逛˃ 𖥦 ˂ https://t.co/rJCl4QRo5v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1919740598187147331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910722822059810817/tWPhmxtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1647,
+          "following_count": 2375,
+          "like_count": 4174,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 693
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      }
+    ]
+  }
+}

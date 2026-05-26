@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2052346517000986852",
+    "created_at": "2026-05-07T13:49:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T14:49:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052385369212199411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1829436939826774016",
+          "start": 0,
+          "username": "dachuan_CN5622"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052385369212199411",
+    "in_reply_to_user_id": "1829436939826774016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052384099910946836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dachuan_CN5622 耶～抱住😘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2052346517000986852",
+        "created_at": "2026-05-07T13:49:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T14:49:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052385369212199411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1829436939826774016",
+              "start": 0,
+              "username": "dachuan_CN5622"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052385369212199411",
+        "in_reply_to_user_id": "1829436939826774016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052384099910946836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dachuan_CN5622 耶～抱住😘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829436939826774016",
+        "conversation_id": "2052346517000986852",
+        "created_at": "2026-05-07T13:44:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T14:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052384099910946836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 24,
+              "id": "1239915471945838593",
+              "start": 16,
+              "username": "wtxycCO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052384099910946836",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052346517000986852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 @wtxycCO 虽然非跨，但作为友跨的还是帮忙转一下！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042559105353842688/Hs-yW50g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4025,
+          "following_count": 6002,
+          "like_count": 13630,
+          "listed_count": 10,
+          "media_count": 256,
+          "tweet_count": 2960
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-30T08:32:32.000Z",
+        "description": "【中/日/英综合大号: @dachuan_DC 】\n喜欢数码📱/怀旧📟，喜欢玩气球🎈～\n不一定每天都上推，所发内容以日常为主，喜欢涩涩但不PO涩涩；拒绝键政等敏感及争议极大的话题讨论，不混任何一个对我产生内耗的圈子。\n友好对待对我友好的人，不论你是谁。\n详细信息请见置顶。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "dachuan_DC"
+              }
+            ]
+          }
+        },
+        "id": "1829436939826774016",
+        "location": "🚪11.4/51.4/191.9/810（对友好者免费）",
+        "name": "Dachuan (aka. 大川)🎈📱📟",
+        "pinned_tweet_id": "2048427910470705629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829437032466386944/tDzx14ik_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 263,
+          "like_count": 2821,
+          "listed_count": 1,
+          "media_count": 412,
+          "tweet_count": 1335
+        },
+        "username": "dachuan_CN5622",
+        "verified": false
+      }
+    ]
+  }
+}

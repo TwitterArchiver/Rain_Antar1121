@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1959823084632129536"
+      ]
+    },
+    "author_id": "1894461745277931524",
+    "conversation_id": "1959823102176850292",
+    "created_at": "2025-08-25T03:40:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T04:40:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1959823102176850292"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aJHmPqJPlj",
+          "end": 154,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/1959823102176850292/photo/1",
+          "media_key": "3_1959823084632129536",
+          "start": 131,
+          "url": "https://t.co/aJHmPqJPlj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959823102176850292",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "(*ෆ🏳️‍🌈´ ˘ `🏳️‍⚧️ෆ*)♡～\n喵，港大的某处公告栏上\n孤陋寡闻的内地人在公共场合见到骄傲旗…都觉得是好奢侈好新奇的事呢\n校徽和这面旗子能出现在同一张纸上…真幸福呢( •̥́ ˍ •̀ू )\n少见多怪噜˃ʍ˂\n羡慕🇭🇰的环境，羡慕HKU的氛围呜😭 https://t.co/aJHmPqJPlj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1959823084632129536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzKwtj4bwAAvGrt.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959823084632129536"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "conversation_id": "1959823102176850292",
+        "created_at": "2025-08-25T03:40:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T04:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959823102176850292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aJHmPqJPlj",
+              "end": 154,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/1959823102176850292/photo/1",
+              "media_key": "3_1959823084632129536",
+              "start": 131,
+              "url": "https://t.co/aJHmPqJPlj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959823102176850292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "(*ෆ🏳️‍🌈´ ˘ `🏳️‍⚧️ෆ*)♡～\n喵，港大的某处公告栏上\n孤陋寡闻的内地人在公共场合见到骄傲旗…都觉得是好奢侈好新奇的事呢\n校徽和这面旗子能出现在同一张纸上…真幸福呢( •̥́ ˍ •̀ू )\n少见多怪噜˃ʍ˂\n羡慕🇭🇰的环境，羡慕HKU的氛围呜😭 https://t.co/aJHmPqJPlj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2094,
+          "following_count": 3046,
+          "like_count": 5466,
+          "listed_count": 3,
+          "media_count": 78,
+          "tweet_count": 927
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1959531617937948963",
+    "created_at": "2025-08-24T09:44:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T10:44:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959552345987047642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1853401698628448256",
+          "start": 0,
+          "username": "SchneeSchmit"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "35fd5bacecc4c6e5"
+    },
+    "id": "1959552345987047642",
+    "in_reply_to_user_id": "1853401698628448256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959548545079664853",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SchneeSchmit 噗啊香港真還好啦…咱夏天去了兩次評價是遠遠不如長江流域絕望的悶熱和暴曬…\n因為靠海的山地不缺水分又不至於悶…天上還日常鋪著一大半云基本沒有陽光直射w\n咱甚至覺得可以來避暑喵\n(〜￣▽￣)〜"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1959548545079664853].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1959548545079664853",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1959548545079664853"
+    }
+  ],
+  "includes": {
+    "places": [
+      {
+        "country": "Hong Kong",
+        "country_code": "HK",
+        "full_name": "Hong Kong",
+        "geo": {
+          "bbox": [
+            113.81813,
+            22.1465116,
+            114.502196,
+            22.614177
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "35fd5bacecc4c6e5",
+        "name": "Hong Kong",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1959531617937948963",
+        "created_at": "2025-08-24T09:44:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T10:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959552345987047642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1853401698628448256",
+              "start": 0,
+              "username": "SchneeSchmit"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "35fd5bacecc4c6e5"
+        },
+        "id": "1959552345987047642",
+        "in_reply_to_user_id": "1853401698628448256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959548545079664853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SchneeSchmit 噗啊香港真還好啦…咱夏天去了兩次評價是遠遠不如長江流域絕望的悶熱和暴曬…\n因為靠海的山地不缺水分又不至於悶…天上還日常鋪著一大半云基本沒有陽光直射w\n咱甚至覺得可以來避暑喵\n(〜￣▽￣)〜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2093,
+          "following_count": 3046,
+          "like_count": 5453,
+          "listed_count": 3,
+          "media_count": 77,
+          "tweet_count": 920
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-04T11:39:39.000Z",
+        "description": "前世 @SchneeSchmitt\n再強的外表, 也藏不住真實的自己...\n這裡是雪花貓的貓窩, 藏了深為不知人的事\n限熟悉推友(通常被此帳追蹤)可以申請訪問\n🍥27/12/2024斷續含糖小量od自殘+自閉症+不穩定抑鬱(求抱抱), 深櫃被斷糧半家暴黨 🩵MtX/F🩷, 泛性戀, INFP-T",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "SchneeSchmitt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zh.m.wikipedia.org/zh-hk/%E6%A9%9…",
+                "end": 23,
+                "expanded_url": "https://zh.m.wikipedia.org/zh-hk/%E6%A9%98%E8%B2%93",
+                "start": 0,
+                "url": "https://t.co/8nGl8KfVHM"
+              }
+            ]
+          }
+        },
+        "id": "1853401698628448256",
+        "location": "🔤: 粵/中/客家/EN/Old EN/ES/IT/LAT",
+        "name": "雪花 (日常區) 🩷🏳️‍⚧️🍥🕊️",
+        "pinned_tweet_id": "1931393901090521574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929542651344523264/tG7dTJuH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 468,
+          "like_count": 30060,
+          "listed_count": 0,
+          "media_count": 265,
+          "tweet_count": 3278
+        },
+        "url": "https://t.co/8nGl8KfVHM",
+        "username": "SchneeSchmit",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1919136755057365177",
+    "created_at": "2025-05-05T03:32:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T04:32:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919233759913627990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1452598562341023748",
+          "start": 0,
+          "username": "Ainai_qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919233759913627990",
+    "in_reply_to_user_id": "1452598562341023748",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919136755057365177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ainai_qwq 🎉生日快乐喵生日快乐喵🎂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 194,
+        "media_key": "3_1919136749428826112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqIktKEaYAA9D_c.jpg",
+        "width": 260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1919136755057365177",
+        "created_at": "2025-05-05T03:32:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T04:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919233759913627990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1452598562341023748",
+              "start": 0,
+              "username": "Ainai_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919233759913627990",
+        "in_reply_to_user_id": "1452598562341023748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919136755057365177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ainai_qwq 🎉生日快乐喵生日快乐喵🎂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919136749428826112"
+          ]
+        },
+        "author_id": "1452598562341023748",
+        "conversation_id": "1919136755057365177",
+        "created_at": "2025-05-04T21:07:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T22:07:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919136755057365177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3vKebiR1XK",
+              "end": 33,
+              "expanded_url": "https://x.com/Ainai_qwq/status/1919136755057365177/photo/1",
+              "media_key": "3_1919136749428826112",
+              "start": 10,
+              "url": "https://t.co/3vKebiR1XK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919136755057365177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 672,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 31,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是我生日owo https://t.co/3vKebiR1XK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 有容易抱住别人的习惯 | 小透明属性 | 同类互fo喵 | 贴贴看到这里的每一只小可爱～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910722822059810817/tWPhmxtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 701,
+          "like_count": 922,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 253
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-25T11:31:12.000Z",
+        "description": "大家好我是梦爱奈的大号 欢迎大家来找我聊天 tg群 https://t.co/4viLFGH11Z",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+TcUCEU4RVsRhZ…",
+                "end": 49,
+                "expanded_url": "https://t.me/+TcUCEU4RVsRhZDU1",
+                "start": 26,
+                "url": "https://t.co/4viLFGH11Z"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+TcUCEU4RVsRhZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+TcUCEU4RVsRhZDU1",
+                "start": 0,
+                "url": "https://t.co/4viLFGH11Z"
+              }
+            ]
+          }
+        },
+        "id": "1452598562341023748",
+        "name": "梦爱奈（糖商/全国可发🏳️‍⚧️🏳️‍🌈）",
+        "pinned_tweet_id": "1900534398685954433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858819869871140868/lTSVSBwe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1724,
+          "following_count": 437,
+          "like_count": 495,
+          "listed_count": 10,
+          "media_count": 108,
+          "tweet_count": 689
+        },
+        "url": "https://t.co/4viLFGH11Z",
+        "username": "Ainai_qwq",
+        "verified": true
+      }
+    ]
+  }
+}

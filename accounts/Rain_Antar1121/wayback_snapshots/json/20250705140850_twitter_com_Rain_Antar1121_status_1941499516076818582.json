@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1939297755320746141",
+    "created_at": "2025-07-05T14:08:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T15:08:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941499516076818582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1680135992123232257",
+          "start": 0,
+          "username": "wi1bursimp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941499516076818582",
+    "in_reply_to_user_id": "1680135992123232257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941490795418447971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wi1bursimp 谢谢你呀～\n有人认识蓝粉白旗咱就不胜荣幸啦（）所以说，还是不友善的态度居多吗…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1939297755320746141",
+        "created_at": "2025-07-05T14:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T15:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941499516076818582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1680135992123232257",
+              "start": 0,
+              "username": "wi1bursimp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941499516076818582",
+        "in_reply_to_user_id": "1680135992123232257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941490795418447971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wi1bursimp 谢谢你呀～\n有人认识蓝粉白旗咱就不胜荣幸啦（）所以说，还是不友善的态度居多吗…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680135992123232257",
+        "conversation_id": "1939297755320746141",
+        "created_at": "2025-07-05T13:34:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T14:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941490795418447971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941490795418447971",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940345634403533120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 是呀（＾ω＾）\n可是学校不少人都把那个当成乐子什么的.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1919740598187147331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910722822059810817/tWPhmxtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1714,
+          "following_count": 2498,
+          "like_count": 4367,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 713
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-15T08:43:40.000Z",
+        "description": "",
+        "id": "1680135992123232257",
+        "name": "放弃抵抗o7",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941491193193373696/A2hIu35P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 123,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "wi1bursimp",
+        "verified": false
+      }
+    ]
+  }
+}

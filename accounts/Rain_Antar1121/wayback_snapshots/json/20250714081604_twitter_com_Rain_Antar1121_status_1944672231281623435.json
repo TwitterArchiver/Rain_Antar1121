@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1944612105044242605",
+    "created_at": "2025-07-14T08:16:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T09:16:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944672231281623435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1531432040909918209",
+          "start": 0,
+          "username": "Ethanwu1234"
+        },
+        {
+          "end": 23,
+          "id": "1801382796436639745",
+          "start": 13,
+          "username": "_Snow0717"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944672231281623435",
+    "in_reply_to_user_id": "1531432040909918209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944670684736573944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ethanwu1234 @_Snow0717 awa心机好深啊（摊）…所以为了不这样才要坦诚嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1944612105044242605",
+        "created_at": "2025-07-14T08:16:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T09:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944672231281623435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1531432040909918209",
+              "start": 0,
+              "username": "Ethanwu1234"
+            },
+            {
+              "end": 23,
+              "id": "1801382796436639745",
+              "start": 13,
+              "username": "_Snow0717"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944672231281623435",
+        "in_reply_to_user_id": "1531432040909918209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944670684736573944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ethanwu1234 @_Snow0717 awa心机好深啊（摊）…所以为了不这样才要坦诚嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1531432040909918209",
+        "conversation_id": "1944612105044242605",
+        "created_at": "2025-07-14T08:09:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T09:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944670684736573944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1801382796436639745",
+              "start": 0,
+              "username": "_Snow0717"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944670684736573944",
+        "in_reply_to_user_id": "1801382796436639745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944612105044242605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Snow0717 是这样的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1919740598187147331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941572059953238016/-KAyC7ip_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1786,
+          "following_count": 2620,
+          "like_count": 4601,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 763
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-31T00:27:23.000Z",
+        "description": "我是双性恋",
+        "id": "1531432040909918209",
+        "name": "刺猬QWQ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943455605848510465/ZaDFkpEE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 35,
+          "like_count": 6031,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 104
+        },
+        "username": "Ethanwu1234",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-13T22:35:19.000Z",
+        "description": "║生日 2008.07.17 / 坐标台湾 / 高一休学\n║INFP / 猫\n║MtF / 家长党 / 无证含糖 2025.02.11\n║抑郁 /双相二型 / ADHD / BPD / ASD / PTSD\n║家里蹲 / 音游人 / 渴望温暖\n║最爱的人@Kinaiyurun0128 / 里推@_SnowUra0717",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 127,
+                "username": "Kinaiyurun0128"
+              },
+              {
+                "end": 160,
+                "start": 147,
+                "username": "_SnowUra0717"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_snow07171",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_snow07171",
+                "start": 0,
+                "url": "https://t.co/3L4Ktfepse"
+              }
+            ]
+          }
+        },
+        "id": "1801382796436639745",
+        "location": "互联网",
+        "name": "洛雪🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1938508830033240340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896118220400271360/kFN6DTx9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1760,
+          "following_count": 1648,
+          "like_count": 6098,
+          "listed_count": 3,
+          "media_count": 212,
+          "tweet_count": 2101
+        },
+        "url": "https://t.co/3L4Ktfepse",
+        "username": "_Snow0717",
+        "verified": false
+      }
+    ]
+  }
+}

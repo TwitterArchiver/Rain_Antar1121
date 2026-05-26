@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050818278206185472"
+      ]
+    },
+    "author_id": "1894461745277931524",
+    "conversation_id": "2050818298401661348",
+    "created_at": "2026-05-03T06:02:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T07:02:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050818298401661348"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1Ct2dnqhc0",
+          "end": 153,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/2050818298401661348/photo/1",
+          "media_key": "3_2050818278206185472",
+          "start": 130,
+          "url": "https://t.co/1Ct2dnqhc0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050818298401661348",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🥰来昆明玩喵(⑅˘̤ ᵕ˘̤)*♡*又要有充沛的素材发推啦敬请期待啾～\n\n滇池日落w😘\n久违了呀，霞光浸染的积云团团～最喜欢这样填满层次感的天空啦…只有在热量充沛的山地才能拍出来呢，正好也有天上湛蓝配焰橙的橘子海当底色，泛着浪声的万顷碧波当前景&gt;ᴗoಣ https://t.co/1Ct2dnqhc0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2050818278206185472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHX4W7tboAA4pNT.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050818278206185472"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "conversation_id": "2050818298401661348",
+        "created_at": "2026-05-03T06:02:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T07:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050818298401661348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Ct2dnqhc0",
+              "end": 153,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2050818298401661348/photo/1",
+              "media_key": "3_2050818278206185472",
+              "start": 130,
+              "url": "https://t.co/1Ct2dnqhc0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050818298401661348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🥰来昆明玩喵(⑅˘̤ ᵕ˘̤)*♡*又要有充沛的素材发推啦敬请期待啾～\n\n滇池日落w😘\n久违了呀，霞光浸染的积云团团～最喜欢这样填满层次感的天空啦…只有在热量充沛的山地才能拍出来呢，正好也有天上湛蓝配焰橙的橘子海当底色，泛着浪声的万顷碧波当前景&gt;ᴗoಣ https://t.co/1Ct2dnqhc0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2033518993160736859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042559105353842688/Hs-yW50g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3966,
+          "following_count": 5946,
+          "like_count": 13288,
+          "listed_count": 9,
+          "media_count": 241,
+          "tweet_count": 2777
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      }
+    ]
+  }
+}

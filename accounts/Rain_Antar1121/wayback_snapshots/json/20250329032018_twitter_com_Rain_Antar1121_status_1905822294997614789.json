@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1905694861401194839",
+    "created_at": "2025-03-29T03:20:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T04:20:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905822294997614789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1288366832072552449",
+          "start": 0,
+          "username": "ushio_hoshino"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905822294997614789",
+    "in_reply_to_user_id": "1288366832072552449",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905789673370521810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ushio_hoshino ♡(˃͈ દ ˂͈ ༶ )"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1905694861401194839",
+        "created_at": "2025-03-29T03:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T04:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905822294997614789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1288366832072552449",
+              "start": 0,
+              "username": "ushio_hoshino"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905822294997614789",
+        "in_reply_to_user_id": "1288366832072552449",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905789673370521810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ushio_hoshino ♡(˃͈ દ ˂͈ ༶ )"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1288366832072552449",
+        "conversation_id": "1905694861401194839",
+        "created_at": "2025-03-29T01:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T02:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905789673370521810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905789673370521810",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905694861401194839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 贴贴喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 深柜中 | 小透明属性 | 同类互fo吖 | 贴贴～",
+        "id": "1894461745277931524",
+        "name": "Rain6906🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894461978212446208/pKE9xTjn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 245,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 21
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-29T06:52:48.000Z",
+        "description": "MtF｜INFP-T｜喜欢胡思乱想🤯 | 想成为可爱善良的女孩子~ | 看清现实的理想主义 | 同类互fo~",
+        "id": "1288366832072552449",
+        "name": "星野汐🏳️‍⚧️",
+        "pinned_tweet_id": "1877615243255493038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897955227816673280/fsJugAX1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 712,
+          "like_count": 1898,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 403
+        },
+        "username": "ushio_hoshino",
+        "verified": false
+      }
+    ]
+  }
+}

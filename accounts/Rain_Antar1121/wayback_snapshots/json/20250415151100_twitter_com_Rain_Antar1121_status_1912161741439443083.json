@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1912156585180226049",
+    "created_at": "2025-04-15T15:11:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-15T16:11:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912161741439443083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1884959792390938624",
+          "start": 0,
+          "username": "mengqing8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912161741439443083",
+    "in_reply_to_user_id": "1884959792390938624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912156585180226049",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mengqing8964 咱们！就是！女孩子吖♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1912156585180226049",
+        "created_at": "2025-04-15T15:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T16:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912161741439443083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1884959792390938624",
+              "start": 0,
+              "username": "mengqing8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912161741439443083",
+        "in_reply_to_user_id": "1884959792390938624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912156585180226049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengqing8964 咱们！就是！女孩子吖♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884959792390938624",
+        "conversation_id": "1912156585180226049",
+        "created_at": "2025-04-15T14:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T15:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912156585180226049"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1912156585180226049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我不是女孩子为什么我不是女孩子为什么我不是女孩子为什么我不是女孩子为什么我不是女孩子😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 有容易抱住别人的习惯 | 小透明属性 | 同类互fo喵 | 贴贴看到这里的每一只小可爱～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910722822059810817/tWPhmxtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 504,
+          "like_count": 473,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 147
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-30T13:40:24.000Z",
+        "description": "太好啦！太好啦！听妈妈说，我手机里的推特自动关注了梦情，我不知所云地欢呼起来。梦情这个恶俗玩意儿到底是什么呢？爸爸告诉我，她就像一个遍布网络的巨大屎壳郎，把抽象乐子和魔怔烂梗搬运得到处都是。有了梦情，咱们的推特就变成了一个小垃圾堆，五洲四海的浪蛆们可以随时进行别样的炒作大战。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lisa8964",
+                "end": 23,
+                "expanded_url": "https://t.me/lisa8964",
+                "start": 0,
+                "url": "https://t.co/81dSoqDAA3"
+              }
+            ]
+          }
+        },
+        "id": "1884959792390938624",
+        "location": "Taiwan",
+        "name": "梦情🏳️‍⚧️",
+        "pinned_tweet_id": "1910912850157281738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908326418850996228/qdg_d-52_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1077,
+          "following_count": 792,
+          "like_count": 8680,
+          "listed_count": 3,
+          "media_count": 201,
+          "tweet_count": 3790
+        },
+        "url": "https://t.co/81dSoqDAA3",
+        "username": "mengqing8964",
+        "verified": true
+      }
+    ]
+  }
+}

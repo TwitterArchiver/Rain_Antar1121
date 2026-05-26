@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1959311149457089005",
+    "created_at": "2025-08-24T00:23:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T01:23:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959411200573444216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1839830744316686336",
+          "start": 0,
+          "username": "shushuyun321"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959411200573444216",
+    "in_reply_to_user_id": "1839830744316686336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959311149457089005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shushuyun321 吓咱一跳喵…\n🥺呜，嗯呜，芸芸❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1959311149457089005",
+        "created_at": "2025-08-24T00:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T01:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959411200573444216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1839830744316686336",
+              "start": 0,
+              "username": "shushuyun321"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959411200573444216",
+        "in_reply_to_user_id": "1839830744316686336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959311149457089005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shushuyun321 吓咱一跳喵…\n🥺呜，嗯呜，芸芸❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839830744316686336",
+        "conversation_id": "1959311149457089005",
+        "created_at": "2025-08-23T17:45:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T18:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959311149457089005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/puddings00/sta…",
+              "end": 119,
+              "expanded_url": "https://twitter.com/puddings00/status/1959292356592587068",
+              "start": 96,
+              "url": "https://t.co/7c34UXdC1p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959311149457089005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 309,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959292356592587068",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "终于有对象了 居然在七夕前谈上了！！！wwwwwwwwwwwww对象好可爱 萌的我爱死 呜呜呜呜好喜欢 好可爱呜呜呜终于体验到谈恋爱的感觉了\n我好喜欢ta呜呜呜\n你们继续复制吧 因为我没谈上 https://t.co/7c34UXdC1p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2092,
+          "following_count": 3045,
+          "like_count": 5446,
+          "listed_count": 3,
+          "media_count": 76,
+          "tweet_count": 916
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T00:53:37.000Z",
+        "description": "amab trans🏳️‍⚧️丨坐标魔都丨186/63丨无证含糖丨半炸柜丨HRT:2017~2018 2025.3.21至今丨性取向正常🏳️‍🌈Pan丨❤️：@Rain_Antar1121 好妹妹：@iwlzff丨同类互fo喵丨呜呜呜不要骂我qwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 79,
+                "username": "Rain_Antar1121"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "username": "iwlzff"
+              }
+            ]
+          }
+        },
+        "id": "1839830744316686336",
+        "location": "🚪5201314",
+        "name": "芸舒🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926064456888360960/MAGwaW4g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 346,
+          "like_count": 326,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 1409
+        },
+        "username": "shushuyun321",
+        "verified": false
+      }
+    ]
+  }
+}

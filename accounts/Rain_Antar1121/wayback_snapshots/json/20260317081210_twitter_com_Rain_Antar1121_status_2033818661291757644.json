@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2033518993160736859",
+    "created_at": "2026-03-17T08:12:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T09:12:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033818661291757644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1913281715126337536",
+          "start": 0,
+          "username": "sama153732"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033818661291757644",
+    "in_reply_to_user_id": "1913281715126337536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033817221584371889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sama153732 耶咪(⑅˘̤ ᵕ˘̤)*♡*"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2033518993160736859",
+        "created_at": "2026-03-17T08:12:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T09:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033818661291757644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1913281715126337536",
+              "start": 0,
+              "username": "sama153732"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033818661291757644",
+        "in_reply_to_user_id": "1913281715126337536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033817221584371889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sama153732 耶咪(⑅˘̤ ᵕ˘̤)*♡*"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913281715126337536",
+        "conversation_id": "2033518993160736859",
+        "created_at": "2026-03-17T08:06:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T09:06:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033817221584371889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033817221584371889",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033518993160736859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 好看的喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的杂物 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2033518993160736859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3509,
+          "following_count": 5261,
+          "like_count": 11271,
+          "listed_count": 8,
+          "media_count": 200,
+          "tweet_count": 2265
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-18T17:22:19.000Z",
+        "description": "涩涩才是王道，可爱也是王道。",
+        "id": "1913281715126337536",
+        "name": "小弥sama",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980274665256869889/bfzev1MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 32,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 810
+        },
+        "username": "sama153732",
+        "verified": false
+      }
+    ]
+  }
+}

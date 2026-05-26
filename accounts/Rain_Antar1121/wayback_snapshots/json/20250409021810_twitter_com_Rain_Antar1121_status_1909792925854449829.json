@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1909788844695642468",
+    "created_at": "2025-04-09T02:18:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T03:18:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909792925854449829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1744316513291747328",
+          "start": 0,
+          "username": "shuifenziya"
+        },
+        {
+          "end": 25,
+          "id": "1834373803553816576",
+          "start": 13,
+          "username": "xiailiuying"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909792925854449829",
+    "in_reply_to_user_id": "1744316513291747328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909789766545293355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuifenziya @xiailiuying 怪欸👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1909788844695642468",
+        "created_at": "2025-04-09T02:18:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T03:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909792925854449829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744316513291747328",
+              "start": 0,
+              "username": "shuifenziya"
+            },
+            {
+              "end": 25,
+              "id": "1834373803553816576",
+              "start": 13,
+              "username": "xiailiuying"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909792925854449829",
+        "in_reply_to_user_id": "1744316513291747328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909789766545293355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuifenziya @xiailiuying 怪欸👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744316513291747328",
+        "conversation_id": "1909788844695642468",
+        "created_at": "2025-04-09T02:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T03:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909789766545293355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1834373803553816576",
+              "start": 0,
+              "username": "xiailiuying"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909789766545293355",
+        "in_reply_to_user_id": "1834373803553816576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909788844695642468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiailiuying 我也很好奇🥺（问问）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 有容易抱住别人的习惯 | 小透明属性 | 同类互fo喵 | 贴贴看到这里的每一只小可爱～",
+        "id": "1894461745277931524",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907202223526105088/utcwf0PV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 417,
+          "like_count": 267,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 64
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-08T11:14:12.000Z",
+        "description": "Hello~08年17岁/生理男生/mtf/坐标广东/喜欢动漫二次元/无证HRT5个月/不键政/性格普通温柔/素质良好/略有负能/疑双/ASD/好交友大家快和我互fo！/喵/单推小鸟游六花喵！！",
+        "id": "1744316513291747328",
+        "location": "我在二次元很想你...",
+        "name": "一个水分子🍥喵~",
+        "pinned_tweet_id": "1906909203022901408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1750519071307939840/lUw0IFlT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 177,
+          "like_count": 7206,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 363
+        },
+        "username": "shuifenziya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-12T23:29:40.000Z",
+        "description": "男娘/暂时未含糖/内向/抑郁/星铁/严重容貌焦虑，《半清水，半瑟》《死宅》《喜欢女装不会化妆》《抽象》《声音难听》zn我会看成分互fo/如果是小男娘或者mtf会秒回关的/不混圈",
+        "id": "1834373803553816576",
+        "location": "不轻易骂人，本人非常友好",
+        "name": "流萤♪",
+        "pinned_tweet_id": "1909554894568407306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905928385332736000/qKL9d6Th_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 252,
+          "like_count": 130,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 173
+        },
+        "username": "xiailiuying",
+        "verified": false
+      }
+    ]
+  }
+}

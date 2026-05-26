@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2048703977756532740",
+    "created_at": "2026-04-27T16:17:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T17:17:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048798733618511967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1840878143512723456",
+          "start": 0,
+          "username": "yulang666x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048798733618511967",
+    "in_reply_to_user_id": "1840878143512723456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048783962961744078",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yulang666x 哇业余证跟就业还有关系的嘛😵‍💫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2048703977756532740",
+        "created_at": "2026-04-27T16:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T17:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048798733618511967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1840878143512723456",
+              "start": 0,
+              "username": "yulang666x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048798733618511967",
+        "in_reply_to_user_id": "1840878143512723456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048783962961744078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yulang666x 哇业余证跟就业还有关系的嘛😵‍💫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840878143512723456",
+        "conversation_id": "2048703977756532740",
+        "created_at": "2026-04-27T15:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T16:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048783962961744078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048783962961744078",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048703977756532740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 无线电证书的话，你可以考虑一下走非科班的通信就业路线，超级爽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2033518993160736859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042559105353842688/Hs-yW50g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3924,
+          "following_count": 5887,
+          "like_count": 13162,
+          "listed_count": 8,
+          "media_count": 232,
+          "tweet_count": 2705
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-30T22:15:35.000Z",
+        "description": "本人ban位如下：\n1，极强的求胜欲以至于鸡蛋里面挑骨头，无中生有，以偏概全，转换话题等等等等\n2，经反复教导，死不悔改之人\n3，思想之愚昧，言论之污秽者\n欢迎各认同中华文明人士，无论prc，roc，只要论辩得当，均为我之爱客。",
+        "id": "1840878143512723456",
+        "location": "我家",
+        "name": "中华人民共和国🇨🇳台湾大和民族自治区中央人民政府",
+        "pinned_tweet_id": "2030574576468680828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020494929466970113/V9I5xstl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 59,
+          "like_count": 270,
+          "listed_count": 1,
+          "media_count": 345,
+          "tweet_count": 3429
+        },
+        "username": "yulang666x",
+        "verified": false
+      }
+    ]
+  }
+}

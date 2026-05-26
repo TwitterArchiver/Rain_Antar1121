@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2027359147071868928",
+        "13_2027359147071795200"
+      ]
+    },
+    "author_id": "1894461745277931524",
+    "conversation_id": "2027359228621725821",
+    "created_at": "2026-02-27T12:24:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T13:24:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027359228621725821"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xGzSHIaUZP",
+          "end": 111,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/2027359228621725821/video/1",
+          "media_key": "13_2027359147071868928",
+          "start": 88,
+          "url": "https://t.co/xGzSHIaUZP"
+        },
+        {
+          "display_url": "pic.x.com/xGzSHIaUZP",
+          "end": 111,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/2027359228621725821/video/1",
+          "media_key": "13_2027359147071795200",
+          "start": 88,
+          "url": "https://t.co/xGzSHIaUZP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027359228621725821",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🇲🇾🥰～\n可爱小猴，嗯。吉隆坡和槟城到处都是小猴子呐，有时候会发现路边的树上就挂着一大群～荡来荡去～\n\n牙口真好呢什么都吃…好像也不怎么怕人呜，还是不敢走太近呢(｡•﹃•｡) https://t.co/xGzSHIaUZP"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7703,
+        "height": 1920,
+        "media_key": "13_2027359147071868928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2027359147071868928/img/ypWp3ue04Pttv_1M.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027359147071868928/vid/avc1/1080x1920/W0I3akoEFaxvW9Qu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2027359147071868928/pl/bIhfKArXqZcFSXrA.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027359147071868928/vid/avc1/480x852/vj4rd3nmnGMpNphV.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027359147071868928/vid/avc1/720x1280/i2DZ7g-dx9z5Zy9N.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027359147071868928/vid/avc1/320x568/v3XVjbMqgCNirrwc.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "duration_ms": 14933,
+        "height": 1920,
+        "media_key": "13_2027359147071795200",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2027359147071795200/img/AvPG1BGsXH3nuWTy.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027359147071795200/vid/avc1/1080x1920/OfN3ckeP0bTy6UQB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2027359147071795200/pl/oxrzFkitI3A-LqFo.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027359147071795200/vid/avc1/320x568/rhIHFGK1rtbhLv1B.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027359147071795200/vid/avc1/480x852/_4oTuYWZnw6r-kKM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027359147071795200/vid/avc1/720x1280/BY5SliMaxovo3pL1.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2027359147071868928",
+            "13_2027359147071795200"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "conversation_id": "2027359228621725821",
+        "created_at": "2026-02-27T12:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T13:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027359228621725821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xGzSHIaUZP",
+              "end": 111,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2027359228621725821/video/1",
+              "media_key": "13_2027359147071868928",
+              "start": 88,
+              "url": "https://t.co/xGzSHIaUZP"
+            },
+            {
+              "display_url": "pic.x.com/xGzSHIaUZP",
+              "end": 111,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2027359228621725821/video/1",
+              "media_key": "13_2027359147071795200",
+              "start": 88,
+              "url": "https://t.co/xGzSHIaUZP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027359228621725821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🇲🇾🥰～\n可爱小猴，嗯。吉隆坡和槟城到处都是小猴子呐，有时候会发现路边的树上就挂着一大群～荡来荡去～\n\n牙口真好呢什么都吃…好像也不怎么怕人呜，还是不敢走太近呢(｡•﹃•｡) https://t.co/xGzSHIaUZP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的杂物 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3362,
+          "following_count": 5028,
+          "like_count": 10088,
+          "listed_count": 7,
+          "media_count": 153,
+          "tweet_count": 1880
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      }
+    ]
+  }
+}

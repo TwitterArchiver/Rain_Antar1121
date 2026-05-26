@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2054975106728989117",
+    "created_at": "2026-05-14T18:31:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T19:31:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054993112611877142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1815379036782411776",
+          "start": 0,
+          "username": "bnbn26082698"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054993112611877142",
+    "in_reply_to_user_id": "1815379036782411776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054975106728989117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bnbn26082698 喵ww挤进去贴୯(⁠*⁠´⁠ω⁠｀⁠*⁠)୬"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2054975097602293760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIS89qrbwAA2pnR.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2054975106728989117",
+        "created_at": "2026-05-14T18:31:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T19:31:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054993112611877142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1815379036782411776",
+              "start": 0,
+              "username": "bnbn26082698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054993112611877142",
+        "in_reply_to_user_id": "1815379036782411776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054975106728989117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bnbn26082698 喵ww挤进去贴୯(⁠*⁠´⁠ω⁠｀⁠*⁠)୬"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054975097602293760"
+          ]
+        },
+        "author_id": "1815379036782411776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2054975106728989117",
+        "created_at": "2026-05-14T17:20:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T18:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054975106728989117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2053662146425499648/TLmx9VjK?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2053662146425499648/TLmx9VjK?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/8crZsQbgaB"
+            },
+            {
+              "display_url": "pic.x.com/NDGFqShgkd",
+              "end": 64,
+              "expanded_url": "https://x.com/bnbn26082698/status/2054975106728989117/photo/1",
+              "media_key": "3_2054975097602293760",
+              "start": 41,
+              "url": "https://t.co/NDGFqShgkd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054975106728989117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/8crZsQbgaB https://t.co/NDGFqShgkd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042559105353842688/Hs-yW50g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4108,
+          "following_count": 6070,
+          "like_count": 14040,
+          "listed_count": 10,
+          "media_count": 270,
+          "tweet_count": 3166
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-22T13:31:14.000Z",
+        "description": "09/1/1？←(๑ت๑)→2024/7/28//MTF还是MTX呢难说哦",
+        "id": "1815379036782411776",
+        "location": "璃瑜三",
+        "name": "醒了就去璃瑜二（🍥—）鱼板棒棒糖ww~",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024461832803799044/nPU131D-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 74,
+          "like_count": 8123,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 482
+        },
+        "username": "bnbn26082698",
+        "verified": false
+      }
+    ]
+  }
+}

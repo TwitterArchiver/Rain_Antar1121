@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2015252455089705344",
+    "created_at": "2026-01-25T13:43:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T14:43:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015420151672475929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1944276111506255878",
+          "start": 0,
+          "username": "SweetCream37012"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015420151672475929",
+    "in_reply_to_user_id": "1944276111506255878",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015252455089705344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SweetCream37012 喵是哦咱也觉得自己作为女孩子远远不够自然…把女孩子的日常当做很兴奋的事情而非生活的背景板( •̥́ ˍ •̀ू)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2015252455089705344",
+        "created_at": "2026-01-25T13:43:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T14:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015420151672475929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1944276111506255878",
+              "start": 0,
+              "username": "SweetCream37012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015420151672475929",
+        "in_reply_to_user_id": "1944276111506255878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015252455089705344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SweetCream37012 喵是哦咱也觉得自己作为女孩子远远不够自然…把女孩子的日常当做很兴奋的事情而非生活的背景板( •̥́ ˍ •̀ू)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944276111506255878",
+        "conversation_id": "2015252455089705344",
+        "created_at": "2026-01-25T02:36:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T03:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015252455089705344"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 75,
+              "start": 70,
+              "tag": "蛋糕日常"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015252455089705344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "糕的吐槽：红兔兔穿衣服啊…主要考虑的是舒不舒服而不是好不好看…果然还是糕的容貌焦虑太严重了吗…每天出门之前都要焦虑穿什么衣服怎么搭配…嘛…\n#蛋糕日常"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的杂物 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3096,
+          "following_count": 4594,
+          "like_count": 8972,
+          "listed_count": 6,
+          "media_count": 128,
+          "tweet_count": 1614
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-13T06:02:15.000Z",
+        "description": "是小蛋糕呀！涩涩内容还是会发在@ToshinoAyano大号上哦！这里大概会更新一些雪糕日常或者吐槽树洞啦！请不要把雪糕和蛋糕的内容转载到墙内！如果你还想见到我们的话hhh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "ToshinoAyano"
+              }
+            ]
+          }
+        },
+        "id": "1944276111506255878",
+        "location": "Hong Kong",
+        "name": "小蛋糕🧁",
+        "pinned_tweet_id": "2010725334518550993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944276307442835456/QUN9_x6u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 129,
+          "like_count": 369,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 148
+        },
+        "username": "SweetCream37012",
+        "verified": false
+      }
+    ]
+  }
+}

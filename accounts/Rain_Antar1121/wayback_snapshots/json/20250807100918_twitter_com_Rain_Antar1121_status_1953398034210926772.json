@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1953389164877000777",
+    "created_at": "2025-08-07T10:09:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T11:09:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953398034210926772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1944621723346669568",
+          "start": 0,
+          "username": "sjcsdjh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953398034210926772",
+    "in_reply_to_user_id": "1944621723346669568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953389164877000777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sjcsdjh 因为吃糖太简单了吧…买来就能吃，所以这个原则就形同虚设了呢\n而且，存在不认同这个原则的观点喵，存在吃糖是个人自由的声音\n（这个世界就是这个世界）\n（这种根基性话题很容易吵起来呢）\n₍˄·͈༝·͈˄*₎◞ ̑̑～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1953389164877000777",
+        "created_at": "2025-08-07T10:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T11:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953398034210926772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1944621723346669568",
+              "start": 0,
+              "username": "sjcsdjh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953398034210926772",
+        "in_reply_to_user_id": "1944621723346669568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953389164877000777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sjcsdjh 因为吃糖太简单了吧…买来就能吃，所以这个原则就形同虚设了呢\n而且，存在不认同这个原则的观点喵，存在吃糖是个人自由的声音\n（这个世界就是这个世界）\n（这种根基性话题很容易吵起来呢）\n₍˄·͈༝·͈˄*₎◞ ̑̑～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944621723346669568",
+        "conversation_id": "1953389164877000777",
+        "created_at": "2025-08-07T09:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T10:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953389164877000777"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953389164877000777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我刚刚惊奇的发现非性别焦虑进行吃糖的人很多，难道这不是用来治疗性别认知障碍的?究竟是这世界乱套了还是我思想太迂腐了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1945,
+          "following_count": 2859,
+          "like_count": 4955,
+          "listed_count": 3,
+          "media_count": 63,
+          "tweet_count": 802
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T04:55:33.000Z",
+        "description": "暂时没有勇气出柜，但在努力活着。",
+        "id": "1944621723346669568",
+        "name": "素笺成书🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952307599833288704/_EZLtIIz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 17,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 29
+        },
+        "username": "sjcsdjh",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957100740968898561",
+        "3_1957100866122735616"
+      ]
+    },
+    "author_id": "1894461745277931524",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10051379260",
+          "name": "Love, Chunibyo and Other Delusions"
+        }
+      }
+    ],
+    "conversation_id": "1957100890273550738",
+    "created_at": "2025-08-17T15:23:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T16:23:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1957100890273550738"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 149,
+          "start": 142,
+          "tag": "wplace"
+        },
+        {
+          "end": 161,
+          "start": 150,
+          "tag": "wplacelive"
+        },
+        {
+          "end": 168,
+          "start": 162,
+          "tag": "小鳥遊六花"
+        },
+        {
+          "end": 180,
+          "start": 169,
+          "tag": "中二病でも恋がしたい"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 83,
+          "id": "1531432040909918209",
+          "start": 71,
+          "username": "Ethanwu1234"
+        },
+        {
+          "end": 98,
+          "id": "1545736499597307904",
+          "start": 84,
+          "username": "Andy_Zaychilk"
+        },
+        {
+          "end": 107,
+          "id": "1841815764753645571",
+          "start": 99,
+          "username": "Yuuziww"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IAAJdTevao",
+          "end": 204,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/1957100890273550738/photo/1",
+          "media_key": "3_1957100740968898561",
+          "start": 181,
+          "url": "https://t.co/IAAJdTevao"
+        },
+        {
+          "display_url": "pic.x.com/IAAJdTevao",
+          "end": 204,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/1957100890273550738/photo/1",
+          "media_key": "3_1957100866122735616",
+          "start": 181,
+          "url": "https://t.co/IAAJdTevao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957100890273550738",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Takanashi Rikka 💜❛˓◞˂̵✧\n耗时54小时绘制的小鸟游六花🥰\n按像素数计，这是南京市目前规模最大的完工的二次元画作哦～\n感谢@Ethanwu1234 @Andy_Zaychilk @Yuuziww的协助喵～\n亲手将六花在咱热爱的城市画龙点睛的那一刻…超有成就感耶😘\n#wplace #wplacelive\n#小鳥遊六花 #中二病でも恋がしたい https://t.co/IAAJdTevao"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1055,
+        "media_key": "3_1957100740968898561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GykEwTca4AEKQxf.jpg",
+        "width": 1228
+      },
+      {
+        "height": 2237,
+        "media_key": "3_1957100866122735616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GykE3lra4AAMZdT.jpg",
+        "width": 1228
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957100740968898561",
+            "3_1957100866122735616"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051379260",
+              "name": "Love, Chunibyo and Other Delusions"
+            }
+          }
+        ],
+        "conversation_id": "1957100890273550738",
+        "created_at": "2025-08-17T15:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T16:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957100890273550738"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 149,
+              "start": 142,
+              "tag": "wplace"
+            },
+            {
+              "end": 161,
+              "start": 150,
+              "tag": "wplacelive"
+            },
+            {
+              "end": 168,
+              "start": 162,
+              "tag": "小鳥遊六花"
+            },
+            {
+              "end": 180,
+              "start": 169,
+              "tag": "中二病でも恋がしたい"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 83,
+              "id": "1531432040909918209",
+              "start": 71,
+              "username": "Ethanwu1234"
+            },
+            {
+              "end": 98,
+              "id": "1545736499597307904",
+              "start": 84,
+              "username": "Andy_Zaychilk"
+            },
+            {
+              "end": 107,
+              "id": "1841815764753645571",
+              "start": 99,
+              "username": "Yuuziww"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IAAJdTevao",
+              "end": 204,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/1957100890273550738/photo/1",
+              "media_key": "3_1957100740968898561",
+              "start": 181,
+              "url": "https://t.co/IAAJdTevao"
+            },
+            {
+              "display_url": "pic.x.com/IAAJdTevao",
+              "end": 204,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/1957100890273550738/photo/1",
+              "media_key": "3_1957100866122735616",
+              "start": 181,
+              "url": "https://t.co/IAAJdTevao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957100890273550738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Takanashi Rikka 💜❛˓◞˂̵✧\n耗时54小时绘制的小鸟游六花🥰\n按像素数计，这是南京市目前规模最大的完工的二次元画作哦～\n感谢@Ethanwu1234 @Andy_Zaychilk @Yuuziww的协助喵～\n亲手将六花在咱热爱的城市画龙点睛的那一刻…超有成就感耶😘\n#wplace #wplacelive\n#小鳥遊六花 #中二病でも恋がしたい https://t.co/IAAJdTevao"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2061,
+          "following_count": 3008,
+          "like_count": 5300,
+          "listed_count": 3,
+          "media_count": 72,
+          "tweet_count": 880
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-31T00:27:23.000Z",
+        "description": "我是双性恋",
+        "id": "1531432040909918209",
+        "name": "刺猬QWQ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943455605848510465/ZaDFkpEE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 88,
+          "like_count": 7405,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 152
+        },
+        "username": "Ethanwu1234",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T11:48:14.000Z",
+        "description": "与你的日常，就是奇迹！\n上海市某中学预备ENTP高一牲喵（2010.06）\n（🚪9.9CNY 仅限支付宝口令红包 同类免费\n猫猫@AGeSang2008\n对象@guo_lao32576\n杂鱼@mhtqwq\n妈咪@zzzChumo\n碎碎念@Andy_Kaslana",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 64,
+                "username": "AGeSang2008"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "guo_lao32576"
+              },
+              {
+                "end": 102,
+                "start": 95,
+                "username": "mhtqwq"
+              },
+              {
+                "end": 114,
+                "start": 105,
+                "username": "zzzChumo"
+              },
+              {
+                "end": 131,
+                "start": 118,
+                "username": "Andy_Kaslana"
+              }
+            ]
+          }
+        },
+        "id": "1545736499597307904",
+        "location": "永恒之地-翁法罗斯 AMPHOREUS",
+        "name": "Andy Zaychilk（打舞萌/中二版）",
+        "pinned_tweet_id": "1941881650650165609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870824253593194496/Xhiu7ZRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2256,
+          "following_count": 4169,
+          "like_count": 12998,
+          "listed_count": 6,
+          "media_count": 132,
+          "tweet_count": 1470
+        },
+        "username": "Andy_Zaychilk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T12:22:03.000Z",
+        "description": "好想和可爱的小蝴蝶做朋友，好想做可爱小蝴蝶的树洞，愿为小蝴蝶还有更多可爱的人提供帮助赶走烦恼～（是一个不怎么会玩X的小白，会写写私信回回评论之类的～）",
+        "id": "1841815764753645571",
+        "name": "怡子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926455062898810880/h8quj9Dh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 34,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 13
+        },
+        "username": "Yuuziww",
+        "verified": false
+      }
+    ]
+  }
+}

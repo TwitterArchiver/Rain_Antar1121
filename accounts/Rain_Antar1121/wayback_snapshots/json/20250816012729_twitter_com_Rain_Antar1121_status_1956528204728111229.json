@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1956406355809665314",
+    "created_at": "2025-08-16T01:27:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T02:27:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956528204728111229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1558730611556175873",
+          "start": 0,
+          "username": "ChisakaKanako"
+        },
+        {
+          "end": 27,
+          "id": "1531432040909918209",
+          "start": 15,
+          "username": "Ethanwu1234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956528204728111229",
+    "in_reply_to_user_id": "1558730611556175873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956527218211119531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChisakaKanako @Ethanwu1234 喵无所谓了现在重要的是宣示主权…\n以后能抢过来底盘的话，咱会重新画这副画的…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1956527212724928512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyb7IkPawAA4-Ig.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1956406355809665314",
+        "created_at": "2025-08-16T01:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T02:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956528204728111229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1558730611556175873",
+              "start": 0,
+              "username": "ChisakaKanako"
+            },
+            {
+              "end": 27,
+              "id": "1531432040909918209",
+              "start": 15,
+              "username": "Ethanwu1234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956528204728111229",
+        "in_reply_to_user_id": "1558730611556175873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956527218211119531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChisakaKanako @Ethanwu1234 喵无所谓了现在重要的是宣示主权…\n以后能抢过来底盘的话，咱会重新画这副画的…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956527212724928512"
+          ]
+        },
+        "author_id": "1558730611556175873",
+        "conversation_id": "1956406355809665314",
+        "created_at": "2025-08-16T01:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T02:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956527218211119531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1531432040909918209",
+              "start": 0,
+              "username": "Ethanwu1234"
+            },
+            {
+              "end": 28,
+              "id": "1894461745277931524",
+              "start": 13,
+              "username": "Rain_Antar1121"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CYTKCk7xbf",
+              "end": 72,
+              "expanded_url": "https://x.com/ChisakaKanako/status/1956527218211119531/photo/1",
+              "media_key": "3_1956527212724928512",
+              "start": 49,
+              "url": "https://t.co/CYTKCk7xbf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956527218211119531",
+        "in_reply_to_user_id": "1531432040909918209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956525315221590132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ethanwu1234 @Rain_Antar1121 你的屏幕是不是有色差？这个蓝色明显不对 https://t.co/CYTKCk7xbf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2041,
+          "following_count": 2984,
+          "like_count": 5218,
+          "listed_count": 3,
+          "media_count": 69,
+          "tweet_count": 857
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-14T08:22:12.000Z",
+        "description": "跨女 平面设计 锁推不要关注我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chisakakanako.notion.site/96f67217a4c041…",
+                "end": 23,
+                "expanded_url": "https://chisakakanako.notion.site/96f67217a4c0410eb35c4200f835eafa?pvs=4",
+                "start": 0,
+                "url": "https://t.co/ot7AE8ZHyA"
+              }
+            ]
+          }
+        },
+        "id": "1558730611556175873",
+        "name": "千坂神奈子",
+        "pinned_tweet_id": "1934452141684670766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938162412697620481/84c4M-W4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5641,
+          "following_count": 1546,
+          "like_count": 41758,
+          "listed_count": 7,
+          "media_count": 54,
+          "tweet_count": 415
+        },
+        "url": "https://t.co/ot7AE8ZHyA",
+        "username": "ChisakaKanako",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-31T00:27:23.000Z",
+        "description": "我是双性恋",
+        "id": "1531432040909918209",
+        "name": "刺猬QWQ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943455605848510465/ZaDFkpEE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 75,
+          "like_count": 7343,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 150
+        },
+        "username": "Ethanwu1234",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1979603722377560095",
+    "created_at": "2025-10-19T06:05:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T07:05:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979790869768351997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1531432040909918209",
+          "start": 0,
+          "username": "Ethanwu1234"
+        },
+        {
+          "end": 27,
+          "id": "1767453480065839104",
+          "start": 13,
+          "username": "Lone_Wolf_CYK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979790869768351997",
+    "in_reply_to_user_id": "1531432040909918209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979603722377560095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ethanwu1234 @Lone_Wolf_CYK 哼咕呜呜…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 861,
+        "media_key": "3_1979603717457657856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3j3F7cbQAAdh2u.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1979603722377560095",
+        "created_at": "2025-10-19T06:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T07:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979790869768351997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1531432040909918209",
+              "start": 0,
+              "username": "Ethanwu1234"
+            },
+            {
+              "end": 27,
+              "id": "1767453480065839104",
+              "start": 13,
+              "username": "Lone_Wolf_CYK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979790869768351997",
+        "in_reply_to_user_id": "1531432040909918209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979603722377560095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ethanwu1234 @Lone_Wolf_CYK 哼咕呜呜…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979603717457657856"
+          ]
+        },
+        "author_id": "1531432040909918209",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1979603722377560095",
+        "created_at": "2025-10-18T17:41:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T18:41:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979603722377560095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 30,
+              "id": "1767453480065839104",
+              "start": 16,
+              "username": "Lone_Wolf_CYK"
+            }
+          ],
+          "urls": [
+            {
+              "description": "We don't disclose this feature's algorithm. We can only hope that, whether in a good or bad way, your Secret Crush will impress you.",
+              "display_url": "infintytweet.me/secret-crush?l…",
+              "end": 58,
+              "expanded_url": "https://infintytweet.me/secret-crush?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1978665782881263616/xy51geTx?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1978665782881263616/xy51geTx?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 35,
+              "status": 200,
+              "title": "Secret Crush • Infinitweet",
+              "unwound_url": "https://infintytweet.me/secret-crush?lang=zh",
+              "url": "https://t.co/r5Cs17EgM1"
+            },
+            {
+              "display_url": "pic.x.com/jDf3r0X3EE",
+              "end": 82,
+              "expanded_url": "https://x.com/Ethanwu1234/status/1979603722377560095/photo/1",
+              "media_key": "3_1979603717457657856",
+              "start": 59,
+              "url": "https://t.co/jDf3r0X3EE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979603722377560095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在Twitter上的暗恋是  @Lone_Wolf_CYK\n\n➡️ https://t.co/r5Cs17EgM1 https://t.co/jDf3r0X3EE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩子🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 软软的温顺小动物 | 社恐小透明 | 随时发作的中二病 | 会自觉抱住可爱的存在 | 天文/航空/航天/科幻/理工文史都会看看 | 认真观察有趣的世界 | 想要…专属于咱抱着的人 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2413,
+          "following_count": 3651,
+          "like_count": 6570,
+          "listed_count": 5,
+          "media_count": 89,
+          "tweet_count": 1072
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-31T00:27:23.000Z",
+        "description": "09 ｜双｜男｜",
+        "id": "1531432040909918209",
+        "name": "刺猬QWQ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965090807179821056/8o1Rm8w7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 231,
+          "like_count": 12284,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 434
+        },
+        "username": "Ethanwu1234",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-12T07:32:24.000Z",
+        "description": "毛茸茸的大薩摩耶~❤️\nISSAO員工，軍事迷/SCP迷。\n\n（睡著了",
+        "id": "1767453480065839104",
+        "name": "YK C",
+        "pinned_tweet_id": "1978778005913673746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979602925086261248/zwo4cb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 1324,
+          "like_count": 48232,
+          "listed_count": 5,
+          "media_count": 980,
+          "tweet_count": 10781
+        },
+        "username": "Lone_Wolf_CYK",
+        "verified": false
+      }
+    ]
+  }
+}

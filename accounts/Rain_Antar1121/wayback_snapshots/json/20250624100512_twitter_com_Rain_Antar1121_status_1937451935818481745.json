@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1935695646184600045",
+    "created_at": "2025-06-24T10:05:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T11:05:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937451935818481745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1918261520817065984",
+          "start": 0,
+          "username": "BipolarBP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937451935818481745",
+    "in_reply_to_user_id": "1918261520817065984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935695646184600045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BipolarBP 世界yn之都，E2诅咒之城，坎通清远欢迎您～❛˓◞˂̵✧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1935695646184600045",
+        "created_at": "2025-06-24T10:05:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T11:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937451935818481745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1918261520817065984",
+              "start": 0,
+              "username": "BipolarBP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937451935818481745",
+        "in_reply_to_user_id": "1918261520817065984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935695646184600045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BipolarBP 世界yn之都，E2诅咒之城，坎通清远欢迎您～❛˓◞˂̵✧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918261520817065984",
+        "conversation_id": "1935695646184600045",
+        "created_at": "2025-06-19T13:46:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T14:46:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935695646184600045"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1935695646184600045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 831,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "广东清远是什么xyn刷新地吗而且人均出勤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1919740598187147331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910722822059810817/tWPhmxtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1499,
+          "following_count": 2238,
+          "like_count": 3853,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 637
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T11:09:46.000Z",
+        "description": "非二元，非健全，取向男，友跨，🚪52+🐧看见了会回Fo，能和我交朋友吗 SHE/THEY/THEM",
+        "id": "1918261520817065984",
+        "location": "坐标河南",
+        "name": "双相情感障碍",
+        "pinned_tweet_id": "1935039111758483812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921442393619935232/GutosocN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 165,
+          "like_count": 81,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 185
+        },
+        "username": "BipolarBP",
+        "verified": false
+      }
+    ]
+  }
+}

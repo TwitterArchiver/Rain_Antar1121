@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1945804962988175427",
+    "created_at": "2025-07-18T11:58:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T12:58:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946177661908537820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "623965569",
+          "start": 0,
+          "username": "nothousand"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946177661908537820",
+    "in_reply_to_user_id": "623965569",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945808533485953534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nothousand 感光元件应该比人眼更脆弱叭不敢用（）而且，动态范围比人眼窄的话，对云霾的要求可能会比人眼高，吧？\nつ♡⊂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1945804962988175427",
+        "created_at": "2025-07-18T11:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T12:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946177661908537820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "623965569",
+              "start": 0,
+              "username": "nothousand"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946177661908537820",
+        "in_reply_to_user_id": "623965569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945808533485953534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nothousand 感光元件应该比人眼更脆弱叭不敢用（）而且，动态范围比人眼窄的话，对云霾的要求可能会比人眼高，吧？\nつ♡⊂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "623965569",
+        "conversation_id": "1945804962988175427",
+        "created_at": "2025-07-17T11:31:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T12:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945808533485953534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945808533485953534",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945804962988175427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 以前雾霾特别严重的时候用相机拍到过太阳黑子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1919740598187147331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1823,
+          "following_count": 2680,
+          "like_count": 4673,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 776
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-01T16:27:02.000Z",
+        "description": "/记录一些异世界的碎碎念w #INFJ\n##有奇怪想法和需求的人wsn别来关注我关了也会被我清理！！\n/谨慎fo因为我们可能不是一类人，或者不是你以为的那类人喔\n/不定期删除三无号，不同频的人还请见谅\n/需要回fo请大胆和我说我会来仔细观察你然后给你答案\n//雷自残od各种赤裸色色看到这样的人会unfo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 14,
+                "tag": "INFJ"
+              },
+              {
+                "end": 48,
+                "start": 21,
+                "tag": "有奇怪想法和需求的人wsn别来关注我关了也会被我清理"
+              }
+            ]
+          }
+        },
+        "id": "623965569",
+        "location": "earth",
+        "name": "芊芊不是茜茜🏳️‍⚧️",
+        "pinned_tweet_id": "1940754100695769098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937700873003823104/vKI_0ofL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 70,
+          "like_count": 1674,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1198
+        },
+        "username": "nothousand",
+        "verified": false
+      }
+    ]
+  }
+}

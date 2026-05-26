@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1957809608707240116",
+    "created_at": "2025-09-05T02:27:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T03:27:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963790952415510791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1883570556718759936",
+          "start": 0,
+          "username": "bHlyaWNsZTA0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963790952415510791",
+    "in_reply_to_user_id": "1883570556718759936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963673560347775411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bHlyaWNsZTA0 耶嘿(*ෆ´ ˘ `ෆ*)♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1957809608707240116",
+        "created_at": "2025-09-05T02:27:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T03:27:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963790952415510791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1883570556718759936",
+              "start": 0,
+              "username": "bHlyaWNsZTA0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963790952415510791",
+        "in_reply_to_user_id": "1883570556718759936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963673560347775411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bHlyaWNsZTA0 耶嘿(*ෆ´ ˘ `ෆ*)♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883570556718759936",
+        "conversation_id": "1957809608707240116",
+        "created_at": "2025-09-04T18:40:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T19:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963673560347775411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963673560347775411",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957809608707240116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 天哪你居然是南京的🥺🥺好诶！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～| 这一句用来提醒咱重新写Bio",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2168,
+          "following_count": 3151,
+          "like_count": 5662,
+          "listed_count": 4,
+          "media_count": 78,
+          "tweet_count": 940
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-26T17:40:02.000Z",
+        "description": "小熊厨/百合爱好者",
+        "id": "1883570556718759936",
+        "location": "Alcyone",
+        "name": "星野 ケン",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928413528123232256/1bGmSL-B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 49,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 61
+        },
+        "username": "bHlyaWNsZTA0",
+        "verified": false
+      }
+    ]
+  }
+}

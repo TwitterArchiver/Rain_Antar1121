@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1930075940123750809",
+    "created_at": "2025-06-16T06:50:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T07:50:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934503731250500068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1547479853108064256",
+          "start": 0,
+          "username": "3082794447qwe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934503731250500068",
+    "in_reply_to_user_id": "1547479853108064256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930075940123750809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3082794447qwe 好欸⌯&gt;ᴗo⌯ .ᐟ.ᐟ\n可爱！有点拖线喵～\n一眼看见右侧的天蝎和中间的人马座茶壶，蝎尾巴上挂的M6和M7好明显～\n还有富饶的银河系中心…人马方向有一大堆梅西耶挤在图里\n（要不给个拍摄时间，咱给拍摄点开个盒嘿嘿）\n૮ ´͈ ᗜ `͈ ა♡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1930075936269185024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GskB1orasAAyruF.jpg",
+        "width": 1851
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1930075940123750809",
+        "created_at": "2025-06-16T06:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T07:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934503731250500068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547479853108064256",
+              "start": 0,
+              "username": "3082794447qwe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934503731250500068",
+        "in_reply_to_user_id": "1547479853108064256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930075940123750809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3082794447qwe 好欸⌯&gt;ᴗo⌯ .ᐟ.ᐟ\n可爱！有点拖线喵～\n一眼看见右侧的天蝎和中间的人马座茶壶，蝎尾巴上挂的M6和M7好明显～\n还有富饶的银河系中心…人马方向有一大堆梅西耶挤在图里\n（要不给个拍摄时间，咱给拍摄点开个盒嘿嘿）\n૮ ´͈ ᗜ `͈ ა♡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930075936269185024"
+          ]
+        },
+        "author_id": "1547479853108064256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1930075940123750809",
+        "created_at": "2025-06-04T01:35:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T02:35:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930075940123750809"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "星空"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qZrE3nIXm3",
+              "end": 40,
+              "expanded_url": "https://x.com/3082794447qwe/status/1930075940123750809/photo/1",
+              "media_key": "3_1930075936269185024",
+              "start": 17,
+              "url": "https://t.co/qZrE3nIXm3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930075940123750809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 525,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#星空 蚊子好烦…只堆栈了31张 https://t.co/qZrE3nIXm3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1919740598187147331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910722822059810817/tWPhmxtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1382,
+          "following_count": 2060,
+          "like_count": 3415,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 575
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-14T07:15:56.000Z",
+        "description": "药娘/多意识体/可能会发点色图，qq1549087771",
+        "id": "1547479853108064256",
+        "name": "草狐狸OVO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925473299905257472/BaKXaXrE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 96,
+          "like_count": 289,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 40
+        },
+        "username": "3082794447qwe",
+        "verified": false
+      }
+    ]
+  }
+}

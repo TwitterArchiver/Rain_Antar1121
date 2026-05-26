@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1937058403450581484",
+    "created_at": "2025-06-24T10:25:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T11:25:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937456991624110521"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 67,
+          "normalized_text": "Victoria Harbour",
+          "probability": 0.9527,
+          "start": 52,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1543558473618948096",
+          "start": 0,
+          "username": "Rananakano"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937456991624110521",
+    "in_reply_to_user_id": "1543558473618948096",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937417139318849658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rananakano Yes ~ It's captured from a ferryboat in Victoria Harbour ~\n૮ ´͈ ᗜ `͈ ა♥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1937058403450581484",
+        "created_at": "2025-06-24T10:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T11:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937456991624110521"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 67,
+              "normalized_text": "Victoria Harbour",
+              "probability": 0.9527,
+              "start": 52,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1543558473618948096",
+              "start": 0,
+              "username": "Rananakano"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937456991624110521",
+        "in_reply_to_user_id": "1543558473618948096",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937417139318849658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rananakano Yes ~ It's captured from a ferryboat in Victoria Harbour ~\n૮ ´͈ ᗜ `͈ ა♥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1543558473618948096",
+        "conversation_id": "1937058403450581484",
+        "created_at": "2025-06-24T07:46:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T08:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937417139318849658"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "Hong Kong",
+              "probability": 0.9835,
+              "start": 24,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937417139318849658",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937207287380345047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 Is this Hong Kong?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1919740598187147331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910722822059810817/tWPhmxtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1500,
+          "following_count": 2242,
+          "like_count": 3857,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 639
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-03T11:33:23.000Z",
+        "description": "Chu2koi lover / ⚠️Chu2koi spoilers 中二恋のネタバレ注意❗️/ 使用させていただく画像の著作権は©虎虎・京都アニメーション・中二病でも製作委員会にあります。",
+        "id": "1543558473618948096",
+        "location": "Shiga",
+        "name": "Ryan †",
+        "pinned_tweet_id": "1932815545671561492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852015409043771396/fzEvu78-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 58,
+          "like_count": 11234,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 632
+        },
+        "username": "Rananakano",
+        "verified": false
+      }
+    ]
+  }
+}

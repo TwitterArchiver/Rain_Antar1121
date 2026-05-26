@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2053164352728113352",
+    "created_at": "2026-05-09T17:35:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T18:35:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053166980061131055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1811265295849598976",
+          "start": 0,
+          "username": "KiraMyao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053166980061131055",
+    "in_reply_to_user_id": "1811265295849598976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053164352728113352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KiraMyao 猫猫好厉害…猫猫在咱眼里就是魔法猫猫…呃啊这一切在两天之内拔地而起真的是不是魔法吗）🥺崇拜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 890,
+        "media_key": "16_2053155367878840320",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HH5F7dMa0AA_KxV.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HH5F7dMa0AA_KxV.mp4"
+          }
+        ],
+        "width": 1384
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2053164352728113352",
+        "created_at": "2026-05-09T17:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T18:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053166980061131055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1811265295849598976",
+              "start": 0,
+              "username": "KiraMyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053166980061131055",
+        "in_reply_to_user_id": "1811265295849598976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053164352728113352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KiraMyao 猫猫好厉害…猫猫在咱眼里就是魔法猫猫…呃啊这一切在两天之内拔地而起真的是不是魔法吗）🥺崇拜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2053155367878840320"
+          ]
+        },
+        "author_id": "1811265295849598976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2053164352728113352",
+        "created_at": "2026-05-09T17:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T18:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053164352728113352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LcX6NOBkdK",
+              "end": 197,
+              "expanded_url": "https://x.com/KiraMyao/status/2053164352728113352/photo/1",
+              "media_key": "16_2053155367878840320",
+              "start": 174,
+              "url": "https://t.co/LcX6NOBkdK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053164352728113352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "推特头像贴贴软件🥰\n耗时24小时后正式发布！前往Github下载⬇️\nIntroducing   X-Family-Grid 1.0😎\n1️⃣全自动，全并发。\n强大的并行处理能力，让批量获取头像变得轻而易举。\n登录 X 账号，剩下交给我们💻\n2️⃣社交脉络，了然于胸。\nFollower 数量与亲密度的智能排序，内建高性能的节点拓扑图，千丝万缕。\n3️⃣全天候灵动。\n超乎想象的灵动交互，白天黑夜，美妙绝伦。\n4️⃣你的数据，哪也不去。\n100% 本地存储计算，您的数据绝不离开。\n\n由Electron/vue3/Claude强力驱动🚀\n开始，在 xingqimiao/X-family-grid"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 43,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推特头像贴贴软件🥰\n耗时24小时后正式发布！前往Github下载⬇️\nIntroducing   X-Family-Grid 1.0😎\n1️⃣全自动，全并发。\n强大的并行处理能力，让批量获取头像变得轻而易举。\n登录 X 账号，剩下交给我们💻\n2️⃣社交脉络，了然于胸。\nFollower 数量与亲密度的智能排序，内建高性能的节点拓扑图，千丝万缕。 https://t.co/LcX6NOBkdK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042559105353842688/Hs-yW50g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4063,
+          "following_count": 6048,
+          "like_count": 13874,
+          "listed_count": 11,
+          "media_count": 259,
+          "tweet_count": 3038
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-11T05:04:57.000Z",
+        "description": "KiraMyao🌎きらみゃお🌏星绮喵                                      \n  \nTech💾 meme👻 Equal❤️\n\nUnderstand risk. Move through it.😡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "equal.kiramayo.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://equal.kiramayo.dpdns.org",
+                "start": 0,
+                "url": "https://t.co/HY2O2A4Kqa"
+              }
+            ]
+          }
+        },
+        "id": "1811265295849598976",
+        "location": "Japan",
+        "name": "KiraMyao🐱",
+        "pinned_tweet_id": "2043007235786445150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050442466428616704/Cd6JwXLB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1077,
+          "following_count": 355,
+          "like_count": 9582,
+          "listed_count": 3,
+          "media_count": 374,
+          "tweet_count": 1501
+        },
+        "url": "https://t.co/HY2O2A4Kqa",
+        "username": "KiraMyao",
+        "verified": true
+      }
+    ]
+  }
+}

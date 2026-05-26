@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1983242874717388938",
+    "created_at": "2025-10-29T13:24:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T14:24:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983525281014177928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1393505778418339843",
+          "start": 0,
+          "username": "Nagaimiona_mtf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983525281014177928",
+    "in_reply_to_user_id": "1393505778418339843",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983242874717388938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nagaimiona_mtf 耶，贴咪☆～（ゝ。∂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1983242865078882305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Xk4Mxa0AE5URV.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1983242874717388938",
+        "created_at": "2025-10-29T13:24:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T14:24:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983525281014177928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1393505778418339843",
+              "start": 0,
+              "username": "Nagaimiona_mtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983525281014177928",
+        "in_reply_to_user_id": "1393505778418339843",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983242874717388938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nagaimiona_mtf 耶，贴咪☆～（ゝ。∂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983242865078882305"
+          ]
+        },
+        "author_id": "1393505778418339843",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1983242874717388938",
+        "created_at": "2025-10-28T18:42:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T19:42:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983242874717388938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infintytweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1981137986973814785/3G6z0JHc?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1981137986973814785/3G6z0JHc?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/SYNnLiF8im"
+            },
+            {
+              "display_url": "pic.x.com/VMZFx0dBRi",
+              "end": 64,
+              "expanded_url": "https://x.com/Nagaimiona_mtf/status/1983242874717388938/photo/1",
+              "media_key": "3_1983242865078882305",
+              "start": 41,
+              "url": "https://t.co/VMZFx0dBRi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983242874717388938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 178,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/SYNnLiF8im https://t.co/VMZFx0dBRi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩子🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 软软的温顺小动物 | 社恐小透明 | 随时发作的中二病 | 会自觉抱住可爱的存在 | 天文/航空/航天/科幻/理工文史都会看看 | 认真观察有趣的世界 | 想要…专属于咱抱着的人 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2463,
+          "following_count": 3745,
+          "like_count": 6752,
+          "listed_count": 5,
+          "media_count": 89,
+          "tweet_count": 1103
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-15T09:57:32.000Z",
+        "description": "MTF｜天残党｜#Transgender｜she/her｜#INFJ｜Pansexual｜写书法的｜HRT:2024.3.20｜持证含糖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 8,
+                "tag": "Transgender"
+              },
+              {
+                "end": 34,
+                "start": 29,
+                "tag": "INFJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/nagaim…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/nagaimio-mtf.bsky.social",
+                "start": 0,
+                "url": "https://t.co/yt42Ci2ZBh"
+              }
+            ]
+          }
+        },
+        "id": "1393505778418339843",
+        "location": "Yokohama-shi Kanagawa",
+        "name": "睡不醒的長井澪奈🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1847861726618013954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963025734093701120/mRiJSb7R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4657,
+          "following_count": 2625,
+          "like_count": 8857,
+          "listed_count": 16,
+          "media_count": 373,
+          "tweet_count": 3715
+        },
+        "url": "https://t.co/yt42Ci2ZBh",
+        "username": "Nagaimiona_mtf",
+        "verified": false
+      }
+    ]
+  }
+}

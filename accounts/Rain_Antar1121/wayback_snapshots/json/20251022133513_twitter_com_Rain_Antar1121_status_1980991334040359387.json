@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1980936658594996695",
+    "created_at": "2025-10-22T13:35:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T14:35:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980991334040359387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1839830744316686336",
+          "start": 0,
+          "username": "shushuyun321"
+        },
+        {
+          "end": 26,
+          "id": "1893688350076542976",
+          "start": 14,
+          "username": "drug_artist"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980991334040359387",
+    "in_reply_to_user_id": "1839830744316686336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980953934123729259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shushuyun321 @drug_artist 你要气死我吗…别这样…咱很害怕呜…"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [drug_artist].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "drug_artist",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "drug_artist"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1980936658594996695",
+        "created_at": "2025-10-22T13:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T14:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980991334040359387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1839830744316686336",
+              "start": 0,
+              "username": "shushuyun321"
+            },
+            {
+              "end": 26,
+              "id": "1893688350076542976",
+              "start": 14,
+              "username": "drug_artist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980991334040359387",
+        "in_reply_to_user_id": "1839830744316686336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980953934123729259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shushuyun321 @drug_artist 你要气死我吗…别这样…咱很害怕呜…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839830744316686336",
+        "conversation_id": "1980936658594996695",
+        "created_at": "2025-10-22T11:06:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T12:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980953934123729259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1963867793776070656",
+              "start": 0,
+              "username": "drug_artist1"
+            },
+            {
+              "end": 26,
+              "id": "1893688350076542976",
+              "start": 14,
+              "username": "drug_artist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980953934123729259",
+        "in_reply_to_user_id": "1963867793776070656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980936658594996695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@drug_artist1 @drug_artist 偷偷抽👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩子🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 软软的温顺小动物 | 社恐小透明 | 随时发作的中二病 | 会自觉抱住可爱的存在 | 天文/航空/航天/科幻/理工文史都会看看 | 认真观察有趣的世界 | 想要…专属于咱抱着的人 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2440,
+          "following_count": 3697,
+          "like_count": 6648,
+          "listed_count": 5,
+          "media_count": 89,
+          "tweet_count": 1086
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T00:53:37.000Z",
+        "description": "amab trans🏳️‍⚧️丨坐标魔都丨186/63丨无证含糖丨半炸柜 家长不管丨HRT:2017~2018 2025.3.21至今丨性取向正常🏳️‍🌈Panro-ace丨同类互fo喵丨呜呜呜不要骂我qwq",
+        "id": "1839830744316686336",
+        "location": "🚪5201314",
+        "name": "芸舒🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975585829063098369/xhb1iKVa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 399,
+          "like_count": 530,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1840
+        },
+        "username": "shushuyun321",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1956406355809665314",
+    "created_at": "2025-08-16T08:19:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T09:19:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956631888270893510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1774484159140085760",
+          "start": 0,
+          "username": "dongyuanri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956631888270893510",
+    "in_reply_to_user_id": "1774484159140085760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956609843244224516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dongyuanri 呜呜坏人不守原则咱们也只能打回去呜…˃ʍ˂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1956406355809665314",
+        "created_at": "2025-08-16T08:19:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T09:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956631888270893510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1774484159140085760",
+              "start": 0,
+              "username": "dongyuanri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956631888270893510",
+        "in_reply_to_user_id": "1774484159140085760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956609843244224516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dongyuanri 呜呜坏人不守原则咱们也只能打回去呜…˃ʍ˂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774484159140085760",
+        "conversation_id": "1956406355809665314",
+        "created_at": "2025-08-16T06:51:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T07:51:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956609843244224516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956609843244224516",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956406355809665314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 这帮人怎么这么坏？不是说不允许吞噬吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2045,
+          "following_count": 2988,
+          "like_count": 5234,
+          "listed_count": 3,
+          "media_count": 69,
+          "tweet_count": 860
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-31T17:09:44.000Z",
+        "description": "冬原裡I'm boy（femboy）17岁\n我是废柴174 56kg （2025/07/26 17:35）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dongyuanri",
+                "end": 23,
+                "expanded_url": "https://t.me/dongyuanri",
+                "start": 0,
+                "url": "https://t.co/yGr5cuKC5R"
+              }
+            ]
+          }
+        },
+        "id": "1774484159140085760",
+        "location": "robot",
+        "name": "雪崎·dongyuanri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774484236344647680/Ur0CDhes_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 350,
+          "like_count": 539,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 921
+        },
+        "url": "https://t.co/yGr5cuKC5R",
+        "username": "dongyuanri",
+        "verified": false
+      }
+    ]
+  }
+}

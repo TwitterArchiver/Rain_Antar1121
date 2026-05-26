@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938089242493915137"
+      ]
+    },
+    "author_id": "1894461745277931524",
+    "conversation_id": "1937753122086031634",
+    "created_at": "2025-06-26T04:17:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T05:17:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938089250358284570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1761357247643594752",
+          "start": 0,
+          "username": "mugong5036"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Download raw imagery from JunoCam and upload your processed imagery to the gallery!",
+          "display_url": "missionjuno.swri.edu/junocam/proces…",
+          "end": 171,
+          "expanded_url": "https://www.missionjuno.swri.edu/junocam/processing",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/1936835271875813377/5GaTgPvn?format=png&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1936835271875813377/5GaTgPvn?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 148,
+          "status": 200,
+          "title": "JunoCam : Processing - Mission Juno",
+          "unwound_url": "https://www.missionjuno.swri.edu/junocam/processing",
+          "url": "https://t.co/KG84Alk7n9"
+        },
+        {
+          "display_url": "pic.x.com/oDwajKZqEI",
+          "end": 195,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/1938089250358284570/photo/1",
+          "media_key": "3_1938089242493915137",
+          "start": 172,
+          "url": "https://t.co/oDwajKZqEI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938089250358284570",
+    "in_reply_to_user_id": "1761357247643594752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937753122086031634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mugong5036 呜…怀疑是AI，因为咱印象里的木星近照不是这个质感\n纹路应该丰富细腻得多，更好看（），不像这么圆润模糊\n要这张图是真的，那肯定是Juno探测器拍的…但咱在官网图库没找到，没法证明（）说不定咱看漏了呢\n附一张Juno去年于PJ66拍摄的木星实景，这质感完全不对叭\n以及图库\nhttps://t.co/KG84Alk7n9 https://t.co/oDwajKZqEI"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "https://www.missionjuno.swri.edu/junocam/processing?id=17083",
+        "height": 1080,
+        "media_key": "3_1938089242493915137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuV55cnbEAE2ieS.jpg",
+        "width": 1920
+      },
+      {
+        "height": 870,
+        "media_key": "3_1937753111105622016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuRIMBnb0AAdV-r.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938089242493915137"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "conversation_id": "1937753122086031634",
+        "created_at": "2025-06-26T04:17:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T05:17:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938089250358284570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1761357247643594752",
+              "start": 0,
+              "username": "mugong5036"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Download raw imagery from JunoCam and upload your processed imagery to the gallery!",
+              "display_url": "missionjuno.swri.edu/junocam/proces…",
+              "end": 171,
+              "expanded_url": "https://www.missionjuno.swri.edu/junocam/processing",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1936835271875813377/5GaTgPvn?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1936835271875813377/5GaTgPvn?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 148,
+              "status": 200,
+              "title": "JunoCam : Processing - Mission Juno",
+              "unwound_url": "https://www.missionjuno.swri.edu/junocam/processing",
+              "url": "https://t.co/KG84Alk7n9"
+            },
+            {
+              "display_url": "pic.x.com/oDwajKZqEI",
+              "end": 195,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/1938089250358284570/photo/1",
+              "media_key": "3_1938089242493915137",
+              "start": 172,
+              "url": "https://t.co/oDwajKZqEI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938089250358284570",
+        "in_reply_to_user_id": "1761357247643594752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937753122086031634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mugong5036 呜…怀疑是AI，因为咱印象里的木星近照不是这个质感\n纹路应该丰富细腻得多，更好看（），不像这么圆润模糊\n要这张图是真的，那肯定是Juno探测器拍的…但咱在官网图库没找到，没法证明（）说不定咱看漏了呢\n附一张Juno去年于PJ66拍摄的木星实景，这质感完全不对叭\n以及图库\nhttps://t.co/KG84Alk7n9 https://t.co/oDwajKZqEI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937753111105622016"
+          ]
+        },
+        "author_id": "1761357247643594752",
+        "conversation_id": "1937753122086031634",
+        "created_at": "2025-06-25T06:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T07:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937753122086031634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6EtISRAi3K",
+              "end": 47,
+              "expanded_url": "https://x.com/mugong5036/status/1937753122086031634/photo/1",
+              "media_key": "3_1937753111105622016",
+              "start": 24,
+              "url": "https://t.co/6EtISRAi3K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937753122086031634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 190,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没什么整活的欲望\n放个木星，剩下的各位自由发挥 https://t.co/6EtISRAi3K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1919740598187147331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910722822059810817/tWPhmxtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1543,
+          "following_count": 2272,
+          "like_count": 3976,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 664
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T11:47:58.000Z",
+        "description": "𝒲𝒾𝓁𝓁 𝒾𝓃 𝓇𝓊𝒾𝓃ℯ𝒹 𝒶ℊℯ 𝓁𝒶𝓈𝓉 𝒻ℴ𝓇ℯ𝓋ℯ𝓇\nmtf/hrt24.03\n反跨跨畜-滥药毒虫-合约土块-钞票走狗-总之就是人渣败类\n 🚪888.88 \n二代帐号:@mugong5037",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 89,
+                "username": "mugong5037"
+              }
+            ]
+          }
+        },
+        "id": "1761357247643594752",
+        "name": "子归离🍥",
+        "pinned_tweet_id": "1933751893983178884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805646126517043204/oHmN8H3L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 552,
+          "like_count": 14305,
+          "listed_count": 0,
+          "media_count": 278,
+          "tweet_count": 4139
+        },
+        "username": "mugong5036",
+        "verified": false
+      }
+    ]
+  }
+}

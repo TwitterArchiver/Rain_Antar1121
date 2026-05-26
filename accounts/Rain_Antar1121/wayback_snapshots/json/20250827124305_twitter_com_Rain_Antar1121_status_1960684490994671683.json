@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1960638820833202378",
+    "created_at": "2025-08-27T12:43:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T13:43:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960684490994671683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1818920358403256320",
+          "start": 0,
+          "username": "xuanyu_qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960684490994671683",
+    "in_reply_to_user_id": "1818920358403256320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960638820833202378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuanyu_qwq 呜呜总是有各种各样的神人的…只要是画，时间一长就总有人来攻击\n比如咱这说有人日夜不停的盯着南京长江大桥和紫峰大厦来涂抹…实在是无聊到一定程度了( •̥́ ˍ •̀ू )\n（说不定开学了会好一点，噗）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1960638820833202378",
+        "created_at": "2025-08-27T12:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T13:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960684490994671683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1818920358403256320",
+              "start": 0,
+              "username": "xuanyu_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960684490994671683",
+        "in_reply_to_user_id": "1818920358403256320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960638820833202378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuanyu_qwq 呜呜总是有各种各样的神人的…只要是画，时间一长就总有人来攻击\n比如咱这说有人日夜不停的盯着南京长江大桥和紫峰大厦来涂抹…实在是无聊到一定程度了( •̥́ ˍ •̀ू )\n（说不定开学了会好一点，噗）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818920358403256320",
+        "conversation_id": "1960638820833202378",
+        "created_at": "2025-08-27T09:41:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T10:41:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960638820833202378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xuanyu_qwq/sta…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/xuanyu_qwq/status/1960481509300953187",
+              "start": 19,
+              "url": "https://t.co/nXqEiFD5Es"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960638820833202378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 147,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960481509300953187",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就不理解了，为什么画这个还会被攻击 https://t.co/nXqEiFD5Es"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2120,
+          "following_count": 3085,
+          "like_count": 5527,
+          "listed_count": 4,
+          "media_count": 78,
+          "tweet_count": 931
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-01T08:03:18.000Z",
+        "description": "mtf/无证含糖/仍然深柜中/HRT2024.3.16/生日2010.4.14/CChOer（连省一线都过不了的废物）/暑假只放一周的准高一牲/彩笔音游人（为什么你们都这么厉害呜呜呜）/精神状态随机",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xuanyu20240316",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xuanyu20240316",
+                "start": 0,
+                "url": "https://t.co/CpO3M0EScL"
+              }
+            ]
+          }
+        },
+        "id": "1818920358403256320",
+        "location": "Chongqing ",
+        "name": "萱雨🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885250161720647680/qEzol3xl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2429,
+          "following_count": 2732,
+          "like_count": 21916,
+          "listed_count": 3,
+          "media_count": 96,
+          "tweet_count": 921
+        },
+        "url": "https://t.co/CpO3M0EScL",
+        "username": "xuanyu_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

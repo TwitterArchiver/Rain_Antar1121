@@ -1,0 +1,431 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2023428468659372032",
+        "13_2023427273010053120"
+      ]
+    },
+    "author_id": "1894461745277931524",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the New Year's day for all years. ",
+          "id": "1457786335108816904",
+          "name": "New Year's day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the New Year's day for all years. ",
+          "id": "1457786335108816904",
+          "name": "New Year's day"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296381531510849536",
+          "name": "New Years Eve\t"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the New Year's day for all years. ",
+          "id": "1457786335108816904",
+          "name": "New Year's day"
+        }
+      }
+    ],
+    "conversation_id": "2023428544995733876",
+    "created_at": "2026-02-16T16:05:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T17:05:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023428544995733876"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MCi4YjpBna",
+          "end": 171,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/2023428544995733876/video/1",
+          "media_key": "13_2023428468659372032",
+          "start": 148,
+          "url": "https://t.co/MCi4YjpBna"
+        },
+        {
+          "display_url": "pic.x.com/MCi4YjpBna",
+          "end": 171,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/2023428544995733876/video/1",
+          "media_key": "13_2023427273010053120",
+          "start": 148,
+          "url": "https://t.co/MCi4YjpBna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023428544995733876",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "春节快乐喵新年好ヾ(๑╹ヮ╹๑)ﾉ”🎉\n祝大家万事顺意喵每天都越来越可爱🥰\n看看小烟花🎆～每次看着火焰的流光和啸响升上天空，都觉得这样美好的东西只有过年才能看到好可惜～想天天看烟花૮ ´͈ ᗜ `͈ ა❤️\n希望这一年，每一天我们的心里都有这样灿烂的烟花～要开心喵(,,&gt;᎑&lt;,,) https://t.co/MCi4YjpBna"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20700,
+        "height": 1510,
+        "media_key": "13_2023428468659372032",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2023428468659372032/img/8HuERRXkc8Y-mE4B.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2023428468659372032/pl/RLz-s5fMkpiMNHVX.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023428468659372032/vid/avc1/720x1200/SjcThHbMRVLFsIVH.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023428468659372032/vid/avc1/320x532/USCCMww4YYTWnb_O.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023428468659372032/vid/avc1/906x1510/f5r-3bH78cTQQ7SM.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023428468659372032/vid/avc1/480x800/I4miLCAXdIsaXomV.mp4"
+          }
+        ],
+        "width": 906
+      },
+      {
+        "duration_ms": 6733,
+        "height": 1920,
+        "media_key": "13_2023427273010053120",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2023427273010053120/img/gpxXlfEJ_VfPRuMg.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2023427273010053120/pl/sX1ZrkzAdJn9BFIY.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023427273010053120/vid/avc1/1080x1920/L1lzEMBzcTs6RUf8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023427273010053120/vid/avc1/720x1280/edSH7dxI_j3cfsmX.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023427273010053120/vid/avc1/320x568/4WIQiqdWipdIUDN7.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023427273010053120/vid/avc1/480x852/rc94ASs-H1veHZi8.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2023428468659372032",
+            "13_2023427273010053120"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          }
+        ],
+        "conversation_id": "2023428544995733876",
+        "created_at": "2026-02-16T16:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T17:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023428544995733876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MCi4YjpBna",
+              "end": 171,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2023428544995733876/video/1",
+              "media_key": "13_2023428468659372032",
+              "start": 148,
+              "url": "https://t.co/MCi4YjpBna"
+            },
+            {
+              "display_url": "pic.x.com/MCi4YjpBna",
+              "end": 171,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2023428544995733876/video/1",
+              "media_key": "13_2023427273010053120",
+              "start": 148,
+              "url": "https://t.co/MCi4YjpBna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023428544995733876",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "春节快乐喵新年好ヾ(๑╹ヮ╹๑)ﾉ”🎉\n祝大家万事顺意喵每天都越来越可爱🥰\n看看小烟花🎆～每次看着火焰的流光和啸响升上天空，都觉得这样美好的东西只有过年才能看到好可惜～想天天看烟花૮ ´͈ ᗜ `͈ ა❤️\n希望这一年，每一天我们的心里都有这样灿烂的烟花～要开心喵(,,&gt;᎑&lt;,,) https://t.co/MCi4YjpBna"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的杂物 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3239,
+          "following_count": 4813,
+          "like_count": 9473,
+          "listed_count": 6,
+          "media_count": 135,
+          "tweet_count": 1710
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      }
+    ]
+  }
+}

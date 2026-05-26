@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1919060859021578415",
+    "created_at": "2025-05-05T02:55:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T03:55:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919224372515996133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1673364955171782657",
+          "start": 0,
+          "username": "kxk1388574"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919224372515996133",
+    "in_reply_to_user_id": "1673364955171782657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919060859021578415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kxk1388574 😋超豪赤哒\n我是超级奶枣厨♡(.◜ω◝.)♡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3120,
+        "media_key": "3_1919060780789723136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqHfnM1a8AAniUB.jpg",
+        "width": 3120
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1919060859021578415",
+        "created_at": "2025-05-05T02:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T03:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919224372515996133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1673364955171782657",
+              "start": 0,
+              "username": "kxk1388574"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919224372515996133",
+        "in_reply_to_user_id": "1673364955171782657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919060859021578415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kxk1388574 😋超豪赤哒\n我是超级奶枣厨♡(.◜ω◝.)♡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919060780789723136"
+          ]
+        },
+        "author_id": "1673364955171782657",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1919060859021578415",
+        "created_at": "2025-05-04T16:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T17:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919060859021578415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i85QrwiGbk",
+              "end": 37,
+              "expanded_url": "https://x.com/kxk1388574/status/1919060859021578415/photo/1",
+              "media_key": "3_1919060780789723136",
+              "start": 14,
+              "url": "https://t.co/i85QrwiGbk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919060859021578415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1910,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "希望你们永远不知道这是什么 https://t.co/i85QrwiGbk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 有容易抱住别人的习惯 | 小透明属性 | 同类互fo喵 | 贴贴看到这里的每一只小可爱～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910722822059810817/tWPhmxtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 701,
+          "like_count": 919,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 250
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-26T16:18:03.000Z",
+        "description": "*是一只路过的🍋～\n*下海了，可以接定制视频，大部分玩法都可以，想聊天可以随时聊的）",
+        "id": "1673364955171782657",
+        "location": "柠檬树上",
+        "name": "kxk🍋（R180-G）",
+        "pinned_tweet_id": "1915472302764154925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785720438095745026/UTk37fi9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3710,
+          "following_count": 4423,
+          "like_count": 22121,
+          "listed_count": 5,
+          "media_count": 338,
+          "tweet_count": 3607
+        },
+        "username": "kxk1388574",
+        "verified": false
+      }
+    ]
+  }
+}

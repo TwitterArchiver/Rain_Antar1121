@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1975148864819859618",
+    "created_at": "2025-10-07T03:59:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T04:59:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975410702828642747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1430973520452800515",
+          "start": 0,
+          "username": "XmeowwoemX_017"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975410702828642747",
+    "in_reply_to_user_id": "1430973520452800515",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975344628703678696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XmeowwoemX_017 哇呜，好厉害…但是她这窗户脏的不像机龄十年）很影响拍照˃ʍ˂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1975148864819859618",
+        "created_at": "2025-10-07T03:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T04:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975410702828642747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1430973520452800515",
+              "start": 0,
+              "username": "XmeowwoemX_017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975410702828642747",
+        "in_reply_to_user_id": "1430973520452800515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975344628703678696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XmeowwoemX_017 哇呜，好厉害…但是她这窗户脏的不像机龄十年）很影响拍照˃ʍ˂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1430973520452800515",
+        "conversation_id": "1975148864819859618",
+        "created_at": "2025-10-06T23:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T00:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975344628703678696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975344628703678696",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975148864819859618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 9V-SNC可是SQ最后一架入列的77W）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩子🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 软软的温顺小动物 | 社恐小透明 | 随时发作的中二病 | 会自觉抱住可爱的存在 | 天文/航空/航天/科幻/理工文史各种杂货 | 认真观察有趣的世界 | 想要…专属于咱抱着的人 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2324,
+          "following_count": 3512,
+          "like_count": 6215,
+          "listed_count": 4,
+          "media_count": 79,
+          "tweet_count": 1005
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-26T19:22:14.000Z",
+        "description": "关于当下和过去的碎碎念 21yo 🏳️‍⚧️non-binary transfem HRT since: Feb 2025 (CPA) / Jun 2025 (E2) 很孤单请和我互动（过往发的推也可互动）",
+        "id": "1430973520452800515",
+        "location": "Beijing/Auckland, NZ🇳🇿",
+        "name": "💜（猫病第iii期",
+        "pinned_tweet_id": "1968476424186249242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1680217398081880065/thsuWemZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 334,
+          "like_count": 29689,
+          "listed_count": 3,
+          "media_count": 570,
+          "tweet_count": 3262
+        },
+        "username": "XmeowwoemX_017",
+        "verified": false
+      }
+    ]
+  }
+}

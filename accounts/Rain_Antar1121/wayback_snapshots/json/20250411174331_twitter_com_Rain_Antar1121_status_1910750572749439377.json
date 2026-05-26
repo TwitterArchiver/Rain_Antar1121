@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1910701948019556801",
+    "created_at": "2025-04-11T17:43:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-11T18:43:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910750572749439377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1908917634185437184",
+          "start": 0,
+          "username": "wuyuzhit3x5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910750572749439377",
+    "in_reply_to_user_id": "1908917634185437184",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910701948019556801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuyuzhit3x5 ૮₍✧&gt;𖥦&lt;₎ა ༘♡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1910701945742123008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoQtS9ubYAAhadc.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1910701948019556801",
+        "created_at": "2025-04-11T17:43:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T18:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910750572749439377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1908917634185437184",
+              "start": 0,
+              "username": "wuyuzhit3x5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910750572749439377",
+        "in_reply_to_user_id": "1908917634185437184",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910701948019556801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuyuzhit3x5 ૮₍✧&gt;𖥦&lt;₎ა ༘♡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1910701945742123008"
+          ]
+        },
+        "author_id": "1908917634185437184",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1910701948019556801",
+        "created_at": "2025-04-11T14:30:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T15:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910701948019556801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinityweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1908789489222430720/vZCPrxTp?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1908789489222430720/vZCPrxTp?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/9HJItRCAGn"
+            },
+            {
+              "display_url": "pic.x.com/GVFnkkXS6m",
+              "end": 64,
+              "expanded_url": "https://x.com/wuyuzhit3x5/status/1910701948019556801/photo/1",
+              "media_key": "3_1910701945742123008",
+              "start": 41,
+              "url": "https://t.co/GVFnkkXS6m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910701948019556801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/9HJItRCAGn https://t.co/GVFnkkXS6m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 有容易抱住别人的习惯 | 小透明属性 | 同类互fo喵 | 贴贴看到这里的每一只小可爱～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910722822059810817/tWPhmxtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 453,
+          "like_count": 375,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 115
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-06T16:20:15.000Z",
+        "description": "2009年10月2日，福建，天秤座，INFP，南梁，重度抑郁，喜欢二次元",
+        "id": "1908917634185437184",
+        "name": "吴雨纸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908917747549167616/EgMh-UxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 28,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 44
+        },
+        "username": "wuyuzhit3x5",
+        "verified": false
+      }
+    ]
+  }
+}

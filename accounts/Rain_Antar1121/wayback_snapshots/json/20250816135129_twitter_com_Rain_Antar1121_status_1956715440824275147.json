@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1956549934901231698",
+    "created_at": "2025-08-16T13:51:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T14:51:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956715440824275147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1681837279411859456",
+          "start": 0,
+          "username": "AsatsukiSakura"
+        },
+        {
+          "end": 30,
+          "id": "1558730611556175873",
+          "start": 16,
+          "username": "ChisakaKanako"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956715440824275147",
+    "in_reply_to_user_id": "1681837279411859456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956688901697134838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsatsukiSakura @ChisakaKanako 唉反跨到处都是呢呜呜…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1956549934901231698",
+        "created_at": "2025-08-16T13:51:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T14:51:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956715440824275147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1681837279411859456",
+              "start": 0,
+              "username": "AsatsukiSakura"
+            },
+            {
+              "end": 30,
+              "id": "1558730611556175873",
+              "start": 16,
+              "username": "ChisakaKanako"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956715440824275147",
+        "in_reply_to_user_id": "1681837279411859456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956688901697134838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsatsukiSakura @ChisakaKanako 唉反跨到处都是呢呜呜…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1681837279411859456",
+        "conversation_id": "1956549934901231698",
+        "created_at": "2025-08-16T12:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T13:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956688901697134838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 30,
+              "id": "1558730611556175873",
+              "start": 16,
+              "username": "ChisakaKanako"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956688901697134838",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956553612920050103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 @ChisakaKanako 我家也有过蓝粉白被拆了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2049,
+          "following_count": 2998,
+          "like_count": 5262,
+          "listed_count": 3,
+          "media_count": 70,
+          "tweet_count": 869
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T01:23:56.000Z",
+        "description": "東方/百合/音ゲー/CounterStrike\nhttps://t.co/pLTnEkPcQ2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "osu.ppy.sh/users/33407560",
+                "end": 47,
+                "expanded_url": "http://osu.ppy.sh/users/33407560",
+                "start": 24,
+                "url": "https://t.co/pLTnEkPcQ2"
+              }
+            ]
+          }
+        },
+        "id": "1681837279411859456",
+        "location": "Vienna, Austria",
+        "name": "🥥",
+        "pinned_tweet_id": "1945774353284808791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944274935519563776/RPg0RnQj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 1031,
+          "like_count": 4997,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 1939
+        },
+        "username": "AsatsukiSakura",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-14T08:22:12.000Z",
+        "description": "跨女 平面设计 锁推不要关注我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chisakakanako.notion.site/96f67217a4c041…",
+                "end": 23,
+                "expanded_url": "https://chisakakanako.notion.site/96f67217a4c0410eb35c4200f835eafa?pvs=4",
+                "start": 0,
+                "url": "https://t.co/ot7AE8ZHyA"
+              }
+            ]
+          }
+        },
+        "id": "1558730611556175873",
+        "name": "千坂神奈子",
+        "pinned_tweet_id": "1934452141684670766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938162412697620481/84c4M-W4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5651,
+          "following_count": 1550,
+          "like_count": 41775,
+          "listed_count": 7,
+          "media_count": 60,
+          "tweet_count": 426
+        },
+        "url": "https://t.co/ot7AE8ZHyA",
+        "username": "ChisakaKanako",
+        "verified": true
+      }
+    ]
+  }
+}

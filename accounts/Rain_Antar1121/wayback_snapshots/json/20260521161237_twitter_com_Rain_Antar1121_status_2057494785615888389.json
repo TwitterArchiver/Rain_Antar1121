@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2057413137423581316",
+    "created_at": "2026-05-21T16:12:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T17:12:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057494785615888389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1829436939826774016",
+          "start": 0,
+          "username": "dachuan_CN5622"
+        },
+        {
+          "end": 29,
+          "id": "1903681772803743744",
+          "start": 16,
+          "username": "zong_gu42511"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057494785615888389",
+    "in_reply_to_user_id": "1829436939826774016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057474821391610365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dachuan_CN5622 @zong_gu42511 友好抱抱～扑🥹"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [zong_gu42511].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "zong_gu42511",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "zong_gu42511"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2057413137423581316",
+        "created_at": "2026-05-21T16:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T17:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057494785615888389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1829436939826774016",
+              "start": 0,
+              "username": "dachuan_CN5622"
+            },
+            {
+              "end": 29,
+              "id": "1903681772803743744",
+              "start": 16,
+              "username": "zong_gu42511"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057494785615888389",
+        "in_reply_to_user_id": "1829436939826774016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057474821391610365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dachuan_CN5622 @zong_gu42511 友好抱抱～扑🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829436939826774016",
+        "conversation_id": "2057413137423581316",
+        "created_at": "2026-05-21T14:53:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T15:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057474821391610365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 29,
+              "id": "1903681772803743744",
+              "start": 16,
+              "username": "zong_gu42511"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057474821391610365",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057413137423581316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 @zong_gu42511 无论你是什么性别，也无论你是谁，友好的人都会给予友好。这便是我在X上的处世之道。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4185,
+          "following_count": 6140,
+          "like_count": 14415,
+          "listed_count": 10,
+          "media_count": 285,
+          "tweet_count": 3372
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-30T08:32:32.000Z",
+        "description": "【中/日/英综合大号: @dachuan_DC 】\n喜欢数码📱/怀旧📟，喜欢玩气球🎈～\n不一定每天都上推，所发内容以日常为主，喜欢涩涩但不PO涩涩；拒绝键政等敏感及争议极大的话题讨论，不混任何一个对我产生内耗的圈子。\n友好对待对我友好的人，不论你是谁，即使未来淡推也会继续分享日常。\n详细信息请见置顶。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "dachuan_DC"
+              }
+            ]
+          }
+        },
+        "id": "1829436939826774016",
+        "location": "🚪11.4/51.4/191.9/810（友好者一律免费）",
+        "name": "Dachuan (aka. 大川)🎈📱📟",
+        "pinned_tweet_id": "2054215054082609460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829437032466386944/tDzx14ik_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 270,
+          "like_count": 2930,
+          "listed_count": 1,
+          "media_count": 427,
+          "tweet_count": 1388
+        },
+        "username": "dachuan_CN5622",
+        "verified": false
+      }
+    ]
+  }
+}

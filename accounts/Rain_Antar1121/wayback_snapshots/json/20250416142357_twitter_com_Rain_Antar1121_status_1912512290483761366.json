@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1910727330353521005",
+    "created_at": "2025-04-16T14:23:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T15:23:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912512290483761366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1267021124170182656",
+          "start": 0,
+          "username": "cha2336"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912512290483761366",
+    "in_reply_to_user_id": "1267021124170182656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912509749830271482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cha2336 邪王真眼は最強～૮₍♡&gt;𖥦&lt;₎ა"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1910727330353521005",
+        "created_at": "2025-04-16T14:23:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T15:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912512290483761366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1267021124170182656",
+              "start": 0,
+              "username": "cha2336"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912512290483761366",
+        "in_reply_to_user_id": "1267021124170182656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912509749830271482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cha2336 邪王真眼は最強～૮₍♡&gt;𖥦&lt;₎ა"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1267021124170182656",
+        "conversation_id": "1910727330353521005",
+        "created_at": "2025-04-16T14:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T15:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912509749830271482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912509749830271482",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910727330353521005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 邪王真眼就是最可爱的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 有容易抱住别人的习惯 | 小透明属性 | 同类互fo喵 | 贴贴看到这里的每一只小可爱～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910722822059810817/tWPhmxtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 525,
+          "like_count": 517,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 161
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-31T09:12:41.000Z",
+        "description": "zh/en/高中牲/伪车万厨/gal/芳文社/垃圾佬/友跨顺直男/很不会说话QAQ\n日々私たちが過ごしている日常は、実は、奇跡の連続なのかもしれない",
+        "id": "1267021124170182656",
+        "location": "北校",
+        "name": "suiyoww🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853107279543099392/J07mbXLx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 223,
+          "like_count": 636,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 104
+        },
+        "username": "cha2336",
+        "verified": false
+      }
+    ]
+  }
+}

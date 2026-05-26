@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1971441290702356948",
+    "created_at": "2025-09-26T06:06:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T07:06:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971456438242529722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1807833361584738315",
+          "start": 0,
+          "username": "senkoo_on_wire"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971456438242529722",
+    "in_reply_to_user_id": "1807833361584738315",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971455889854038406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@senkoo_on_wire 抱喵抱つ♡⊂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1971441290702356948",
+        "created_at": "2025-09-26T06:06:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T07:06:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971456438242529722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1807833361584738315",
+              "start": 0,
+              "username": "senkoo_on_wire"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971456438242529722",
+        "in_reply_to_user_id": "1807833361584738315",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971455889854038406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@senkoo_on_wire 抱喵抱つ♡⊂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807833361584738315",
+        "conversation_id": "1971441290702356948",
+        "created_at": "2025-09-26T06:04:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T07:04:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971455889854038406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971455889854038406",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971449224924684602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 抱—!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～| 这一句用来提醒咱重新写Bio",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2261,
+          "following_count": 3405,
+          "like_count": 6053,
+          "listed_count": 4,
+          "media_count": 78,
+          "tweet_count": 990
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-01T17:47:30.000Z",
+        "description": "waiting.. | 跨性别 | 日常 | 艺术",
+        "id": "1807833361584738315",
+        "location": "回程很陡，注意脚下",
+        "name": "shin ee na 纪眠诗",
+        "pinned_tweet_id": "1969393355181474180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936834431064371200/SEQBK_9n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 291,
+          "like_count": 850,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 393
+        },
+        "username": "senkoo_on_wire",
+        "verified": false
+      }
+    ]
+  }
+}

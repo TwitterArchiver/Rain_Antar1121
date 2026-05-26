@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1929715288452616196"
+      ]
+    },
+    "author_id": "1894461745277931524",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "1929715291015336093",
+    "created_at": "2025-06-03T01:42:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T02:42:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1929715291015336093"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 9,
+          "normalized_text": "Twitter",
+          "probability": 0.9728,
+          "start": 3,
+          "type": "Other"
+        }
+      ],
+      "urls": [
+        {
+          "description": "We don't disclose our methodology, but we guarantee that it is the same for all users, taking into account the worth of every Twitter account equally.",
+          "display_url": "infinityweet.me/account-worth",
+          "end": 58,
+          "expanded_url": "https://infinityweet.me/account-worth",
+          "start": 35,
+          "status": 200,
+          "title": "Account Worth • Infinitweet",
+          "unwound_url": "https://infinityweet.me/account-worth",
+          "url": "https://t.co/q1fudaLOz9"
+        },
+        {
+          "display_url": "pic.x.com/BQLeK6e3N4",
+          "end": 82,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/1929715291015336093/photo/1",
+          "media_key": "3_1929715288452616196",
+          "start": 59,
+          "url": "https://t.co/BQLeK6e3N4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929715291015336093",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "My Twitter worth is: $1,004.15\n\n➡️ https://t.co/q1fudaLOz9 https://t.co/BQLeK6e3N4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 861,
+        "media_key": "3_1929715288452616196",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gse51K3b0AQKlU7.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929715288452616196"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1929715291015336093",
+        "created_at": "2025-06-03T01:42:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T02:42:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929715291015336093"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "Twitter",
+              "probability": 0.9728,
+              "start": 3,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "description": "We don't disclose our methodology, but we guarantee that it is the same for all users, taking into account the worth of every Twitter account equally.",
+              "display_url": "infinityweet.me/account-worth",
+              "end": 58,
+              "expanded_url": "https://infinityweet.me/account-worth",
+              "start": 35,
+              "status": 200,
+              "title": "Account Worth • Infinitweet",
+              "unwound_url": "https://infinityweet.me/account-worth",
+              "url": "https://t.co/q1fudaLOz9"
+            },
+            {
+              "display_url": "pic.x.com/BQLeK6e3N4",
+              "end": 82,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/1929715291015336093/photo/1",
+              "media_key": "3_1929715288452616196",
+              "start": 59,
+              "url": "https://t.co/BQLeK6e3N4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929715291015336093",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "My Twitter worth is: $1,004.15\n\n➡️ https://t.co/q1fudaLOz9 https://t.co/BQLeK6e3N4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1919740598187147331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910722822059810817/tWPhmxtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1057,
+          "following_count": 1614,
+          "like_count": 2556,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 516
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      }
+    ]
+  }
+}

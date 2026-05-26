@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1924504523302924288"
+      ]
+    },
+    "author_id": "1894461745277931524",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10037262551",
+          "name": "プラスティック･メモリーズ"
+        }
+      }
+    ],
+    "conversation_id": "1924467416500982156",
+    "created_at": "2025-05-19T16:36:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T17:36:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924504526020903070"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 74,
+          "normalized_text": "相依相偎至永恒",
+          "probability": 0.3366,
+          "start": 68,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1744316513291747328",
+          "start": 0,
+          "username": "shuifenziya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hXn6RZ5QZU",
+          "end": 205,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/1924504526020903070/photo/1",
+          "media_key": "3_1924504523302924288",
+          "start": 182,
+          "url": "https://t.co/hXn6RZ5QZU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924504526020903070",
+    "in_reply_to_user_id": "1744316513291747328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924467416500982156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuifenziya 胸の奥が 張り裂けそうで\n\n窓の外 流れる雲 見上げてた\n\nずっとこのままふたり 寄り添って\n（希望就此两人 相依相偎至永恒）\n\n運命の輪 繰り返せば 想いはやがて繋がるよ\n\n答えを探し 未来へ願い続ける\n\n迷わないで 信じていて\n\n想い出は本物になるから\n\n— — Ring of Fortune , PLASTIC MEMORIES https://t.co/hXn6RZ5QZU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1225,
+        "media_key": "3_1924504523302924288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrU2quAacAA9Rtq.jpg",
+        "width": 1225
+      },
+      {
+        "height": 112,
+        "media_key": "16_1924467399677657088",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GrUU51ubQAAh_TM.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GrUU51ubQAAh_TM.mp4"
+          }
+        ],
+        "width": 112
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924504523302924288"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10037262551",
+              "name": "プラスティック･メモリーズ"
+            }
+          }
+        ],
+        "conversation_id": "1924467416500982156",
+        "created_at": "2025-05-19T16:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T17:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924504526020903070"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 74,
+              "normalized_text": "相依相偎至永恒",
+              "probability": 0.3366,
+              "start": 68,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744316513291747328",
+              "start": 0,
+              "username": "shuifenziya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hXn6RZ5QZU",
+              "end": 205,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/1924504526020903070/photo/1",
+              "media_key": "3_1924504523302924288",
+              "start": 182,
+              "url": "https://t.co/hXn6RZ5QZU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924504526020903070",
+        "in_reply_to_user_id": "1744316513291747328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924467416500982156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuifenziya 胸の奥が 張り裂けそうで\n\n窓の外 流れる雲 見上げてた\n\nずっとこのままふたり 寄り添って\n（希望就此两人 相依相偎至永恒）\n\n運命の輪 繰り返せば 想いはやがて繋がるよ\n\n答えを探し 未来へ願い続ける\n\n迷わないで 信じていて\n\n想い出は本物になるから\n\n— — Ring of Fortune , PLASTIC MEMORIES https://t.co/hXn6RZ5QZU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1924467399677657088"
+          ]
+        },
+        "author_id": "1744316513291747328",
+        "conversation_id": "1924467416500982156",
+        "created_at": "2025-05-19T14:09:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T15:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924467416500982156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RyTRH2309b",
+              "end": 166,
+              "expanded_url": "https://x.com/shuifenziya/status/1924467416500982156/photo/1",
+              "media_key": "16_1924467399677657088",
+              "start": 143,
+              "url": "https://t.co/RyTRH2309b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924467416500982156",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一绪に居られるだけで\n\n手と手を重ね合えるだけで良かったね\n\n大切な事ほど见惯れた场所で辉くのかもしれない\n\n微笑んでくれた颜も怒った颜も爱しくて仕方なかったよ\n\n君の事が好きだよ（我喜欢你哦）\nこれからもずっと\n君を抱きしめたい\n君を强く抱きしめたい\n\n— —ヤギモヂ（吃醋）高桥优 https://t.co/RyTRH2309b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 这几个字放这里用来占位♡♡tivjgfoajzb | 同类互fo喵 | 贴贴看到这里的每一只小可爱～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1919740598187147331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910722822059810817/tWPhmxtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788,
+          "following_count": 1227,
+          "like_count": 1718,
+          "listed_count": 2,
+          "media_count": 18,
+          "tweet_count": 396
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-08T11:14:12.000Z",
+        "description": "我...我....是sb水分子/08年17岁/休学中ing.../无证🍥hrt6个月/💥已炸柜/167cm47kg/坐标广东清远/负能/是条杂鱼🐟~~/SAD/互fo/喜欢💰和六花/不鉴证/小鸟游六花单推",
+        "id": "1744316513291747328",
+        "location": "我在二次元",
+        "name": "一个水分子🍥",
+        "pinned_tweet_id": "1924306437486067956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919541730309021696/GfvuYbBr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 558,
+          "like_count": 17288,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 1152
+        },
+        "username": "shuifenziya",
+        "verified": false
+      }
+    ]
+  }
+}

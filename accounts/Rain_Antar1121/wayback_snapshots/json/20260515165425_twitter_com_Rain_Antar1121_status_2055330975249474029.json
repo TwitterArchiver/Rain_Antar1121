@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2055281482856636465",
+    "created_at": "2026-05-15T16:54:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T17:54:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055330975249474029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "4123608315",
+          "start": 0,
+          "username": "c5brm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055330975249474029",
+    "in_reply_to_user_id": "4123608315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055327271557431790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@c5brm 啊啊这个…好吃…想吃！\n可惜只是看着像…咱没有白糖蘸…也不是酥皮的🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2055327257783341062",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIX9QFlakAYY_ec.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2055327257787535361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIX9QFmakAEzCgP.jpg",
+        "width": 564
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2055281482856636465",
+        "created_at": "2026-05-15T16:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T17:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055330975249474029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "4123608315",
+              "start": 0,
+              "username": "c5brm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055330975249474029",
+        "in_reply_to_user_id": "4123608315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055327271557431790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c5brm 啊啊这个…好吃…想吃！\n可惜只是看着像…咱没有白糖蘸…也不是酥皮的🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055327257783341062",
+            "3_2055327257787535361"
+          ]
+        },
+        "author_id": "4123608315",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2055281482856636465",
+        "created_at": "2026-05-15T16:39:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T17:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055327271557431790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w07xaHxVN9",
+              "end": 42,
+              "expanded_url": "https://x.com/c5brm/status/2055327271557431790/photo/1",
+              "media_key": "3_2055327257783341062",
+              "start": 19,
+              "url": "https://t.co/w07xaHxVN9"
+            },
+            {
+              "display_url": "pic.x.com/w07xaHxVN9",
+              "end": 42,
+              "expanded_url": "https://x.com/c5brm/status/2055327271557431790/photo/1",
+              "media_key": "3_2055327257787535361",
+              "start": 19,
+              "url": "https://t.co/w07xaHxVN9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055327271557431790",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055325212246446328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 👉👈 https://t.co/w07xaHxVN9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042559105353842688/Hs-yW50g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4117,
+          "following_count": 6073,
+          "like_count": 14089,
+          "listed_count": 10,
+          "media_count": 271,
+          "tweet_count": 3185
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2015-11-06T02:15:39.000Z",
+        "description": "男／178／57／慢热／广东人／作息不规律／时常疯言疯语／有时候会鉴政／幽默感0️⃣／喜欢瞎逛／不是很会拍照／不od💊🚫／不自杀🔪🚫／还没有性转的计划🏳️‍⚧️🚫／平等善待所有人❤️／欢迎提问👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wang10649",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wang10649",
+                "start": 0,
+                "url": "https://t.co/TAF1OraO76"
+              }
+            ]
+          }
+        },
+        "id": "4123608315",
+        "location": "广州/佛山/肇庆",
+        "name": "小凯有点忙💦",
+        "pinned_tweet_id": "2039292335805378883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054968762022219776/CNZ-fXl-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 600,
+          "like_count": 4070,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 1462
+        },
+        "url": "https://t.co/TAF1OraO76",
+        "username": "c5brm",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1937821804447547841",
+    "created_at": "2025-06-27T05:56:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T06:56:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938476618525380883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1864563022414663680",
+          "start": 0,
+          "username": "wngxuyu"
+        },
+        {
+          "end": 24,
+          "id": "1934723202158395393",
+          "start": 9,
+          "username": "chenkeer070427"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938476618525380883",
+    "in_reply_to_user_id": "1864563022414663680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938474190149194155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wngxuyu @chenkeer070427 不知道捏…咱希望她先避避风头，涌进来的谣言和恶意对她负担挺重的"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [chenkeer070427].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "chenkeer070427",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "chenkeer070427"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1937821804447547841",
+        "created_at": "2025-06-27T05:56:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T06:56:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938476618525380883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1864563022414663680",
+              "start": 0,
+              "username": "wngxuyu"
+            },
+            {
+              "end": 24,
+              "id": "1934723202158395393",
+              "start": 9,
+              "username": "chenkeer070427"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938476618525380883",
+        "in_reply_to_user_id": "1864563022414663680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938474190149194155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wngxuyu @chenkeer070427 不知道捏…咱希望她先避避风头，涌进来的谣言和恶意对她负担挺重的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864563022414663680",
+        "conversation_id": "1937821804447547841",
+        "created_at": "2025-06-27T05:47:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T06:47:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938474190149194155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 27,
+              "id": "1886617628124569600",
+              "start": 16,
+              "username": "Momizi5127"
+            },
+            {
+              "end": 36,
+              "id": "1750485481207590912",
+              "start": 28,
+              "username": "zmsghhz"
+            },
+            {
+              "end": 52,
+              "id": "1934723202158395393",
+              "start": 37,
+              "username": "chenkeer070427"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938474190149194155",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937868730597572991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 @Momizi5127 @zmsghhz @chenkeer070427 小兔还能回来吗，不能以片面的来了解她"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1919740598187147331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910722822059810817/tWPhmxtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1589,
+          "following_count": 2301,
+          "like_count": 4034,
+          "listed_count": 2,
+          "media_count": 45,
+          "tweet_count": 677
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-05T06:50:52.000Z",
+        "description": "",
+        "id": "1864563022414663680",
+        "name": "王学宇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938474366146408448/Ftn-tDms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 7,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "wngxuyu",
+        "verified": false
+      }
+    ]
+  }
+}

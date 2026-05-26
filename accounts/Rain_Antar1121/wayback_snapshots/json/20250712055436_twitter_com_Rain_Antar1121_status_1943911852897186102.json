@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1943315087915388955",
+    "created_at": "2025-07-12T05:54:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T06:54:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943911852897186102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1836016357588307968",
+          "start": 0,
+          "username": "shihaihaia12345"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943911852897186102",
+    "in_reply_to_user_id": "1836016357588307968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943898376657154444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shihaihaia12345 可惜回答不能像这个问题一样简单呢…咱已经没力气讲一遍这个故事了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1943315087915388955",
+        "created_at": "2025-07-12T05:54:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T06:54:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943911852897186102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1836016357588307968",
+              "start": 0,
+              "username": "shihaihaia12345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943911852897186102",
+        "in_reply_to_user_id": "1836016357588307968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943898376657154444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shihaihaia12345 可惜回答不能像这个问题一样简单呢…咱已经没力气讲一遍这个故事了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836016357588307968",
+        "conversation_id": "1943315087915388955",
+        "created_at": "2025-07-12T05:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T06:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943898376657154444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943898376657154444",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943315087915388955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 怎么了啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1919740598187147331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941572059953238016/-KAyC7ip_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1760,
+          "following_count": 2576,
+          "like_count": 4555,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 755
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-17T12:16:41.000Z",
+        "description": "别点赞了我害怕",
+        "id": "1836016357588307968",
+        "name": "请输入名称",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941359470183055360/9xbIoNfh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 53,
+          "like_count": 230,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 109
+        },
+        "username": "shihaihaia12345",
+        "verified": false
+      }
+    ]
+  }
+}

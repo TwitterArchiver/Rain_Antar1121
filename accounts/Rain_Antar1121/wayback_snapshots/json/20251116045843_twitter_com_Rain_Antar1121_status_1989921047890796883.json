@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1989920705807606208",
+    "created_at": "2025-11-16T04:58:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T05:58:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989921047890796883"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "大气折射修正 是否考虑大气折射对各天体地平高度角的影响 重力方向修正 是否考虑当地的重力方向与天顶方向不重合的影响 自动获取天体坐标 在计算前自动获取天体坐标 拍摄时间 时间若无法精确到秒，可以填入30作为尾数 时区 北京时间为UTC+8 标月定时搜索区间 以大致的拍摄时间为中心，前后搜索确切拍摄时间的区间大小 天 检测星点阈值 判断一个光点是否为星的阈值 天体识别：视场宽度角估计 对图片视场宽度角估计其范围，估计越准确求解速度越快 ° —",
+          "display_url": "caveallegory.cn/StarLocator/",
+          "end": 23,
+          "expanded_url": "https://caveallegory.cn/StarLocator/",
+          "start": 0,
+          "status": 200,
+          "title": "照片测星定位",
+          "unwound_url": "https://caveallegory.cn/StarLocator/",
+          "url": "https://t.co/Jkd7u3Gdse"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989921047890796883",
+    "in_reply_to_user_id": "1894461745277931524",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989920705807606208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/Jkd7u3Gdse"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1989920694969536517",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G52eVDrbkAUhjsL.jpg",
+        "width": 1536
+      },
+      {
+        "height": 900,
+        "media_key": "3_1989920694956953604",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G52eVDobkAQixvZ.jpg",
+        "width": 675
+      },
+      {
+        "height": 672,
+        "media_key": "3_1989920694977880064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G52eVDta4AAQhwS.jpg",
+        "width": 1478
+      },
+      {
+        "height": 827,
+        "media_key": "3_1989920694977900544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G52eVDtbMAALFT7.jpg",
+        "width": 1504
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1989920705807606208",
+        "created_at": "2025-11-16T04:58:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T05:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989921047890796883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "大气折射修正 是否考虑大气折射对各天体地平高度角的影响 重力方向修正 是否考虑当地的重力方向与天顶方向不重合的影响 自动获取天体坐标 在计算前自动获取天体坐标 拍摄时间 时间若无法精确到秒，可以填入30作为尾数 时区 北京时间为UTC+8 标月定时搜索区间 以大致的拍摄时间为中心，前后搜索确切拍摄时间的区间大小 天 检测星点阈值 判断一个光点是否为星的阈值 天体识别：视场宽度角估计 对图片视场宽度角估计其范围，估计越准确求解速度越快 ° —",
+              "display_url": "caveallegory.cn/StarLocator/",
+              "end": 23,
+              "expanded_url": "https://caveallegory.cn/StarLocator/",
+              "start": 0,
+              "status": 200,
+              "title": "照片测星定位",
+              "unwound_url": "https://caveallegory.cn/StarLocator/",
+              "url": "https://t.co/Jkd7u3Gdse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989921047890796883",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989920705807606208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/Jkd7u3Gdse"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989920694969536517",
+            "3_1989920694956953604",
+            "3_1989920694977880064",
+            "3_1989920694977900544"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1989920705807606208",
+        "created_at": "2025-11-16T04:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T05:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989920705807606208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kLLi8LhVzW",
+              "end": 168,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/1989920705807606208/photo/1",
+              "media_key": "3_1989920694969536517",
+              "start": 145,
+              "url": "https://t.co/kLLi8LhVzW"
+            },
+            {
+              "display_url": "pic.x.com/kLLi8LhVzW",
+              "end": 168,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/1989920705807606208/photo/1",
+              "media_key": "3_1989920694956953604",
+              "start": 145,
+              "url": "https://t.co/kLLi8LhVzW"
+            },
+            {
+              "display_url": "pic.x.com/kLLi8LhVzW",
+              "end": 168,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/1989920705807606208/photo/1",
+              "media_key": "3_1989920694977880064",
+              "start": 145,
+              "url": "https://t.co/kLLi8LhVzW"
+            },
+            {
+              "display_url": "pic.x.com/kLLi8LhVzW",
+              "end": 168,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/1989920705807606208/photo/1",
+              "media_key": "3_1989920694977900544",
+              "start": 145,
+              "url": "https://t.co/kLLi8LhVzW"
+            },
+            {
+              "display_url": "x.com/cldeop/status/…",
+              "end": 192,
+              "expanded_url": "https://twitter.com/cldeop/status/1989745137862504832",
+              "start": 169,
+              "url": "https://t.co/7rV95gPgCE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989920705807606208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989745137862504832",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喵，好耶\n所以如图一手动识星，再标注铅垂线\n然后利用下面链接的现成工具\n结论是拍摄位置大致在图四粉圈中\n这图难度在于缺乏地面参照物…很难通过铅垂线焦点精确天顶位置…还有图片边缘有比较明显的广角畸变…于是误差可能有上百公里\n能提供日期的话更好哦，这里假定是昨天❛˓◞˂̵✧\n如有错误欢迎指正 https://t.co/kLLi8LhVzW https://t.co/7rV95gPgCE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩子🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 软软的温顺小动物 | 社恐小透明 | 随时发作的中二病 | 会自觉抱住可爱的存在 | 天文/航空/航天/科幻/理工文史都会看看 | 认真观察有趣的世界 | 想要…专属于咱抱着的人 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2568,
+          "following_count": 3925,
+          "like_count": 7176,
+          "listed_count": 5,
+          "media_count": 93,
+          "tweet_count": 1161
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      }
+    ]
+  }
+}

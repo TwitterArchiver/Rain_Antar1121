@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1957100890273550738",
+    "created_at": "2025-08-19T07:03:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T08:03:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957699859492077657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1918831724898951168",
+          "start": 0,
+          "username": "XYN1789927"
+        },
+        {
+          "end": 24,
+          "id": "1531432040909918209",
+          "start": 12,
+          "username": "Ethanwu1234"
+        },
+        {
+          "end": 39,
+          "id": "1545736499597307904",
+          "start": 25,
+          "username": "Andy_Zaychilk"
+        },
+        {
+          "end": 48,
+          "id": "1841815764753645571",
+          "start": 40,
+          "username": "Yuuziww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957699859492077657",
+    "in_reply_to_user_id": "1918831724898951168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957647965528678680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XYN1789927 @Ethanwu1234 @Andy_Zaychilk @Yuuziww 都没什么没人专心画二次元…让咱很失望呢( •̥́ ˍ •̀ू )"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1957100890273550738",
+        "created_at": "2025-08-19T07:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T08:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957699859492077657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1918831724898951168",
+              "start": 0,
+              "username": "XYN1789927"
+            },
+            {
+              "end": 24,
+              "id": "1531432040909918209",
+              "start": 12,
+              "username": "Ethanwu1234"
+            },
+            {
+              "end": 39,
+              "id": "1545736499597307904",
+              "start": 25,
+              "username": "Andy_Zaychilk"
+            },
+            {
+              "end": 48,
+              "id": "1841815764753645571",
+              "start": 40,
+              "username": "Yuuziww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957699859492077657",
+        "in_reply_to_user_id": "1918831724898951168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957647965528678680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XYN1789927 @Ethanwu1234 @Andy_Zaychilk @Yuuziww 都没什么没人专心画二次元…让咱很失望呢( •̥́ ˍ •̀ू )"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918831724898951168",
+        "conversation_id": "1957100890273550738",
+        "created_at": "2025-08-19T03:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T04:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957647965528678680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 28,
+              "id": "1531432040909918209",
+              "start": 16,
+              "username": "Ethanwu1234"
+            },
+            {
+              "end": 43,
+              "id": "1545736499597307904",
+              "start": 29,
+              "username": "Andy_Zaychilk"
+            },
+            {
+              "end": 52,
+              "id": "1841815764753645571",
+              "start": 44,
+              "username": "Yuuziww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957647965528678680",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957100890273550738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 @Ethanwu1234 @Andy_Zaychilk @Yuuziww 旁边简直是群魔乱舞啊（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2073,
+          "following_count": 3026,
+          "like_count": 5345,
+          "listed_count": 3,
+          "media_count": 72,
+          "tweet_count": 889
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T00:55:16.000Z",
+        "description": "笨蛋mtf一只（），有时易燃易爆炸",
+        "id": "1918831724898951168",
+        "location": "雌二醇星球",
+        "name": "萤火虫二号机",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918900774639398912/vHSj0QaK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 122,
+          "like_count": 5794,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 1379
+        },
+        "username": "XYN1789927",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-31T00:27:23.000Z",
+        "description": "我是双性恋",
+        "id": "1531432040909918209",
+        "name": "刺猬QWQ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943455605848510465/ZaDFkpEE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 89,
+          "like_count": 7455,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 155
+        },
+        "username": "Ethanwu1234",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T11:48:14.000Z",
+        "description": "与你的日常，就是奇迹！\n上海市某中学预备ENTP高一牲喵（2010.06）\n（🚪9.9CNY 仅限支付宝口令红包 同类免费\n猫猫@AGeSang2008\n对象@guo_lao32576\n杂鱼@mhtqwq\n妈咪@zzzChumo\n碎碎念@Andy_Kaslana",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 64,
+                "username": "AGeSang2008"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "guo_lao32576"
+              },
+              {
+                "end": 102,
+                "start": 95,
+                "username": "mhtqwq"
+              },
+              {
+                "end": 114,
+                "start": 105,
+                "username": "zzzChumo"
+              },
+              {
+                "end": 131,
+                "start": 118,
+                "username": "Andy_Kaslana"
+              }
+            ]
+          }
+        },
+        "id": "1545736499597307904",
+        "location": "永恒之地-翁法罗斯 AMPHOREUS",
+        "name": "Andy Zaychilk（打舞萌/中二版）",
+        "pinned_tweet_id": "1941881650650165609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870824253593194496/Xhiu7ZRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2261,
+          "following_count": 4170,
+          "like_count": 13046,
+          "listed_count": 6,
+          "media_count": 132,
+          "tweet_count": 1474
+        },
+        "username": "Andy_Zaychilk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T12:22:03.000Z",
+        "description": "好想和可爱的小蝴蝶做朋友，好想做可爱小蝴蝶的树洞，愿为小蝴蝶还有更多可爱的人提供帮助赶走烦恼～（是一个不怎么会玩X的小白，会写写私信回回评论之类的～）",
+        "id": "1841815764753645571",
+        "name": "怡子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926455062898810880/h8quj9Dh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 40,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 13
+        },
+        "username": "Yuuziww",
+        "verified": false
+      }
+    ]
+  }
+}

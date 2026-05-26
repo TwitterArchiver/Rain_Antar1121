@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2052360105904226727",
+    "created_at": "2026-05-07T12:44:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T13:44:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052369001175822541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052369001175822541",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052360105904226727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen 很开心看到大家都在努力用自己的存在反抗恶意呢🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1371,
+        "media_key": "3_2052360097666637824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHtyooybIAA_668.jpg",
+        "width": 1320
+      },
+      {
+        "height": 1447,
+        "media_key": "3_2052360097649881089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHtyooubcAEIIUx.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2052360105904226727",
+        "created_at": "2026-05-07T12:44:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T13:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052369001175822541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052369001175822541",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052360105904226727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 很开心看到大家都在努力用自己的存在反抗恶意呢🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052360097666637824",
+            "3_2052360097649881089"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2052360105904226727",
+        "created_at": "2026-05-07T12:09:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T13:09:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052360105904226727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1894461745277931524",
+              "start": 3,
+              "username": "Rain_Antar1121"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QeMeb8E8oC",
+              "end": 124,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2052360105904226727/photo/1",
+              "media_key": "3_2052360097666637824",
+              "start": 101,
+              "url": "https://t.co/QeMeb8E8oC"
+            },
+            {
+              "display_url": "pic.x.com/QeMeb8E8oC",
+              "end": 124,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2052360105904226727/photo/1",
+              "media_key": "3_2052360097649881089",
+              "start": 101,
+              "url": "https://t.co/QeMeb8E8oC"
+            },
+            {
+              "display_url": "x.com/rain_antar1121…",
+              "end": 148,
+              "expanded_url": "https://twitter.com/rain_antar1121/status/2052346517000986852",
+              "start": 125,
+              "url": "https://t.co/Wx1GkZXUJX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052360105904226727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 362,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052346517000986852",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感谢 @Rain_Antar1121 的核实，環状線原推文（图 1 ）「大部分已不在人世」的说法不准确。\n\n希望仍在世的推友努力活下去喵！跨性别推友努力生活这件事本身就是对跨性别歧视言论的最好反击喵！ https://t.co/QeMeb8E8oC https://t.co/Wx1GkZXUJX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042559105353842688/Hs-yW50g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4022,
+          "following_count": 5998,
+          "like_count": 13614,
+          "listed_count": 10,
+          "media_count": 256,
+          "tweet_count": 2949
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫\n日语号：@NihonKanjousen\n互 fo 标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 40,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 87,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 64,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2756,
+          "following_count": 805,
+          "like_count": 18496,
+          "listed_count": 9,
+          "media_count": 990,
+          "tweet_count": 5458
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

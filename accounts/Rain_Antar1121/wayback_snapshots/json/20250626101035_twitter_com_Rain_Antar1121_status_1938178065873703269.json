@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1937821804447547841",
+    "created_at": "2025-06-26T10:10:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T11:10:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938178065873703269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1893035960973369344",
+          "start": 0,
+          "username": "sabdehc72577"
+        },
+        {
+          "end": 29,
+          "id": "1934723202158395393",
+          "start": 14,
+          "username": "chenkeer070427"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938178065873703269",
+    "in_reply_to_user_id": "1893035960973369344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938174628528328759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sabdehc72577 @chenkeer070427 哦～能指个路吗谢谢"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [chenkeer070427].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "chenkeer070427",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "chenkeer070427"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1937821804447547841",
+        "created_at": "2025-06-26T10:10:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T11:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938178065873703269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1893035960973369344",
+              "start": 0,
+              "username": "sabdehc72577"
+            },
+            {
+              "end": 29,
+              "id": "1934723202158395393",
+              "start": 14,
+              "username": "chenkeer070427"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938178065873703269",
+        "in_reply_to_user_id": "1893035960973369344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938174628528328759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sabdehc72577 @chenkeer070427 哦～能指个路吗谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893035960973369344",
+        "conversation_id": "1937821804447547841",
+        "created_at": "2025-06-26T09:56:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T10:56:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938174628528328759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1750485481207590912",
+              "start": 0,
+              "username": "zmsghhz"
+            },
+            {
+              "end": 24,
+              "id": "1894461745277931524",
+              "start": 9,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 40,
+              "id": "1934723202158395393",
+              "start": 25,
+              "username": "chenkeer070427"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938174628528328759",
+        "in_reply_to_user_id": "1750485481207590912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937844569284223292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zmsghhz @Rain_Antar1121 @chenkeer070427 不用酸了，p的被抖音计算机大佬石锤了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1919740598187147331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910722822059810817/tWPhmxtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1561,
+          "following_count": 2281,
+          "like_count": 3993,
+          "listed_count": 2,
+          "media_count": 45,
+          "tweet_count": 670
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T20:32:11.000Z",
+        "description": "",
+        "id": "1893035960973369344",
+        "name": "sabdehc",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "sabdehc72577",
+        "verified": false
+      }
+    ]
+  }
+}

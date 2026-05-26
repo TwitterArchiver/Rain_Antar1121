@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2030573194747486640",
+    "created_at": "2026-03-10T11:26:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T12:26:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031330902924833251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1818920358403256320",
+          "start": 0,
+          "username": "xuanyu_awa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031330902924833251",
+    "in_reply_to_user_id": "1818920358403256320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030573194747486640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuanyu_awa 呜呜抱…抱紧紧( •̥́ ˍ •̀ू)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2030573194747486640",
+        "created_at": "2026-03-10T11:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T12:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031330902924833251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1818920358403256320",
+              "start": 0,
+              "username": "xuanyu_awa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031330902924833251",
+        "in_reply_to_user_id": "1818920358403256320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030573194747486640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuanyu_awa 呜呜抱…抱紧紧( •̥́ ˍ •̀ू)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818920358403256320",
+        "conversation_id": "2030573194747486640",
+        "created_at": "2026-03-08T09:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T10:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030573194747486640"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030573194747486640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 927,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "或许我本来应该已经不在了吧……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的杂物 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3466,
+          "following_count": 5188,
+          "like_count": 10769,
+          "listed_count": 8,
+          "media_count": 179,
+          "tweet_count": 2075
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-01T08:03:18.000Z",
+        "description": "mtf/无证含糖/HRT2024.3.16/生日2010.4.14/CChOer（省一倒数的废物……）/高一物化生/彩笔音游人/精神状态随机/坐标重庆",
+        "id": "1818920358403256320",
+        "location": "重庆",
+        "name": "萱雨🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006302424102010880/4fw6FShC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2917,
+          "following_count": 3444,
+          "like_count": 30912,
+          "listed_count": 7,
+          "media_count": 113,
+          "tweet_count": 1133
+        },
+        "username": "xuanyu_awa",
+        "verified": false
+      }
+    ]
+  }
+}

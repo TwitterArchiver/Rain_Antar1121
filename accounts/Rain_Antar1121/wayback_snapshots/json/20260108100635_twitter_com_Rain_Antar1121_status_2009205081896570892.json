@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009205032529600512",
+        "3_2009205032542195716",
+        "3_2009205032521240576",
+        "3_2009205032525418496"
+      ]
+    },
+    "author_id": "1894461745277931524",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2009205081896570892",
+    "created_at": "2026-01-08T10:06:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T11:06:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009205081896570892"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Kv7JkrZVCN",
+          "end": 108,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/2009205081896570892/photo/1",
+          "media_key": "3_2009205032529600512",
+          "start": 85,
+          "url": "https://t.co/Kv7JkrZVCN"
+        },
+        {
+          "display_url": "pic.x.com/Kv7JkrZVCN",
+          "end": 108,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/2009205081896570892/photo/1",
+          "media_key": "3_2009205032542195716",
+          "start": 85,
+          "url": "https://t.co/Kv7JkrZVCN"
+        },
+        {
+          "display_url": "pic.x.com/Kv7JkrZVCN",
+          "end": 108,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/2009205081896570892/photo/1",
+          "media_key": "3_2009205032521240576",
+          "start": 85,
+          "url": "https://t.co/Kv7JkrZVCN"
+        },
+        {
+          "display_url": "pic.x.com/Kv7JkrZVCN",
+          "end": 108,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/2009205081896570892/photo/1",
+          "media_key": "3_2009205032525418496",
+          "start": 85,
+          "url": "https://t.co/Kv7JkrZVCN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009205081896570892",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🇲🇴🥰～\n黄昏是木色的古朴厚重，夜色是殿堂金与赛博蓝的绚丽风\n呜喵哪种更好看呢…咱还是喜欢入夜之后的感觉，可是画面被五彩斑斓的细节充满是不是有点缺乏深度了(｡•﹃•｡) https://t.co/Kv7JkrZVCN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2009205032529600512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-IhVPTaoAA36Ja.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2009205032542195716",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-IhVPWa0AQvJ2y.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2009205032521240576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-IhVPRbEAA9U0P.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2009205032525418496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-IhVPSa0AAzZxp.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009205032529600512",
+            "3_2009205032542195716",
+            "3_2009205032521240576",
+            "3_2009205032525418496"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2009205081896570892",
+        "created_at": "2026-01-08T10:06:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T11:06:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009205081896570892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kv7JkrZVCN",
+              "end": 108,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2009205081896570892/photo/1",
+              "media_key": "3_2009205032529600512",
+              "start": 85,
+              "url": "https://t.co/Kv7JkrZVCN"
+            },
+            {
+              "display_url": "pic.x.com/Kv7JkrZVCN",
+              "end": 108,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2009205081896570892/photo/1",
+              "media_key": "3_2009205032542195716",
+              "start": 85,
+              "url": "https://t.co/Kv7JkrZVCN"
+            },
+            {
+              "display_url": "pic.x.com/Kv7JkrZVCN",
+              "end": 108,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2009205081896570892/photo/1",
+              "media_key": "3_2009205032521240576",
+              "start": 85,
+              "url": "https://t.co/Kv7JkrZVCN"
+            },
+            {
+              "display_url": "pic.x.com/Kv7JkrZVCN",
+              "end": 108,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2009205081896570892/photo/1",
+              "media_key": "3_2009205032525418496",
+              "start": 85,
+              "url": "https://t.co/Kv7JkrZVCN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009205081896570892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🇲🇴🥰～\n黄昏是木色的古朴厚重，夜色是殿堂金与赛博蓝的绚丽风\n呜喵哪种更好看呢…咱还是喜欢入夜之后的感觉，可是画面被五彩斑斓的细节充满是不是有点缺乏深度了(｡•﹃•｡) https://t.co/Kv7JkrZVCN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的杂物 | 认真观察有趣的世界 | 想要…专属咱抱着的猫猫 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2904,
+          "following_count": 4329,
+          "like_count": 8288,
+          "listed_count": 5,
+          "media_count": 119,
+          "tweet_count": 1399
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      }
+    ]
+  }
+}

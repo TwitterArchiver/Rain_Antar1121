@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1928686068544712752",
+    "created_at": "2025-05-31T05:35:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T06:35:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928686706225721797"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1928686706225721797",
+    "in_reply_to_user_id": "1894461745277931524",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928686068544712752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "话说在推特上接触大家才63天欸…遇见了从未想过的好多人，好多事…一开始咱只是单纯地想找同类贴贴暖暖黏黏来着٩(｡・ω・｡)و\n总之无论是喜是忧，推已经是咱生活的一部分啦～不知道还能在这里走多远…也许不会很久，但这里的人和事已经在咱心里留下了好深的印记呢ξ( ✿＞◡❛)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1928686056612016128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsQRv_ebsAAe_cG.jpg",
+        "width": 931
+      },
+      {
+        "alt_text": "https://www.pixiv.net/artworks/129563571",
+        "height": 1082,
+        "media_key": "3_1928686056788152320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsQRwAIbUAAoiCS.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1928686068544712752",
+        "created_at": "2025-05-31T05:35:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T06:35:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928686706225721797"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1928686706225721797",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928686068544712752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "话说在推特上接触大家才63天欸…遇见了从未想过的好多人，好多事…一开始咱只是单纯地想找同类贴贴暖暖黏黏来着٩(｡・ω・｡)و\n总之无论是喜是忧，推已经是咱生活的一部分啦～不知道还能在这里走多远…也许不会很久，但这里的人和事已经在咱心里留下了好深的印记呢ξ( ✿＞◡❛)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928686056612016128",
+            "3_1928686056788152320"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1928686068544712752",
+        "created_at": "2025-05-31T05:32:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T06:32:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928686068544712752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cqnsT5JF9l",
+              "end": 180,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/1928686068544712752/photo/1",
+              "media_key": "3_1928686056612016128",
+              "start": 157,
+              "url": "https://t.co/cqnsT5JF9l"
+            },
+            {
+              "display_url": "pic.x.com/cqnsT5JF9l",
+              "end": 180,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/1928686068544712752/photo/1",
+              "media_key": "3_1928686056788152320",
+              "start": 157,
+              "url": "https://t.co/cqnsT5JF9l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928686068544712752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1000 Followers 🎉\n纪念～喵咕，感谢大家～🥺\n欸啊…有这么多人愿意驻足片刻，留意这只小透明，咱真的好开心呀♡*٩(ˊᗜˋ*)و✧\n还是得做点事吧…没想好呢，可能会想点花样抄ID之类…呜现在很忙～等主包高考结束再整活嗷🥹\n喵，路过的你不妨留个评论～以后有隐藏效果也说不定…吧\n祝大家端午安康咪～🥰❤️ https://t.co/cqnsT5JF9l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1919740598187147331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910722822059810817/tWPhmxtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1003,
+          "following_count": 1541,
+          "like_count": 2440,
+          "listed_count": 3,
+          "media_count": 22,
+          "tweet_count": 493
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      }
+    ]
+  }
+}

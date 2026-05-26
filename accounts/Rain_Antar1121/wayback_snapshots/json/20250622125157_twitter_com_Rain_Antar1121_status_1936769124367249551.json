@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1936670810221265009",
+    "created_at": "2025-06-22T12:51:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T13:51:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936769124367249551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "4766798780",
+          "start": 0,
+          "username": "sorashi_90"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936769124367249551",
+    "in_reply_to_user_id": "4766798780",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936675253822116345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sorashi_90 好想要，能陪咱坐摩天轮的人呢…\n但是一个人玩毕竟好自由哒～跟着自己的节奏漫旅有时候也更快乐～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1936670810221265009",
+        "created_at": "2025-06-22T12:51:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T13:51:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936769124367249551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "4766798780",
+              "start": 0,
+              "username": "sorashi_90"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936769124367249551",
+        "in_reply_to_user_id": "4766798780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936675253822116345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sorashi_90 好想要，能陪咱坐摩天轮的人呢…\n但是一个人玩毕竟好自由哒～跟着自己的节奏漫旅有时候也更快乐～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4766798780",
+        "conversation_id": "1936670810221265009",
+        "created_at": "2025-06-22T06:38:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T07:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936675253822116345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936675253822116345",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936670810221265009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 孤獨遊港嗎？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1919740598187147331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910722822059810817/tWPhmxtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1486,
+          "following_count": 2196,
+          "like_count": 3770,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 621
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-16T05:38:19.000Z",
+        "description": "无证🏳️‍⚧️🇭🇰  |  HRT 2024.08.02  |（1989.12）||  \n25年以前的转推不用看，那是过去自己 奇怪的口味，正在删除中。。。",
+        "id": "4766798780",
+        "location": "不在地球🌏",
+        "name": "汐凜🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919619241713795072/uIxTHlp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 1112,
+          "like_count": 2357,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 591
+        },
+        "username": "sorashi_90",
+        "verified": false
+      }
+    ]
+  }
+}

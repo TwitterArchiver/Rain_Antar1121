@@ -1,0 +1,460 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1916818702592540672",
+        "3_1916818702835830784",
+        "3_1916818702449979392"
+      ]
+    },
+    "author_id": "1894461745277931524",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597302226944",
+          "name": "Transportation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596144668673",
+          "name": "Airline - Transportation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "All Nippon Airways (ANA)",
+          "id": "1038081294150774785",
+          "name": "All Nippon Airways"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Air travel",
+          "id": "849076200261603328",
+          "name": "Air travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Air travel",
+          "id": "849076200261603328",
+          "name": "Air travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "All Nippon Airways (ANA)",
+          "id": "1038081294150774785",
+          "name": "All Nippon Airways"
+        }
+      }
+    ],
+    "conversation_id": "1916818707679969497",
+    "created_at": "2025-04-28T11:36:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T12:36:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1916818707679969497"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 174,
+          "start": 164,
+          "tag": "Boeing747"
+        },
+        {
+          "end": 180,
+          "start": 175,
+          "tag": "B747"
+        },
+        {
+          "end": 184,
+          "start": 181,
+          "tag": "航空"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Civil aviation database with 1 million photos and information on 50,000 aircraft",
+          "display_url": "planespotters.net",
+          "end": 162,
+          "expanded_url": "http://planespotters.net",
+          "start": 139,
+          "status": 200,
+          "title": "Planespotters.net",
+          "unwound_url": "https://www.planespotters.net/",
+          "url": "https://t.co/fEzws3I9w7"
+        },
+        {
+          "display_url": "pic.x.com/7yzJHzCmVd",
+          "end": 208,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/1916818707679969497/photo/1",
+          "media_key": "3_1916818702592540672",
+          "start": 185,
+          "url": "https://t.co/7yzJHzCmVd"
+        },
+        {
+          "display_url": "pic.x.com/7yzJHzCmVd",
+          "end": 208,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/1916818707679969497/photo/1",
+          "media_key": "3_1916818702835830784",
+          "start": 185,
+          "url": "https://t.co/7yzJHzCmVd"
+        },
+        {
+          "display_url": "pic.x.com/7yzJHzCmVd",
+          "end": 208,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/1916818707679969497/photo/1",
+          "media_key": "3_1916818702449979392",
+          "start": 185,
+          "url": "https://t.co/7yzJHzCmVd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916818707679969497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在蓝鲸禄口机场捉到一只747大可爱\n‘- ̗̀ෆ( ˶'ᵕ'˶)ෆ ̖́- \n货机B-2437，一只金鹏航空的744客改货，改装前曾是服役于全日空的JA8098，在NKG遇见她好几次啦\n图二摄于去年十月，是咱第一次在机场遇见她～\n图三是身披ANA涂装时的她，摄于2010年，图源https://t.co/fEzws3I9w7\n\n#Boeing747 #B747 #航空 https://t.co/7yzJHzCmVd"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "值飞Y87452，从芝加哥回家的B-2437～\n摄于07跑道外侧",
+        "height": 1536,
+        "media_key": "3_1916818702592540672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpnodEragAAgZ8d.jpg",
+        "width": 2048
+      },
+      {
+        "alt_text": "刚在NKG降落的B-2437～\n摄于2024年10月13日，T1航站楼",
+        "height": 1536,
+        "media_key": "3_1916818702835830784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpnodFla0AAfSdd.jpg",
+        "width": 2048
+      },
+      {
+        "alt_text": "摄于2010年2月6日，东京成田，摄影师Kaoru Kojima\n当时她还是JA8098～\nhttps://www.planespotters.net/photo/122934/ja8098-all-nippon-airways-boeing-747-481",
+        "height": 1080,
+        "media_key": "3_1916818702449979392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpnodEJbMAAi0UX.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916818702592540672",
+            "3_1916818702835830784",
+            "3_1916818702449979392"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596144668673",
+              "name": "Airline - Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "All Nippon Airways (ANA)",
+              "id": "1038081294150774785",
+              "name": "All Nippon Airways"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Air travel",
+              "id": "849076200261603328",
+              "name": "Air travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Air travel",
+              "id": "849076200261603328",
+              "name": "Air travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "All Nippon Airways (ANA)",
+              "id": "1038081294150774785",
+              "name": "All Nippon Airways"
+            }
+          }
+        ],
+        "conversation_id": "1916818707679969497",
+        "created_at": "2025-04-28T11:36:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T12:36:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916818707679969497"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 174,
+              "start": 164,
+              "tag": "Boeing747"
+            },
+            {
+              "end": 180,
+              "start": 175,
+              "tag": "B747"
+            },
+            {
+              "end": 184,
+              "start": 181,
+              "tag": "航空"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Civil aviation database with 1 million photos and information on 50,000 aircraft",
+              "display_url": "planespotters.net",
+              "end": 162,
+              "expanded_url": "http://planespotters.net",
+              "start": 139,
+              "status": 200,
+              "title": "Planespotters.net",
+              "unwound_url": "https://www.planespotters.net/",
+              "url": "https://t.co/fEzws3I9w7"
+            },
+            {
+              "display_url": "pic.x.com/7yzJHzCmVd",
+              "end": 208,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/1916818707679969497/photo/1",
+              "media_key": "3_1916818702592540672",
+              "start": 185,
+              "url": "https://t.co/7yzJHzCmVd"
+            },
+            {
+              "display_url": "pic.x.com/7yzJHzCmVd",
+              "end": 208,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/1916818707679969497/photo/1",
+              "media_key": "3_1916818702835830784",
+              "start": 185,
+              "url": "https://t.co/7yzJHzCmVd"
+            },
+            {
+              "display_url": "pic.x.com/7yzJHzCmVd",
+              "end": 208,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/1916818707679969497/photo/1",
+              "media_key": "3_1916818702449979392",
+              "start": 185,
+              "url": "https://t.co/7yzJHzCmVd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916818707679969497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在蓝鲸禄口机场捉到一只747大可爱\n‘- ̗̀ෆ( ˶'ᵕ'˶)ෆ ̖́- \n货机B-2437，一只金鹏航空的744客改货，改装前曾是服役于全日空的JA8098，在NKG遇见她好几次啦\n图二摄于去年十月，是咱第一次在机场遇见她～\n图三是身披ANA涂装时的她，摄于2010年，图源https://t.co/fEzws3I9w7\n\n#Boeing747 #B747 #航空 https://t.co/7yzJHzCmVd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 有容易抱住别人的习惯 | 小透明属性 | 同类互fo喵 | 贴贴看到这里的每一只小可爱～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910722822059810817/tWPhmxtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 631,
+          "like_count": 765,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 225
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      }
+    ]
+  }
+}

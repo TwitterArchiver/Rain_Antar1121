@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1925105842279612846",
+    "created_at": "2025-05-21T12:05:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T13:05:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925161062430867507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1467175651954200577",
+          "start": 0,
+          "username": "kjkluk"
+        },
+        {
+          "end": 20,
+          "id": "1744316513291747328",
+          "start": 8,
+          "username": "shuifenziya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925161062430867507",
+    "in_reply_to_user_id": "1467175651954200577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925129642803105873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kjkluk @shuifenziya 呜…谢谢，会试试哒🥹\n但根本问题是小水的前途和性格😭😭😭"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1925129642803105873].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1925129642803105873",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1925129642803105873"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1925105842279612846",
+        "created_at": "2025-05-21T12:05:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T13:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925161062430867507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1467175651954200577",
+              "start": 0,
+              "username": "kjkluk"
+            },
+            {
+              "end": 20,
+              "id": "1744316513291747328",
+              "start": 8,
+              "username": "shuifenziya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925161062430867507",
+        "in_reply_to_user_id": "1467175651954200577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925129642803105873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kjkluk @shuifenziya 呜…谢谢，会试试哒🥹\n但根本问题是小水的前途和性格😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 这几个字放这里用来占位♡♡tivjgfoajzb | 同类互fo喵 | 贴贴看到这里的每一只小可爱～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1919740598187147331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910722822059810817/tWPhmxtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 1292,
+          "like_count": 1911,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 438
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-04T16:55:23.000Z",
+        "description": "喵呜器正在依靠bug运行中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kjkluk.github.io",
+                "end": 23,
+                "expanded_url": "http://kjkluk.github.io",
+                "start": 0,
+                "url": "https://t.co/i3MKU3UG3m"
+              }
+            ]
+          }
+        },
+        "id": "1467175651954200577",
+        "location": "Japan",
+        "name": "果糖ぶどう糖液糖子猫😾",
+        "pinned_tweet_id": "1915342614376964317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913011289997406209/17twdbY4_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2245,
+          "following_count": 2852,
+          "like_count": 248228,
+          "listed_count": 14,
+          "media_count": 794,
+          "tweet_count": 11441
+        },
+        "url": "https://t.co/i3MKU3UG3m",
+        "username": "kjkluk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-08T11:14:12.000Z",
+        "description": "我...我....是sb水分子/08年17岁/休学中ing.../无证🍥hrt6个月/💥已炸柜/167cm47kg/坐标广东清远/负能/🚪35？/是条杂鱼🐟~~/SAD/互fo/喜欢💰和六花/不鉴证/小鸟游六花单推",
+        "id": "1744316513291747328",
+        "location": "我在二次元",
+        "name": "一个水分子🍥",
+        "pinned_tweet_id": "1924306437486067956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919541730309021696/GfvuYbBr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 832,
+          "following_count": 562,
+          "like_count": 17618,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 1191
+        },
+        "username": "shuifenziya",
+        "verified": false
+      }
+    ]
+  }
+}

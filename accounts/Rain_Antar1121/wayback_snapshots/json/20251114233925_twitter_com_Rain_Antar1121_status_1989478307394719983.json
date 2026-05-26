@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1989478307394719983",
+    "created_at": "2025-11-14T23:39:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T00:39:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989478307394719983"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 18,
+          "tag": "福利"
+        },
+        {
+          "end": 25,
+          "start": 22,
+          "tag": "抽奖"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1777393785040949248",
+          "start": 3,
+          "username": "huliyaoshang"
+        },
+        {
+          "end": 114,
+          "id": "1777393785040949248",
+          "start": 101,
+          "username": "huliyaoshang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989478307394719983",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989185760759795950",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huliyaoshang: #福利 #抽奖\n \n🦊免费送韩国补佳乐30盒 \n \n抽奖方式：评论狐狸666 +转推\n \n抽到的私信发地址就行\n最晚下周出结果\n\n动动手支持一下狐狸 \n谢谢姐妹啦\n\n@huliyaoshang\n\n——————————————\n\n另外\n日雌 土…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1989185752958377984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5sB5zVaIAAUg5j.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1989478307394719983",
+        "created_at": "2025-11-14T23:39:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T00:39:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989478307394719983"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "福利"
+            },
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "抽奖"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1777393785040949248",
+              "start": 3,
+              "username": "huliyaoshang"
+            },
+            {
+              "end": 114,
+              "id": "1777393785040949248",
+              "start": 101,
+              "username": "huliyaoshang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989478307394719983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989185760759795950",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @huliyaoshang: #福利 #抽奖\n \n🦊免费送韩国补佳乐30盒 \n \n抽奖方式：评论狐狸666 +转推\n \n抽到的私信发地址就行\n最晚下周出结果\n\n动动手支持一下狐狸 \n谢谢姐妹啦\n\n@huliyaoshang\n\n——————————————\n\n另外\n日雌 土…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989185752958377984"
+          ]
+        },
+        "author_id": "1777393785040949248",
+        "conversation_id": "1989185760759795950",
+        "created_at": "2025-11-14T04:16:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T05:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989185760759795950"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "福利"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "抽奖"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 96,
+              "id": "1777393785040949248",
+              "start": 83,
+              "username": "huliyaoshang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gFkgGq9jhW",
+              "end": 161,
+              "expanded_url": "https://x.com/huliyaoshang/status/1989185760759795950/photo/1",
+              "media_key": "3_1989185752958377984",
+              "start": 138,
+              "url": "https://t.co/gFkgGq9jhW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989185760759795950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1858,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "#福利 #抽奖\n \n🦊免费送韩国补佳乐30盒 \n \n抽奖方式：评论狐狸666 +转推\n \n抽到的私信发地址就行\n最晚下周出结果\n\n动动手支持一下狐狸 \n谢谢姐妹啦\n\n@huliyaoshang\n\n——————————————\n\n另外\n日雌 土色 泰补 凝胶 减肥针 常年有货 https://t.co/gFkgGq9jhW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩子🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 软软的温顺小动物 | 社恐小透明 | 随时发作的中二病 | 会自觉抱住可爱的存在 | 天文/航空/航天/科幻/理工文史都会看看 | 认真观察有趣的世界 | 想要…专属于咱抱着的人 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2559,
+          "following_count": 3925,
+          "like_count": 7165,
+          "listed_count": 5,
+          "media_count": 92,
+          "tweet_count": 1157
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T17:51:45.000Z",
+        "description": "狐狸新号 买糖家微 huli048/huli049日雌340泰补190#电报一群 https://t.co/G6xeQdiuhI 二群 https://t.co/bDbCVk0GDP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+ilNIl6DsSFJjO…",
+                "end": 64,
+                "expanded_url": "https://t.me/+ilNIl6DsSFJjOTBl",
+                "start": 41,
+                "url": "https://t.co/G6xeQdiuhI"
+              },
+              {
+                "display_url": "t.me/+XpMHG8JZx3g0M…",
+                "end": 91,
+                "expanded_url": "https://t.me/+XpMHG8JZx3g0MWY1",
+                "start": 68,
+                "url": "https://t.co/bDbCVk0GDP"
+              }
+            ]
+          }
+        },
+        "id": "1777393785040949248",
+        "location": "Hong Kong",
+        "name": "狐狸糖MTF🍬（全网最低价）",
+        "pinned_tweet_id": "1898264492313919968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898599340261953536/gtOCR0mH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1471,
+          "following_count": 98,
+          "like_count": 3,
+          "listed_count": 10,
+          "media_count": 12,
+          "tweet_count": 16
+        },
+        "username": "huliyaoshang",
+        "verified": false
+      }
+    ]
+  }
+}

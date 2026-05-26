@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1980914301193121798",
+    "created_at": "2025-10-22T15:51:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T16:51:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981025556553470098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1756246342676979713",
+          "start": 0,
+          "username": "sanmiguelnoodle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981025556553470098",
+    "in_reply_to_user_id": "1756246342676979713",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980914301193121798",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sanmiguelnoodle 啾啾૮ ´͈ ᗜ `͈ ა♡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1749,
+        "media_key": "3_1980914298261020672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G32fDxZXIAAVjmL.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1980914301193121798",
+        "created_at": "2025-10-22T15:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T16:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981025556553470098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1756246342676979713",
+              "start": 0,
+              "username": "sanmiguelnoodle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981025556553470098",
+        "in_reply_to_user_id": "1756246342676979713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980914301193121798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sanmiguelnoodle 啾啾૮ ´͈ ᗜ `͈ ა♡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980914298261020672"
+          ]
+        },
+        "author_id": "1756246342676979713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1980914301193121798",
+        "created_at": "2025-10-22T08:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T09:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980914301193121798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YMuIXGNrqZ",
+              "end": 169,
+              "expanded_url": "https://x.com/sanmiguelnoodle/status/1980914301193121798/photo/1",
+              "media_key": "3_1980914298261020672",
+              "start": 146,
+              "url": "https://t.co/YMuIXGNrqZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980914301193121798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "2000fo抽獎：\n\n評論、按讚、轉發以加入獎池，\n\n一等獎（一名）：一杯珍奶（可折算，封頂新台幣100元、人民幣20元）\n\n二等獎（二名）：49.9元新台幣或9.99元人民幣\n\n三等獎（三名）：免費加入微信、QQ、LINE、Discord好友位（以上軟體任選一）\n\n神秘大獎（已內定人選）\n\n開獎時間：10/27（我阿公的生日）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5115,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 31,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "2000fo抽獎：\n\n評論、按讚、轉發以加入獎池，\n\n一等獎（一名）：一杯珍奶（可折算，封頂新台幣100元、人民幣20元）\n\n二等獎（二名）：49.9元新台幣或9.99元人民幣\n\n三等獎（三名）：免費加入微信、QQ、LINE、Discord好友位（以上軟體任選一）\n\n神秘大獎（已內定人選） https://t.co/YMuIXGNrqZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩子🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 软软的温顺小动物 | 社恐小透明 | 随时发作的中二病 | 会自觉抱住可爱的存在 | 天文/航空/航天/科幻/理工文史都会看看 | 认真观察有趣的世界 | 想要…专属于咱抱着的人 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2440,
+          "following_count": 3699,
+          "like_count": 6647,
+          "listed_count": 5,
+          "media_count": 89,
+          "tweet_count": 1088
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-10T09:19:19.000Z",
+        "description": "自建政黨：@CTP_TW | 中華民國派🇹🇼❂​ | 🚪28.88r | MTX🏳️‍⚧️🍥 | MDD/GAD/OCD/ASD/BPD🤒 | 🥺🍜❤️對象@MTNEKO8964  | 🦡@mi_huan030 |🐈@Psych_Angel_ | 可愛AB @bolckAshley",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 5,
+                "username": "CTP_TW"
+              },
+              {
+                "end": 89,
+                "start": 78,
+                "username": "MTNEKO8964"
+              },
+              {
+                "end": 105,
+                "start": 94,
+                "username": "mi_huan030"
+              },
+              {
+                "end": 121,
+                "start": 108,
+                "username": "Psych_Angel_"
+              },
+              {
+                "end": 141,
+                "start": 129,
+                "username": "bolckAshley"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sanmiguelnoodle.com.tw",
+                "end": 23,
+                "expanded_url": "https://www.sanmiguelnoodle.com.tw",
+                "start": 0,
+                "url": "https://t.co/2lbauKPJ9M"
+              }
+            ]
+          }
+        },
+        "id": "1756246342676979713",
+        "location": "UTC+8",
+        "name": "生力麵🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1969153581300216285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979868103245799424/EmUaWW2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2032,
+          "following_count": 605,
+          "like_count": 2566,
+          "listed_count": 10,
+          "media_count": 531,
+          "tweet_count": 5802
+        },
+        "url": "https://t.co/2lbauKPJ9M",
+        "username": "sanmiguelnoodle",
+        "verified": true
+      }
+    ]
+  }
+}

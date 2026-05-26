@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1933153387165708288",
+        "3_1933153387476094976",
+        "3_1933153389942304768",
+        "3_1933153387165650944"
+      ]
+    },
+    "author_id": "1894461745277931524",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10051379260",
+          "name": "Love, Chunibyo and Other Delusions"
+        }
+      }
+    ],
+    "conversation_id": "1933153401455747218",
+    "created_at": "2025-06-12T13:24:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T14:24:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1933153401455747218"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 134,
+          "start": 125,
+          "tag": "小鳥遊六花生誕祭"
+        },
+        {
+          "end": 148,
+          "start": 135,
+          "tag": "小鳥遊六花生誕祭2025"
+        },
+        {
+          "end": 160,
+          "start": 149,
+          "tag": "中二病でも恋がしたい"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ei6Xqsag4Z",
+          "end": 184,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/1933153401455747218/photo/1",
+          "media_key": "3_1933153387165708288",
+          "start": 161,
+          "url": "https://t.co/Ei6Xqsag4Z"
+        },
+        {
+          "display_url": "pic.x.com/Ei6Xqsag4Z",
+          "end": 184,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/1933153401455747218/photo/1",
+          "media_key": "3_1933153387476094976",
+          "start": 161,
+          "url": "https://t.co/Ei6Xqsag4Z"
+        },
+        {
+          "display_url": "pic.x.com/Ei6Xqsag4Z",
+          "end": 184,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/1933153401455747218/photo/1",
+          "media_key": "3_1933153389942304768",
+          "start": 161,
+          "url": "https://t.co/Ei6Xqsag4Z"
+        },
+        {
+          "display_url": "pic.x.com/Ei6Xqsag4Z",
+          "end": 184,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/1933153401455747218/photo/1",
+          "media_key": "3_1933153387165650944",
+          "start": 161,
+          "url": "https://t.co/Ei6Xqsag4Z"
+        },
+        {
+          "display_url": "x.com/Rain_Antar1121…",
+          "end": 208,
+          "expanded_url": "https://twitter.com/Rain_Antar1121/status/1932834655029637611",
+          "start": 185,
+          "url": "https://t.co/5wMelaqmm2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933153401455747218",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932834655029637611",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🎂🎉🎂🎉🎂🎉🎂\n僕らは一つになり 天を翔て，\n我们终将合为一体 翱翔于天涯，\n\n誇りを叫び散る花火のようだ，\n怀著荣耀呼喊著迸散如烟花飘洒，\n\n輝は刹那に…爆ぜた\n辉光浮现的瞬息刹那…爆发吧～\n\nRikka~rikka~ri૮ ´͈ ᗜ `͈ ა♡\n#小鳥遊六花生誕祭\n#小鳥遊六花生誕祭2025\n#中二病でも恋がしたい https://t.co/Ei6Xqsag4Z https://t.co/5wMelaqmm2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1224,
+        "media_key": "3_1933153387165708288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtPww2pa8AAAVEm.jpg",
+        "width": 2175
+      },
+      {
+        "height": 1224,
+        "media_key": "3_1933153387476094976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtPww3zbEAATIkT.jpg",
+        "width": 2175
+      },
+      {
+        "height": 1224,
+        "media_key": "3_1933153389942304768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtPwxA_acAAs9D6.jpg",
+        "width": 2175
+      },
+      {
+        "height": 1224,
+        "media_key": "3_1933153387165650944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtPww2paEAA3ylC.jpg",
+        "width": 2175
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1932834541955395584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtLOxnrbMAALADB.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933153387165708288",
+            "3_1933153387476094976",
+            "3_1933153389942304768",
+            "3_1933153387165650944"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051379260",
+              "name": "Love, Chunibyo and Other Delusions"
+            }
+          }
+        ],
+        "conversation_id": "1933153401455747218",
+        "created_at": "2025-06-12T13:24:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T14:24:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933153401455747218"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 134,
+              "start": 125,
+              "tag": "小鳥遊六花生誕祭"
+            },
+            {
+              "end": 148,
+              "start": 135,
+              "tag": "小鳥遊六花生誕祭2025"
+            },
+            {
+              "end": 160,
+              "start": 149,
+              "tag": "中二病でも恋がしたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ei6Xqsag4Z",
+              "end": 184,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/1933153401455747218/photo/1",
+              "media_key": "3_1933153387165708288",
+              "start": 161,
+              "url": "https://t.co/Ei6Xqsag4Z"
+            },
+            {
+              "display_url": "pic.x.com/Ei6Xqsag4Z",
+              "end": 184,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/1933153401455747218/photo/1",
+              "media_key": "3_1933153387476094976",
+              "start": 161,
+              "url": "https://t.co/Ei6Xqsag4Z"
+            },
+            {
+              "display_url": "pic.x.com/Ei6Xqsag4Z",
+              "end": 184,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/1933153401455747218/photo/1",
+              "media_key": "3_1933153389942304768",
+              "start": 161,
+              "url": "https://t.co/Ei6Xqsag4Z"
+            },
+            {
+              "display_url": "pic.x.com/Ei6Xqsag4Z",
+              "end": 184,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/1933153401455747218/photo/1",
+              "media_key": "3_1933153387165650944",
+              "start": 161,
+              "url": "https://t.co/Ei6Xqsag4Z"
+            },
+            {
+              "display_url": "x.com/Rain_Antar1121…",
+              "end": 208,
+              "expanded_url": "https://twitter.com/Rain_Antar1121/status/1932834655029637611",
+              "start": 185,
+              "url": "https://t.co/5wMelaqmm2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933153401455747218",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932834655029637611",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🎂🎉🎂🎉🎂🎉🎂\n僕らは一つになり 天を翔て，\n我们终将合为一体 翱翔于天涯，\n\n誇りを叫び散る花火のようだ，\n怀著荣耀呼喊著迸散如烟花飘洒，\n\n輝は刹那に…爆ぜた\n辉光浮现的瞬息刹那…爆发吧～\n\nRikka~rikka~ri૮ ´͈ ᗜ `͈ ა♡\n#小鳥遊六花生誕祭\n#小鳥遊六花生誕祭2025\n#中二病でも恋がしたい https://t.co/Ei6Xqsag4Z https://t.co/5wMelaqmm2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932834541955395584"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "conversation_id": "1932834655029637611",
+        "created_at": "2025-06-11T16:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T17:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932834655029637611"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 149,
+              "start": 140,
+              "tag": "小鳥遊六花生誕祭"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7StVQgby4L",
+              "end": 173,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/1932834655029637611/photo/1",
+              "media_key": "3_1932834541955395584",
+              "start": 150,
+              "url": "https://t.co/7StVQgby4L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932834655029637611",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1492,
+          "like_count": 76,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "生日快乐呀，Rikka❤️～\n六花ちゃんお誕生日おめでとう❤️～\n🥳🎉🥳🎉🥳🎉\n宣告！圣战之召降临于此——所向无敌之邪王真眼使，神圣之生诞祭正乃今日～\n星辰轨理为之交汇——此「终焉混沌始动之日」乃吾等真眼信徒，焚灭「常识」枷障圣战之始～\n但愿真眼赐福破越次元之障，永与吾等同行～\n#小鳥遊六花生誕祭 https://t.co/7StVQgby4L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1919740598187147331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910722822059810817/tWPhmxtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1317,
+          "following_count": 1973,
+          "like_count": 3194,
+          "listed_count": 2,
+          "media_count": 29,
+          "tweet_count": 556
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      }
+    ]
+  }
+}

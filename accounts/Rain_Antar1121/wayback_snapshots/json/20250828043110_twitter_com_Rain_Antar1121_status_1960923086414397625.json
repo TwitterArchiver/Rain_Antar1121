@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1958163204728877293",
+    "created_at": "2025-08-28T04:31:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T05:31:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960923086414397625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1939240291468492800",
+          "start": 0,
+          "username": "sk2mainland4wc"
+        },
+        {
+          "end": 28,
+          "id": "1531432040909918209",
+          "start": 16,
+          "username": "Ethanwu1234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960923086414397625",
+    "in_reply_to_user_id": "1939240291468492800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960742567722803374",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sk2mainland4wc @Ethanwu1234 www推上校友好多哇，咱都怕自己要被开盒咯⩌⩊⩌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1958163204728877293",
+        "created_at": "2025-08-28T04:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T05:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960923086414397625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1939240291468492800",
+              "start": 0,
+              "username": "sk2mainland4wc"
+            },
+            {
+              "end": 28,
+              "id": "1531432040909918209",
+              "start": 16,
+              "username": "Ethanwu1234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960923086414397625",
+        "in_reply_to_user_id": "1939240291468492800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960742567722803374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sk2mainland4wc @Ethanwu1234 www推上校友好多哇，咱都怕自己要被开盒咯⩌⩊⩌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939240291468492800",
+        "conversation_id": "1958163204728877293",
+        "created_at": "2025-08-27T16:33:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T17:33:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960742567722803374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 28,
+              "id": "1531432040909918209",
+              "start": 16,
+              "username": "Ethanwu1234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960742567722803374",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958163204728877293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 @Ethanwu1234 啊，您是奧南還是察區？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2121,
+          "following_count": 3085,
+          "like_count": 5540,
+          "listed_count": 4,
+          "media_count": 78,
+          "tweet_count": 934
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T08:32:07.000Z",
+        "description": "N/A",
+        "id": "1939240291468492800",
+        "name": "W SK",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939240451455991808/bk48JLOU_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 7,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "sk2mainland4wc",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-31T00:27:23.000Z",
+        "description": "我是双性恋",
+        "id": "1531432040909918209",
+        "name": "刺猬QWQ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943455605848510465/ZaDFkpEE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 112,
+          "like_count": 7944,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 178
+        },
+        "username": "Ethanwu1234",
+        "verified": false
+      }
+    ]
+  }
+}

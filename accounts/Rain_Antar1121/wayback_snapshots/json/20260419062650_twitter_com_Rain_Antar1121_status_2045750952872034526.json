@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2045536462595330148",
+    "created_at": "2026-04-19T06:26:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T07:26:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045750952872034526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1903681772803743744",
+          "start": 0,
+          "username": "zong_gu42511"
+        },
+        {
+          "end": 23,
+          "id": "2031270533359349761",
+          "start": 14,
+          "username": "senzhiwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045750952872034526",
+    "in_reply_to_user_id": "1903681772803743744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045748347835941083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zong_gu42511 @senzhiwu （拽走）这个是我的(*￣m￣)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2045536462595330148",
+        "created_at": "2026-04-19T06:26:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T07:26:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045750952872034526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1903681772803743744",
+              "start": 0,
+              "username": "zong_gu42511"
+            },
+            {
+              "end": 23,
+              "id": "2031270533359349761",
+              "start": 14,
+              "username": "senzhiwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045750952872034526",
+        "in_reply_to_user_id": "1903681772803743744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045748347835941083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zong_gu42511 @senzhiwu （拽走）这个是我的(*￣m￣)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903681772803743744",
+        "conversation_id": "2045536462595330148",
+        "created_at": "2026-04-19T06:16:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T07:16:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045748347835941083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2031270533359349761",
+              "start": 0,
+              "username": "senzhiwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045748347835941083",
+        "in_reply_to_user_id": "2031270533359349761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045537580280897708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@senzhiwu OK呀你也是直接单不孤单了好吧，我马上也常驻南京了呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2033518993160736859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042559105353842688/Hs-yW50g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3816,
+          "following_count": 5765,
+          "like_count": 12934,
+          "listed_count": 8,
+          "media_count": 226,
+          "tweet_count": 2641
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-23T05:34:46.000Z",
+        "description": "MtF🏳️‍⚧️ | 08年的南京女孩纸🍡 | ENFP | 抹茶控 | 同类互fo | 悉尼🇦🇺上高中 | 历史/诗词歌赋/小提琴🎻/古今各种动物的爱好家🐿️ |",
+        "id": "1903681772803743744",
+        "location": "Sydney, New South Wales",
+        "name": "Rhythm Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1954675114332823583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042542593591140352/v2HABsen_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 180,
+          "like_count": 437,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 158
+        },
+        "username": "zong_gu42511",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-10T07:27:30.000Z",
+        "description": "一个什么都不擅长的废物吧（或许❓）生产日期2008（真的重要吗🤔）mtx（为啥不是mtf喵😭）ENTP-T（虽然但是不知道测了有啥用😇）究极大爱慕（这真的是能说的吗😨）hrt 3.29（未免也太短了吧😡）🇲🇾留学生/常驻南京 欢迎来吉隆坡和南京找我玩喵（谁会跟长相阴暗臭顺男的人玩呢喵😭）碎碎念：好想被爱",
+        "id": "2031270533359349761",
+        "location": "你家门口",
+        "name": "senzhiwu🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039755166614958080/PTyVGD3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 151,
+          "like_count": 1012,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 754
+        },
+        "username": "senzhiwu",
+        "verified": false
+      }
+    ]
+  }
+}

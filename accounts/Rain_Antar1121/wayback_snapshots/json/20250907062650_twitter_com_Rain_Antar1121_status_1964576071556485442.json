@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1964539553290866782",
+    "created_at": "2025-09-07T06:26:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T07:26:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964576071556485442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1964119102123016192",
+          "start": 0,
+          "username": "yanmin071105"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964576071556485442",
+    "in_reply_to_user_id": "1964119102123016192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964539553290866782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanmin071105 哇，好，嫩…羡慕皮肤…呜，细皮嫩肉( •̥́ ˍ •̀ )/"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1964539553290866782].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1964539553290866782",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1964539553290866782"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1964539553290866782",
+        "created_at": "2025-09-07T06:26:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T07:26:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964576071556485442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1964119102123016192",
+              "start": 0,
+              "username": "yanmin071105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964576071556485442",
+        "in_reply_to_user_id": "1964119102123016192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964539553290866782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin071105 哇，好，嫩…羡慕皮肤…呜，细皮嫩肉( •̥́ ˍ •̀ )/"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～| 这一句用来提醒咱重新写Bio",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2174,
+          "following_count": 3176,
+          "like_count": 5693,
+          "listed_count": 4,
+          "media_count": 78,
+          "tweet_count": 946
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-06T00:11:38.000Z",
+        "description": "您好，喜欢您来！这里是@yanmin1105 的搞黄里推，只放行熟人和已过门槛的老板，过门请见主号置顶推文｜不约线下！暂时未开通其他平台",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "yanmin1105"
+              }
+            ]
+          }
+        },
+        "id": "1964119102123016192",
+        "name": "Yanmin",
+        "pinned_tweet_id": "1964542524581883940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964119403865526272/oiMeVyvX_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 3,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 4
+        },
+        "username": "yanmin071105",
+        "verified": false
+      }
+    ]
+  }
+}

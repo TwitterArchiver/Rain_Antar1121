@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041143961050603521"
+      ]
+    },
+    "author_id": "1894461745277931524",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2041143975365787888",
+    "created_at": "2026-04-06T13:20:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T14:20:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041143975365787888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 149,
+          "id": "1597257668313260033",
+          "start": 139,
+          "username": "Minokakay"
+        }
+      ],
+      "urls": [
+        {
+          "description": "原推特choseki, 歡迎通過linktree的聯係方式聯係我們下單，点击下方按钮即可，目前只支持email和tg下单，tg客户群：t.me/chosekipharmacy2, tg人工客服：t.me/ChosekiPharm_bot",
+          "display_url": "linktr.ee/choseki111",
+          "end": 138,
+          "expanded_url": "http://linktr.ee/choseki111",
+          "start": 115,
+          "status": 200,
+          "title": "@choseki111 | Linktree",
+          "unwound_url": "https://linktr.ee/choseki111",
+          "url": "https://t.co/CuZstJdncv"
+        },
+        {
+          "display_url": "pic.x.com/i8LzVSC3oa",
+          "end": 176,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/2041143975365787888/photo/1",
+          "media_key": "3_2041143961050603521",
+          "start": 153,
+          "url": "https://t.co/i8LzVSC3oa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041143975365787888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "晒晒在Choseki Pharmacy家买的土涩喵～୯(⁠*⁠´⁠ω⁠｀⁠*⁠)୬好吃安心的小糖糖，最喜欢了w🥰\n\n嗯呜看着能支持很久的的生命必需品好有安全感…把各种可爱小东西摆好拍照就更有安全感咯♡(｡☌ᴗ☌｡)\n\n附店铺链接 https://t.co/CuZstJdncv @Minokakay 喵～ https://t.co/i8LzVSC3oa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2041143961050603521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFOZnj3a4AELIa5.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041143961050603521"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041143975365787888",
+        "created_at": "2026-04-06T13:20:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T14:20:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041143975365787888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 149,
+              "id": "1597257668313260033",
+              "start": 139,
+              "username": "Minokakay"
+            }
+          ],
+          "urls": [
+            {
+              "description": "原推特choseki, 歡迎通過linktree的聯係方式聯係我們下單，点击下方按钮即可，目前只支持email和tg下单，tg客户群：t.me/chosekipharmacy2, tg人工客服：t.me/ChosekiPharm_bot",
+              "display_url": "linktr.ee/choseki111",
+              "end": 138,
+              "expanded_url": "http://linktr.ee/choseki111",
+              "start": 115,
+              "status": 200,
+              "title": "@choseki111 | Linktree",
+              "unwound_url": "https://linktr.ee/choseki111",
+              "url": "https://t.co/CuZstJdncv"
+            },
+            {
+              "display_url": "pic.x.com/i8LzVSC3oa",
+              "end": 176,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2041143975365787888/photo/1",
+              "media_key": "3_2041143961050603521",
+              "start": 153,
+              "url": "https://t.co/i8LzVSC3oa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041143975365787888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晒晒在Choseki Pharmacy家买的土涩喵～୯(⁠*⁠´⁠ω⁠｀⁠*⁠)୬好吃安心的小糖糖，最喜欢了w🥰\n\n嗯呜看着能支持很久的的生命必需品好有安全感…把各种可爱小东西摆好拍照就更有安全感咯♡(｡☌ᴗ☌｡)\n\n附店铺链接 https://t.co/CuZstJdncv @Minokakay 喵～ https://t.co/i8LzVSC3oa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2033518993160736859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3716,
+          "following_count": 5573,
+          "like_count": 12329,
+          "listed_count": 8,
+          "media_count": 209,
+          "tweet_count": 2457
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。 mtx 正找寻着生命意义的人，成都大阪随机刷新✝️找choseki见https://t.co/hStQSlMtBp，私信不回，打不开换梯子换浏览器",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/choseki111",
+                "end": 67,
+                "expanded_url": "http://linktr.ee/choseki111",
+                "start": 44,
+                "url": "https://t.co/hStQSlMtBp"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2019736772826341551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14269,
+          "following_count": 1053,
+          "like_count": 44014,
+          "listed_count": 54,
+          "media_count": 1799,
+          "tweet_count": 25845
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976160840136212480",
+        "3_1976160840584921091"
+      ]
+    },
+    "author_id": "1894461745277931524",
+    "conversation_id": "1976160845651640461",
+    "created_at": "2025-10-09T05:40:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T06:40:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976160845651640461"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 33,
+          "tag": "香港"
+        },
+        {
+          "end": 41,
+          "start": 37,
+          "tag": "新加坡"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xOX0rzRRkX",
+          "end": 65,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/1976160845651640461/photo/1",
+          "media_key": "3_1976160840136212480",
+          "start": 42,
+          "url": "https://t.co/xOX0rzRRkX"
+        },
+        {
+          "display_url": "pic.x.com/xOX0rzRRkX",
+          "end": 65,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/1976160845651640461/photo/1",
+          "media_key": "3_1976160840584921091",
+          "start": 42,
+          "url": "https://t.co/xOX0rzRRkX"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "6635b2fcebd13c64"
+    },
+    "id": "1976160845651640461",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "问问推友～香港🇭🇰和新加坡🇸🇬比，哪座城市更友跨喃？🏳️‍⚧️～\n#香港 #新加坡 https://t.co/xOX0rzRRkX"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "轮廓取自\nhttps://zh.wikipedia.org/wiki/File:Flag-map_of_Hong_Kong.svg\n咱自己填的色喵）",
+        "height": 937,
+        "media_key": "3_1976160840136212480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2y70F9bQAAlEiH.png",
+        "width": 1280
+      },
+      {
+        "alt_text": "轮廓取自\nhttps://zh.wikipedia.org/wiki/File:Flag_map_of_Singapore.svg\n还是咱自己填的色喵）",
+        "height": 823,
+        "media_key": "3_1976160840584921091",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2y70HoaAAMyJP8.png",
+        "width": 1280
+      }
+    ],
+    "places": [
+      {
+        "country": "Singapore",
+        "country_code": "SG",
+        "full_name": "East Region, Singapore",
+        "geo": {
+          "bbox": [
+            103.89216999988,
+            1.30157724092846,
+            104.085566789885,
+            1.44093662101956
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "6635b2fcebd13c64",
+        "name": "East Region",
+        "place_type": "admin"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976160840136212480",
+            "3_1976160840584921091"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "conversation_id": "1976160845651640461",
+        "created_at": "2025-10-09T05:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T06:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976160845651640461"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "香港"
+            },
+            {
+              "end": 41,
+              "start": 37,
+              "tag": "新加坡"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xOX0rzRRkX",
+              "end": 65,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/1976160845651640461/photo/1",
+              "media_key": "3_1976160840136212480",
+              "start": 42,
+              "url": "https://t.co/xOX0rzRRkX"
+            },
+            {
+              "display_url": "pic.x.com/xOX0rzRRkX",
+              "end": 65,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/1976160845651640461/photo/1",
+              "media_key": "3_1976160840584921091",
+              "start": 42,
+              "url": "https://t.co/xOX0rzRRkX"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "6635b2fcebd13c64"
+        },
+        "id": "1976160845651640461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "问问推友～香港🇭🇰和新加坡🇸🇬比，哪座城市更友跨喃？🏳️‍⚧️～\n#香港 #新加坡 https://t.co/xOX0rzRRkX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩子🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 软软的温顺小动物 | 社恐小透明 | 随时发作的中二病 | 会自觉抱住可爱的存在 | 天文/航空/航天/科幻/理工文史各种杂货 | 认真观察有趣的世界 | 想要…专属于咱抱着的人 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2332,
+          "following_count": 3513,
+          "like_count": 6243,
+          "listed_count": 4,
+          "media_count": 81,
+          "tweet_count": 1017
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      }
+    ]
+  }
+}

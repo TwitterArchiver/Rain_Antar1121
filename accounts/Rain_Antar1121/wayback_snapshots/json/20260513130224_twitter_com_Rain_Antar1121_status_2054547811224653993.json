@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2053052810821066991",
+    "created_at": "2026-05-13T13:02:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T14:02:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054547811224653993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1717080511435153408",
+          "start": 0,
+          "username": "Your1828"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054547811224653993",
+    "in_reply_to_user_id": "1717080511435153408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054546535333937287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Your1828 是呀…ฅ₍ᐢ⸝⸝›  ̫ ‹⸝⸝ᐢ₎ฅ˒˒都在认真生活哦～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2053052810821066991",
+        "created_at": "2026-05-13T13:02:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T14:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054547811224653993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1717080511435153408",
+              "start": 0,
+              "username": "Your1828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054547811224653993",
+        "in_reply_to_user_id": "1717080511435153408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054546535333937287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Your1828 是呀…ฅ₍ᐢ⸝⸝›  ̫ ‹⸝⸝ᐢ₎ฅ˒˒都在认真生活哦～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717080511435153408",
+        "conversation_id": "2053052810821066991",
+        "created_at": "2026-05-13T12:57:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T13:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054546535333937287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054546535333937287",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053052810821066991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 原来都好好活着呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042559105353842688/Hs-yW50g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4088,
+          "following_count": 6063,
+          "like_count": 13945,
+          "listed_count": 10,
+          "media_count": 267,
+          "tweet_count": 3113
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-25T07:28:02.000Z",
+        "description": "不要骂人",
+        "id": "1717080511435153408",
+        "name": "江郎才尽",
+        "pinned_tweet_id": "1912790342580985913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825245469339254784/t_F0Pziy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 164,
+          "like_count": 227,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 807
+        },
+        "username": "Your1828",
+        "verified": false
+      }
+    ]
+  }
+}

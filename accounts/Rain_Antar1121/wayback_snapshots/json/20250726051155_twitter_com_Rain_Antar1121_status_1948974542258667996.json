@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1948788056489603519",
+    "created_at": "2025-07-26T05:11:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T06:11:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948974542258667996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        },
+        {
+          "end": 22,
+          "id": "1869440990970556416",
+          "start": 6,
+          "username": "SnowfairySerina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948974542258667996",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948791289358811319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok @SnowfairySerina 探头）‘- ̗̀ ෆ( ˶'ᵕ'˶)ෆ ̖́- 喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1948788056489603519",
+        "created_at": "2025-07-26T05:11:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T06:11:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948974542258667996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 22,
+              "id": "1869440990970556416",
+              "start": 6,
+              "username": "SnowfairySerina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948974542258667996",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948791289358811319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok @SnowfairySerina 探头）‘- ̗̀ ෆ( ˶'ᵕ'˶)ෆ ̖́- 喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Global conversation about threats of terrorism, response of governments, and national security  ",
+              "id": "847543836330958848",
+              "name": "Global security & terrorism"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "1948788056489603519",
+        "created_at": "2025-07-25T17:03:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T18:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948791289358811319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1869440990970556416",
+              "start": 0,
+              "username": "SnowfairySerina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948791289358811319",
+        "in_reply_to_user_id": "1869440990970556416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "星空合众国理念：以自由、开放、包容、团结为核心，象征深空四角星旗，追求星际探索、铁路诗意、猫咪福利，反对歧视与不公。\n\n关键职位分配：\n折筱orisam - orisam123 - 总统\nなな - mitsuki87613 - 外交部长\n星澜Lily - Stjarnskadare_L - 文化部长\n川和工团安卡 - aim20371231 - 国防部长\n住在星期八的柏树7.0 - Cypress_7593 - 交通部长\n池鱼鱼 - Chiyuyu520 - 福利部长\n清水砂糖 - liuchen10032 - 教育部长\nRain Antares - Rain_Antar1121 - 环境部长\n立栀 - Xinyi_ADHD - 卫生部长\n源/CathyForMosa - CathayFormosa - 科技部长"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 466,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948791031379755174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnowfairySerina 星空合众国理念：以自由、开放、包容、团结为核心，象征深空四角星旗，追求星际探索、铁路诗意、猫咪福利，反对歧视与不公。\n\n关键职位分配：\n折筱orisam - orisam123 - 总统\nなな - mitsuki87613 - 外交部长\n星澜Lily - Stjarnskadare_L - 文化部长\n川和工团安卡 - aim20371231 - 国防部长"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1879,
+          "following_count": 2756,
+          "like_count": 4785,
+          "listed_count": 3,
+          "media_count": 63,
+          "tweet_count": 783
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5487381,
+          "following_count": 3,
+          "like_count": 73,
+          "listed_count": 4474,
+          "media_count": 2400201,
+          "tweet_count": 25761559
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-18T17:54:48.000Z",
+        "description": "福冈在住/铁路吟游诗人/mtf//我是一颗星，4亿岁了/象征自由开放包容团结的深空四角星旗必将走向世界///\n我的柚柚猫咪是最可爱的，我永远爱大猫咪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yaokuanguniver…",
+                "end": 23,
+                "expanded_url": "https://t.me/yaokuanguniverse",
+                "start": 0,
+                "url": "https://t.co/C5JIQAhDNj"
+              }
+            ]
+          }
+        },
+        "id": "1869440990970556416",
+        "location": "星空文明摄平星系云屏市北云区星辰官邸",
+        "name": "🌈⛩️雪原剑仙🏳️‍⚧️✨（星空驻地观察员）",
+        "pinned_tweet_id": "1948933156922401277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936323099076460544/Q47kACZn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 597,
+          "like_count": 1571,
+          "listed_count": 2,
+          "media_count": 266,
+          "tweet_count": 1945
+        },
+        "url": "https://t.co/C5JIQAhDNj",
+        "username": "SnowfairySerina",
+        "verified": false
+      }
+    ]
+  }
+}

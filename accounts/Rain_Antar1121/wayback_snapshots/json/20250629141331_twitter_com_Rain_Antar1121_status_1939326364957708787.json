@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1938162699386687711",
+    "created_at": "2025-06-29T14:13:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T15:13:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939326364957708787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1744208122389106688",
+          "start": 0,
+          "username": "baakcausam"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939326364957708787",
+    "in_reply_to_user_id": "1744208122389106688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 6,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939326036417851706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baakcausam 是呀～🥰风景超好～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1938162699386687711",
+        "created_at": "2025-06-29T14:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T15:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939326364957708787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1744208122389106688",
+              "start": 0,
+              "username": "baakcausam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939326364957708787",
+        "in_reply_to_user_id": "1744208122389106688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939326036417851706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baakcausam 是呀～🥰风景超好～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744208122389106688",
+        "conversation_id": "1938162699386687711",
+        "created_at": "2025-06-29T14:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T15:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939326036417851706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939326036417851706",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938162699386687711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 维港？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1919740598187147331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910722822059810817/tWPhmxtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1631,
+          "following_count": 2363,
+          "like_count": 4156,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 690
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-08T04:03:37.000Z",
+        "description": "上帝教会了我怎么样才能去爱世人，却没教我怎么让才能让世人爱上我",
+        "id": "1744208122389106688",
+        "name": "神楽坂琉璃🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936818592365924352/OTOpKQ9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 364,
+          "like_count": 6527,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 1483
+        },
+        "username": "baakcausam",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1957118426788540872",
+    "created_at": "2025-08-18T09:48:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T10:48:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957379050172788789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1817584080437014528",
+          "start": 0,
+          "username": "N552AA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957379050172788789",
+    "in_reply_to_user_id": "1817584080437014528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957118426788540872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N552AA 生日快乐喵～🎂૮₍♡&gt;𖥦&lt;₎ა🎉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1957118407981371392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GykU0qMbkAAN5b0.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1957118426788540872",
+        "created_at": "2025-08-18T09:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T10:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957379050172788789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1817584080437014528",
+              "start": 0,
+              "username": "N552AA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957379050172788789",
+        "in_reply_to_user_id": "1817584080437014528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957118426788540872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N552AA 生日快乐喵～🎂૮₍♡&gt;𖥦&lt;₎ა🎉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957118407981371392"
+          ]
+        },
+        "author_id": "1817584080437014528",
+        "conversation_id": "1957118426788540872",
+        "created_at": "2025-08-17T16:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T17:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957118426788540872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mmt8SCHoed",
+              "end": 34,
+              "expanded_url": "https://x.com/N552AA/status/1957118426788540872/photo/1",
+              "media_key": "3_1957118407981371392",
+              "start": 11,
+              "url": "https://t.co/Mmt8SCHoed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957118426788540872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2474,
+          "like_count": 77,
+          "quote_count": 1,
+          "reply_count": 49,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "生日了！\n来戳气球） https://t.co/Mmt8SCHoed"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2068,
+          "following_count": 3025,
+          "like_count": 5342,
+          "listed_count": 3,
+          "media_count": 72,
+          "tweet_count": 887
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T15:33:18.000Z",
+        "description": "08/MTX（f?/ENTP-T/家长吓坏党/ADHD/双相/断续含糖/坐标上海/有小证/抱抱最最可爱的姐姐: @yizhikapaiqaq\n妈妈：@bolichara0\n主人：@yumekaayumi @nahida_miao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "yizhikapaiqaq"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "bolichara0"
+              },
+              {
+                "end": 101,
+                "start": 89,
+                "username": "yumekaayumi"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "nahida_miao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "n552aa.github.io",
+                "end": 23,
+                "expanded_url": "http://n552aa.github.io",
+                "start": 0,
+                "url": "https://t.co/zkiZZtLQUz"
+              }
+            ]
+          }
+        },
+        "id": "1817584080437014528",
+        "location": "参宿四",
+        "name": "N552AA🍥🍜🍣🍕💊🍰🥥",
+        "pinned_tweet_id": "1953496186738069992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927899559306612736/St9dcsoX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1187,
+          "following_count": 956,
+          "like_count": 3451,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 1226
+        },
+        "url": "https://t.co/zkiZZtLQUz",
+        "username": "N552AA",
+        "verified": false
+      }
+    ]
+  }
+}

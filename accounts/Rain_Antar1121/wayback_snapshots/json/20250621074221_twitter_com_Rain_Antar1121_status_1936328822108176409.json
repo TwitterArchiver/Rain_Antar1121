@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1936142677256581491",
+    "created_at": "2025-06-21T07:42:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T08:42:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936328822108176409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1834773562592575488",
+          "start": 0,
+          "username": "715zhgunmu8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936328822108176409",
+    "in_reply_to_user_id": "1834773562592575488",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936214690977530310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@715zhgunmu8964 ૮ ´͈ ᗜ `͈ ა♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1936142677256581491",
+        "created_at": "2025-06-21T07:42:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T08:42:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936328822108176409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1834773562592575488",
+              "start": 0,
+              "username": "715zhgunmu8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936328822108176409",
+        "in_reply_to_user_id": "1834773562592575488",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936214690977530310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@715zhgunmu8964 ૮ ´͈ ᗜ `͈ ა♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834773562592575488",
+        "conversation_id": "1936142677256581491",
+        "created_at": "2025-06-21T00:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T01:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936214690977530310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936214690977530310",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936142677256581491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 欢迎哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1919740598187147331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910722822059810817/tWPhmxtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1465,
+          "following_count": 2178,
+          "like_count": 3712,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 601
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-14T01:58:59.000Z",
+        "description": "cmg看你母呢我是女的\n对了正宗穆斯林\n和豌豆周虞一样\n老子爱发啥发啥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/artworks/12352…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/artworks/123520709",
+                "start": 0,
+                "url": "https://t.co/YeHU9zuSMa"
+              }
+            ]
+          }
+        },
+        "id": "1834773562592575488",
+        "location": "熊耳岛",
+        "name": "暴论p-溶解张献忠（砂光所有支女）",
+        "pinned_tweet_id": "1908501237537865793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919692132044177410/j80e0ycj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 43,
+          "like_count": 3746,
+          "listed_count": 1,
+          "media_count": 334,
+          "tweet_count": 5278
+        },
+        "url": "https://t.co/YeHU9zuSMa",
+        "username": "715zhgunmu8964",
+        "verified": false
+      }
+    ]
+  }
+}

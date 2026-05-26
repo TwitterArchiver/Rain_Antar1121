@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1945568896389714035",
+    "created_at": "2025-07-16T20:04:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T21:04:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945575409296576898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1929681554802167808",
+          "start": 0,
+          "username": "xiaoyan_in"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945575409296576898",
+    "in_reply_to_user_id": "1929681554802167808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945568896389714035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyan_in 不要啊不要啊不要啊醒来看见这个我要当场哭出来了为什么每个人都在坠落为什么连你也会踏出这一步才不要啊不是说三好跨的吗，你明明是最幸运最三好的那只啊\n求求，尽量，把更多的精力放在解决问题根源上而不是饮鸩止渴吧…希望咱打这点字真能有点用，不要让咱对每个人都陷入绝望啊…抱住抱住抱紧紧呜呜"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1945568896389714035].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1945568896389714035",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1945568896389714035"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1945568896389714035",
+        "created_at": "2025-07-16T20:04:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T21:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945575409296576898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1929681554802167808",
+              "start": 0,
+              "username": "xiaoyan_in"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945575409296576898",
+        "in_reply_to_user_id": "1929681554802167808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945568896389714035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyan_in 不要啊不要啊不要啊醒来看见这个我要当场哭出来了为什么每个人都在坠落为什么连你也会踏出这一步才不要啊不是说三好跨的吗，你明明是最幸运最三好的那只啊\n求求，尽量，把更多的精力放在解决问题根源上而不是饮鸩止渴吧…希望咱打这点字真能有点用，不要让咱对每个人都陷入绝望啊…抱住抱住抱紧紧呜呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1919740598187147331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1804,
+          "following_count": 2642,
+          "like_count": 4625,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 766
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T23:28:42.000Z",
+        "description": "@yanmin1105 的里推（负能，犯病的时候上）丨负能发疯请注意丨很抱歉给大家带来负面情绪",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "yanmin1105"
+              }
+            ]
+          }
+        },
+        "id": "1929681554802167808",
+        "name": "小嫣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929681657193492481/1buy-YJ8_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 13,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 23
+        },
+        "username": "xiaoyan_in",
+        "verified": false
+      }
+    ]
+  }
+}

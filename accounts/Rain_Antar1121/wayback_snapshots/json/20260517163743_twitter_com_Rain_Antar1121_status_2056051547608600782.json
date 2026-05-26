@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2055951667066273905",
+    "created_at": "2026-05-17T16:37:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T17:37:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056051547608600782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1893495201978818561",
+          "start": 0,
+          "username": "hai74025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056051547608600782",
+    "in_reply_to_user_id": "1893495201978818561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056047729567277215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hai74025 喵呜…也没学过啦…🥺只是随手拍的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2055951667066273905",
+        "created_at": "2026-05-17T16:37:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T17:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056051547608600782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1893495201978818561",
+              "start": 0,
+              "username": "hai74025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056051547608600782",
+        "in_reply_to_user_id": "1893495201978818561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056047729567277215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hai74025 喵呜…也没学过啦…🥺只是随手拍的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893495201978818561",
+        "conversation_id": "2055951667066273905",
+        "created_at": "2026-05-17T16:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T17:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056047729567277215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056047729567277215",
+        "in_reply_to_user_id": "1893495201978818561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056047665851547787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 羡慕拍照技术，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042559105353842688/Hs-yW50g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4158,
+          "following_count": 6123,
+          "like_count": 14234,
+          "listed_count": 10,
+          "media_count": 278,
+          "tweet_count": 3257
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-23T02:57:05.000Z",
+        "description": "不太可爱的小药娘呢～",
+        "id": "1893495201978818561",
+        "name": "hai！🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052661271200411648/zRe-KwXw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 33,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 124
+        },
+        "username": "hai74025",
+        "verified": false
+      }
+    ]
+  }
+}

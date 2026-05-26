@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2055426482063949849",
+    "created_at": "2026-05-16T10:14:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T11:14:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055592599004827675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1663066129923981312",
+          "start": 0,
+          "username": "Ak1raQ_love"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055592599004827675",
+    "in_reply_to_user_id": "1663066129923981312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055426482063949849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ak1raQ_love 呜呜…也就几十遍吧）咱的通知难得这么热闹呢🥹挺开心的…作为小透明有种被注意到的幸福感了呜૮ o̴̶̷᷄ ·̫ o̴̶̷̥᷅ ა"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2055426482063949849].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2055426482063949849",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2055426482063949849"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2055426482063949849",
+        "created_at": "2026-05-16T10:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T11:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055592599004827675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055592599004827675",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055426482063949849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ak1raQ_love 呜呜…也就几十遍吧）咱的通知难得这么热闹呢🥹挺开心的…作为小透明有种被注意到的幸福感了呜૮ o̴̶̷᷄ ·̫ o̴̶̷̥᷅ ა"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042559105353842688/Hs-yW50g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4124,
+          "following_count": 6076,
+          "like_count": 14120,
+          "listed_count": 10,
+          "media_count": 271,
+          "tweet_count": 3197
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "永不言弃💫 / 爱、温情、勇气、美好 / 秋月姐姐 @qiuylove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "qiuylove"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://mikachan.dpdns.org/",
+                "start": 0,
+                "url": "https://t.co/3Yo0IgyCS7"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Utopia",
+        "name": "💫🌸𝗔𝗸𝗶𝗿𝗮𝗺𝗲𝗻𝗮𝗶🍥🍰",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050925033426669568/m2nDg9MR_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1305,
+          "following_count": 996,
+          "like_count": 187868,
+          "listed_count": 3,
+          "media_count": 793,
+          "tweet_count": 6799
+        },
+        "url": "https://t.co/3Yo0IgyCS7",
+        "username": "Ak1raQ_love",
+        "verified": false
+      }
+    ]
+  }
+}

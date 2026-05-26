@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2055916792586108928"
+      ]
+    },
+    "author_id": "1894461745277931524",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1324117227465891840",
+          "name": "Japanese imperial family"
+        }
+      }
+    ],
+    "conversation_id": "2055916873817129429",
+    "created_at": "2026-05-17T07:42:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T08:42:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055916873817129429"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LNxuAnb1Ps",
+          "end": 88,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/2055916873817129429/video/1",
+          "media_key": "13_2055916792586108928",
+          "start": 65,
+          "url": "https://t.co/LNxuAnb1Ps"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055916873817129429",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "特异旋律（？）\n\n神秘音乐…为什么我会在大理街头听到这个喵😵‍💫…这不是是皇后大道东的原词吧…听着很不熟悉啊，咱也不懂粤语呜呜🥹 https://t.co/LNxuAnb1Ps"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16100,
+        "height": 1080,
+        "media_key": "13_2055916792586108928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055916792586108928/img/_HbxPttxY8SkQuoI.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055916792586108928/vid/avc1/1920x1080/6JPB5CyohLfG8sbX.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055916792586108928/vid/avc1/480x270/-fIJ2QG7KlrGpeO_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055916792586108928/pl/bGt1KSeTdcrNpK89.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055916792586108928/vid/avc1/1280x720/fWPx229UZNRZ3fhF.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055916792586108928/vid/avc1/640x360/WnFPACdWSn4SeLsu.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055916792586108928"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324117227465891840",
+              "name": "Japanese imperial family"
+            }
+          }
+        ],
+        "conversation_id": "2055916873817129429",
+        "created_at": "2026-05-17T07:42:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T08:42:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055916873817129429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LNxuAnb1Ps",
+              "end": 88,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2055916873817129429/video/1",
+              "media_key": "13_2055916792586108928",
+              "start": 65,
+              "url": "https://t.co/LNxuAnb1Ps"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055916873817129429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "特异旋律（？）\n\n神秘音乐…为什么我会在大理街头听到这个喵😵‍💫…这不是是皇后大道东的原词吧…听着很不熟悉啊，咱也不懂粤语呜呜🥹 https://t.co/LNxuAnb1Ps"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042559105353842688/Hs-yW50g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4147,
+          "following_count": 6119,
+          "like_count": 14220,
+          "listed_count": 10,
+          "media_count": 275,
+          "tweet_count": 3236
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      }
+    ]
+  }
+}

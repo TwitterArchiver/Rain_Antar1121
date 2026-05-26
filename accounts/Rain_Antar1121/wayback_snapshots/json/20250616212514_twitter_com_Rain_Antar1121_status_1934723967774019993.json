@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "1934574231335125188",
+    "created_at": "2025-06-16T21:25:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T22:25:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934723967774019993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1929681554802167808",
+          "start": 0,
+          "username": "xiaoyan_in"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934723967774019993",
+    "in_reply_to_user_id": "1929681554802167808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934574231335125188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyan_in 不许想似喵…循环总有个最薄弱的环节，肯定有办法哒～抱，摸摸呜❤️"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1934574231335125188].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1934574231335125188",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1934574231335125188"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1934574231335125188",
+        "created_at": "2025-06-16T21:25:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T22:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934723967774019993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1929681554802167808",
+              "start": 0,
+              "username": "xiaoyan_in"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934723967774019993",
+        "in_reply_to_user_id": "1929681554802167808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934574231335125188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyan_in 不许想似喵…循环总有个最薄弱的环节，肯定有办法哒～抱，摸摸呜❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1919740598187147331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910722822059810817/tWPhmxtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1394,
+          "following_count": 2084,
+          "like_count": 3467,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 580
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T23:28:42.000Z",
+        "description": "@yanmin1105 的里推（负能，犯病的时候上）丨负能发疯请注意丨很抱歉给大家带来负面情绪",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "yanmin1105"
+              }
+            ]
+          }
+        },
+        "id": "1929681554802167808",
+        "name": "小嫣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929681657193492481/1buy-YJ8_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 8,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "username": "xiaoyan_in",
+        "verified": false
+      }
+    ]
+  }
+}

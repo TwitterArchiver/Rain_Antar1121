@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2052346517000986852",
+    "created_at": "2026-05-09T05:13:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T06:13:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052980290524708919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1734492845958983680",
+          "start": 0,
+          "username": "Ruby0125210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052980290524708919",
+    "in_reply_to_user_id": "1734492845958983680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052979501634875886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ruby0125210 哇咕～抱住耶૮ ´͈ ᗜ `͈ ა♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2052346517000986852",
+        "created_at": "2026-05-09T05:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T06:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052980290524708919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1734492845958983680",
+              "start": 0,
+              "username": "Ruby0125210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052980290524708919",
+        "in_reply_to_user_id": "1734492845958983680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052979501634875886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruby0125210 哇咕～抱住耶૮ ´͈ ᗜ `͈ ა♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1734492845958983680",
+        "conversation_id": "2052346517000986852",
+        "created_at": "2026-05-09T05:10:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T06:10:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052979501634875886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 24,
+              "id": "1239915471945838593",
+              "start": 16,
+              "username": "wtxycCO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052979501634875886",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052346517000986852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 @wtxycCO 辛苦啦~寻寻在这里哦 ฅ( ̳• ◡ • ̳)ฅ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042559105353842688/Hs-yW50g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4056,
+          "following_count": 6032,
+          "like_count": 13796,
+          "listed_count": 11,
+          "media_count": 257,
+          "tweet_count": 3012
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-12T08:38:32.000Z",
+        "description": "08年/无证不含糖🍥/渴望变成女孩子/intp/什么也不懂的ばか/同位体：@Sapphire0125210/欢迎同类互fo/关注啦就不要取消啦/🚪50加好友/不线下/希望被大家喜欢/希望被投喂（会掉落特殊素材哦）  不要上来就给咱发你那牛子照！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 37,
+                "username": "Sapphire0125210"
+              }
+            ]
+          }
+        },
+        "id": "1734492845958983680",
+        "location": "Backrooms",
+        "name": "Ruby",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849073045052223488/aWZq_Mqu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 505,
+          "like_count": 3851,
+          "listed_count": 1,
+          "media_count": 115,
+          "tweet_count": 814
+        },
+        "username": "Ruby0125210",
+        "verified": false
+      }
+    ]
+  }
+}
