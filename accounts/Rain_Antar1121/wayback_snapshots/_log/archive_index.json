@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-05-26T16:57:59",
+  "last_updated": "2026-05-26T17:06:13",
   "html": {
     "https://web.archive.org/web/20250315075756if_/https://twitter.com/Rain_Antar1121/status/1900818736250036349": {
       "status": "done",
@@ -25648,16 +25648,16 @@
       "referenced_by": [
         "20250408004002_twitter_com_Rain_Antar1121_status_1909405841301918143.json"
       ],
-      "last_updated": "2026-05-26T16:13:32",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250408004002/https://video.twimg.com/ext_tw_video/1909402746920615936/pu/vid/avc1/720x720/N8jifNvGC0lf5naB.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f52a8c62f90>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T16:58:46",
+      "last_reason": "ReadTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Read timed out. (read timeout=12)",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/GoJxaN_bsAA4AUi.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20250410082435_twitter_com_Rain_Antar1121_status_1910247527678693406.json"
       ],
-      "last_updated": "2026-05-26T16:13:33",
+      "last_updated": "2026-05-26T16:58:56",
       "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250410082435/https://video.twimg.com/tweet_video/GoJxaN_bsAA4AUi.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f52a8c2c170>: Failed to establish a new connection: [Errno 111] Connection refused'))",
       "miss_count": 3
     },
@@ -25666,81 +25666,81 @@
       "referenced_by": [
         "20250415140722_twitter_com_Rain_Antar1121_status_1912145728518148215.json"
       ],
-      "last_updated": "2026-05-26T16:13:33",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250415140722/https://video.twimg.com/tweet_video/GokxsBmWwAAqBMq.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f52a8c2d790>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T16:59:02",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250415140722/https://video.twimg.com/tweet_video/GokxsBmWwAAqBMq.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4c53d2c140>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/GonhtkWW0AA_B_b.mp4": {
       "status": "failed",
       "referenced_by": [
         "20250416041047_twitter_com_Rain_Antar1121_status_1912357983713214751.json"
       ],
-      "last_updated": "2026-05-26T16:13:33",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250416041047/https://video.twimg.com/tweet_video/GonhtkWW0AA_B_b.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f52a8c2da00>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T16:59:12",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250416041047/https://video.twimg.com/tweet_video/GonhtkWW0AA_B_b.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4c53e0b350>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1913529111303290880/vid/avc1/592x1280/XBre-OZCarhbduqR.mp4?tag=14": {
       "status": "failed",
       "referenced_by": [
         "20250419095314_twitter_com_Rain_Antar1121_status_1913531327015719379.json"
       ],
-      "last_updated": "2026-05-26T16:13:34",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250419095314/https://video.twimg.com/amplify_video/1913529111303290880/vid/avc1/592x1280/XBre-OZCarhbduqR.mp4?tag=14 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f52a8c2ea20>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T16:59:21",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250419095314/https://video.twimg.com/amplify_video/1913529111303290880/vid/avc1/592x1280/XBre-OZCarhbduqR.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4c53694d70>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/GpqWVLra8AA-e_I.mp4": {
       "status": "failed",
       "referenced_by": [
         "20250429045538_twitter_com_Rain_Antar1121_status_1917080311663628367.json"
       ],
-      "last_updated": "2026-05-26T16:13:34",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250429045538/https://video.twimg.com/tweet_video/GpqWVLra8AA-e_I.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f52a8c63650>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T16:59:30",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250429045538/https://video.twimg.com/tweet_video/GpqWVLra8AA-e_I.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4c53e09f70>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1917739434294009856/pu/vid/avc1/720x720/Chiw4zwkjOG4WZkD.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20250501005213_twitter_com_Rain_Antar1121_status_1917743828758573514.json"
       ],
-      "last_updated": "2026-05-26T16:13:34",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250501005213/https://video.twimg.com/ext_tw_video/1917739434294009856/pu/vid/avc1/720x720/Chiw4zwkjOG4WZkD.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f52a8c2c1d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T16:59:39",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250501005213/https://video.twimg.com/ext_tw_video/1917739434294009856/pu/vid/avc1/720x720/Chiw4zwkjOG4WZkD.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4c53d2d8e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1924039607668117504/pu/vid/avc1/720x1280/OqfIu3-xz7TrIwh5.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20250518095030_twitter_com_Rain_Antar1121_status_1924039888225341695.json"
       ],
-      "last_updated": "2026-05-26T16:13:35",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250518095030/https://video.twimg.com/ext_tw_video/1924039607668117504/pu/vid/avc1/720x1280/OqfIu3-xz7TrIwh5.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f52a8c2c8f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T16:59:48",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250518095030/https://video.twimg.com/ext_tw_video/1924039607668117504/pu/vid/avc1/720x1280/OqfIu3-xz7TrIwh5.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4c53e0bc20>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1924039691222851584/pu/vid/avc1/1280x720/PBHDPrnOXWPBgDmF.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20250518095030_twitter_com_Rain_Antar1121_status_1924039888225341695.json"
       ],
-      "last_updated": "2026-05-26T16:13:36",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250518095030/https://video.twimg.com/ext_tw_video/1924039691222851584/pu/vid/avc1/1280x720/PBHDPrnOXWPBgDmF.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f52a8c614f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T16:59:58",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250518095030/https://video.twimg.com/ext_tw_video/1924039691222851584/pu/vid/avc1/1280x720/PBHDPrnOXWPBgDmF.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4c53d2d100>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1924039736215150592/pu/vid/avc1/720x1280/GZ1ve0f_e9iFqINj.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20250518095030_twitter_com_Rain_Antar1121_status_1924039888225341695.json"
       ],
-      "last_updated": "2026-05-26T16:13:36",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250518095030/https://video.twimg.com/ext_tw_video/1924039736215150592/pu/vid/avc1/720x1280/GZ1ve0f_e9iFqINj.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f52a8c69eb0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T17:00:07",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250518095030/https://video.twimg.com/ext_tw_video/1924039736215150592/pu/vid/avc1/720x1280/GZ1ve0f_e9iFqINj.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4c53e08ce0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1924039774349807616/pu/vid/avc1/1280x720/CG0Giqajt8vjMOzd.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20250518095030_twitter_com_Rain_Antar1121_status_1924039888225341695.json"
       ],
-      "last_updated": "2026-05-26T16:13:37",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250518095030/https://video.twimg.com/ext_tw_video/1924039774349807616/pu/vid/avc1/1280x720/CG0Giqajt8vjMOzd.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f52a8c2ca70>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T17:00:16",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250518095030/https://video.twimg.com/ext_tw_video/1924039774349807616/pu/vid/avc1/1280x720/CG0Giqajt8vjMOzd.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4c53694440>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/GrUU51ubQAAh_TM.mp4": {
       "status": "failed",
@@ -25748,18 +25748,18 @@
         "20250519163510_twitter_com_Rain_Antar1121_status_1924504112395350278.json",
         "20250519163649_twitter_com_Rain_Antar1121_status_1924504526020903070.json"
       ],
-      "last_updated": "2026-05-26T16:13:40",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250519163510/https://video.twimg.com/tweet_video/GrUU51ubQAAh_TM.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f52a8c2d610>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 5
+      "last_updated": "2026-05-26T17:00:25",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250519163510/https://video.twimg.com/tweet_video/GrUU51ubQAAh_TM.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4c53e080e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://video.twimg.com/tweet_video/GsGnWhfaUAEpeRT.mp4": {
       "status": "failed",
       "referenced_by": [
         "20250529093452_twitter_com_Rain_Antar1121_status_1928022218895745363.json"
       ],
-      "last_updated": "2026-05-26T16:13:40",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250529093452/https://video.twimg.com/tweet_video/GsGnWhfaUAEpeRT.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f52a8c2f350>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T17:00:34",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250529093452/https://video.twimg.com/tweet_video/GsGnWhfaUAEpeRT.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4c53e08c20>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1929268805794226176/pu/vid/avc1/576x1280/QaDldV7L89XhYrq4.mp4?tag=12": {
       "status": "failed",
@@ -25767,9 +25767,9 @@
         "20250601202539_twitter_com_Rain_Antar1121_status_1929273158114386044.json",
         "20250601203016_twitter_com_Rain_Antar1121_status_1929274320003735822.json"
       ],
-      "last_updated": "2026-05-26T16:13:40",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250601202539/https://video.twimg.com/ext_tw_video/1929268805794226176/pu/vid/avc1/576x1280/QaDldV7L89XhYrq4.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f52a8c2df10>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-05-26T17:00:43",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250601202539/https://video.twimg.com/ext_tw_video/1929268805794226176/pu/vid/avc1/576x1280/QaDldV7L89XhYrq4.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4c54322e40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://video.twimg.com/ext_tw_video/1930359787054870529/pu/vid/avc1/720x1280/-qDdkKbs8MIFxE9C.mp4?tag=12": {
       "status": "failed",
@@ -25777,180 +25777,180 @@
         "20250604234755_twitter_com_Rain_Antar1121_status_1930411224979911065.json",
         "20250604234821_twitter_com_Rain_Antar1121_status_1930411332576391336.json"
       ],
-      "last_updated": "2026-05-26T16:13:44",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250604234755/https://video.twimg.com/ext_tw_video/1930359787054870529/pu/vid/avc1/720x1280/-qDdkKbs8MIFxE9C.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f52a8c62960>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 5
+      "last_updated": "2026-05-26T17:00:52",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250604234755/https://video.twimg.com/ext_tw_video/1930359787054870529/pu/vid/avc1/720x1280/-qDdkKbs8MIFxE9C.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4c53e0b230>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://video.twimg.com/tweet_video/Gs2tzANaoAAcjOQ.mp4": {
       "status": "failed",
       "referenced_by": [
         "20250608092939_twitter_com_Rain_Antar1121_status_1931644785770848387.json"
       ],
-      "last_updated": "2026-05-26T16:13:44",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250608092939/https://video.twimg.com/tweet_video/Gs2tzANaoAAcjOQ.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f52a8c2df40>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T17:01:00",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250608092939/https://video.twimg.com/tweet_video/Gs2tzANaoAAcjOQ.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4c53d2c830>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/GtC-cvGakAAPRtu.mp4": {
       "status": "failed",
       "referenced_by": [
         "20250610041246_twitter_com_Rain_Antar1121_status_1932289814554153404.json"
       ],
-      "last_updated": "2026-05-26T16:13:44",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250610041246/https://video.twimg.com/tweet_video/GtC-cvGakAAPRtu.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f52a8c2f050>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T17:01:07",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250610041246/https://video.twimg.com/tweet_video/GtC-cvGakAAPRtu.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4c53e08c20>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1937208897884028930/pu/vid/avc1/720x1280/pUp5tGLTcZDDERvV.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20250624105444_twitter_com_Rain_Antar1121_status_1937464402250465343.json"
       ],
-      "last_updated": "2026-05-26T16:13:44",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250624105444/https://video.twimg.com/ext_tw_video/1937208897884028930/pu/vid/avc1/720x1280/pUp5tGLTcZDDERvV.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f52a8c2f980>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T17:01:16",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250624105444/https://video.twimg.com/ext_tw_video/1937208897884028930/pu/vid/avc1/720x1280/pUp5tGLTcZDDERvV.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4c53d2cbc0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1939700352804397056/pu/vid/avc1/720x1280/4VB4Gm2jL0G06_bs.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20250630145944_twitter_com_Rain_Antar1121_status_1939700386832826418.json"
       ],
-      "last_updated": "2026-05-26T16:13:45",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250630145944/https://video.twimg.com/ext_tw_video/1939700352804397056/pu/vid/avc1/720x1280/4VB4Gm2jL0G06_bs.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f52a8c63770>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T17:01:25",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250630145944/https://video.twimg.com/ext_tw_video/1939700352804397056/pu/vid/avc1/720x1280/4VB4Gm2jL0G06_bs.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4c53697140>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/2002687243388174336/pu/vid/avc1/1920x1080/gm6JKl11GUdAY7WM.mp4": {
       "status": "failed",
       "referenced_by": [
         "20251221112503_twitter_com_Rain_Antar1121_status_2002701848751546586.json"
       ],
-      "last_updated": "2026-05-26T16:13:45",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251221112503/https://video.twimg.com/ext_tw_video/2002687243388174336/pu/vid/avc1/1920x1080/gm6JKl11GUdAY7WM.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f52a8c692b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T17:01:34",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251221112503/https://video.twimg.com/ext_tw_video/2002687243388174336/pu/vid/avc1/1920x1080/gm6JKl11GUdAY7WM.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4c53e0a780>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/2006735345564475392/pu/vid/avc1/1280x720/xwzFXOmM63kwF6S4.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260102044941_twitter_com_Rain_Antar1121_status_2006951006467404187.json"
       ],
-      "last_updated": "2026-05-26T16:13:45",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260102044941/https://video.twimg.com/ext_tw_video/2006735345564475392/pu/vid/avc1/1280x720/xwzFXOmM63kwF6S4.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f52a8c2e090>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T17:01:44",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260102044941/https://video.twimg.com/ext_tw_video/2006735345564475392/pu/vid/avc1/1280x720/xwzFXOmM63kwF6S4.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4c53d2f470>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2023428468659372032/vid/avc1/906x1510/f5r-3bH78cTQQ7SM.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260216160533_twitter_com_Rain_Antar1121_status_2023428544995733876.json"
       ],
-      "last_updated": "2026-05-26T16:13:45",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260216160533/https://video.twimg.com/amplify_video/2023428468659372032/vid/avc1/906x1510/f5r-3bH78cTQQ7SM.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f52a8c2f7d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T17:01:53",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260216160533/https://video.twimg.com/amplify_video/2023428468659372032/vid/avc1/906x1510/f5r-3bH78cTQQ7SM.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4c53e09340>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2023427273010053120/vid/avc1/1080x1920/L1lzEMBzcTs6RUf8.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260216160533_twitter_com_Rain_Antar1121_status_2023428544995733876.json"
       ],
-      "last_updated": "2026-05-26T16:13:46",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260216160533/https://video.twimg.com/amplify_video/2023427273010053120/vid/avc1/1080x1920/L1lzEMBzcTs6RUf8.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f52a8c68470>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T17:02:02",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260216160533/https://video.twimg.com/amplify_video/2023427273010053120/vid/avc1/1080x1920/L1lzEMBzcTs6RUf8.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4c53d2d5b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/2024715994237923328/pu/vid/avc1/582x1278/m9i992bB0pnVOe07.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20260220060027_twitter_com_Rain_Antar1121_status_2024725819495764412.json"
       ],
-      "last_updated": "2026-05-26T16:13:46",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260220060027/https://video.twimg.com/ext_tw_video/2024715994237923328/pu/vid/avc1/582x1278/m9i992bB0pnVOe07.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f52a910a9f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T17:02:11",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260220060027/https://video.twimg.com/ext_tw_video/2024715994237923328/pu/vid/avc1/582x1278/m9i992bB0pnVOe07.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4c53d2df40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/HBzwOyha8AANMRg.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260223040756_twitter_com_Rain_Antar1121_status_2025784665077109171.json"
       ],
-      "last_updated": "2026-05-26T16:13:46",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260223040756/https://video.twimg.com/tweet_video/HBzwOyha8AANMRg.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f52a8c69940>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T17:02:20",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260223040756/https://video.twimg.com/tweet_video/HBzwOyha8AANMRg.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4c53e09640>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2027243747759792128/vid/avc1/1920x1080/c0RpM1tY4_XKDrq-.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260227044606_twitter_com_Rain_Antar1121_status_2027243821470544348.json"
       ],
-      "last_updated": "2026-05-26T16:13:46",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260227044606/https://video.twimg.com/amplify_video/2027243747759792128/vid/avc1/1920x1080/c0RpM1tY4_XKDrq-.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f52a8c63770>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T17:02:29",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260227044606/https://video.twimg.com/amplify_video/2027243747759792128/vid/avc1/1920x1080/c0RpM1tY4_XKDrq-.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4c53e0bef0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2027359147071868928/vid/avc1/1080x1920/W0I3akoEFaxvW9Qu.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260227122441_twitter_com_Rain_Antar1121_status_2027359228621725821.json"
       ],
-      "last_updated": "2026-05-26T16:13:47",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260227122441/https://video.twimg.com/amplify_video/2027359147071868928/vid/avc1/1080x1920/W0I3akoEFaxvW9Qu.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f52a8c2cfe0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T17:02:38",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260227122441/https://video.twimg.com/amplify_video/2027359147071868928/vid/avc1/1080x1920/W0I3akoEFaxvW9Qu.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4c53697890>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2027359147071795200/vid/avc1/1080x1920/OfN3ckeP0bTy6UQB.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260227122441_twitter_com_Rain_Antar1121_status_2027359228621725821.json"
       ],
-      "last_updated": "2026-05-26T16:13:47",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260227122441/https://video.twimg.com/amplify_video/2027359147071795200/vid/avc1/1080x1920/OfN3ckeP0bTy6UQB.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f52a8c6a7e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T17:02:47",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260227122441/https://video.twimg.com/amplify_video/2027359147071795200/vid/avc1/1080x1920/OfN3ckeP0bTy6UQB.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4c53d688f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/HCe9eNGbsAAchHE.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260303115210_twitter_com_Rain_Antar1121_status_2028800596321739048.json"
       ],
-      "last_updated": "2026-05-26T16:13:47",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260303115210/https://video.twimg.com/tweet_video/HCe9eNGbsAAchHE.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f52a8c2d580>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T17:02:56",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260303115210/https://video.twimg.com/tweet_video/HCe9eNGbsAAchHE.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4c53d2eed0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/HCpcIj9agAARSfj.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260305133356_twitter_com_Rain_Antar1121_status_2029550985937551405.json"
       ],
-      "last_updated": "2026-05-26T16:13:47",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260305133356/https://video.twimg.com/tweet_video/HCpcIj9agAARSfj.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f52a8c2fe30>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T17:03:03",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260305133356/https://video.twimg.com/tweet_video/HCpcIj9agAARSfj.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4c53e0ae40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/2030926033822879744/pu/vid/avc1/720x1280/qZkFDAVciocR108x.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20260309095217_twitter_com_Rain_Antar1121_status_2030944755040006616.json"
       ],
-      "last_updated": "2026-05-26T16:13:48",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260309095217/https://video.twimg.com/ext_tw_video/2030926033822879744/pu/vid/avc1/720x1280/qZkFDAVciocR108x.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f52a8c62f60>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T17:03:12",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260309095217/https://video.twimg.com/ext_tw_video/2030926033822879744/pu/vid/avc1/720x1280/qZkFDAVciocR108x.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4c536962a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2030961861936689152/vid/avc1/1080x1920/qveT8XW1LKfRtTFr.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260309110032_twitter_com_Rain_Antar1121_status_2030961929171435529.json"
       ],
-      "last_updated": "2026-05-26T16:13:48",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260309110032/https://video.twimg.com/amplify_video/2030961861936689152/vid/avc1/1080x1920/qveT8XW1LKfRtTFr.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f52a8c2f320>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T17:03:21",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260309110032/https://video.twimg.com/amplify_video/2030961861936689152/vid/avc1/1080x1920/qveT8XW1LKfRtTFr.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4c53e09d30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2030961861911547904/vid/avc1/1920x1080/EFrcZOjgiryYiTj9.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260309110032_twitter_com_Rain_Antar1121_status_2030961929171435529.json"
       ],
-      "last_updated": "2026-05-26T16:13:48",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260309110032/https://video.twimg.com/amplify_video/2030961861911547904/vid/avc1/1920x1080/EFrcZOjgiryYiTj9.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f52a8c6a240>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T17:03:28",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260309110032/https://video.twimg.com/amplify_video/2030961861911547904/vid/avc1/1920x1080/EFrcZOjgiryYiTj9.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4c53d698e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2031000843835920384/vid/avc1/1920x1080/ykKIxsXtaoHLRMq6.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260309133527_twitter_com_Rain_Antar1121_status_2031000916095344708.json"
       ],
-      "last_updated": "2026-05-26T16:13:48",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260309133527/https://video.twimg.com/amplify_video/2031000843835920384/vid/avc1/1920x1080/ykKIxsXtaoHLRMq6.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f52a8c6b920>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T17:03:37",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260309133527/https://video.twimg.com/amplify_video/2031000843835920384/vid/avc1/1920x1080/ykKIxsXtaoHLRMq6.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4c53e0ba40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2031351584903540738/vid/avc1/1080x1920/aeSGX6MgnHYdnpNQ.mp4": {
       "status": "failed",
@@ -25958,9 +25958,9 @@
         "20260310124912_twitter_com_Rain_Antar1121_status_2031351666856140925.json",
         "20260310124929_twitter_com_Rain_Antar1121_status_2031351736242417758.json"
       ],
-      "last_updated": "2026-05-26T16:13:49",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310124912/https://video.twimg.com/amplify_video/2031351584903540738/vid/avc1/1080x1920/aeSGX6MgnHYdnpNQ.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f52a8c2fef0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-05-26T17:03:46",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310124912/https://video.twimg.com/amplify_video/2031351584903540738/vid/avc1/1080x1920/aeSGX6MgnHYdnpNQ.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4c53d688c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://video.twimg.com/amplify_video/2031351584932995072/vid/avc1/1080x1920/7B8__NKzXIeyDjK2.mp4": {
       "status": "failed",
@@ -25968,9 +25968,9 @@
         "20260310124912_twitter_com_Rain_Antar1121_status_2031351666856140925.json",
         "20260310124929_twitter_com_Rain_Antar1121_status_2031351736242417758.json"
       ],
-      "last_updated": "2026-05-26T16:13:49",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310124912/https://video.twimg.com/amplify_video/2031351584932995072/vid/avc1/1080x1920/7B8__NKzXIeyDjK2.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f52a8c62210>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-05-26T17:03:56",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310124912/https://video.twimg.com/amplify_video/2031351584932995072/vid/avc1/1080x1920/7B8__NKzXIeyDjK2.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4c536976e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://video.twimg.com/amplify_video/2031351584924610560/vid/avc1/1080x1920/AMzEz0jirJWoA3_Y.mp4": {
       "status": "failed",
@@ -25978,9 +25978,9 @@
         "20260310124912_twitter_com_Rain_Antar1121_status_2031351666856140925.json",
         "20260310124929_twitter_com_Rain_Antar1121_status_2031351736242417758.json"
       ],
-      "last_updated": "2026-05-26T16:13:49",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310124912/https://video.twimg.com/amplify_video/2031351584924610560/vid/avc1/1080x1920/AMzEz0jirJWoA3_Y.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f52a8c2c0b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-05-26T17:04:05",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310124912/https://video.twimg.com/amplify_video/2031351584924610560/vid/avc1/1080x1920/AMzEz0jirJWoA3_Y.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4c54323290>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://video.twimg.com/amplify_video/2031351584924512263/vid/avc1/1080x1920/Y4LF_5tvbQSZY6qn.mp4": {
       "status": "failed",
@@ -25988,45 +25988,45 @@
         "20260310124912_twitter_com_Rain_Antar1121_status_2031351666856140925.json",
         "20260310124929_twitter_com_Rain_Antar1121_status_2031351736242417758.json"
       ],
-      "last_updated": "2026-05-26T16:13:50",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310124912/https://video.twimg.com/amplify_video/2031351584924512263/vid/avc1/1080x1920/Y4LF_5tvbQSZY6qn.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f52a8c2c860>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-05-26T17:04:14",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310124912/https://video.twimg.com/amplify_video/2031351584924512263/vid/avc1/1080x1920/Y4LF_5tvbQSZY6qn.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4c53d697c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://video.twimg.com/amplify_video/2031351670576492544/vid/avc1/1080x1920/aFpKDAzgy23j3Dwg.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260310124929_twitter_com_Rain_Antar1121_status_2031351736242417758.json"
       ],
-      "last_updated": "2026-05-26T16:13:51",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310124929/https://video.twimg.com/amplify_video/2031351670576492544/vid/avc1/1080x1920/aFpKDAzgy23j3Dwg.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f52a8cc0bf0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T17:04:23",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310124929/https://video.twimg.com/amplify_video/2031351670576492544/vid/avc1/1080x1920/aFpKDAzgy23j3Dwg.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4c53d69cd0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/HDF_p1iaMAMaPo2.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260311090724_twitter_com_Rain_Antar1121_status_2031658235074322730.json"
       ],
-      "last_updated": "2026-05-26T16:13:51",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260311090724/https://video.twimg.com/tweet_video/HDF_p1iaMAMaPo2.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f52a8c2d760>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T17:04:32",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260311090724/https://video.twimg.com/tweet_video/HDF_p1iaMAMaPo2.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4c53d6a540>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2032055049980137472/vid/avc1/1080x1920/8fkDuAI72gpDVb7D.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260312112429_twitter_com_Rain_Antar1121_status_2032055121539215515.json"
       ],
-      "last_updated": "2026-05-26T16:13:51",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260312112429/https://video.twimg.com/amplify_video/2032055049980137472/vid/avc1/1080x1920/8fkDuAI72gpDVb7D.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f52a8c632c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T17:04:41",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260312112429/https://video.twimg.com/amplify_video/2032055049980137472/vid/avc1/1080x1920/8fkDuAI72gpDVb7D.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4c53d6a180>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2032056098950389760/vid/avc1/1080x1440/fhmzIn075AfaV5j6.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260312112837_twitter_com_Rain_Antar1121_status_2032056164058612097.json"
       ],
-      "last_updated": "2026-05-26T16:13:51",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260312112837/https://video.twimg.com/amplify_video/2032056098950389760/vid/avc1/1080x1440/fhmzIn075AfaV5j6.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f52a8cc1a30>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T17:04:50",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260312112837/https://video.twimg.com/amplify_video/2032056098950389760/vid/avc1/1080x1440/fhmzIn075AfaV5j6.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4c53d6b530>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2032779384407601153/vid/avc1/1438x1078/1ar2mxxMN8pKneB9.mp4": {
       "status": "failed",
@@ -26034,35 +26034,35 @@
         "20260314112257_twitter_com_Rain_Antar1121_status_2032779513273471163.json",
         "20260314112324_twitter_com_Rain_Antar1121_status_2032779626951618894.json"
       ],
-      "last_updated": "2026-05-26T16:13:52",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260314112257/https://video.twimg.com/amplify_video/2032779384407601153/vid/avc1/1438x1078/1ar2mxxMN8pKneB9.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f52a8c69430>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-05-26T17:04:59",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260314112257/https://video.twimg.com/amplify_video/2032779384407601153/vid/avc1/1438x1078/1ar2mxxMN8pKneB9.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4c53d2ed50>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://video.twimg.com/amplify_video/2032810802957393920/vid/avc1/1080x1920/PS-zgai_JIRsCyTk.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260314132749_twitter_com_Rain_Antar1121_status_2032810934935466061.json"
       ],
-      "last_updated": "2026-05-26T16:13:52",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260314132749/https://video.twimg.com/amplify_video/2032810802957393920/vid/avc1/1080x1920/PS-zgai_JIRsCyTk.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f52a8c6a690>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T17:05:09",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260314132749/https://video.twimg.com/amplify_video/2032810802957393920/vid/avc1/1080x1920/PS-zgai_JIRsCyTk.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4c53d6b8f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2032811873796829184/vid/avc1/1080x1440/HfCznyuEJeRxk0I3.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260314133152_twitter_com_Rain_Antar1121_status_2032811955208204301.json"
       ],
-      "last_updated": "2026-05-26T16:13:52",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260314133152/https://video.twimg.com/amplify_video/2032811873796829184/vid/avc1/1080x1440/HfCznyuEJeRxk0I3.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f52a8c687d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T17:05:18",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260314133152/https://video.twimg.com/amplify_video/2032811873796829184/vid/avc1/1080x1440/HfCznyuEJeRxk0I3.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4c53d68c80>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/2042456007675392000/pu/vid/avc1/720x1280/YF2VWBH0172FixYF.mp4?tag=12": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260410105351_twitter_com_Rain_Antar1121_status_2042556659537711414.json",
         "20260410105400_twitter_com_Rain_Antar1121_status_2042556700457386200.json"
       ],
-      "last_updated": "2026-05-26T16:13:52",
+      "last_updated": "2026-05-26T17:05:20",
       "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260410105351/https://video.twimg.com/ext_tw_video/2042456007675392000/pu/vid/avc1/720x1280/YF2VWBH0172FixYF.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f52a8c6bce0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
       "miss_count": 5
     },
@@ -26071,63 +26071,63 @@
       "referenced_by": [
         "20260509173528_twitter_com_Rain_Antar1121_status_2053166980061131055.json"
       ],
-      "last_updated": "2026-05-26T16:13:53",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260509173528/https://video.twimg.com/tweet_video/HH5F7dMa0AA_KxV.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f52a8c2f410>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T17:05:27",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260509173528/https://video.twimg.com/tweet_video/HH5F7dMa0AA_KxV.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4c53d69700>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/HH8Eilta0AAUC0X.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260510070010_twitter_com_Rain_Antar1121_status_2053369487664283904.json"
       ],
-      "last_updated": "2026-05-26T16:13:53",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510070010/https://video.twimg.com/tweet_video/HH8Eilta0AAUC0X.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f52a8c6a150>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T17:05:36",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510070010/https://video.twimg.com/tweet_video/HH8Eilta0AAUC0X.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4c543231a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2055650868205379584/vid/avc1/1280x720/8_J62NbSMKW-X1U7.mp4?tag=14": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260516170104_twitter_com_Rain_Antar1121_status_2055695037846135091.json"
       ],
-      "last_updated": "2026-05-26T16:13:53",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260516170104/https://video.twimg.com/amplify_video/2055650868205379584/vid/avc1/1280x720/8_J62NbSMKW-X1U7.mp4?tag=14 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f52a8c2fa70>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T17:05:41",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260516170104/https://video.twimg.com/amplify_video/2055650868205379584/vid/avc1/1280x720/8_J62NbSMKW-X1U7.mp4?tag=14",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2055916792586108928/vid/avc1/1920x1080/6JPB5CyohLfG8sbX.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260517074234_twitter_com_Rain_Antar1121_status_2055916873817129429.json"
       ],
-      "last_updated": "2026-05-26T16:13:53",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260517074234/https://video.twimg.com/amplify_video/2055916792586108928/vid/avc1/1920x1080/6JPB5CyohLfG8sbX.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f52a8c2cd70>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T17:05:48",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260517074234/https://video.twimg.com/amplify_video/2055916792586108928/vid/avc1/1920x1080/6JPB5CyohLfG8sbX.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4c53d6a600>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2056016127617298432/vid/avc1/720x1280/msm02Kaa8iXGj2Se.mp4?tag=14": {
       "status": "failed",
       "referenced_by": [
         "20260517161100_twitter_com_Rain_Antar1121_status_2056044824290295899.json"
       ],
-      "last_updated": "2026-05-26T16:13:54",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260517161100/https://video.twimg.com/amplify_video/2056016127617298432/vid/avc1/720x1280/msm02Kaa8iXGj2Se.mp4?tag=14 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f52a910a810>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T17:05:57",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260517161100/https://video.twimg.com/amplify_video/2056016127617298432/vid/avc1/720x1280/msm02Kaa8iXGj2Se.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4c53e09d30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2056016223364886528/vid/avc1/720x1280/zoCsBM8a1TP3PJVY.mp4?tag=14": {
       "status": "failed",
       "referenced_by": [
         "20260517161100_twitter_com_Rain_Antar1121_status_2056044824290295899.json"
       ],
-      "last_updated": "2026-05-26T16:13:54",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260517161100/https://video.twimg.com/amplify_video/2056016223364886528/vid/avc1/720x1280/zoCsBM8a1TP3PJVY.mp4?tag=14 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f52a8c2d010>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T17:06:04",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260517161100/https://video.twimg.com/amplify_video/2056016223364886528/vid/avc1/720x1280/zoCsBM8a1TP3PJVY.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4c53d2d100>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2056016292994568193/vid/avc1/720x1280/Y_H6l94rxYKeSRLk.mp4?tag=14": {
       "status": "failed",
       "referenced_by": [
         "20260517161100_twitter_com_Rain_Antar1121_status_2056044824290295899.json"
       ],
-      "last_updated": "2026-05-26T16:13:54",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260517161100/https://video.twimg.com/amplify_video/2056016292994568193/vid/avc1/720x1280/Y_H6l94rxYKeSRLk.mp4?tag=14 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f52a8c2fc80>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T17:06:13",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260517161100/https://video.twimg.com/amplify_video/2056016292994568193/vid/avc1/720x1280/Y_H6l94rxYKeSRLk.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4c53e08260>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     }
   },
   "avatars": {
@@ -41217,7 +41217,7 @@
       "miss_count": 2
     },
     "20250410082435_twitter_com_Rain_Antar1121_status_1910247527678693406.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/GoJxY6JbQAAiK_x.jpg"
@@ -41230,7 +41230,7 @@
           "https://pbs.twimg.com/profile_images/1651781562751660032/gPOuArD9_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-26T16:13:27",
+      "last_updated": "2026-05-26T16:58:56",
       "miss_count": 2
     },
     "20250410085530_twitter_com_Rain_Antar1121_status_1910255305549840652.json": {
@@ -76016,7 +76016,7 @@
       "miss_count": 2
     },
     "20260410105351_twitter_com_Rain_Antar1121_status_2042556659537711414.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HFhC6uWbQAA561V.jpg",
@@ -76031,11 +76031,11 @@
           "https://pbs.twimg.com/profile_images/2035716012918886400/w1JKUgDd_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-26T16:13:28",
+      "last_updated": "2026-05-26T17:05:20",
       "miss_count": 2
     },
     "20260410105400_twitter_com_Rain_Antar1121_status_2042556700457386200.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HFhC6uWbQAA561V.jpg",
@@ -76050,7 +76050,7 @@
           "https://pbs.twimg.com/profile_images/2035716012918886400/w1JKUgDd_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-26T16:13:28",
+      "last_updated": "2026-05-26T17:05:20",
       "miss_count": 2
     },
     "20260410110159_twitter_com_Rain_Antar1121_status_2042558709189226736.json": {
@@ -86222,7 +86222,7 @@
       "miss_count": 2
     },
     "20260516170104_twitter_com_Rain_Antar1121_status_2055695037846135091.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -86233,7 +86233,7 @@
           "https://pbs.twimg.com/profile_images/2024073322666020865/2E08phB__normal.jpg"
         ]
       },
-      "last_updated": "2026-05-26T16:13:28",
+      "last_updated": "2026-05-26T17:05:41",
       "miss_count": 2
     },
     "20260516170217_twitter_com_Rain_Antar1121_status_2055695341480263916.json": {
