@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2060307748806672499",
+    "created_at": "2026-05-29T10:42:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T11:42:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060310929716482551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2026612223788163072",
+          "start": 0,
+          "username": "Roikoyo_AI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060310929716482551",
+    "in_reply_to_user_id": "2026612223788163072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060307748806672499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Roikoyo_AI 好耶～恭喜喵喵🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060307736701919232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJeu-HYbYAAtw0L.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2060307748806672499",
+        "created_at": "2026-05-29T10:42:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T11:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060310929716482551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2026612223788163072",
+              "start": 0,
+              "username": "Roikoyo_AI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060310929716482551",
+        "in_reply_to_user_id": "2026612223788163072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060307748806672499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Roikoyo_AI 好耶～恭喜喵喵🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060307736701919232"
+          ]
+        },
+        "author_id": "2026612223788163072",
+        "conversation_id": "2060307748806672499",
+        "created_at": "2026-05-29T10:30:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T11:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060307748806672499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r5khAKQSnE",
+              "end": 29,
+              "expanded_url": "https://x.com/Roikoyo_AI/status/2060307748806672499/photo/1",
+              "media_key": "3_2060307736701919232",
+              "start": 6,
+              "url": "https://t.co/r5khAKQSnE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060307748806672499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开了小证～ https://t.co/r5khAKQSnE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4285,
+          "following_count": 6209,
+          "like_count": 14711,
+          "listed_count": 10,
+          "media_count": 295,
+          "tweet_count": 3543
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-25T10:58:02.000Z",
+        "description": "MtF  I  2008_12  I  HRT2026_02_01 I 家长党",
+        "id": "2026612223788163072",
+        "name": "落霞寒漪🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057136998369091587/cRS-pRoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 31,
+          "like_count": 212,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 37
+        },
+        "username": "Roikoyo_AI",
+        "verified": false
+      }
+    ]
+  }
+}

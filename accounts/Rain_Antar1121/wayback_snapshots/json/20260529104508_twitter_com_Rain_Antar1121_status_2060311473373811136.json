@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2060221264560832555",
+    "created_at": "2026-05-29T10:45:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T11:45:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060311473373811136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1975099989916602368",
+          "start": 0,
+          "username": "purebyte96"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060311473373811136",
+    "in_reply_to_user_id": "1975099989916602368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060292630257533088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@purebyte96 呜喵呜呜🥹可是好焦虑…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2060221264560832555",
+        "created_at": "2026-05-29T10:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T11:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060311473373811136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1975099989916602368",
+              "start": 0,
+              "username": "purebyte96"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060311473373811136",
+        "in_reply_to_user_id": "1975099989916602368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060292630257533088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@purebyte96 呜喵呜呜🥹可是好焦虑…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975099989916602368",
+        "conversation_id": "2060221264560832555",
+        "created_at": "2026-05-29T09:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T10:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060292630257533088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 27,
+              "id": "1510447851507261445",
+              "start": 16,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060292630257533088",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060284804969681261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 @LanziiLove 能有female基本上都很强啦qwq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4285,
+          "following_count": 6209,
+          "like_count": 14716,
+          "listed_count": 10,
+          "media_count": 295,
+          "tweet_count": 3546
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-06T07:27:30.000Z",
+        "description": "💐lesbian • 🏳️‍⚧️girl inside • 🍥GAHT since 25/10/20 • 🧶Neuro (ADHD-PI, ASD Level 1) • 💻Arch Linux • 📦Minecraft • 🧩Stardew Valley • 👾vibe coding • 🐱私は猫です",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "log.mistpink.top",
+                "end": 23,
+                "expanded_url": "http://log.mistpink.top",
+                "start": 0,
+                "url": "https://t.co/D8DWC934ba"
+              }
+            ]
+          }
+        },
+        "id": "1975099989916602368",
+        "location": "N/A",
+        "name": "🌈Shizuka🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059216077251653632/mr5hq5vS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 179,
+          "like_count": 1049,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 48
+        },
+        "url": "https://t.co/D8DWC934ba",
+        "username": "purebyte96",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2059988309410300333",
+    "created_at": "2026-05-28T19:01:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T20:01:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060074083740700809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1723220728630411265",
+          "start": 0,
+          "username": "GUODUANHU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060074083740700809",
+    "in_reply_to_user_id": "1723220728630411265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060035939385126940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GUODUANHU 呜呜好难找的…希望多找点🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2059988309410300333",
+        "created_at": "2026-05-28T19:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T20:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060074083740700809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1723220728630411265",
+              "start": 0,
+              "username": "GUODUANHU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060074083740700809",
+        "in_reply_to_user_id": "1723220728630411265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060035939385126940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GUODUANHU 呜呜好难找的…希望多找点🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1723220728630411265",
+        "conversation_id": "2059988309410300333",
+        "created_at": "2026-05-28T16:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060035939385126940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060035939385126940",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059988309410300333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 江宁么，我在江浦，南京xnn主题的东西好像几乎没有吧😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4279,
+          "following_count": 6208,
+          "like_count": 14697,
+          "listed_count": 10,
+          "media_count": 295,
+          "tweet_count": 3533
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-11T06:07:41.000Z",
+        "description": "喜欢的会默默点赞，主玩战争雷霆，暗区无限，城市天际线2\n我翻墙是为了找乐的不是为了看你们吵架的",
+        "id": "1723220728630411265",
+        "location": "南京",
+        "name": "果断胡",
+        "pinned_tweet_id": "1728061523967283365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056421569807761409/D66XTHxV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 48,
+          "like_count": 463,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 56
+        },
+        "username": "GUODUANHU",
+        "verified": false
+      }
+    ]
+  }
+}

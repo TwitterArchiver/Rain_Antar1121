@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2041059510677291149",
+    "created_at": "2026-05-28T10:56:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T11:56:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059951879933866491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1513917742755479552",
+          "start": 0,
+          "username": "boyan09278937"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059951879933866491",
+    "in_reply_to_user_id": "1513917742755479552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059920183830118808",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boyan09278937 喵呜喵呜咱也只会比较基础的呢🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2041059510677291149",
+        "created_at": "2026-05-28T10:56:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:56:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059951879933866491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1513917742755479552",
+              "start": 0,
+              "username": "boyan09278937"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059951879933866491",
+        "in_reply_to_user_id": "1513917742755479552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059920183830118808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boyan09278937 喵呜喵呜咱也只会比较基础的呢🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513917742755479552",
+        "conversation_id": "2041059510677291149",
+        "created_at": "2026-05-28T08:50:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T09:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059920183830118808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 25,
+              "id": "2031270533359349761",
+              "start": 16,
+              "username": "senzhiwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059920183830118808",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041064942640697778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 @senzhiwu 嘤嘤嘤教我化妆好不好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4272,
+          "following_count": 6205,
+          "like_count": 14678,
+          "listed_count": 10,
+          "media_count": 293,
+          "tweet_count": 3522
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-12T16:31:43.000Z",
+        "description": "171/57kg|泛性恋|同类贴贴可互fo可圆角仅限发情期（然而每天都在发情）|主要居住地辽宁和石家庄",
+        "id": "1513917742755479552",
+        "name": "缘为冰🏳‍⚧🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886155303672320001/cAL_kJCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 8,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 18
+        },
+        "username": "boyan09278937",
+        "verified": false
+      }
+    ]
+  }
+}
