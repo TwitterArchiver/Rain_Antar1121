@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2060235766333428192",
+    "created_at": "2026-05-30T07:27:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T08:27:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060624198045942173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2026612223788163072",
+          "start": 0,
+          "username": "Roikoyo_AI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060624198045942173",
+    "in_reply_to_user_id": "2026612223788163072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060235766333428192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Roikoyo_AI 咪耶…也是邸奶奶太热情了呢…给我也评了个“接触被动”呜呜…大多数话都是邸奶奶在说然后咱点头呢🥹感觉准备好的很多东西都没说出口～结果很顺利就皆大欢喜啦揉揉揉揉喵😘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2060235766333428192",
+        "created_at": "2026-05-30T07:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T08:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060624198045942173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2026612223788163072",
+              "start": 0,
+              "username": "Roikoyo_AI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060624198045942173",
+        "in_reply_to_user_id": "2026612223788163072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060235766333428192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Roikoyo_AI 咪耶…也是邸奶奶太热情了呢…给我也评了个“接触被动”呜呜…大多数话都是邸奶奶在说然后咱点头呢🥹感觉准备好的很多东西都没说出口～结果很顺利就皆大欢喜啦揉揉揉揉喵😘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026612223788163072",
+        "conversation_id": "2060235766333428192",
+        "created_at": "2026-05-29T05:44:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T06:44:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060235766333428192"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060235766333428192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 479,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "问诊的时候，我一直低着头，用两只手转着自己的身份证，说话吞吞吐吐，有时甚至只能点头示意。虽然这一刻已经在脑海中预演许多遍，但真正坐在那里，我根本控制不住自己的紧张。呜，耽误了邸奶奶不少时间，我非常感激她能够对我那么耐心。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4289,
+          "following_count": 6215,
+          "like_count": 14735,
+          "listed_count": 10,
+          "media_count": 296,
+          "tweet_count": 3555
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-25T10:58:02.000Z",
+        "description": "MtF  I  2008_12  I  HRT2026_02_01 I 家长党",
+        "id": "2026612223788163072",
+        "name": "落霞寒漪🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057136998369091587/cRS-pRoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 51,
+          "like_count": 263,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 47
+        },
+        "username": "Roikoyo_AI",
+        "verified": false
+      }
+    ]
+  }
+}
