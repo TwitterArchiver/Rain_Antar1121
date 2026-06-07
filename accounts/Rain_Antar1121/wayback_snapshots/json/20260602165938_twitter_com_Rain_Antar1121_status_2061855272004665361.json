@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2061726076783767799",
+    "created_at": "2026-06-02T16:59:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T17:59:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061855272004665361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "144061114",
+          "start": 0,
+          "username": "truly_slide_o_o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061855272004665361",
+    "in_reply_to_user_id": "144061114",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061821010366898498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@truly_slide_o_o 🥹😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2061726076783767799",
+        "created_at": "2026-06-02T16:59:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T17:59:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061855272004665361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "144061114",
+              "start": 0,
+              "username": "truly_slide_o_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061855272004665361",
+        "in_reply_to_user_id": "144061114",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061821010366898498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@truly_slide_o_o 🥹😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "144061114",
+        "conversation_id": "2061726076783767799",
+        "created_at": "2026-06-02T14:43:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T15:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061821010366898498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061821010366898498",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061726076783767799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 第一张就是5090可真是够厉害了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4361,
+          "following_count": 6331,
+          "like_count": 15065,
+          "listed_count": 10,
+          "media_count": 302,
+          "tweet_count": 3697
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2010-05-15T05:31:20.000Z",
+        "description": "Interested in Anime, Games, SF, existentialism, and a little bit of financial markets.",
+        "id": "144061114",
+        "location": "Roma, Lazio",
+        "name": "Null Architect",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041202690592751617/iuMuF0oE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 234,
+          "like_count": 14038,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 1304
+        },
+        "username": "truly_slide_o_o",
+        "verified": false
+      }
+    ]
+  }
+}

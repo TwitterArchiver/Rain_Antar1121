@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2062141338993475709",
+    "created_at": "2026-06-05T08:53:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T09:53:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062820060759232950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1117644610396778501",
+          "start": 0,
+          "username": "canderyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062820060759232950",
+    "in_reply_to_user_id": "1117644610396778501",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062819231578914837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@canderyy 🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2062141338993475709",
+        "created_at": "2026-06-05T08:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T09:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062820060759232950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1117644610396778501",
+              "start": 0,
+              "username": "canderyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062820060759232950",
+        "in_reply_to_user_id": "1117644610396778501",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062819231578914837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@canderyy 🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1117644610396778501",
+        "conversation_id": "2062141338993475709",
+        "created_at": "2026-06-05T08:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T09:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062819231578914837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062819231578914837",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062141338993475709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 下次我偷偷自己一个人去😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4398,
+          "following_count": 6352,
+          "like_count": 15199,
+          "listed_count": 10,
+          "media_count": 303,
+          "tweet_count": 3768
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2019-04-15T04:23:34.000Z",
+        "description": "这个世界只有三种人会珍惜你，父母\\爱人\\子女，父母会老去，子女会离家，只有爱人能够陪你一路走下去，尊重自己的爱人，不要成为遗憾。也只有爱人会一让再让，但这永远是有限的退让，不要太过贪心。感谢你的陪伴。-------贪心又胆小的人。",
+        "id": "1117644610396778501",
+        "location": "浙江省宁波市",
+        "name": "向晚初霁",
+        "pinned_tweet_id": "1943202703271956749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052989898991489024/oauN18S8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 152,
+          "like_count": 4767,
+          "listed_count": 2,
+          "media_count": 607,
+          "tweet_count": 2662
+        },
+        "username": "canderyy",
+        "verified": false
+      }
+    ]
+  }
+}

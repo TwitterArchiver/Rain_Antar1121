@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2061726076783767799",
+    "created_at": "2026-06-03T05:38:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T06:38:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062046178217545828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1236824782701645825",
+          "start": 0,
+          "username": "CDNEWSTW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062046178217545828",
+    "in_reply_to_user_id": "1236824782701645825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061880837243838800",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CDNEWSTW 耶！一定會更好喵🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2061726076783767799",
+        "created_at": "2026-06-03T05:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T06:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062046178217545828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1236824782701645825",
+              "start": 0,
+              "username": "CDNEWSTW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062046178217545828",
+        "in_reply_to_user_id": "1236824782701645825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061880837243838800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CDNEWSTW 耶！一定會更好喵🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236824782701645825",
+        "conversation_id": "2061726076783767799",
+        "created_at": "2026-06-02T18:41:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T19:41:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061880837243838800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061880837243838800",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061726076783767799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 很棒很棒，未來會更好。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4388,
+          "following_count": 6336,
+          "like_count": 15078,
+          "listed_count": 10,
+          "media_count": 302,
+          "tweet_count": 3710
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-09T01:23:09.000Z",
+        "description": "微生盡戀人間樂，只有襄王憶夢中。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cdnews.com.tw",
+                "end": 23,
+                "expanded_url": "http://cdnews.com.tw",
+                "start": 0,
+                "url": "https://t.co/obtuVBEsi9"
+              }
+            ]
+          }
+        },
+        "id": "1236824782701645825",
+        "location": "Taiwan",
+        "name": "閃刀姫ロゼ",
+        "pinned_tweet_id": "2061625269061050750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061555630138437632/Gm0D0t7C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9504,
+          "following_count": 360,
+          "like_count": 52894,
+          "listed_count": 37,
+          "media_count": 7,
+          "tweet_count": 298
+        },
+        "url": "https://t.co/obtuVBEsi9",
+        "username": "CDNEWSTW",
+        "verified": true
+      }
+    ]
+  }
+}

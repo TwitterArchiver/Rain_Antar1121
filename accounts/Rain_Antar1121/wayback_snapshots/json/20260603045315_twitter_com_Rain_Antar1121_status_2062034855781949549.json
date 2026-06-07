@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2061885686001828335",
+    "created_at": "2026-06-03T04:53:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T05:53:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062034855781949549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1986489544045412352",
+          "start": 0,
+          "username": "yx_BA4UED_11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062034855781949549",
+    "in_reply_to_user_id": "1986489544045412352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061885686001828335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yx_BA4UED_11 UED姐姐好厉害🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1301,
+        "media_key": "3_2061885638992154624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ1KEHebUAAJIpD.jpg",
+        "width": 1732
+      },
+      {
+        "height": 1299,
+        "media_key": "3_2061885638912385024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ1KEHLaIAAKUI9.jpg",
+        "width": 1733
+      },
+      {
+        "duration_ms": 14900,
+        "height": 720,
+        "media_key": "7_2061885660609511424",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2061885660609511424/pu/img/54A0fc18oVFdOSyF.jpg",
+        "public_metrics": {
+          "view_count": 408
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2061885660609511424/pu/vid/avc1/480x270/futr5GzQbncQdB2w.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2061885660609511424/pu/vid/avc1/640x360/UJFTckXl55XONSf5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2061885660609511424/pu/vid/avc1/1280x720/BiK-Bas6FD845HBB.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2061885660609511424/pu/pl/6uOPBBUC1xcixuX_.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2061885686001828335",
+        "created_at": "2026-06-03T04:53:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T05:53:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062034855781949549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1986489544045412352",
+              "start": 0,
+              "username": "yx_BA4UED_11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062034855781949549",
+        "in_reply_to_user_id": "1986489544045412352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061885686001828335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yx_BA4UED_11 UED姐姐好厉害🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061885638992154624",
+            "3_2061885638912385024",
+            "7_2061885660609511424"
+          ]
+        },
+        "author_id": "1986489544045412352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2061885686001828335",
+        "created_at": "2026-06-02T19:00:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T20:00:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061885686001828335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LZvUSPhoRS",
+              "end": 44,
+              "expanded_url": "https://x.com/yx_BA4UED_11/status/2061885686001828335/video/1",
+              "media_key": "3_2061885638992154624",
+              "start": 21,
+              "url": "https://t.co/LZvUSPhoRS"
+            },
+            {
+              "display_url": "pic.x.com/LZvUSPhoRS",
+              "end": 44,
+              "expanded_url": "https://x.com/yx_BA4UED_11/status/2061885686001828335/video/1",
+              "media_key": "3_2061885638912385024",
+              "start": 21,
+              "url": "https://t.co/LZvUSPhoRS"
+            },
+            {
+              "display_url": "pic.x.com/LZvUSPhoRS",
+              "end": 44,
+              "expanded_url": "https://x.com/yx_BA4UED_11/status/2061885686001828335/video/1",
+              "media_key": "7_2061885660609511424",
+              "start": 21,
+              "url": "https://t.co/LZvUSPhoRS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061885686001828335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1241,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "手动天调\n两档电容量切换+集成swr模块 https://t.co/LZvUSPhoRS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4387,
+          "following_count": 6336,
+          "like_count": 15069,
+          "listed_count": 10,
+          "media_count": 302,
+          "tweet_count": 3702
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-06T17:43:43.000Z",
+        "description": "F，Callsign BA4UED",
+        "id": "1986489544045412352",
+        "name": "BA4UED🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052087582629261312/Opmuipd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 133,
+          "like_count": 900,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 149
+        },
+        "username": "yx_BA4UED_11",
+        "verified": false
+      }
+    ]
+  }
+}

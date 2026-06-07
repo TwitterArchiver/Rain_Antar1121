@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2061726076783767799",
+    "created_at": "2026-06-02T11:33:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T12:33:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061773242826952855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1687513081310535680",
+          "start": 0,
+          "username": "cheesemori_awa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061773242826952855",
+    "in_reply_to_user_id": "1687513081310535680",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061771115471511584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cheesemori_awa 🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2061726076783767799",
+        "created_at": "2026-06-02T11:33:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T12:33:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061773242826952855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1687513081310535680",
+              "start": 0,
+              "username": "cheesemori_awa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061773242826952855",
+        "in_reply_to_user_id": "1687513081310535680",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061771115471511584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cheesemori_awa 🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687513081310535680",
+        "conversation_id": "2061726076783767799",
+        "created_at": "2026-06-02T11:25:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T12:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061771115471511584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779063322500874240",
+              "start": 0,
+              "username": "kunkunyuzaizai"
+            },
+            {
+              "end": 31,
+              "id": "1894461745277931524",
+              "start": 16,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061771115471511584",
+        "in_reply_to_user_id": "1779063322500874240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061753480164114530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunkunyuzaizai @Rain_Antar1121 这可是5090啊，四万多…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4339,
+          "following_count": 6318,
+          "like_count": 14984,
+          "listed_count": 10,
+          "media_count": 301,
+          "tweet_count": 3653
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-04T17:17:41.000Z",
+        "description": "🇬🇧 UK 留子 | 💭 ISTP HSP 完美主义者\n⌨️ 偶尔掉落游戏汉化补丁\n🍥 HRT since 2026.04.24\n🎵 爱好音乐｜🎼 喜欢扒谱\n努力探索地图中... 🌍\n好姐姐❤️@ayakaneko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 97,
+                "username": "ayakaneko"
+              }
+            ]
+          }
+        },
+        "id": "1687513081310535680",
+        "location": "Scotland, United Kingdom",
+        "name": "cheesemori",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047626416842260480/V5Yx13cQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 162,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 176
+        },
+        "username": "cheesemori_awa",
+        "verified": true
+      }
+    ]
+  }
+}

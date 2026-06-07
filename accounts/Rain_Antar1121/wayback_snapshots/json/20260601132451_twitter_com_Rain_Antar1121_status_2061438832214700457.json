@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061438807317307394",
+        "3_2061438807346692096"
+      ]
+    },
+    "author_id": "1894461745277931524",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2061438832214700457",
+    "created_at": "2026-06-01T13:24:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T14:24:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061438832214700457"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/48KFHzh6Gg",
+          "end": 184,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/2061438832214700457/photo/1",
+          "media_key": "3_2061438807317307394",
+          "start": 161,
+          "url": "https://t.co/48KFHzh6Gg"
+        },
+        {
+          "display_url": "pic.x.com/48KFHzh6Gg",
+          "end": 184,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/2061438832214700457/photo/1",
+          "media_key": "3_2061438807346692096",
+          "start": 161,
+          "url": "https://t.co/48KFHzh6Gg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061438832214700457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "萨莉亚喵…发出来是因为好喜欢萨莉亚的碎牛肉排🥰又看了一遍百万英镑，里面的a nice big juicy steak莫名其妙激起了咱对这个的馋意…好馋好馋啊啊🥹\n\n比起（萨莉亚这个价位的）正经牛排咱更喜欢碎肉饼…因为从小牙口很差૮ o̴̶̷᷄ ·̫ o̴̶̷̥᷅ ა无论几分熟只要有纤维就会全卡牙里…所以碎肉饼是大救星！ https://t.co/48KFHzh6Gg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2061438807317307394",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJuzrFxaYAI3-ep.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2061438807346692096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJuzrF4awAApG2I.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061438807317307394",
+            "3_2061438807346692096"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2061438832214700457",
+        "created_at": "2026-06-01T13:24:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T14:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061438832214700457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/48KFHzh6Gg",
+              "end": 184,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2061438832214700457/photo/1",
+              "media_key": "3_2061438807317307394",
+              "start": 161,
+              "url": "https://t.co/48KFHzh6Gg"
+            },
+            {
+              "display_url": "pic.x.com/48KFHzh6Gg",
+              "end": 184,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2061438832214700457/photo/1",
+              "media_key": "3_2061438807346692096",
+              "start": 161,
+              "url": "https://t.co/48KFHzh6Gg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061438832214700457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "萨莉亚喵…发出来是因为好喜欢萨莉亚的碎牛肉排🥰又看了一遍百万英镑，里面的a nice big juicy steak莫名其妙激起了咱对这个的馋意…好馋好馋啊啊🥹\n\n比起（萨莉亚这个价位的）正经牛排咱更喜欢碎肉饼…因为从小牙口很差૮ o̴̶̷᷄ ·̫ o̴̶̷̥᷅ ა无论几分熟只要有纤维就会全卡牙里…所以碎肉饼是大救星！ https://t.co/48KFHzh6Gg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4319,
+          "following_count": 6295,
+          "like_count": 14904,
+          "listed_count": 10,
+          "media_count": 299,
+          "tweet_count": 3611
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      }
+    ]
+  }
+}

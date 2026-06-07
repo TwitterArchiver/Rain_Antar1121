@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2061570001274884269",
+    "created_at": "2026-06-02T09:18:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T10:18:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061739341916053962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1531432040909918209",
+          "start": 0,
+          "username": "_ciweiqwq_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061739341916053962",
+    "in_reply_to_user_id": "1531432040909918209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061570001274884269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_ciweiqwq_ 呜呜抱进怀里…🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061569995859988480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJwq_RLWkAAdjuH.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2061570001274884269",
+        "created_at": "2026-06-02T09:18:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T10:18:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061739341916053962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1531432040909918209",
+              "start": 0,
+              "username": "_ciweiqwq_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061739341916053962",
+        "in_reply_to_user_id": "1531432040909918209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061570001274884269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_ciweiqwq_ 呜呜抱进怀里…🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061569995859988480"
+          ]
+        },
+        "author_id": "1531432040909918209",
+        "conversation_id": "2061570001274884269",
+        "created_at": "2026-06-01T22:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T23:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061570001274884269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xjcGf5Jach",
+              "end": 26,
+              "expanded_url": "https://x.com/_ciweiqwq_/status/2061570001274884269/photo/1",
+              "media_key": "3_2061569995859988480",
+              "start": 3,
+              "url": "https://t.co/xjcGf5Jach"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061570001274884269",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 364,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "xd https://t.co/xjcGf5Jach"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4332,
+          "following_count": 6297,
+          "like_count": 14943,
+          "listed_count": 10,
+          "media_count": 301,
+          "tweet_count": 3636
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-31T00:27:23.000Z",
+        "description": "09/男/双 这个是发泄情绪的号：@suzume_FANqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 17,
+                "username": "suzume_FANqwq"
+              }
+            ]
+          }
+        },
+        "id": "1531432040909918209",
+        "name": "刺猬QWQ",
+        "pinned_tweet_id": "2056926845497409858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047713615419932673/rglwu7N3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 522,
+          "like_count": 24124,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 1395
+        },
+        "username": "_ciweiqwq_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2061952431190401111",
+    "created_at": "2026-06-03T06:37:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T07:37:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062061030046626186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2031270533359349761",
+          "start": 0,
+          "username": "senzhiwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062061030046626186",
+    "in_reply_to_user_id": "2031270533359349761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061952431190401111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@senzhiwu 喵呜…何必如此…有这么多这么多人在意你呢…你社交圈这么广知名度这么高了，愿意爱你的人两只手都数不过来，就算现在找不到合适的也比我们绝大多数有希望多了呀🥹好难理解为什么你一直说没人爱…排了多长的队了呜\n\n不希望最后变成这样…又是这个剧本，不要走这条我看了一万遍的路…你可以很开心的呀😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061952424294907904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ2GziHagAAihr-.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2061952431190401111",
+        "created_at": "2026-06-03T06:37:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T07:37:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062061030046626186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2031270533359349761",
+              "start": 0,
+              "username": "senzhiwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062061030046626186",
+        "in_reply_to_user_id": "2031270533359349761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061952431190401111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@senzhiwu 喵呜…何必如此…有这么多这么多人在意你呢…你社交圈这么广知名度这么高了，愿意爱你的人两只手都数不过来，就算现在找不到合适的也比我们绝大多数有希望多了呀🥹好难理解为什么你一直说没人爱…排了多长的队了呜\n\n不希望最后变成这样…又是这个剧本，不要走这条我看了一万遍的路…你可以很开心的呀😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061952424294907904"
+          ]
+        },
+        "author_id": "2031270533359349761",
+        "conversation_id": "2061952431190401111",
+        "created_at": "2026-06-02T23:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T00:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061952431190401111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u047JAO2Ri",
+              "end": 60,
+              "expanded_url": "https://x.com/senzhiwu/status/2061952431190401111/photo/1",
+              "media_key": "3_2061952424294907904",
+              "start": 37,
+              "url": "https://t.co/u047JAO2Ri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061952431190401111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1841,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对不起各位，既是生日又是忌日不错呢… \n好想有人爱我，把我抱在怀里阻止我 https://t.co/u047JAO2Ri"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4389,
+          "following_count": 6347,
+          "like_count": 15108,
+          "listed_count": 10,
+          "media_count": 302,
+          "tweet_count": 3728
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-10T07:27:30.000Z",
+        "description": "叫我森森就好啦｜一个什么都不擅长的废物呜｜日常孤独缺爱ing｜喜欢一切可爱的事物｜生日2008｜mtx🏳️‍⚧️｜小证偷吃｜entp-t｜hrt 3.29 ｜欢迎互fo喵！｜🇲🇾留学生/常驻南京 欢迎来找我玩哦 可以把我当树洞喵，虽然可能不太会安慰人呜",
+        "id": "2031270533359349761",
+        "location": "你家门口",
+        "name": "senzhiwu🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2055955740553355693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057469282360107008/wkkOtOfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1511,
+          "following_count": 361,
+          "like_count": 2521,
+          "listed_count": 4,
+          "media_count": 106,
+          "tweet_count": 2226
+        },
+        "username": "senzhiwu",
+        "verified": false
+      }
+    ]
+  }
+}

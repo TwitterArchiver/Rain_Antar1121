@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061792480216125440",
+        "3_2061792480165859328"
+      ]
+    },
+    "author_id": "1894461745277931524",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "id": "1448339267948728324",
+          "name": "Qatar Stars League"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1448339267948728324",
+          "name": "Qatar Stars League"
+        }
+      }
+    ],
+    "conversation_id": "2061792505642008581",
+    "created_at": "2026-06-02T12:50:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T13:50:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061792505642008581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 26,
+          "id": "1986489544045412352",
+          "start": 13,
+          "username": "yx_BA4UED_11"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8FFdoon4PJ",
+          "end": 197,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/2061792505642008581/photo/1",
+          "media_key": "3_2061792480216125440",
+          "start": 174,
+          "url": "https://t.co/8FFdoon4PJ"
+        },
+        {
+          "display_url": "pic.x.com/8FFdoon4PJ",
+          "end": 197,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/2061792505642008581/photo/1",
+          "media_key": "3_2061792480165859328",
+          "start": 174,
+          "url": "https://t.co/8FFdoon4PJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061792505642008581",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "呜喵呜第一次（通联）献给了@yx_BA4UED_11 姐姐🥹\n\n咱用uvk6和771天线在438.6MHz，十公里距离还是没法听清在说什么…只能看到绿灯亮起来，传出一点点不是噪声的动静ヘ(&gt;_&lt;ヘ)所以不算通上了吧只是第一次玩😭\n\n象征性的）收到了QSL卡喵…虽然还是Eyeball QSO，希望下次能拿正式的卡呜…UED姐姐最好啦🥰 https://t.co/8FFdoon4PJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2061792480216125440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJz1Vj_akAAqsmB.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2061792480165859328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJz1VjzbkAASDlI.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061792480216125440",
+            "3_2061792480165859328"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1448339267948728324",
+              "name": "Qatar Stars League"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1448339267948728324",
+              "name": "Qatar Stars League"
+            }
+          }
+        ],
+        "conversation_id": "2061792505642008581",
+        "created_at": "2026-06-02T12:50:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T13:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061792505642008581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "1986489544045412352",
+              "start": 13,
+              "username": "yx_BA4UED_11"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8FFdoon4PJ",
+              "end": 197,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2061792505642008581/photo/1",
+              "media_key": "3_2061792480216125440",
+              "start": 174,
+              "url": "https://t.co/8FFdoon4PJ"
+            },
+            {
+              "display_url": "pic.x.com/8FFdoon4PJ",
+              "end": 197,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2061792505642008581/photo/1",
+              "media_key": "3_2061792480165859328",
+              "start": 174,
+              "url": "https://t.co/8FFdoon4PJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061792505642008581",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呜喵呜第一次（通联）献给了@yx_BA4UED_11 姐姐🥹\n\n咱用uvk6和771天线在438.6MHz，十公里距离还是没法听清在说什么…只能看到绿灯亮起来，传出一点点不是噪声的动静ヘ(&gt;_&lt;ヘ)所以不算通上了吧只是第一次玩😭\n\n象征性的）收到了QSL卡喵…虽然还是Eyeball QSO，希望下次能拿正式的卡呜…UED姐姐最好啦🥰 https://t.co/8FFdoon4PJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4343,
+          "following_count": 6325,
+          "like_count": 15018,
+          "listed_count": 10,
+          "media_count": 302,
+          "tweet_count": 3678
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-06T17:43:43.000Z",
+        "description": "F，Callsign BA4UED",
+        "id": "1986489544045412352",
+        "name": "BA4UED🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052087582629261312/Opmuipd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 126,
+          "like_count": 891,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 144
+        },
+        "username": "yx_BA4UED_11",
+        "verified": false
+      }
+    ]
+  }
+}

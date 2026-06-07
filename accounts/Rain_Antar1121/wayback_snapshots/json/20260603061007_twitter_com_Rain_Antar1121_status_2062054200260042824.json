@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2061792505642008581",
+    "created_at": "2026-06-03T06:10:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T07:10:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062054200260042824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1555803917249925120",
+          "start": 0,
+          "username": "Yuki_Honi514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062054200260042824",
+    "in_reply_to_user_id": "1555803917249925120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062030357285986396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuki_Honi514 咱这里中继被楼挡着…效果没有好多少呜呜🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2061792505642008581",
+        "created_at": "2026-06-03T06:10:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T07:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062054200260042824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1555803917249925120",
+              "start": 0,
+              "username": "Yuki_Honi514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062054200260042824",
+        "in_reply_to_user_id": "1555803917249925120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062030357285986396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki_Honi514 咱这里中继被楼挡着…效果没有好多少呜呜🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1555803917249925120",
+        "conversation_id": "2061792505642008581",
+        "created_at": "2026-06-03T04:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T05:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062030357285986396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 29,
+              "id": "1986489544045412352",
+              "start": 16,
+              "username": "yx_BA4UED_11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062030357285986396",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061792505642008581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 @yx_BA4UED_11 不试试用中继通联吗🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4389,
+          "following_count": 6341,
+          "like_count": 15100,
+          "listed_count": 10,
+          "media_count": 302,
+          "tweet_count": 3723
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-06T06:33:19.000Z",
+        "description": "高三一点都不好玩😭/INTJ/我也能写一辈子代码吗/VRC民/车车人/认证障碍不知道怎么和人交往/出厂日期:2007/4/16",
+        "id": "1555803917249925120",
+        "location": "守矢神社",
+        "name": "Sanae233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994780939466280967/Gnc5UKjj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 80,
+          "like_count": 315,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 79
+        },
+        "username": "Yuki_Honi514",
+        "verified": false
+      }
+    ]
+  }
+}

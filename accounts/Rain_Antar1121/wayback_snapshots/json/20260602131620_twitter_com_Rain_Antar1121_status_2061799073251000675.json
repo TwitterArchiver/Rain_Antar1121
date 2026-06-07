@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2061726076783767799",
+    "created_at": "2026-06-02T13:16:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T14:16:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061799073251000675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1406430459878252551",
+          "start": 0,
+          "username": "Al_urie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061799073251000675",
+    "in_reply_to_user_id": "1406430459878252551",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061798365596451304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Al_urie 今年涨价了呢🥹运气好差…呜呜呜贵死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2061726076783767799",
+        "created_at": "2026-06-02T13:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T14:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061799073251000675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1406430459878252551",
+              "start": 0,
+              "username": "Al_urie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061799073251000675",
+        "in_reply_to_user_id": "1406430459878252551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061798365596451304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Al_urie 今年涨价了呢🥹运气好差…呜呜呜贵死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1406430459878252551",
+        "conversation_id": "2061726076783767799",
+        "created_at": "2026-06-02T13:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T14:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061798365596451304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061798365596451304",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061726076783767799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 ww这个要三万嘛，印象里高端游戏本价格都很高，之前朋友买4090游戏本差不多这个价格"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4345,
+          "following_count": 6326,
+          "like_count": 15025,
+          "listed_count": 10,
+          "media_count": 302,
+          "tweet_count": 3682
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-20T01:55:47.000Z",
+        "description": "",
+        "id": "1406430459878252551",
+        "name": "上邪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957071601754951680/W2396FJ6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 1324,
+          "like_count": 3715,
+          "listed_count": 4,
+          "media_count": 13,
+          "tweet_count": 118
+        },
+        "username": "Al_urie",
+        "verified": false
+      }
+    ]
+  }
+}

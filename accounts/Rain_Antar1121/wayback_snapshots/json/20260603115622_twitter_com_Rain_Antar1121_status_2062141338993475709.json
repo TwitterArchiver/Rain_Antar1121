@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062141309641740288",
+        "3_2062141309524287488",
+        "3_2062141309520154624",
+        "3_2062141309465645056"
+      ]
+    },
+    "author_id": "1894461745277931524",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2062141338993475709",
+    "created_at": "2026-06-03T11:56:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T12:56:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062141338993475709"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xPLPWCyZuq",
+          "end": 174,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/2062141338993475709/photo/1",
+          "media_key": "3_2062141309641740288",
+          "start": 151,
+          "url": "https://t.co/xPLPWCyZuq"
+        },
+        {
+          "display_url": "pic.x.com/xPLPWCyZuq",
+          "end": 174,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/2062141338993475709/photo/1",
+          "media_key": "3_2062141309524287488",
+          "start": 151,
+          "url": "https://t.co/xPLPWCyZuq"
+        },
+        {
+          "display_url": "pic.x.com/xPLPWCyZuq",
+          "end": 174,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/2062141338993475709/photo/1",
+          "media_key": "3_2062141309520154624",
+          "start": 151,
+          "url": "https://t.co/xPLPWCyZuq"
+        },
+        {
+          "display_url": "pic.x.com/xPLPWCyZuq",
+          "end": 174,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/2062141338993475709/photo/1",
+          "media_key": "3_2062141309465645056",
+          "start": 151,
+          "url": "https://t.co/xPLPWCyZuq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062141338993475709",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🥰自助哈根达斯喵😋现在脑子里全是抹茶哈根达斯啊啊🤤\n\n吃了牛new…唔这店至于四点钟去还要排两个多小时队嘛好离谱😵‍💫虽然寿喜锅涮牛肉卷第一口咬进嘴里的鲜甜好香好难忘…但是吃到半饱就找不回那种感觉了🥺\n\n然后就只记得冰淇淋和旁边的那个抹茶巧克力小甜品了我好爱抹茶好爱抹茶呜呜喵૮ ´͈ ᗜ `͈ ა♡ https://t.co/xPLPWCyZuq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2062141309641740288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ4ymG3a0AA_ah1.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2062141309524287488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ4ymGbaoAAuHK_.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2062141309520154624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ4ymGabkAAIgQv.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2062141309465645056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ4ymGNb0AAmqD3.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062141309641740288",
+            "3_2062141309524287488",
+            "3_2062141309520154624",
+            "3_2062141309465645056"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2062141338993475709",
+        "created_at": "2026-06-03T11:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T12:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062141338993475709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xPLPWCyZuq",
+              "end": 174,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2062141338993475709/photo/1",
+              "media_key": "3_2062141309641740288",
+              "start": 151,
+              "url": "https://t.co/xPLPWCyZuq"
+            },
+            {
+              "display_url": "pic.x.com/xPLPWCyZuq",
+              "end": 174,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2062141338993475709/photo/1",
+              "media_key": "3_2062141309524287488",
+              "start": 151,
+              "url": "https://t.co/xPLPWCyZuq"
+            },
+            {
+              "display_url": "pic.x.com/xPLPWCyZuq",
+              "end": 174,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2062141338993475709/photo/1",
+              "media_key": "3_2062141309520154624",
+              "start": 151,
+              "url": "https://t.co/xPLPWCyZuq"
+            },
+            {
+              "display_url": "pic.x.com/xPLPWCyZuq",
+              "end": 174,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2062141338993475709/photo/1",
+              "media_key": "3_2062141309465645056",
+              "start": 151,
+              "url": "https://t.co/xPLPWCyZuq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062141338993475709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🥰自助哈根达斯喵😋现在脑子里全是抹茶哈根达斯啊啊🤤\n\n吃了牛new…唔这店至于四点钟去还要排两个多小时队嘛好离谱😵‍💫虽然寿喜锅涮牛肉卷第一口咬进嘴里的鲜甜好香好难忘…但是吃到半饱就找不回那种感觉了🥺\n\n然后就只记得冰淇淋和旁边的那个抹茶巧克力小甜品了我好爱抹茶好爱抹茶呜呜喵૮ ´͈ ᗜ `͈ ა♡ https://t.co/xPLPWCyZuq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4392,
+          "following_count": 6357,
+          "like_count": 15138,
+          "listed_count": 10,
+          "media_count": 303,
+          "tweet_count": 3737
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      }
+    ]
+  }
+}

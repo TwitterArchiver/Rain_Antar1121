@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2061726076783767799",
+    "created_at": "2026-06-03T04:56:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T05:56:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062035777455112374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1933596840907194368",
+          "start": 0,
+          "username": "Skyrshzone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062035777455112374",
+    "in_reply_to_user_id": "1933596840907194368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061864906950086751",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Skyrshzone 耶咪～高考加油啾！🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2061726076783767799",
+        "created_at": "2026-06-03T04:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T05:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062035777455112374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1933596840907194368",
+              "start": 0,
+              "username": "Skyrshzone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062035777455112374",
+        "in_reply_to_user_id": "1933596840907194368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061864906950086751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Skyrshzone 耶咪～高考加油啾！🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933596840907194368",
+        "conversation_id": "2061726076783767799",
+        "created_at": "2026-06-02T17:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T18:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061864906950086751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061864906950086751",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061726076783767799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 恭喜恭喜，高考后想买平板电脑打游戏…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4387,
+          "following_count": 6336,
+          "like_count": 15073,
+          "listed_count": 10,
+          "media_count": 302,
+          "tweet_count": 3705
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-13T18:46:41.000Z",
+        "description": "逃生舱@SeisenGetsuo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "SeisenGetsuo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/skyrshzone",
+                "end": 23,
+                "expanded_url": "https://ngl.link/skyrshzone",
+                "start": 0,
+                "url": "https://t.co/HD89N6x04G"
+              }
+            ]
+          }
+        },
+        "id": "1933596840907194368",
+        "location": "Phnom Penh",
+        "name": "冷川緒🏳️‍⚧️",
+        "pinned_tweet_id": "2060015697212899819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059288901232263169/805Cm79S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 182,
+          "like_count": 69090,
+          "listed_count": 0,
+          "media_count": 216,
+          "tweet_count": 3078
+        },
+        "url": "https://t.co/HD89N6x04G",
+        "username": "Skyrshzone",
+        "verified": false
+      }
+    ]
+  }
+}

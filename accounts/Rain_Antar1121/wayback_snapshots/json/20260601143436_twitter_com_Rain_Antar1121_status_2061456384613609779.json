@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2061439760837812592",
+    "created_at": "2026-06-01T14:34:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T15:34:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061456384613609779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1830634729013456896",
+          "start": 0,
+          "username": "duckxucom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061456384613609779",
+    "in_reply_to_user_id": "1830634729013456896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061456040282231074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duckxucom 是哦好像某些地方没有…咱在北京吃到过一次，南京也至少有一个店有…以前有叫汉堡肉排的后来不知道是改名字了还是没了）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2061439760837812592",
+        "created_at": "2026-06-01T14:34:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T15:34:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061456384613609779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1830634729013456896",
+              "start": 0,
+              "username": "duckxucom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061456384613609779",
+        "in_reply_to_user_id": "1830634729013456896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061456040282231074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duckxucom 是哦好像某些地方没有…咱在北京吃到过一次，南京也至少有一个店有…以前有叫汉堡肉排的后来不知道是改名字了还是没了）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830634729013456896",
+        "conversation_id": "2061439760837812592",
+        "created_at": "2026-06-01T14:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T15:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061456040282231074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061456040282231074",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061439760837812592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 看着好好吃！咱去萨莉亚好像没看到过这个（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4324,
+          "following_count": 6296,
+          "like_count": 14908,
+          "listed_count": 10,
+          "media_count": 300,
+          "tweet_count": 3615
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-02T15:52:06.000Z",
+        "description": "友跨顺直Otaku，言论无政治倾向与特定指向性/ @scnazuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "scnazuki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "duckxu.com",
+                "end": 23,
+                "expanded_url": "https://duckxu.com",
+                "start": 0,
+                "url": "https://t.co/HdPvTZwei0"
+              }
+            ]
+          }
+        },
+        "id": "1830634729013456896",
+        "location": "Orison,Crusader",
+        "name": "duckxu",
+        "pinned_tweet_id": "2050758134571176410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997169518125502465/p-1tgjKL_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 126,
+          "like_count": 1287,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 227
+        },
+        "url": "https://t.co/HdPvTZwei0",
+        "username": "duckxucom",
+        "verified": false
+      }
+    ]
+  }
+}
