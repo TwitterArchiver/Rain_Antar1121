@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2063233525072142340",
+    "created_at": "2026-06-06T12:49:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T13:49:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063241919153738200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2026612223788163072",
+          "start": 0,
+          "username": "Roikoyo_AI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063241919153738200",
+    "in_reply_to_user_id": "2026612223788163072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063238989650542865",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Roikoyo_AI 咪呜～咱更享受的是裙摆摩擦丝袜的感觉🥹会忍不住蹭蹭腿喵呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2063233525072142340",
+        "created_at": "2026-06-06T12:49:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T13:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063241919153738200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2026612223788163072",
+              "start": 0,
+              "username": "Roikoyo_AI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063241919153738200",
+        "in_reply_to_user_id": "2026612223788163072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063238989650542865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Roikoyo_AI 咪呜～咱更享受的是裙摆摩擦丝袜的感觉🥹会忍不住蹭蹭腿喵呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026612223788163072",
+        "conversation_id": "2063233525072142340",
+        "created_at": "2026-06-06T12:38:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T13:38:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063238989650542865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063238989650542865",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063233525072142340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 ww,裙摆像波浪一样飘起来真的好好看呢，而且感觉超舒服的，裙子软软的面料包裹着腿部，温柔地轻抚着皮肤真是一种享受喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4426,
+          "following_count": 6395,
+          "like_count": 15279,
+          "listed_count": 10,
+          "media_count": 307,
+          "tweet_count": 3790
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-25T10:58:02.000Z",
+        "description": "MtF I 2008_12 I HRT2026_02_01 I 家长党 I 回复较慢喵～",
+        "id": "2026612223788163072",
+        "name": "落霞寒漪🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2058923218283765914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057136998369091587/cRS-pRoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 187,
+          "like_count": 1095,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 158
+        },
+        "username": "Roikoyo_AI",
+        "verified": false
+      }
+    ]
+  }
+}

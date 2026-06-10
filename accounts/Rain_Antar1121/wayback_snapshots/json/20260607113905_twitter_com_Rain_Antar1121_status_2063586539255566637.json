@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2063233525072142340",
+    "created_at": "2026-06-07T11:39:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T12:39:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063586539255566637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1632079531770253312",
+          "start": 0,
+          "username": "xueqing_qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063586539255566637",
+    "in_reply_to_user_id": "1632079531770253312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063338676911046928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xueqing_qwq 咪呜那就穿出去w…咱已经习惯女装到处逛了咪🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2063233525072142340",
+        "created_at": "2026-06-07T11:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T12:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063586539255566637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1632079531770253312",
+              "start": 0,
+              "username": "xueqing_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063586539255566637",
+        "in_reply_to_user_id": "1632079531770253312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063338676911046928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xueqing_qwq 咪呜那就穿出去w…咱已经习惯女装到处逛了咪🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1632079531770253312",
+        "conversation_id": "2063233525072142340",
+        "created_at": "2026-06-06T19:14:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T20:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063338676911046928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063338676911046928",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063233525072142340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 咱也想穿裙子出去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4430,
+          "following_count": 6393,
+          "like_count": 15283,
+          "listed_count": 10,
+          "media_count": 307,
+          "tweet_count": 3796
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-04T18:04:27.000Z",
+        "description": "搞音乐的友跨小男娘｜「SOUTHLANE 宛南尾巷」乐队主唱 是音响师｜喜欢摇滚和说唱R&B音乐｜心情不好可以找咱，咱会哄你哦｜身高168cm，体重44.5kg awa ｜有对象",
+        "id": "1632079531770253312",
+        "name": "YUKIHARU雪晴",
+        "pinned_tweet_id": "1856694433699529072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052671730393726976/-Y6rgxgL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 686,
+          "like_count": 11590,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 1402
+        },
+        "username": "xueqing_qwq",
+        "verified": false
+      }
+    ]
+  }
+}
