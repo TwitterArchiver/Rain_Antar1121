@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2064341795463647530",
+    "created_at": "2026-06-10T08:22:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T09:22:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064624273030050084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1765154815678779392",
+          "start": 0,
+          "username": "NFhLWuYaiP90228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064624273030050084",
+    "in_reply_to_user_id": "1765154815678779392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064611462598025416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NFhLWuYaiP90228 喵喵呜🥹窝也不懂摄影的哇୯(⁠*⁠´⁠ω⁠｀⁠*⁠)୬抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2064341795463647530",
+        "created_at": "2026-06-10T08:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T09:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064624273030050084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1765154815678779392",
+              "start": 0,
+              "username": "NFhLWuYaiP90228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064624273030050084",
+        "in_reply_to_user_id": "1765154815678779392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064611462598025416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NFhLWuYaiP90228 喵喵呜🥹窝也不懂摄影的哇୯(⁠*⁠´⁠ω⁠｀⁠*⁠)୬抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765154815678779392",
+        "conversation_id": "2064341795463647530",
+        "created_at": "2026-06-10T07:31:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T08:31:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064611462598025416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064611462598025416",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064341795463647530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 不懂摄影的我：好好看！\n喵喵？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4449,
+          "following_count": 6415,
+          "like_count": 15379,
+          "listed_count": 10,
+          "media_count": 308,
+          "tweet_count": 3816
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-05T23:19:09.000Z",
+        "description": "🏳️‍⚧️mtf HRT：2026/3/24から | 坐标大湾区 | 高校生 | acgが好き | 已成功成为家长不管党喵  | 176长发及腰 | 不o不割不🚬不🍺 | 科瓦奇的英雄 | 🏳️‍🌈🏳️‍⚧️",
+        "id": "1765154815678779392",
+        "name": "依松佐河🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058982342295986176/g_UThJOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 557,
+          "like_count": 25814,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 294
+        },
+        "username": "NFhLWuYaiP90228",
+        "verified": false
+      }
+    ]
+  }
+}
