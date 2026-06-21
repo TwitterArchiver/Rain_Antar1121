@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2065109369109553258",
+    "created_at": "2026-06-13T16:10:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T17:10:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065829081183355072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2025104576224055296",
+          "start": 0,
+          "username": "CYan4359"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065829081183355072",
+    "in_reply_to_user_id": "2025104576224055296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065819042485776535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CYan4359 啵啵(｡･ω･｡)ﾉ♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2065109369109553258",
+        "created_at": "2026-06-13T16:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T17:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065829081183355072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2025104576224055296",
+              "start": 0,
+              "username": "CYan4359"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065829081183355072",
+        "in_reply_to_user_id": "2025104576224055296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065819042485776535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CYan4359 啵啵(｡･ω･｡)ﾉ♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025104576224055296",
+        "conversation_id": "2065109369109553258",
+        "created_at": "2026-06-13T15:30:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T16:30:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065819042485776535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065819042485776535",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065109369109553258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 才看到呢 虽然迟到了但是祝生日快乐！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4475,
+          "following_count": 6434,
+          "like_count": 15482,
+          "listed_count": 10,
+          "media_count": 318,
+          "tweet_count": 3872
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-21T07:05:39.000Z",
+        "description": "微小地 无声地 成为尘烟",
+        "id": "2025104576224055296",
+        "location": "随风而去 无处不在",
+        "name": "辰宴",
+        "pinned_tweet_id": "2060935524886691933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025104786207772674/QUvX8qXf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 28,
+          "like_count": 242,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 1084
+        },
+        "username": "CYan4359",
+        "verified": false
+      }
+    ]
+  }
+}

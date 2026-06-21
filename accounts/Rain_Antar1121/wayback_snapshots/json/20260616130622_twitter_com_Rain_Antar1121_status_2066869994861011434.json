@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066869978864013312",
+        "3_2066869978868097024",
+        "3_2066869978918473728"
+      ]
+    },
+    "author_id": "1894461745277931524",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2066869994861011434",
+    "created_at": "2026-06-16T13:06:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T14:06:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066869994861011434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 22,
+          "id": "2042786439738327042",
+          "start": 11,
+          "username": "tiancun520"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nIIXqCRljV",
+          "end": 173,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/2066869994861011434/photo/1",
+          "media_key": "3_2066869978864013312",
+          "start": 150,
+          "url": "https://t.co/nIIXqCRljV"
+        },
+        {
+          "display_url": "pic.x.com/nIIXqCRljV",
+          "end": 173,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/2066869994861011434/photo/1",
+          "media_key": "3_2066869978868097024",
+          "start": 150,
+          "url": "https://t.co/nIIXqCRljV"
+        },
+        {
+          "display_url": "pic.x.com/nIIXqCRljV",
+          "end": 173,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/2066869994861011434/photo/1",
+          "media_key": "3_2066869978918473728",
+          "start": 150,
+          "url": "https://t.co/nIIXqCRljV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066869994861011434",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "回归一下现实生活喵🥺陪@tiancun520玩了喵🥰，大可爱真好耶嘻嘻…\n\n翻了一下相册，这次一起玩居然没拍什么能发的照片唔🥺…就发两张一起在玄武湖的看到的晚霞吧～\n\n总觉得大城市的霞光比山郊野外远一些模糊一些…就像水彩画和水粉画的区别呢，可能是大气透明度不够好或者这次云量太多了叭₍ᐢ..ᐢ₎❤️ https://t.co/nIIXqCRljV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3884,
+        "media_key": "3_2066869978864013312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7_S4cb0AAcDsj.jpg",
+        "width": 2912
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2066869978868097024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7_S4daIAAHOFA.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2116,
+        "media_key": "3_2066869978918473728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7_S4pa0AAxnal.jpg",
+        "width": 2824
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066869978864013312",
+            "3_2066869978868097024",
+            "3_2066869978918473728"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066869994861011434",
+        "created_at": "2026-06-16T13:06:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T14:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066869994861011434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "2042786439738327042",
+              "start": 11,
+              "username": "tiancun520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nIIXqCRljV",
+              "end": 173,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2066869994861011434/photo/1",
+              "media_key": "3_2066869978864013312",
+              "start": 150,
+              "url": "https://t.co/nIIXqCRljV"
+            },
+            {
+              "display_url": "pic.x.com/nIIXqCRljV",
+              "end": 173,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2066869994861011434/photo/1",
+              "media_key": "3_2066869978868097024",
+              "start": 150,
+              "url": "https://t.co/nIIXqCRljV"
+            },
+            {
+              "display_url": "pic.x.com/nIIXqCRljV",
+              "end": 173,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2066869994861011434/photo/1",
+              "media_key": "3_2066869978918473728",
+              "start": 150,
+              "url": "https://t.co/nIIXqCRljV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066869994861011434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "回归一下现实生活喵🥺陪@tiancun520玩了喵🥰，大可爱真好耶嘻嘻…\n\n翻了一下相册，这次一起玩居然没拍什么能发的照片唔🥺…就发两张一起在玄武湖的看到的晚霞吧～\n\n总觉得大城市的霞光比山郊野外远一些模糊一些…就像水彩画和水粉画的区别呢，可能是大气透明度不够好或者这次云量太多了叭₍ᐢ..ᐢ₎❤️ https://t.co/nIIXqCRljV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4485,
+          "following_count": 6439,
+          "like_count": 15518,
+          "listed_count": 10,
+          "media_count": 321,
+          "tweet_count": 3895
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-11T02:07:11.000Z",
+        "description": "2007－11－13",
+        "id": "2042786439738327042",
+        "location": "南京",
+        "name": "田村",
+        "pinned_tweet_id": "2053374065667383446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053374536255762433/0zNnoUBC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 530,
+          "like_count": 420,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 445
+        },
+        "username": "tiancun520",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2067232478268690624",
+    "created_at": "2026-06-17T13:13:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T14:13:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067234242749432156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1945566578327916544",
+          "start": 0,
+          "username": "2477Sion"
+        },
+        {
+          "end": 23,
+          "id": "1986489544045412352",
+          "start": 10,
+          "username": "yx_BA4UED_11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067234242749432156",
+    "in_reply_to_user_id": "1945566578327916544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067233084555370803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2477Sion @yx_BA4UED_11 呜…UED姐姐技术力好强的咱都看不懂🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2067232478268690624",
+        "created_at": "2026-06-17T13:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067234242749432156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1945566578327916544",
+              "start": 0,
+              "username": "2477Sion"
+            },
+            {
+              "end": 23,
+              "id": "1986489544045412352",
+              "start": 10,
+              "username": "yx_BA4UED_11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067234242749432156",
+        "in_reply_to_user_id": "1945566578327916544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067233084555370803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2477Sion @yx_BA4UED_11 呜…UED姐姐技术力好强的咱都看不懂🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945566578327916544",
+        "conversation_id": "2067232478268690624",
+        "created_at": "2026-06-17T13:09:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067233084555370803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 29,
+              "id": "1986489544045412352",
+              "start": 16,
+              "username": "yx_BA4UED_11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067233084555370803",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067232478268690624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 @yx_BA4UED_11 好高级的样子()"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4503,
+          "following_count": 6468,
+          "like_count": 15600,
+          "listed_count": 10,
+          "media_count": 323,
+          "tweet_count": 3916
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-16T19:30:22.000Z",
+        "description": "MTF/INTJ 5w4/165cm 50±kg/HRT/RLE/弱社交/键政负能勿扰/墙外会发涩涩相关但现实中比较正常所以不要觉得我很奇怪/推特有时候不会有消息推送，如果是提问超过一天没回答可以私信我",
+        "id": "1945566578327916544",
+        "name": "Sion_诗🍥",
+        "pinned_tweet_id": "2065556793384902742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066129325020393472/Pcu9ZUWF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1247,
+          "following_count": 11,
+          "like_count": 53,
+          "listed_count": 9,
+          "media_count": 45,
+          "tweet_count": 343
+        },
+        "username": "2477Sion",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-06T17:43:43.000Z",
+        "description": "F，Callsign BA4UED",
+        "id": "1986489544045412352",
+        "name": "BA4UED🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052087582629261312/Opmuipd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 143,
+          "like_count": 964,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 175
+        },
+        "username": "yx_BA4UED_11",
+        "verified": false
+      }
+    ]
+  }
+}
