@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2069376788409803148",
+    "created_at": "2026-06-24T08:23:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T09:23:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069697815564185686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1813261726391148546",
+          "start": 0,
+          "username": "James483582762"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069697815564185686",
+    "in_reply_to_user_id": "1813261726391148546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069622284290035961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@James483582762 城市里用什么都拍不到）\n咕咱也难得跑一次环境好的地方呢🥹要是我钱买相机有劲学摄影就好了😵‍💫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2069376788409803148",
+        "created_at": "2026-06-24T08:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T09:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069697815564185686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1813261726391148546",
+              "start": 0,
+              "username": "James483582762"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069697815564185686",
+        "in_reply_to_user_id": "1813261726391148546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069622284290035961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@James483582762 城市里用什么都拍不到）\n咕咱也难得跑一次环境好的地方呢🥹要是我钱买相机有劲学摄影就好了😵‍💫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813261726391148546",
+        "conversation_id": "2069376788409803148",
+        "created_at": "2026-06-24T03:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T04:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069622284290035961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069622284290035961",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069376788409803148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 这是能用手机拍到的吗\n为什么我在城市里几乎啥也看不见"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4565,
+          "following_count": 6543,
+          "like_count": 15956,
+          "listed_count": 10,
+          "media_count": 341,
+          "tweet_count": 4056
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-16T17:18:11.000Z",
+        "description": "xyn，深柜，大学在读，计算机爱好者，激进自由主义者。欢迎同类互fo。自由，独立，进步",
+        "id": "1813261726391148546",
+        "name": "CuteOmega🏳️‍⚧️🏳️‍🌈🇹🇼🍥",
+        "pinned_tweet_id": "2069426260850167864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057526672438751232/SUqk_-gn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 569,
+          "like_count": 9654,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 866
+        },
+        "url": "",
+        "username": "James483582762",
+        "verified": false
+      }
+    ]
+  }
+}

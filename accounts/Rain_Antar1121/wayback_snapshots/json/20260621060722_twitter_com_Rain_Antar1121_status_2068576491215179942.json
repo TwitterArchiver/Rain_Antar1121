@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2068367773475164629",
+    "created_at": "2026-06-21T06:07:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T07:07:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068576491215179942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2023993992783044608",
+          "start": 0,
+          "username": "DerekHam_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068576491215179942",
+    "in_reply_to_user_id": "2023993992783044608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068369912637354144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DerekHam_ 那咱更羡慕的就是自由啦🥹有闲出去玩真好！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2068367773475164629",
+        "created_at": "2026-06-21T06:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T07:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068576491215179942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2023993992783044608",
+              "start": 0,
+              "username": "DerekHam_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068576491215179942",
+        "in_reply_to_user_id": "2023993992783044608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068369912637354144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DerekHam_ 那咱更羡慕的就是自由啦🥹有闲出去玩真好！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023993992783044608",
+        "conversation_id": "2068367773475164629",
+        "created_at": "2026-06-20T16:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T17:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068369912637354144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068369912637354144",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068368736521015533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 诶……谢谢，其实如果经济条件还可以的话，全世界到处跑是不会有太大的开销的（前提是一定要选好最优解，比如说趁没满16岁去瑞士，绝大部分景点门票和火车对我都是免费的，最后和在国内旅游相比也没贵多少😋）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4532,
+          "following_count": 6495,
+          "like_count": 15740,
+          "listed_count": 10,
+          "media_count": 328,
+          "tweet_count": 3977
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-18T05:32:34.000Z",
+        "description": "Aerospace/Urbanism/Physics/Astronomy/SciFi\nIBDP Student\nCN(简繁皆可)&EN; DE ein bisschen. \n什么都会点，有意思的东西都可以来分享讨论，欢迎各位\nCall me Derek/Ham/DerekHam. Gender Neutral.",
+        "id": "2023993992783044608",
+        "location": "Global Citizen, I Guess",
+        "name": "DerekHam",
+        "pinned_tweet_id": "2055700446757699622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024073322666020865/2E08phB__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 64,
+          "like_count": 491,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 192
+        },
+        "url": "",
+        "username": "DerekHam_",
+        "verified": false
+      }
+    ]
+  }
+}

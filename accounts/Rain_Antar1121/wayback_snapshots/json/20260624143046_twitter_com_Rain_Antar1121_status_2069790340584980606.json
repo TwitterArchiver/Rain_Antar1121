@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2069713835574092269",
+    "created_at": "2026-06-24T14:30:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T15:30:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069790340584980606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1866155254406127616",
+          "start": 0,
+          "username": "HayakawaFeixue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069790340584980606",
+    "in_reply_to_user_id": "1866155254406127616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069713835574092269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HayakawaFeixue 是小证哦～喵喵小证恭喜🥰🎉抱住持证小姐姐亲😘"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2098,
+        "media_key": "3_2069713827164258304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLkZwo7XAAAXZk2.jpg",
+        "width": 2524
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2069713835574092269",
+        "created_at": "2026-06-24T14:30:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T15:30:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069790340584980606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1866155254406127616",
+              "start": 0,
+              "username": "HayakawaFeixue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069790340584980606",
+        "in_reply_to_user_id": "1866155254406127616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069713835574092269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HayakawaFeixue 是小证哦～喵喵小证恭喜🥰🎉抱住持证小姐姐亲😘"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069713827164258304"
+          ]
+        },
+        "author_id": "1866155254406127616",
+        "conversation_id": "2069713835574092269",
+        "created_at": "2026-06-24T09:26:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T10:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069713835574092269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r8lAnbVX6p",
+              "end": 74,
+              "expanded_url": "https://x.com/HayakawaFeixue/status/2069713835574092269/photo/1",
+              "media_key": "3_2069713827164258304",
+              "start": 51,
+              "url": "https://t.co/r8lAnbVX6p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069713835574092269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "挑战成功（存疑？）\n不是很清楚这个是不是小证呢……\n黄医生说后面需要找陆医生或者刘医生复核诊断……🤔 https://t.co/r8lAnbVX6p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4572,
+          "following_count": 6560,
+          "like_count": 16004,
+          "listed_count": 10,
+          "media_count": 343,
+          "tweet_count": 4068
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-09T16:18:08.000Z",
+        "description": "出厂时间2007.05/坐标上海/头像是oc/自介在置顶/小企鹅@whitecloud_ybw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 32,
+                "username": "whitecloud_ybw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sayuki37995",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sayuki37995",
+                "start": 0,
+                "url": "https://t.co/J9EwxGm0Er"
+              }
+            ]
+          }
+        },
+        "id": "1866155254406127616",
+        "location": "Toshima-ku, Tokyo",
+        "name": "早川雪",
+        "pinned_tweet_id": "2066325659358818567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069094372499689472/bTeW2yPV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 593,
+          "like_count": 334,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 115
+        },
+        "url": "https://t.co/J9EwxGm0Er",
+        "username": "HayakawaFeixue",
+        "verified": false
+      }
+    ]
+  }
+}

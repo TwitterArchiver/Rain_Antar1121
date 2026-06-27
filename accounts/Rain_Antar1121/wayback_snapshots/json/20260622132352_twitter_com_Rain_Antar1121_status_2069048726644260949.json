@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2069026877411647780",
+    "created_at": "2026-06-22T13:23:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T14:23:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069048726644260949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1945566578327916544",
+          "start": 0,
+          "username": "2477Sion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069048726644260949",
+    "in_reply_to_user_id": "1945566578327916544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069030079070629900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2477Sion 只露了半个头的龙龙ෆ( ˶'ᵕ'˶)ෆ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2069026877411647780",
+        "created_at": "2026-06-22T13:23:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T14:23:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069048726644260949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1945566578327916544",
+              "start": 0,
+              "username": "2477Sion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069048726644260949",
+        "in_reply_to_user_id": "1945566578327916544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069030079070629900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2477Sion 只露了半个头的龙龙ෆ( ˶'ᵕ'˶)ෆ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945566578327916544",
+        "conversation_id": "2069026877411647780",
+        "created_at": "2026-06-22T12:09:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T13:09:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069030079070629900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069030079070629900",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069026877411647780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 哇，是我喜欢的天龙座🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4547,
+          "following_count": 6523,
+          "like_count": 15865,
+          "listed_count": 10,
+          "media_count": 336,
+          "tweet_count": 4021
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-16T19:30:22.000Z",
+        "description": "MTF/MATH/INTJ 5w4/弱社交/键政负能勿扰/没进国集是一生的痛/喜欢热爱生活的人/总有天我要到达那个地方然后取回我曾失去的东西",
+        "id": "1945566578327916544",
+        "location": "这是个～秘密哟～",
+        "name": "Sion_诗🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2065556793384902742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066129325020393472/Pcu9ZUWF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1272,
+          "following_count": 17,
+          "like_count": 97,
+          "listed_count": 9,
+          "media_count": 59,
+          "tweet_count": 453
+        },
+        "url": "",
+        "username": "2477Sion",
+        "verified": true
+      }
+    ]
+  }
+}
