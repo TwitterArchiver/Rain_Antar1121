@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069340390411673600"
+      ]
+    },
+    "author_id": "1894461745277931524",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Horoscope",
+          "id": "1068226612380889088",
+          "name": "Horoscope"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Astrology",
+          "id": "1102600979491381248",
+          "name": "Astrology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Scorpio",
+          "id": "1138888237630386177",
+          "name": "Scorpio"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Horoscope",
+          "id": "1068226612380889088",
+          "name": "Horoscope"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Astrology",
+          "id": "1102600979491381248",
+          "name": "Astrology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Scorpio",
+          "id": "1138888237630386177",
+          "name": "Scorpio"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      }
+    ],
+    "conversation_id": "2069340405720879306",
+    "created_at": "2026-06-23T08:42:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T09:42:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069340405720879306"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LMxIodd5QN",
+          "end": 172,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/2069340405720879306/photo/1",
+          "media_key": "3_2069340390411673600",
+          "start": 149,
+          "url": "https://t.co/LMxIodd5QN"
+        },
+        {
+          "display_url": "x.com/rain_antar1121…",
+          "end": 196,
+          "expanded_url": "https://twitter.com/rain_antar1121/status/2068620229740007814",
+          "start": 173,
+          "url": "https://t.co/CLy8vJEWTb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069340405720879306",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068620229740007814",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RA作为恒星敏感器的日常之天蝎篇\nヾ(๑╹ヮ╹๑)ﾉ”\n\n天蝎是最形象最可爱的星座喵🥰Antares就是蝎之赤心哦，静悄悄盯着盛夏的世界眨眨眼😘\n\n虽然银河系中心的方向铺了很厚一层星际尘埃…但是好环境里很容易看出银心的丰饶呢，三四等星的密度就会高很多～望着那里就好像能掌控这整座宏伟宇宙岛的形状… https://t.co/LMxIodd5QN https://t.co/CLy8vJEWTb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2069340390411673600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfGHwnbIAA8lzP.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2068619065699205120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLU2FIqaAAA28oH.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069340390411673600"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Scorpio",
+              "id": "1138888237630386177",
+              "name": "Scorpio"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Scorpio",
+              "id": "1138888237630386177",
+              "name": "Scorpio"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "2069340405720879306",
+        "created_at": "2026-06-23T08:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T09:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069340405720879306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LMxIodd5QN",
+              "end": 172,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2069340405720879306/photo/1",
+              "media_key": "3_2069340390411673600",
+              "start": 149,
+              "url": "https://t.co/LMxIodd5QN"
+            },
+            {
+              "display_url": "x.com/rain_antar1121…",
+              "end": 196,
+              "expanded_url": "https://twitter.com/rain_antar1121/status/2068620229740007814",
+              "start": 173,
+              "url": "https://t.co/CLy8vJEWTb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069340405720879306",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068620229740007814",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RA作为恒星敏感器的日常之天蝎篇\nヾ(๑╹ヮ╹๑)ﾉ”\n\n天蝎是最形象最可爱的星座喵🥰Antares就是蝎之赤心哦，静悄悄盯着盛夏的世界眨眨眼😘\n\n虽然银河系中心的方向铺了很厚一层星际尘埃…但是好环境里很容易看出银心的丰饶呢，三四等星的密度就会高很多～望着那里就好像能掌控这整座宏伟宇宙岛的形状… https://t.co/LMxIodd5QN https://t.co/CLy8vJEWTb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068619065699205120"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "conversation_id": "2068620229740007814",
+        "created_at": "2026-06-21T09:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T09:56:35.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068619078064116116",
+          "2068620229740007814"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R5YO1PEdms",
+              "end": 144,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2068620229740007814/photo/1",
+              "media_key": "3_2068619065699205120",
+              "start": 121,
+              "url": "https://t.co/R5YO1PEdms"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068620229740007814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "锵锵！主包今天露个脸喵，一睹真容啦🥺轻喷x）嗯对正中间最亮的那只小可爱就是我\n(⑅˘̤ ᵕ˘̤)*♡*\n\n也就是心宿二～Antares喵，天蝎之炽烈红心…七月流火的那团火～有多少人知道咱的名字里是颗星星呢ฅ₍ᐢ⸝⸝›  ̫ ‹⸝⸝ᐢ₎ฅ˒˒\n\n拍到了人马座纹理丰富的灿烂银河～整只天蝎都很清晰w，天蝎之尾勾起来的方向就是富饶的银河系中心哦🥰"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1894,
+          "like_count": 83,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "锵锵！主包今天露个脸喵，一睹真容啦🥺轻喷x）嗯对正中间最亮的那只小可爱就是我\n(⑅˘̤ ᵕ˘̤)*♡*\n\n也就是心宿二～Antares喵，天蝎之炽烈红心…七月流火的那团火～有多少人知道咱的名字里是颗星星呢ฅ₍ᐢ⸝⸝›  ̫ ‹⸝⸝ᐢ₎ฅ˒˒ https://t.co/R5YO1PEdms"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4555,
+          "following_count": 6529,
+          "like_count": 15903,
+          "listed_count": 10,
+          "media_count": 338,
+          "tweet_count": 4034
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true
+      }
+    ]
+  }
+}
