@@ -1,0 +1,508 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071222127198699520",
+        "3_2071222127198720000",
+        "3_2071222127274123264",
+        "3_2071222127202803712"
+      ]
+    },
+    "author_id": "1894461745277931524",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Weather",
+          "id": "857083369514876928",
+          "name": "Weather"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1412542101984710656",
+          "name": "Rainy season"
+        }
+      },
+      {
+        "domain": {
+          "description": "Weather-related topics like Boston weather or Earthquakes",
+          "id": "155",
+          "name": "Weather"
+        },
+        "entity": {
+          "id": "1412542101984710656",
+          "name": "Rainy season"
+        }
+      }
+    ],
+    "conversation_id": "2071222147360624685",
+    "created_at": "2026-06-28T13:20:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T14:20:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071222147360624685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1838370893187395584",
+          "start": 1,
+          "username": "Cherry_BombY458"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UbQVWpLJaK",
+          "end": 182,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/2071222147360624685/photo/1",
+          "media_key": "3_2071222127198699520",
+          "start": 159,
+          "url": "https://t.co/UbQVWpLJaK"
+        },
+        {
+          "display_url": "pic.x.com/UbQVWpLJaK",
+          "end": 182,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/2071222147360624685/photo/1",
+          "media_key": "3_2071222127198720000",
+          "start": 159,
+          "url": "https://t.co/UbQVWpLJaK"
+        },
+        {
+          "display_url": "pic.x.com/UbQVWpLJaK",
+          "end": 182,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/2071222147360624685/photo/1",
+          "media_key": "3_2071222127274123264",
+          "start": 159,
+          "url": "https://t.co/UbQVWpLJaK"
+        },
+        {
+          "display_url": "pic.x.com/UbQVWpLJaK",
+          "end": 182,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/2071222147360624685/photo/1",
+          "media_key": "3_2071222127202803712",
+          "start": 159,
+          "url": "https://t.co/UbQVWpLJaK"
+        },
+        {
+          "display_url": "x.com/cherry_bomby45…",
+          "end": 206,
+          "expanded_url": "https://twitter.com/cherry_bomby458/status/2068294896247853169",
+          "start": 183,
+          "url": "https://t.co/jFre3V57wv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071222147360624685",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068294896247853169",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "陪@Cherry_BombY458 一起玩的喵！唉啊都过去好久了咱这个发推效率呜呜🥹\n\n嗯天气挺差的所以到处转悠也没拍什么照片…梅雨季不适合来江浙沪玩的呜呜，虽然抱一起很开心但是总觉得这个天气好可惜ヘ(&gt;_&lt;ヘ)\n\n吃了海底捞～一周内都陪人吃两次海底捞了）喝了杯红色的小东西…陪她越聊越熟的感觉好神奇的w https://t.co/UbQVWpLJaK https://t.co/jFre3V57wv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3980,
+        "media_key": "3_2071222127198699520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL51jQabgAAjD0D.jpg",
+        "width": 2984
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2071222127198720000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL51jQab0AAKYpE.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2071222127274123264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL51jQsaYAAm4Zv.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2071222127202803712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL51jQbaIAA6kz-.jpg",
+        "width": 3072
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2068294886307328000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQPPaUa8AAMUEz.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2068294886584102912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQPPbWaMAA_fIF.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068294874823307264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQPOviasAA5lya.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071222127198699520",
+            "3_2071222127198720000",
+            "3_2071222127274123264",
+            "3_2071222127202803712"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Weather",
+              "id": "857083369514876928",
+              "name": "Weather"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1412542101984710656",
+              "name": "Rainy season"
+            }
+          },
+          {
+            "domain": {
+              "description": "Weather-related topics like Boston weather or Earthquakes",
+              "id": "155",
+              "name": "Weather"
+            },
+            "entity": {
+              "id": "1412542101984710656",
+              "name": "Rainy season"
+            }
+          }
+        ],
+        "conversation_id": "2071222147360624685",
+        "created_at": "2026-06-28T13:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T14:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071222147360624685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1838370893187395584",
+              "start": 1,
+              "username": "Cherry_BombY458"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UbQVWpLJaK",
+              "end": 182,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2071222147360624685/photo/1",
+              "media_key": "3_2071222127198699520",
+              "start": 159,
+              "url": "https://t.co/UbQVWpLJaK"
+            },
+            {
+              "display_url": "pic.x.com/UbQVWpLJaK",
+              "end": 182,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2071222147360624685/photo/1",
+              "media_key": "3_2071222127198720000",
+              "start": 159,
+              "url": "https://t.co/UbQVWpLJaK"
+            },
+            {
+              "display_url": "pic.x.com/UbQVWpLJaK",
+              "end": 182,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2071222147360624685/photo/1",
+              "media_key": "3_2071222127274123264",
+              "start": 159,
+              "url": "https://t.co/UbQVWpLJaK"
+            },
+            {
+              "display_url": "pic.x.com/UbQVWpLJaK",
+              "end": 182,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2071222147360624685/photo/1",
+              "media_key": "3_2071222127202803712",
+              "start": 159,
+              "url": "https://t.co/UbQVWpLJaK"
+            },
+            {
+              "display_url": "x.com/cherry_bomby45…",
+              "end": 206,
+              "expanded_url": "https://twitter.com/cherry_bomby458/status/2068294896247853169",
+              "start": 183,
+              "url": "https://t.co/jFre3V57wv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071222147360624685",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068294896247853169",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "陪@Cherry_BombY458 一起玩的喵！唉啊都过去好久了咱这个发推效率呜呜🥹\n\n嗯天气挺差的所以到处转悠也没拍什么照片…梅雨季不适合来江浙沪玩的呜呜，虽然抱一起很开心但是总觉得这个天气好可惜ヘ(&gt;_&lt;ヘ)\n\n吃了海底捞～一周内都陪人吃两次海底捞了）喝了杯红色的小东西…陪她越聊越熟的感觉好神奇的w https://t.co/UbQVWpLJaK https://t.co/jFre3V57wv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068294886307328000",
+            "3_2068294886584102912",
+            "3_2068294874823307264"
+          ]
+        },
+        "author_id": "1838370893187395584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2068294896247853169",
+        "created_at": "2026-06-20T11:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T12:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068294896247853169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1894461745277931524",
+              "start": 4,
+              "username": "Rain_Antar1121"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5GOop6zHUf",
+              "end": 66,
+              "expanded_url": "https://x.com/Cherry_BombY458/status/2068294896247853169/photo/1",
+              "media_key": "3_2068294886307328000",
+              "start": 43,
+              "url": "https://t.co/5GOop6zHUf"
+            },
+            {
+              "display_url": "pic.x.com/5GOop6zHUf",
+              "end": 66,
+              "expanded_url": "https://x.com/Cherry_BombY458/status/2068294896247853169/photo/1",
+              "media_key": "3_2068294886584102912",
+              "start": 43,
+              "url": "https://t.co/5GOop6zHUf"
+            },
+            {
+              "display_url": "pic.x.com/5GOop6zHUf",
+              "end": 66,
+              "expanded_url": "https://x.com/Cherry_BombY458/status/2068294896247853169/photo/1",
+              "media_key": "3_2068294874823307264",
+              "start": 43,
+              "url": "https://t.co/5GOop6zHUf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068294896247853169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1934,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和ra @Rain_Antar1121 在南京的一日游\n(好可爱 好喜欢的小蛋糕w🥰 https://t.co/5GOop6zHUf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4590,
+          "following_count": 6570,
+          "like_count": 16053,
+          "listed_count": 10,
+          "media_count": 345,
+          "tweet_count": 4089
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-24T00:12:38.000Z",
+        "description": "｡:.ﾟヽ(*´∀`)ﾉﾟ.:｡",
+        "id": "1838370893187395584",
+        "location": "your heart",
+        "name": "-4°",
+        "pinned_tweet_id": "1932803561873899837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051646450636120064/AhHTwXKs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 958,
+          "like_count": 2871,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 1120
+        },
+        "url": "",
+        "username": "Cherry_BombY458",
+        "verified": false
+      }
+    ]
+  }
+}

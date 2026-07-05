@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2071222147360624685",
+    "created_at": "2026-06-28T13:27:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T14:27:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071223880468054193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2049152504542449664",
+          "start": 0,
+          "username": "hasaki_sama"
+        },
+        {
+          "end": 29,
+          "id": "1838370893187395584",
+          "start": 13,
+          "username": "Cherry_BombY458"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071223880468054193",
+    "in_reply_to_user_id": "2049152504542449664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071223794677784631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hasaki_sama @Cherry_BombY458 耶嘻嘻 (◍＞◡＜◍)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2071222147360624685",
+        "created_at": "2026-06-28T13:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T14:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071223880468054193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2049152504542449664",
+              "start": 0,
+              "username": "hasaki_sama"
+            },
+            {
+              "end": 29,
+              "id": "1838370893187395584",
+              "start": 13,
+              "username": "Cherry_BombY458"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071223880468054193",
+        "in_reply_to_user_id": "2049152504542449664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071223794677784631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hasaki_sama @Cherry_BombY458 耶嘻嘻 (◍＞◡＜◍)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049152504542449664",
+        "conversation_id": "2071222147360624685",
+        "created_at": "2026-06-28T13:26:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T14:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071223794677784631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 32,
+              "id": "1838370893187395584",
+              "start": 16,
+              "username": "Cherry_BombY458"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071223794677784631",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071222147360624685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 @Cherry_BombY458 ww幸福喵！＞𐋣＜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4590,
+          "following_count": 6570,
+          "like_count": 16056,
+          "listed_count": 10,
+          "media_count": 345,
+          "tweet_count": 4092
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-28T15:48:05.000Z",
+        "description": "An graduated junior high student from China ( ^ω^ )\n爱好 AI科技/信息技术/日本語/ACG/羽球🏸\nLGBTQ+/友跨🍥/键政❌\n目前正励志成为一名合格的Developer！\nhttps://t.co/VDLGVdRk4Y",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hasaki_0612",
+                "end": 138,
+                "expanded_url": "http://t.me/hasaki_0612",
+                "start": 115,
+                "url": "https://t.co/VDLGVdRk4Y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hasaki0612-lab.github.io",
+                "end": 23,
+                "expanded_url": "https://hasaki0612-lab.github.io/",
+                "start": 0,
+                "url": "https://t.co/nNs1GIHKk5"
+              }
+            ]
+          }
+        },
+        "id": "2049152504542449664",
+        "location": "Sapporo City Higashi Ward",
+        "name": "Neko 🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065503629424095233/2n7J0sWL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 296,
+          "like_count": 1373,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 817
+        },
+        "url": "https://t.co/nNs1GIHKk5",
+        "username": "hasaki_sama",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-24T00:12:38.000Z",
+        "description": "｡:.ﾟヽ(*´∀`)ﾉﾟ.:｡",
+        "id": "1838370893187395584",
+        "location": "your heart",
+        "name": "-4°",
+        "pinned_tweet_id": "1932803561873899837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051646450636120064/AhHTwXKs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 958,
+          "like_count": 2872,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 1122
+        },
+        "url": "",
+        "username": "Cherry_BombY458",
+        "verified": false
+      }
+    ]
+  }
+}
