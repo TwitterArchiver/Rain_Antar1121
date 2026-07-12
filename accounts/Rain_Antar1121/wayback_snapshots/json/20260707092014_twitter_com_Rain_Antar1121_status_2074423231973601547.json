@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074165280281108480",
+        "3_2074165280230739968",
+        "3_2074165280272793600"
+      ],
+      "media_source_tweet_id": [
+        "2074165285817630999",
+        "2074165285817630999",
+        "2074165285817630999"
+      ]
+    },
+    "author_id": "1894461745277931524",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10051379260",
+          "name": "Love, Chunibyo and Other Delusions"
+        }
+      }
+    ],
+    "conversation_id": "2074423231973601547",
+    "created_at": "2026-07-07T09:20:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T10:20:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074423231973601547"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 53,
+          "start": 45,
+          "tag": "chu2koi"
+        },
+        {
+          "end": 66,
+          "start": 55,
+          "tag": "中二病でも恋がしたい"
+        },
+        {
+          "end": 80,
+          "start": 68,
+          "tag": "富樫勇太生誕祭2026"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1909976704216641536",
+          "start": 3,
+          "username": "rikkaaaa0612"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/em51ip4TdS",
+          "end": 104,
+          "expanded_url": "https://x.com/rikkaaaa0612/status/2074165285817630999/photo/1",
+          "media_key": "3_2074165280281108480",
+          "start": 81,
+          "url": "https://t.co/em51ip4TdS"
+        },
+        {
+          "display_url": "pic.x.com/em51ip4TdS",
+          "end": 104,
+          "expanded_url": "https://x.com/rikkaaaa0612/status/2074165285817630999/photo/1",
+          "media_key": "3_2074165280230739968",
+          "start": 81,
+          "url": "https://t.co/em51ip4TdS"
+        },
+        {
+          "display_url": "pic.x.com/em51ip4TdS",
+          "end": 104,
+          "expanded_url": "https://x.com/rikkaaaa0612/status/2074165285817630999/photo/1",
+          "media_key": "3_2074165280272793600",
+          "start": 81,
+          "url": "https://t.co/em51ip4TdS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074423231973601547",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074165285817630999",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rikkaaaa0612: 勇太誕生日おめでとう！！\n七宮の1日後なのなんか良い\n#chu2koi \n#中二病でも恋がしたい \n#富樫勇太生誕祭2026 https://t.co/em51ip4TdS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2074165280281108480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjqVUCaoAAaRnM.jpg",
+        "width": 1206
+      },
+      {
+        "height": 910,
+        "media_key": "3_2074165280230739968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjqVT2aEAAZsGI.jpg",
+        "width": 1640
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2074165280272793600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjqVUAbwAA1QoP.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074165280281108480",
+            "3_2074165280230739968",
+            "3_2074165280272793600"
+          ],
+          "media_source_tweet_id": [
+            "2074165285817630999",
+            "2074165285817630999",
+            "2074165285817630999"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051379260",
+              "name": "Love, Chunibyo and Other Delusions"
+            }
+          }
+        ],
+        "conversation_id": "2074423231973601547",
+        "created_at": "2026-07-07T09:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T10:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074423231973601547"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 45,
+              "tag": "chu2koi"
+            },
+            {
+              "end": 66,
+              "start": 55,
+              "tag": "中二病でも恋がしたい"
+            },
+            {
+              "end": 80,
+              "start": 68,
+              "tag": "富樫勇太生誕祭2026"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1909976704216641536",
+              "start": 3,
+              "username": "rikkaaaa0612"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/em51ip4TdS",
+              "end": 104,
+              "expanded_url": "https://x.com/rikkaaaa0612/status/2074165285817630999/photo/1",
+              "media_key": "3_2074165280281108480",
+              "start": 81,
+              "url": "https://t.co/em51ip4TdS"
+            },
+            {
+              "display_url": "pic.x.com/em51ip4TdS",
+              "end": 104,
+              "expanded_url": "https://x.com/rikkaaaa0612/status/2074165285817630999/photo/1",
+              "media_key": "3_2074165280230739968",
+              "start": 81,
+              "url": "https://t.co/em51ip4TdS"
+            },
+            {
+              "display_url": "pic.x.com/em51ip4TdS",
+              "end": 104,
+              "expanded_url": "https://x.com/rikkaaaa0612/status/2074165285817630999/photo/1",
+              "media_key": "3_2074165280272793600",
+              "start": 81,
+              "url": "https://t.co/em51ip4TdS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074423231973601547",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074165285817630999",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rikkaaaa0612: 勇太誕生日おめでとう！！\n七宮の1日後なのなんか良い\n#chu2koi \n#中二病でも恋がしたい \n#富樫勇太生誕祭2026 https://t.co/em51ip4TdS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074165280281108480",
+            "3_2074165280230739968",
+            "3_2074165280272793600"
+          ]
+        },
+        "author_id": "1909976704216641536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051379260",
+              "name": "Love, Chunibyo and Other Delusions"
+            }
+          }
+        ],
+        "conversation_id": "2074165285817630999",
+        "created_at": "2026-07-06T16:15:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T17:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074165285817630999"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 27,
+              "tag": "chu2koi"
+            },
+            {
+              "end": 48,
+              "start": 37,
+              "tag": "中二病でも恋がしたい"
+            },
+            {
+              "end": 62,
+              "start": 50,
+              "tag": "富樫勇太生誕祭2026"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/em51ip4TdS",
+              "end": 86,
+              "expanded_url": "https://x.com/rikkaaaa0612/status/2074165285817630999/photo/1",
+              "media_key": "3_2074165280281108480",
+              "start": 63,
+              "url": "https://t.co/em51ip4TdS"
+            },
+            {
+              "display_url": "pic.x.com/em51ip4TdS",
+              "end": 86,
+              "expanded_url": "https://x.com/rikkaaaa0612/status/2074165285817630999/photo/1",
+              "media_key": "3_2074165280230739968",
+              "start": 63,
+              "url": "https://t.co/em51ip4TdS"
+            },
+            {
+              "display_url": "pic.x.com/em51ip4TdS",
+              "end": 86,
+              "expanded_url": "https://x.com/rikkaaaa0612/status/2074165285817630999/photo/1",
+              "media_key": "3_2074165280272793600",
+              "start": 63,
+              "url": "https://t.co/em51ip4TdS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074165285817630999",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 2284,
+          "like_count": 190,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "勇太誕生日おめでとう！！\n七宮の1日後なのなんか良い\n#chu2koi \n#中二病でも恋がしたい \n#富樫勇太生誕祭2026 https://t.co/em51ip4TdS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4633,
+          "following_count": 6638,
+          "like_count": 16335,
+          "listed_count": 10,
+          "media_count": 349,
+          "tweet_count": 4160
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-09T14:28:38.000Z",
+        "description": "lite.(らいと)です。中二病でも恋がしたい!を愛してやまない高校生です。中二恋が好きなことしか取り柄がありません。京アニ/ Key",
+        "id": "1909976704216641536",
+        "location": "ペペロビアバニステ",
+        "name": "lite.",
+        "pinned_tweet_id": "2065089212484100547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910823179263848448/MCyvkGCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 99,
+          "like_count": 4943,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 448
+        },
+        "url": "",
+        "username": "rikkaaaa0612",
+        "verified": false
+      }
+    ]
+  }
+}

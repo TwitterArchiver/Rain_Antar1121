@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2074523167755038929",
+    "created_at": "2026-07-07T16:18:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T17:18:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074528474325524817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1932434375955857409",
+          "start": 0,
+          "username": "ena1_mizuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074528474325524817",
+    "in_reply_to_user_id": "1932434375955857409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074523167755038929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ena1_mizuki 咱也想这样哼咕呜呜…感觉自己一辈子都摸索不到街头随便一个化妆师的水平呜呜呜🥹被打扮了一次之后都没有勇气自己化妆惹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "3_2074523165154521088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMov09FasAAjCZy.jpg",
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2074523167755038929",
+        "created_at": "2026-07-07T16:18:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T17:18:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074528474325524817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074528474325524817",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074523167755038929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 咱也想这样哼咕呜呜…感觉自己一辈子都摸索不到街头随便一个化妆师的水平呜呜呜🥹被打扮了一次之后都没有勇气自己化妆惹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074523165154521088"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "2074523167755038929",
+        "created_at": "2026-07-07T15:57:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T16:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074523167755038929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qAlLxo00od",
+              "end": 79,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2074523167755038929/photo/1",
+              "media_key": "3_2074523165154521088",
+              "start": 56,
+              "url": "https://t.co/qAlLxo00od"
+            },
+            {
+              "display_url": "x.com/ena1_mizuki/st…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/ena1_mizuki/status/2074442324399288796",
+              "start": 80,
+              "url": "https://t.co/tJgHOptDHQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074523167755038929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074442324399288796",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实今天去专业照相馆化妆拍照，并且带妆逛街，是因为昨天在学校照相馆拍的超级丑，简直像哈兰德一样，被刺激gd了😡 https://t.co/qAlLxo00od https://t.co/tJgHOptDHQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4634,
+          "following_count": 6634,
+          "like_count": 16337,
+          "listed_count": 10,
+          "media_count": 349,
+          "tweet_count": 4161
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2169,
+          "following_count": 1330,
+          "like_count": 19219,
+          "listed_count": 8,
+          "media_count": 746,
+          "tweet_count": 5555
+        },
+        "url": "",
+        "username": "ena1_mizuki",
+        "verified": true
+      }
+    ]
+  }
+}

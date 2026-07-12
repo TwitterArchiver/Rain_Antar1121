@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2074832407530992115",
+    "created_at": "2026-07-08T13:33:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T14:33:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074849267756523622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1838370893187395584",
+          "start": 0,
+          "username": "Cherry_BombY458"
+        },
+        {
+          "end": 29,
+          "id": "1771476725966532608",
+          "start": 17,
+          "username": "LSEQI146422"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074849267756523622",
+    "in_reply_to_user_id": "1838370893187395584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074848104596296104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cherry_BombY458 @LSEQI146422 咪嘻嘻抱过来玩୯(⁠*⁠´⁠ω⁠｀⁠*⁠)୬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2074832407530992115",
+        "created_at": "2026-07-08T13:33:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T14:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074849267756523622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1838370893187395584",
+              "start": 0,
+              "username": "Cherry_BombY458"
+            },
+            {
+              "end": 29,
+              "id": "1771476725966532608",
+              "start": 17,
+              "username": "LSEQI146422"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074849267756523622",
+        "in_reply_to_user_id": "1838370893187395584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074848104596296104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cherry_BombY458 @LSEQI146422 咪嘻嘻抱过来玩୯(⁠*⁠´⁠ω⁠｀⁠*⁠)୬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838370893187395584",
+        "conversation_id": "2074832407530992115",
+        "created_at": "2026-07-08T13:28:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T14:28:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074848104596296104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 28,
+              "id": "1771476725966532608",
+              "start": 16,
+              "username": "LSEQI146422"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074848104596296104",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074832407530992115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 @LSEQI146422 窝还想来！\\(  ͯω  ͯ)/"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4635,
+          "following_count": 6634,
+          "like_count": 16372,
+          "listed_count": 10,
+          "media_count": 351,
+          "tweet_count": 4184
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-24T00:12:38.000Z",
+        "description": "｡:.ﾟヽ(*´∀`)ﾉﾟ.:｡",
+        "id": "1838370893187395584",
+        "location": "your heart",
+        "name": "-4°",
+        "pinned_tweet_id": "1932803561873899837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051646450636120064/AhHTwXKs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 863,
+          "following_count": 964,
+          "like_count": 2909,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 1129
+        },
+        "url": "",
+        "username": "Cherry_BombY458",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-23T09:59:06.000Z",
+        "description": "About 18 years in this world\n🕗UTC+8 \n🎮project sekai player\n\nwelcome to chat with me! \n日本語を学んでいます",
+        "id": "1771476725966532608",
+        "location": "Taoyuan County, Taiwan",
+        "name": "LSEQI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037711519476293632/CbSCKEFc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 34,
+          "like_count": 924,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 66
+        },
+        "url": "",
+        "username": "LSEQI146422",
+        "verified": false
+      }
+    ]
+  }
+}

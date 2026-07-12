@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2075215966342967325",
+    "created_at": "2026-07-09T15:19:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T16:19:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075238508281917854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1752365546916720640",
+          "start": 0,
+          "username": "Yuzumikonami"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075238508281917854",
+    "in_reply_to_user_id": "1752365546916720640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075215966342967325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuzumikonami 呜呜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2075215961875984384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyl7B_WsAAqT2g.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2075215966342967325",
+        "created_at": "2026-07-09T15:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T16:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075238508281917854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1752365546916720640",
+              "start": 0,
+              "username": "Yuzumikonami"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075238508281917854",
+        "in_reply_to_user_id": "1752365546916720640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075215966342967325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuzumikonami 呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075215961875984384"
+          ]
+        },
+        "author_id": "1752365546916720640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2075215966342967325",
+        "created_at": "2026-07-09T13:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T14:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075215966342967325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hba31v8HXY",
+              "end": 97,
+              "expanded_url": "https://x.com/Yuzumikonami/status/2075215966342967325/photo/1",
+              "media_key": "3_2075215961875984384",
+              "start": 74,
+              "url": "https://t.co/hba31v8HXY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075215966342967325",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "My Twitter Interaction Circle\n\n➡️ infinitetweet[dot]me/interaction-circle https://t.co/hba31v8HXY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4631,
+          "following_count": 6630,
+          "like_count": 16406,
+          "listed_count": 10,
+          "media_count": 352,
+          "tweet_count": 4196
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-30T16:18:13.000Z",
+        "description": "男（？ | 11年 | 准高一 | ISFP | 猫猫 | 友好温柔 | 中度社恐 | 没钱暂不含糖/不割手 | 友跨🏳️‍⚧️🍥 | 成分复杂 | Kotlin | Python | 批处理 | 网页开发 | 语言 🇨🇳 🇯🇵 🇺🇸 | 日语学习中🇯🇵 | 玛丽厨|发点梗图和日常喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuzumikonami",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuzumikonami",
+                "start": 0,
+                "url": "https://t.co/DwXVwJmCR1"
+              }
+            ]
+          }
+        },
+        "id": "1752365546916720640",
+        "location": "坐标南京 | NGL↓",
+        "name": "柚见小南Yuzumikonami🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2073338775724331463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072479599095877632/PuUiLFEG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 411,
+          "like_count": 7975,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 403
+        },
+        "url": "https://t.co/DwXVwJmCR1",
+        "username": "Yuzumikonami",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2075535738301747690",
+    "created_at": "2026-07-10T16:49:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T17:49:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075623461406564631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1866155254406127616",
+          "start": 0,
+          "username": "HayakawaFeixue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075623461406564631",
+    "in_reply_to_user_id": "1866155254406127616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075573433782685758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HayakawaFeixue 害羞咕…( ⸝⸝⸝•_•⸝⸝⸝ )"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2075535738301747690",
+        "created_at": "2026-07-10T16:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T17:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075623461406564631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1866155254406127616",
+              "start": 0,
+              "username": "HayakawaFeixue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075623461406564631",
+        "in_reply_to_user_id": "1866155254406127616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075573433782685758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HayakawaFeixue 害羞咕…( ⸝⸝⸝•_•⸝⸝⸝ )"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866155254406127616",
+        "conversation_id": "2075535738301747690",
+        "created_at": "2026-07-10T13:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T14:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075573433782685758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075573433782685758",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075535738301747690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 想看想看！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4645,
+          "following_count": 6641,
+          "like_count": 16485,
+          "listed_count": 10,
+          "media_count": 354,
+          "tweet_count": 4227
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-09T16:18:08.000Z",
+        "description": "出厂时间2007.05/小证2026.06.24/坐标上海/头像是oc/自介在置顶/小企鹅@whitecloud_ybw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "whitecloud_ybw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sayuki37995",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sayuki37995",
+                "start": 0,
+                "url": "https://t.co/J9EwxGm0Er"
+              }
+            ]
+          }
+        },
+        "id": "1866155254406127616",
+        "location": "Toshima-ku, Tokyo",
+        "name": "早川雪",
+        "pinned_tweet_id": "2066325659358818567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069094372499689472/bTeW2yPV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 635,
+          "like_count": 367,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 123
+        },
+        "url": "https://t.co/J9EwxGm0Er",
+        "username": "HayakawaFeixue",
+        "verified": false
+      }
+    ]
+  }
+}
