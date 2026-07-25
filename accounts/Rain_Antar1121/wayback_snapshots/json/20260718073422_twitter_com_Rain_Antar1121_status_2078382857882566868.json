@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2078283995142353343",
+    "created_at": "2026-07-18T07:34:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T08:34:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078382857882566868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2016246570312990720",
+          "start": 0,
+          "username": "YuChenawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078382857882566868",
+    "in_reply_to_user_id": "2016246570312990720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078283995142353343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuChenawa 呜呜啊啊啊对不起对不起对不起我是大笨蛋🥹我都睡过头多少次了…虽然这次确实是本来就没法出门）这样下去肯定要被讨厌的呜呜😭抱歉给你推荐了这么多景点却没能陪你去玩哦…玩的开心喵，抱住꒰｡ › ·̮ ‹ ｡꒱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1562,
+        "media_key": "3_2078142409876381696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNcLguVbIAA_TTn.jpg",
+        "width": 2150
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078142423591739392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNcLhhba4AA8JOf.jpg",
+        "width": 1045
+      },
+      {
+        "height": 1557,
+        "media_key": "3_2078142435331657728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNcLiNKb0AAXowB.jpg",
+        "width": 2142
+      },
+      {
+        "height": 1562,
+        "media_key": "3_2078142454319157248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNcLjT5aEAAhGYV.jpg",
+        "width": 2150
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2078283995142353343",
+        "created_at": "2026-07-18T07:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T08:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078382857882566868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2016246570312990720",
+              "start": 0,
+              "username": "YuChenawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078382857882566868",
+        "in_reply_to_user_id": "2016246570312990720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078283995142353343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuChenawa 呜呜啊啊啊对不起对不起对不起我是大笨蛋🥹我都睡过头多少次了…虽然这次确实是本来就没法出门）这样下去肯定要被讨厌的呜呜😭抱歉给你推荐了这么多景点却没能陪你去玩哦…玩的开心喵，抱住꒰｡ › ·̮ ‹ ｡꒱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078142409876381696",
+            "3_2078142423591739392",
+            "3_2078142435331657728",
+            "3_2078142454319157248"
+          ]
+        },
+        "author_id": "2016246570312990720",
+        "conversation_id": "2078283995142353343",
+        "created_at": "2026-07-18T01:01:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T02:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078283995142353343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 55,
+              "id": "1894461745277931524",
+              "start": 40,
+              "username": "Rain_Antar1121"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fi57AGIaSv",
+              "end": 79,
+              "expanded_url": "https://x.com/YuChenawa/status/2078283995142353343/photo/1",
+              "media_key": "3_2078142409876381696",
+              "start": 56,
+              "url": "https://t.co/fi57AGIaSv"
+            },
+            {
+              "display_url": "pic.x.com/fi57AGIaSv",
+              "end": 79,
+              "expanded_url": "https://x.com/YuChenawa/status/2078283995142353343/photo/1",
+              "media_key": "3_2078142423591739392",
+              "start": 56,
+              "url": "https://t.co/fi57AGIaSv"
+            },
+            {
+              "display_url": "pic.x.com/fi57AGIaSv",
+              "end": 79,
+              "expanded_url": "https://x.com/YuChenawa/status/2078283995142353343/photo/1",
+              "media_key": "3_2078142435331657728",
+              "start": 56,
+              "url": "https://t.co/fi57AGIaSv"
+            },
+            {
+              "display_url": "pic.x.com/fi57AGIaSv",
+              "end": 79,
+              "expanded_url": "https://x.com/YuChenawa/status/2078283995142353343/photo/1",
+              "media_key": "3_2078142454319157248",
+              "start": 56,
+              "url": "https://t.co/fi57AGIaSv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078283995142353343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 55,
+                "id": "1894461745277931524",
+                "start": 40,
+                "username": "Rain_Antar1121"
+              }
+            ]
+          },
+          "text": "南京Day3\nomg今天也是天塌了,一觉睡醒已经12点多了(咱的大小姐直接睡死了@Rain_Antar1121 气死我了不是答应陪我玩吗😭),火急火燎的去逛完了南京的市博和省博(特别无聊,排名给到拉完了😭,但是省博民国馆里面的红梅相机给好评🥺)之后咱跑到了河西那边看了看CBD,最后去看了一眼秦淮河和夫子庙😋夜景还挺好看的😋"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 248,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "南京Day3\nomg今天也是天塌了,一觉睡醒已经12点多了(咱的大小姐直接睡死了@Rain_Antar1121 https://t.co/fi57AGIaSv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4689,
+          "following_count": 6669,
+          "like_count": 16892,
+          "listed_count": 11,
+          "media_count": 352,
+          "tweet_count": 4423
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-27T20:27:15.000Z",
+        "description": "這裡是雨辰!/简中繁中英语OK/顺男咪/LGBTQIA+全友好!(想和小药娘剧烈贴贴！)/請和我社交,我會儘可能認真回復你們的內容的,也歡迎私信騷擾我/低俗恶俗人请远离我谢谢!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuchen86833",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuchen86833",
+                "start": 0,
+                "url": "https://t.co/vconkxHXnn"
+              }
+            ]
+          }
+        },
+        "id": "2016246570312990720",
+        "location": "天堂✝️",
+        "name": "𝒴𝓊𝒸𝒽ℯ𝓃",
+        "pinned_tweet_id": "2060749702883332402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017348660867305473/hJCnFu9n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 427,
+          "like_count": 2993,
+          "listed_count": 2,
+          "media_count": 75,
+          "tweet_count": 1077
+        },
+        "url": "https://t.co/vconkxHXnn",
+        "username": "YuChenawa",
+        "verified": true
+      }
+    ]
+  }
+}

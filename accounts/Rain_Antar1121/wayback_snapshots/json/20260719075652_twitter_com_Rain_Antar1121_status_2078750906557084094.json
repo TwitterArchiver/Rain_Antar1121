@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2078563648948347333",
+    "created_at": "2026-07-19T07:56:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T08:56:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078750906557084094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1505017098518478851",
+          "start": 0,
+          "username": "tomo9487"
+        },
+        {
+          "end": 22,
+          "id": "2049152504542449664",
+          "start": 10,
+          "username": "hasaki_sama"
+        },
+        {
+          "end": 39,
+          "id": "1699273459325390848",
+          "start": 23,
+          "username": "DurantRaym93677"
+        },
+        {
+          "end": 55,
+          "id": "1688792465292374016",
+          "start": 40,
+          "username": "unitedly_37400"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078750906557084094",
+    "in_reply_to_user_id": "1505017098518478851",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078563648948347333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tomo9487 @hasaki_sama @DurantRaym93677 @unitedly_37400 🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2078563643298611200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNiKnvHbAAA_3JC.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2078563648948347333",
+        "created_at": "2026-07-19T07:56:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T08:56:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078750906557084094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1505017098518478851",
+              "start": 0,
+              "username": "tomo9487"
+            },
+            {
+              "end": 22,
+              "id": "2049152504542449664",
+              "start": 10,
+              "username": "hasaki_sama"
+            },
+            {
+              "end": 39,
+              "id": "1699273459325390848",
+              "start": 23,
+              "username": "DurantRaym93677"
+            },
+            {
+              "end": 55,
+              "id": "1688792465292374016",
+              "start": 40,
+              "username": "unitedly_37400"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078750906557084094",
+        "in_reply_to_user_id": "1505017098518478851",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078563648948347333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tomo9487 @hasaki_sama @DurantRaym93677 @unitedly_37400 🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078563643298611200"
+          ]
+        },
+        "author_id": "1505017098518478851",
+        "conversation_id": "2078563648948347333",
+        "created_at": "2026-07-18T19:32:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T20:32:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078563648948347333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OCvzIkBVkj",
+              "end": 41,
+              "expanded_url": "https://x.com/tomo9487/status/2078563648948347333/photo/1",
+              "media_key": "3_2078563643298611200",
+              "start": 18,
+              "url": "https://t.co/OCvzIkBVkj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078563648948347333",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "え？沢山すごい方にフォローされた🫪 https://t.co/OCvzIkBVkj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4699,
+          "following_count": 6675,
+          "like_count": 16943,
+          "listed_count": 11,
+          "media_count": 353,
+          "tweet_count": 4447
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-19T03:03:45.000Z",
+        "description": "まじ？\nghost banされています😅",
+        "id": "1505017098518478851",
+        "location": "大阪 大阪市 旭区",
+        "name": "潤",
+        "pinned_tweet_id": "1507282211044675590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066783837728980992/BzkeM1kl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 31,
+          "like_count": 213,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 86
+        },
+        "url": "",
+        "username": "tomo9487",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-28T15:48:05.000Z",
+        "description": "An graduated junior high student from China！＞𐋣＜\n爱好 AI科技/信息技术/日本語/ACG/羽球🏸\nLGBTQ+🏳️‍🌈/友跨🍥/键政🆖\n目前正励志成为一名合格的Developer！\nhttps://t.co/VDLGVdRk4Y",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hasaki_0612",
+                "end": 138,
+                "expanded_url": "http://t.me/hasaki_0612",
+                "start": 115,
+                "url": "https://t.co/VDLGVdRk4Y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hasaki_0612",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hasaki_0612",
+                "start": 0,
+                "url": "https://t.co/8Ei14tUSsi"
+              }
+            ]
+          }
+        },
+        "id": "2049152504542449664",
+        "location": "Sapporo City Higashi Ward",
+        "name": "Neko 🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075040561237753856/aiPH-t8W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 606,
+          "like_count": 2768,
+          "listed_count": 0,
+          "media_count": 273,
+          "tweet_count": 1784
+        },
+        "url": "https://t.co/8Ei14tUSsi",
+        "username": "hasaki_sama",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-06T04:09:04.000Z",
+        "description": "🍊 あぁ 闇はただ純粋で | \n🚼 🔑サブ: @AmmieColl84391 (フォロー歓迎) | 💼 Speaker of the Parliament of @enchenia | 💕 @chiyorin8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "AmmieColl84391"
+              },
+              {
+                "end": 90,
+                "start": 81,
+                "username": "enchenia"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "chiyorin8964"
+              }
+            ]
+          }
+        },
+        "id": "1699273459325390848",
+        "location": "Japan",
+        "name": "Luke 鈴木 さくらみ⛩️",
+        "pinned_tweet_id": "1991763708138397781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036740912668389376/LWPePSYk_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3463,
+          "following_count": 4042,
+          "like_count": 50791,
+          "listed_count": 15,
+          "media_count": 603,
+          "tweet_count": 12183
+        },
+        "url": "",
+        "username": "DurantRaym93677",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-08T06:01:32.000Z",
+        "description": "念作なかい つるみ😼称呼我鹤宝就好😋｜大阪人🥰｜现在的名字不像假账号了👊｜🇯🇵🏳️‍⚧️｜微查成分回fo(真的很微)🥺｜小号@tsurumi_37400 欢迎关注喵｜魔裁/F1(CL16)/MC/天际线｜最好的伙伴 @tomo9487｜负面文慎fo @tsurumi_jigoku｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 62,
+                "username": "tsurumi_37400"
+              },
+              {
+                "end": 117,
+                "start": 108,
+                "username": "tomo9487"
+              },
+              {
+                "end": 140,
+                "start": 125,
+                "username": "tsurumi_jigoku"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/da4B7bSnC",
+                "end": 23,
+                "expanded_url": "https://discord.gg/da4B7bSnC",
+                "start": 0,
+                "url": "https://t.co/QrtZ8v9W7F"
+              }
+            ]
+          }
+        },
+        "id": "1688792465292374016",
+        "location": "滋賀県 草津市",
+        "name": "中井鶴見)⌒★",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060737570250891264/5ckknA3g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 579,
+          "like_count": 83530,
+          "listed_count": 1,
+          "media_count": 256,
+          "tweet_count": 2124
+        },
+        "url": "https://t.co/QrtZ8v9W7F",
+        "username": "unitedly_37400",
+        "verified": true
+      }
+    ]
+  }
+}

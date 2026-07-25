@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2076240731161989622",
+    "created_at": "2026-07-12T13:05:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T14:05:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076291828052369787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1657702204961361922",
+          "start": 0,
+          "username": "mxiyo160320"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076291828052369787",
+    "in_reply_to_user_id": "1657702204961361922",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076248187141243198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mxiyo160320 大抱抱～꒰｡ › ·̮ ‹ ｡꒱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2076240731161989622",
+        "created_at": "2026-07-12T13:05:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T14:05:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076291828052369787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1657702204961361922",
+              "start": 0,
+              "username": "mxiyo160320"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076291828052369787",
+        "in_reply_to_user_id": "1657702204961361922",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076248187141243198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mxiyo160320 大抱抱～꒰｡ › ·̮ ‹ ｡꒱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657702204961361922",
+        "conversation_id": "2076240731161989622",
+        "created_at": "2026-07-12T10:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T11:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076248187141243198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076248187141243198",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076240731161989622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 抱抱…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4659,
+          "following_count": 6643,
+          "like_count": 16601,
+          "listed_count": 11,
+          "media_count": 346,
+          "tweet_count": 4285
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-14T11:00:28.000Z",
+        "description": "木下はるか | start hrt 20260517 |有点內向的说|南京土著|在尝试减肥…|嘛,至少做上了从初一以来一直想做的事|\nGently release the old self. Henceforth, chase the light and unfold at my own rhythm",
+        "id": "1657702204961361922",
+        "location": "Odawara-shi, Kanagawa",
+        "name": "木下　はるか",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1684389860457713664/iUFqDNoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 1932,
+          "like_count": 1152,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 117
+        },
+        "url": "",
+        "username": "mxiyo160320",
+        "verified": false
+      }
+    ]
+  }
+}

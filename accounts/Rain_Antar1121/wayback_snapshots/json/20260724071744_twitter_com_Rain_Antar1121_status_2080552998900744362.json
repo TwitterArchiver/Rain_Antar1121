@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2079604793702862964",
+    "created_at": "2026-07-24T07:17:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T08:17:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080552998900744362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1512862133603684355",
+          "start": 0,
+          "username": "hoshinomajo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080552998900744362",
+    "in_reply_to_user_id": "1512862133603684355",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080287222331298060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinomajo 呣…摸摸啾…顺其自然啦也不要给自己压力呢…日子就先这么过着叭🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2079604793702862964",
+        "created_at": "2026-07-24T07:17:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T08:17:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080552998900744362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1512862133603684355",
+              "start": 0,
+              "username": "hoshinomajo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080552998900744362",
+        "in_reply_to_user_id": "1512862133603684355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080287222331298060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinomajo 呣…摸摸啾…顺其自然啦也不要给自己压力呢…日子就先这么过着叭🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512862133603684355",
+        "conversation_id": "2079604793702862964",
+        "created_at": "2026-07-23T13:41:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T14:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080287222331298060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080287222331298060",
+        "in_reply_to_user_id": "1512862133603684355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080285952392450097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 话虽这么说，我的一个朋友最近断网了，其它的朋友都集中在VRC，有些也不一定能聊得那么深入…，我也有在反思是不是因为自己回复不及时，只能以后尽力做好一点了，好多事情真的好难好难。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4709,
+          "following_count": 6685,
+          "like_count": 17058,
+          "listed_count": 11,
+          "media_count": 355,
+          "tweet_count": 4525
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-09T18:37:32.000Z",
+        "description": "非二元  ENTP-A | 哲学 科幻 | Rimworld VRChat MC | FPS大战场 | FF14 | 星际2 帝国4 雀魂 文明6 全战 | 舟原BA | 曾历史、社会学中意，现数学 天文 动植物科普",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hoshinomajo",
+                "end": 23,
+                "expanded_url": "https://t.me/hoshinomajo",
+                "start": 0,
+                "url": "https://t.co/N0CeJPVs9g"
+              }
+            ]
+          }
+        },
+        "id": "1512862133603684355",
+        "location": "社恐E互助",
+        "name": "HYDLINA🏳️‍⚧️",
+        "pinned_tweet_id": "1946136227570208772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971048811007979520/fx7z6ric_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 395,
+          "like_count": 2581,
+          "listed_count": 3,
+          "media_count": 90,
+          "tweet_count": 1165
+        },
+        "url": "https://t.co/N0CeJPVs9g",
+        "username": "hoshinomajo",
+        "verified": false
+      }
+    ]
+  }
+}

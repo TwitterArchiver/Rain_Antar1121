@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2076208032200200402",
+    "created_at": "2026-07-13T05:02:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T06:02:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076532612471152744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1512051256537231367",
+          "start": 0,
+          "username": "sabulin6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076532612471152744",
+    "in_reply_to_user_id": "1512051256537231367",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076334948961960109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sabulin6 猫猫扑喵～⌯&gt;ᴗo⌯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2076208032200200402",
+        "created_at": "2026-07-13T05:02:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T06:02:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076532612471152744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1512051256537231367",
+              "start": 0,
+              "username": "sabulin6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076532612471152744",
+        "in_reply_to_user_id": "1512051256537231367",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076334948961960109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sabulin6 猫猫扑喵～⌯&gt;ᴗo⌯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512051256537231367",
+        "conversation_id": "2076208032200200402",
+        "created_at": "2026-07-12T15:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T16:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076334948961960109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076334948961960109",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076208032200200402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 可爱！ᔦ ° ꒳ ° ᔨ ̖́-"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4661,
+          "following_count": 6642,
+          "like_count": 16629,
+          "listed_count": 11,
+          "media_count": 346,
+          "tweet_count": 4300
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-07T12:55:00.000Z",
+        "description": "一个玩少前的倒霉落榜美术生，鲜虾鱼板面爱好者（）也许是？喜欢摄影与胶卷(๑•̀ω•́๑)，奇奇怪怪的鉴证魔怔分子和对立激进分子请远离",
+        "id": "1512051256537231367",
+        "name": "紫鸢🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1515363480156704772/TJkitF79_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 202,
+          "like_count": 2702,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 494
+        },
+        "url": "",
+        "username": "sabulin6",
+        "verified": false
+      }
+    ]
+  }
+}

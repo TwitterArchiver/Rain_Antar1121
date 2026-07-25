@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2077010889681907953",
+    "created_at": "2026-07-14T21:38:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T22:38:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077145805987922147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1686446984180154375",
+          "start": 0,
+          "username": "KITSUNE_awa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077145805987922147",
+    "in_reply_to_user_id": "1686446984180154375",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077102335143322052",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KITSUNE_awa 是的是的是的遇见芥末莳萝酱之前我吃的简直不是同一种东西🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2077010889681907953",
+        "created_at": "2026-07-14T21:38:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T22:38:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077145805987922147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1686446984180154375",
+              "start": 0,
+              "username": "KITSUNE_awa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077145805987922147",
+        "in_reply_to_user_id": "1686446984180154375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077102335143322052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KITSUNE_awa 是的是的是的遇见芥末莳萝酱之前我吃的简直不是同一种东西🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686446984180154375",
+        "conversation_id": "2077010889681907953",
+        "created_at": "2026-07-14T18:46:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T19:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077102335143322052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 28,
+              "id": "1771476725966532608",
+              "start": 16,
+              "username": "LSEQI146422"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077102335143322052",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077010889681907953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 @LSEQI146422 三文魚離開莳萝芥末酱真的不行😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4684,
+          "following_count": 6662,
+          "like_count": 16753,
+          "listed_count": 11,
+          "media_count": 351,
+          "tweet_count": 4367
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-01T18:41:19.000Z",
+        "description": "💙Liberté🤍Égalité❤️Fraternité | 東亞平和友好 | ENTJ | ⚙️Neo-Leftist新左翼 | 恋愛アニメ&二次元ゲーム| 📚Sociology | English(UK)、中文、日本語| 🚹Male男性| 🎂2009(平成21年) 八月十五日 Aug15th",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/winterstar0815",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/winterstar0815",
+                "start": 0,
+                "url": "https://t.co/UMsq0SqnZP"
+              }
+            ]
+          }
+        },
+        "id": "1686446984180154375",
+        "location": "閘北區, Shanghai Municipality",
+        "name": "𝐊𝐈𝐓𝐒𝐔𝐍𝐄⚙️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075228930450300928/XPiBk6D__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 129,
+          "like_count": 552,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 346
+        },
+        "url": "https://t.co/UMsq0SqnZP",
+        "username": "KITSUNE_awa",
+        "verified": false
+      }
+    ]
+  }
+}

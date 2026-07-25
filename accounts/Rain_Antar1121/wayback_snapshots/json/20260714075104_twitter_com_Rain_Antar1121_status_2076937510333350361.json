@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2076591489543766398",
+    "created_at": "2026-07-14T07:51:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T08:51:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076937510333350361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1880567284605030400",
+          "start": 0,
+          "username": "Re_AloneStar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076937510333350361",
+    "in_reply_to_user_id": "1880567284605030400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076779962913399146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Re_AloneStar 喵啊，打扮好这一套总共就花了150嘛…感觉好值的呢🥹摄影是另外算的贵死了感觉被宰了所以没脸说😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2076591489543766398",
+        "created_at": "2026-07-14T07:51:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T08:51:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076937510333350361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1880567284605030400",
+              "start": 0,
+              "username": "Re_AloneStar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076937510333350361",
+        "in_reply_to_user_id": "1880567284605030400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076779962913399146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Re_AloneStar 喵啊，打扮好这一套总共就花了150嘛…感觉好值的呢🥹摄影是另外算的贵死了感觉被宰了所以没脸说😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880567284605030400",
+        "conversation_id": "2076591489543766398",
+        "created_at": "2026-07-13T21:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T22:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076779962913399146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076779962913399146",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076591489543766398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 我想知道一套下来花了多少w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4671,
+          "following_count": 6649,
+          "like_count": 16672,
+          "listed_count": 11,
+          "media_count": 347,
+          "tweet_count": 4336
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-18T10:46:59.000Z",
+        "description": "二代目 本体 @RST_AloneStar\nCN/EN OK! MUG Player | 前xyn已断糖一年",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 7,
+                "username": "RST_AloneStar"
+              }
+            ]
+          }
+        },
+        "id": "1880567284605030400",
+        "name": "_AloneStar_ 2nd Ver.🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066781188447240192/-oE6y9Zg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 98,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 119
+        },
+        "url": "",
+        "username": "Re_AloneStar",
+        "verified": false
+      }
+    ]
+  }
+}
