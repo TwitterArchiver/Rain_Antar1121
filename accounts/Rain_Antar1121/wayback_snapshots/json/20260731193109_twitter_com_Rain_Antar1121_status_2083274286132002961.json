@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2082350533835407496",
+    "created_at": "2026-07-31T19:31:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T20:31:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083274286132002961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2079716326923526145",
+          "start": 0,
+          "username": "Fanhua7443"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083274286132002961",
+    "in_reply_to_user_id": "2079716326923526145",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082408811889881562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fanhua7443 抱…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2082350533835407496",
+        "created_at": "2026-07-31T19:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T20:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083274286132002961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2079716326923526145",
+              "start": 0,
+              "username": "Fanhua7443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083274286132002961",
+        "in_reply_to_user_id": "2079716326923526145",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082408811889881562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fanhua7443 抱…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2079716326923526145",
+        "conversation_id": "2082350533835407496",
+        "created_at": "2026-07-29T10:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T11:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082408811889881562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 26,
+              "id": "1608637128132685825",
+              "start": 16,
+              "username": "nyaepheia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082408811889881562",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082350533835407496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 @nyaepheia 晚安"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4867,
+          "following_count": 6786,
+          "like_count": 17626,
+          "listed_count": 12,
+          "media_count": 368,
+          "tweet_count": 4841
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-21T23:53:59.000Z",
+        "description": "不再有精力安慰所有人，但是依然无力地爱着这个世界 | infp | 愿大家平安 | 这个世界是真的烦......",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fanhua.qddtips.top:81",
+                "end": 23,
+                "expanded_url": "http://fanhua.qddtips.top:81",
+                "start": 0,
+                "url": "https://t.co/YXmVx6S927"
+              }
+            ]
+          }
+        },
+        "id": "2079716326923526145",
+        "location": "长野",
+        "name": "白雪 桜希（しらゆき さき）",
+        "pinned_tweet_id": "2083082533135335855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079719480968855552/1y3vaehS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 92,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 54
+        },
+        "url": "https://t.co/YXmVx6S927",
+        "username": "Fanhua7443",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2080288301991555173",
+    "created_at": "2026-07-24T15:07:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T16:07:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080671211475083318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2004272815181385729",
+          "start": 0,
+          "username": "BaiDierose"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080671211475083318",
+    "in_reply_to_user_id": "2004272815181385729",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080654045069607171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BaiDierose 呣…抱抱揉🥹半框是什么哇）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2080288301991555173",
+        "created_at": "2026-07-24T15:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T16:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080671211475083318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2004272815181385729",
+              "start": 0,
+              "username": "BaiDierose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080671211475083318",
+        "in_reply_to_user_id": "2004272815181385729",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080654045069607171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaiDierose 呣…抱抱揉🥹半框是什么哇）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004272815181385729",
+        "conversation_id": "2080288301991555173",
+        "created_at": "2026-07-24T13:59:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T14:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080654045069607171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 31,
+              "id": "1430973520452800515",
+              "start": 16,
+              "username": "XmeowwoemX_017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080654045069607171",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080578002803703820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 @XmeowwoemX_017 因为度数太深最多只能带半框的我。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4711,
+          "following_count": 6687,
+          "like_count": 17109,
+          "listed_count": 11,
+          "media_count": 357,
+          "tweet_count": 4546
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-25T19:27:43.000Z",
+        "description": "",
+        "id": "2004272815181385729",
+        "name": "白蝶🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004272990742368256/ErzYW1T3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 26,
+          "like_count": 292,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 75
+        },
+        "url": "",
+        "username": "BaiDierose",
+        "verified": false
+      }
+    ]
+  }
+}

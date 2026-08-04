@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "2080940293692510555",
+    "created_at": "2026-07-25T15:01:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T16:01:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081031990334349711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1961771914529288192",
+          "start": 0,
+          "username": "09100197slj2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081031990334349711",
+    "in_reply_to_user_id": "1961771914529288192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080951249709502945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@09100197slj2 わあ、そう言われると……この辺り一帯の低い建物と、遠くに見えるテレビ塔、なんか私がイメージしてる東京っぽい感じするよね〜♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2080940293692510555",
+        "created_at": "2026-07-25T15:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081031990334349711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1961771914529288192",
+              "start": 0,
+              "username": "09100197slj2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081031990334349711",
+        "in_reply_to_user_id": "1961771914529288192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080951249709502945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@09100197slj2 わあ、そう言われると……この辺り一帯の低い建物と、遠くに見えるテレビ塔、なんか私がイメージしてる東京っぽい感じするよね〜♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961771914529288192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2080940293692510555",
+        "created_at": "2026-07-25T09:40:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T10:40:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080951249709502945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080951249709502945",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080940293692510555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 東京でもこのような夕焼けを見たことがある"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4718,
+          "following_count": 6692,
+          "like_count": 17191,
+          "listed_count": 11,
+          "media_count": 360,
+          "tweet_count": 4580
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-30T12:44:18.000Z",
+        "description": "中二病也要谈恋爱！真爱粉\n京アニを信じ、3期をずっと待っています，一番好きなキャラクターは小鳥遊六花です\n！いつか必ず会える日を信じて",
+        "id": "1961771914529288192",
+        "name": "邪王真眼の眷属- 虚無の守護者",
+        "pinned_tweet_id": "2032100782569402791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031736517912334336/rXRv4IOL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 317,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 227
+        },
+        "url": "",
+        "username": "09100197slj2",
+        "verified": false
+      }
+    ]
+  }
+}

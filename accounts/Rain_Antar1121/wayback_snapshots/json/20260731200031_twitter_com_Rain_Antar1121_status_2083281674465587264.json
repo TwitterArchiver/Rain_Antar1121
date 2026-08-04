@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2083191005030015043",
+    "created_at": "2026-07-31T20:00:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T21:00:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083281674465587264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "894568945230815235",
+          "start": 0,
+          "username": "AokiiChiharu"
+        },
+        {
+          "end": 28,
+          "id": "1633715238322466817",
+          "start": 14,
+          "username": "plumedream233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083281674465587264",
+    "in_reply_to_user_id": "894568945230815235",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083228479857058039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AokiiChiharu @plumedream233 哇嘻嘻每次必去瞄一眼🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2083191005030015043",
+        "created_at": "2026-07-31T20:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T21:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083281674465587264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "894568945230815235",
+              "start": 0,
+              "username": "AokiiChiharu"
+            },
+            {
+              "end": 28,
+              "id": "1633715238322466817",
+              "start": 14,
+              "username": "plumedream233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083281674465587264",
+        "in_reply_to_user_id": "894568945230815235",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083228479857058039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AokiiChiharu @plumedream233 哇嘻嘻每次必去瞄一眼🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "894568945230815235",
+        "conversation_id": "2083191005030015043",
+        "created_at": "2026-07-31T16:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T17:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083228479857058039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1633715238322466817",
+              "start": 0,
+              "username": "plumedream233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083228479857058039",
+        "in_reply_to_user_id": "1633715238322466817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083191005030015043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@plumedream233 花匣和ag家的裙子都很好逛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4867,
+          "following_count": 6790,
+          "like_count": 17646,
+          "listed_count": 12,
+          "media_count": 368,
+          "tweet_count": 4845
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2017-08-07T14:40:31.000Z",
+        "description": "一只喜欢吃西瓜的柚子狸，是个巨大的毛绒玩具，会一个把朋友们变圆的魔法 。（正躺在花坛里晒太阳 ）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "huguaxi.com",
+                "end": 23,
+                "expanded_url": "https://huguaxi.com/",
+                "start": 0,
+                "url": "https://t.co/AUPstkw0fj"
+              }
+            ]
+          }
+        },
+        "id": "894568945230815235",
+        "location": "幽冥",
+        "name": "狐瓜西🍉",
+        "pinned_tweet_id": "2050328338733138012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037460510992674816/7U3wuL_c_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1789,
+          "following_count": 620,
+          "like_count": 43804,
+          "listed_count": 19,
+          "media_count": 3688,
+          "tweet_count": 11025
+        },
+        "url": "https://t.co/AUPstkw0fj",
+        "username": "AokiiChiharu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-09T06:24:16.000Z",
+        "description": "阴郁压抑的笨蛋...20岁/身高160体重50/性格混乱/性别mtf/性取向是喜欢可爱的xnn和xyn/清水/持大证含糖/圈子不混只看戏的边缘独行者/中专毕业计算机自学编程笨蛋程序员一位。(扩列直接私聊我就可以了) 不喜欢随便玩抽象和来着不善的家伙靠近我,不是黄推。精神抑郁严重，精神失常的疯子。没有任何立场不站队",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+ZypVzDRP-H4xM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+ZypVzDRP-H4xMTA1",
+                "start": 0,
+                "url": "https://t.co/T7IWsxdw5M"
+              }
+            ]
+          }
+        },
+        "id": "1633715238322466817",
+        "location": "终点之路—一切的起与终",
+        "name": "羽梦🍥🏳️‍⚧️️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080622624196231168/HPn-F0fR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4523,
+          "following_count": 743,
+          "like_count": 11503,
+          "listed_count": 8,
+          "media_count": 793,
+          "tweet_count": 7443
+        },
+        "url": "https://t.co/T7IWsxdw5M",
+        "username": "plumedream233",
+        "verified": false
+      }
+    ]
+  }
+}

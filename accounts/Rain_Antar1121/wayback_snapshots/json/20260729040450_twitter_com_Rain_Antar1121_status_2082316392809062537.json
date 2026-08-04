@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2081347985666199908",
+    "created_at": "2026-07-29T04:04:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T05:04:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082316392809062537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2076702164563492864",
+          "start": 0,
+          "username": "Ember_0619"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082316392809062537",
+    "in_reply_to_user_id": "2076702164563492864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082165421487063076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ember_0619 好温柔꒰｡ › ·̮ ‹ ｡꒱谢谢你w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2081347985666199908",
+        "created_at": "2026-07-29T04:04:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T05:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082316392809062537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2076702164563492864",
+              "start": 0,
+              "username": "Ember_0619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082316392809062537",
+        "in_reply_to_user_id": "2076702164563492864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082165421487063076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ember_0619 好温柔꒰｡ › ·̮ ‹ ｡꒱谢谢你w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076702164563492864",
+        "conversation_id": "2081347985666199908",
+        "created_at": "2026-07-28T18:04:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T19:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082165421487063076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082165421487063076",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082161487104414016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 这样呀，感觉坐缆车途中看见的风景也会很美，不过下山只能走下去的话，走下坡楼梯对膝盖是很不好的，走完回家多休息喔꜀(˘꒳˘ ꜀)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4786,
+          "following_count": 6715,
+          "like_count": 17417,
+          "listed_count": 12,
+          "media_count": 365,
+          "tweet_count": 4715
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-13T16:16:32.000Z",
+        "description": "🇨🇳 她 she/her 18↑ 友跨🏳️‍⚧️ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ\n\nDio Brando ♡ Enrico Pucciㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ\n💚✝️ #Dio普 #DIOプチ #Diopucci 永爱💌\n\n如果喜欢我的作品就请多多点赞评论转发关注吧\n你的支持是我更新的动力！✧٩(ˊωˋ*)و✧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 84,
+                "start": 79,
+                "tag": "Dio普"
+              },
+              {
+                "end": 91,
+                "start": 85,
+                "tag": "DIOプチ"
+              },
+              {
+                "end": 101,
+                "start": 92,
+                "tag": "Diopucci"
+              }
+            ]
+          }
+        },
+        "id": "2076702164563492864",
+        "name": "Emberrr",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076702763015143424/y1A0HpEI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 13,
+          "like_count": 649,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 151
+        },
+        "url": "",
+        "username": "Ember_0619",
+        "verified": false
+      }
+    ]
+  }
+}

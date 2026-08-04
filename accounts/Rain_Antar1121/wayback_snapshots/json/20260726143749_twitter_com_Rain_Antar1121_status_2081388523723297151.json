@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2081386714145411297",
+    "created_at": "2026-07-26T14:37:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T15:37:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081388523723297151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1499103632255455233",
+          "start": 0,
+          "username": "AKIYAMAYUGUMO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081388523723297151",
+    "in_reply_to_user_id": "1499103632255455233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081386714145411297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AKIYAMAYUGUMO 哇啊啊好羡慕…咱也想看🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2731,
+        "media_key": "3_2081386187588243456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOKRtb-aEAAo6MP.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2081386714145411297",
+        "created_at": "2026-07-26T14:37:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T15:37:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081388523723297151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1499103632255455233",
+              "start": 0,
+              "username": "AKIYAMAYUGUMO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081388523723297151",
+        "in_reply_to_user_id": "1499103632255455233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081386714145411297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AKIYAMAYUGUMO 哇啊啊好羡慕…咱也想看🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081386187588243456"
+          ]
+        },
+        "author_id": "1499103632255455233",
+        "conversation_id": "2081386714145411297",
+        "created_at": "2026-07-26T14:30:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T15:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081386714145411297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/53NQuxrtDl",
+              "end": 79,
+              "expanded_url": "https://x.com/AKIYAMAYUGUMO/status/2081386714145411297/photo/1",
+              "media_key": "3_2081386187588243456",
+              "start": 56,
+              "url": "https://t.co/53NQuxrtDl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081386714145411297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "尽管意外状况多多，但是还是很幸运的拍到了F22的加力爬升，虽然我认为仍有遗憾......交给下次拍摄继续提升吧 https://t.co/53NQuxrtDl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4723,
+          "following_count": 6698,
+          "like_count": 17253,
+          "listed_count": 11,
+          "media_count": 362,
+          "tweet_count": 4615
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-02T19:25:41.000Z",
+        "description": "📸 航空・鉄道写真 | 🏙️ 都市交通研究 | ⚓ 海軍史・国際関係 | 🔭 世界を観測し | 🌅 時よ止まれ、お前は美しい | 🎵 花一匁 | 🌍 We Are The World | 🚫 ファシズム・反人道思想",
+        "id": "1499103632255455233",
+        "location": "时隙废都",
+        "name": "秋山夕云✂️",
+        "pinned_tweet_id": "2052954738279473462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006631382605520896/kxXzgSYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1113,
+          "following_count": 832,
+          "like_count": 21208,
+          "listed_count": 4,
+          "media_count": 1381,
+          "tweet_count": 5050
+        },
+        "url": "",
+        "username": "AKIYAMAYUGUMO",
+        "verified": false
+      }
+    ]
+  }
+}

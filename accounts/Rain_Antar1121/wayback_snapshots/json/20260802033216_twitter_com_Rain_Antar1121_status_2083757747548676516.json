@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2083724326797476170",
+    "created_at": "2026-08-02T03:32:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T04:32:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083757747548676516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "900648245403058177",
+          "start": 0,
+          "username": "Royliu0418"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083757747548676516",
+    "in_reply_to_user_id": "900648245403058177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083739295618375922",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Royliu0418 喵www确实水色也是一个道理呢😘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2083724326797476170",
+        "created_at": "2026-08-02T03:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T04:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083757747548676516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "900648245403058177",
+              "start": 0,
+              "username": "Royliu0418"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083757747548676516",
+        "in_reply_to_user_id": "900648245403058177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083739295618375922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Royliu0418 喵www确实水色也是一个道理呢😘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "900648245403058177",
+        "conversation_id": "2083724326797476170",
+        "created_at": "2026-08-02T02:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T03:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083739295618375922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083739295618375922",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083724326797476170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 這顏色根本無敵\n其餘的不說低飽和度耐看\n不然水色怎麼會這麼火\n討厭跨旗的估計是看高飽和垃圾看多了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4881,
+          "following_count": 6792,
+          "like_count": 17683,
+          "listed_count": 12,
+          "media_count": 371,
+          "tweet_count": 4868
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2017-08-24T09:17:29.000Z",
+        "description": "求张性别转换卡",
+        "id": "900648245403058177",
+        "location": "乌鲁鲁星⭐️",
+        "name": "ʕ•ᴥ•ʔ",
+        "pinned_tweet_id": "2016914956017684860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014561951616225280/u-UxWX9a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 616,
+          "like_count": 37714,
+          "listed_count": 9,
+          "media_count": 194,
+          "tweet_count": 3318
+        },
+        "url": "",
+        "username": "Royliu0418",
+        "verified": false
+      }
+    ]
+  }
+}

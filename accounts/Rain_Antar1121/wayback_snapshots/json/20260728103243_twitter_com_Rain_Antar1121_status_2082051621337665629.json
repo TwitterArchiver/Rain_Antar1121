@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2081960574230167635",
+    "created_at": "2026-07-28T10:32:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T11:32:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082051621337665629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2009196776256126976",
+          "start": 0,
+          "username": "Yezi9OvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082051621337665629",
+    "in_reply_to_user_id": "2009196776256126976",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082043175456419962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yezi9OvO 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2081960574230167635",
+        "created_at": "2026-07-28T10:32:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T11:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082051621337665629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2009196776256126976",
+              "start": 0,
+              "username": "Yezi9OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082051621337665629",
+        "in_reply_to_user_id": "2009196776256126976",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082043175456419962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yezi9OvO 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009196776256126976",
+        "conversation_id": "2081960574230167635",
+        "created_at": "2026-07-28T09:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T10:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082043175456419962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1074796388938964992",
+              "start": 0,
+              "username": "CodeName0073"
+            },
+            {
+              "end": 29,
+              "id": "1894461745277931524",
+              "start": 14,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 41,
+              "id": "2042786439738327042",
+              "start": 30,
+              "username": "tiancun520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082043175456419962",
+        "in_reply_to_user_id": "1074796388938964992",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082041723031789951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CodeName0073 @Rain_Antar1121 @tiancun520 👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4745,
+          "following_count": 6698,
+          "like_count": 17357,
+          "listed_count": 12,
+          "media_count": 365,
+          "tweet_count": 4673
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-08T09:33:50.000Z",
+        "description": "04/mtf🏳️‍⚧️hrt6年老壁灯/165 60kg在努力减肥了😢/想成为可爱的人/同类互fo/目前流浪地球暂无固定住址/🚪88/找金主求包养",
+        "id": "2009196776256126976",
+        "name": "椰子🥥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041424096874160128/7a32Dpnm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 83,
+          "like_count": 65,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 328
+        },
+        "url": "",
+        "username": "Yezi9OvO",
+        "verified": false
+      }
+    ]
+  }
+}

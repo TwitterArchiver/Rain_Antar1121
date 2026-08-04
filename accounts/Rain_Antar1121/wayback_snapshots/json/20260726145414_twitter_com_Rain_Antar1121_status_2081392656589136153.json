@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2081369061959594125",
+    "created_at": "2026-07-26T14:54:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T15:54:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081392656589136153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1774264719773409280",
+          "start": 0,
+          "username": "KissaHsgsta1106"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081392656589136153",
+    "in_reply_to_user_id": "1774264719773409280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081392130409594977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KissaHsgsta1106 唔…出名的点在哪呢）那个大招牌嘛…还是这条街比较笔直之类的😵‍💫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2081369061959594125",
+        "created_at": "2026-07-26T14:54:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T15:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081392656589136153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1774264719773409280",
+              "start": 0,
+              "username": "KissaHsgsta1106"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081392656589136153",
+        "in_reply_to_user_id": "1774264719773409280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081392130409594977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KissaHsgsta1106 唔…出名的点在哪呢）那个大招牌嘛…还是这条街比较笔直之类的😵‍💫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774264719773409280",
+        "conversation_id": "2081369061959594125",
+        "created_at": "2026-07-26T14:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T15:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081392130409594977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081392130409594977",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081389568910303667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 这里好像很出名的样子，每天都有一大堆网红网美来打卡水泄不通"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4724,
+          "following_count": 6698,
+          "like_count": 17261,
+          "listed_count": 11,
+          "media_count": 362,
+          "tweet_count": 4619
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-31T02:37:37.000Z",
+        "description": "",
+        "id": "1774264719773409280",
+        "location": "乌茨约基，拉普兰",
+        "name": "赫尔辛基的猫 🇫🇮🇪🇪",
+        "pinned_tweet_id": "1835918114938290560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064179889285029888/cvKkEaQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 712,
+          "following_count": 781,
+          "like_count": 45828,
+          "listed_count": 4,
+          "media_count": 358,
+          "tweet_count": 2181
+        },
+        "url": "",
+        "username": "KissaHsgsta1106",
+        "verified": false
+      }
+    ]
+  }
+}

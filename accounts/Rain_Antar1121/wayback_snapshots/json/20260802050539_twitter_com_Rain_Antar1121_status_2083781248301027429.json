@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2083766548968128988",
+    "created_at": "2026-08-02T05:05:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T06:05:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083781248301027429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2022253175345143809",
+          "start": 0,
+          "username": "irisdesombres"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083781248301027429",
+    "in_reply_to_user_id": "2022253175345143809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083766548968128988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@irisdesombres 咪呜🥰所以从跨男的角度看这旗的含义可能不一样…或者确实不那么合适呢🥹…单从设计上讲🏳️‍⚧️公认地能让人看出“柔美”总之是很成功的叭…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2083766548968128988",
+        "created_at": "2026-08-02T05:05:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T06:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083781248301027429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2022253175345143809",
+              "start": 0,
+              "username": "irisdesombres"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083781248301027429",
+        "in_reply_to_user_id": "2022253175345143809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083766548968128988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@irisdesombres 咪呜🥰所以从跨男的角度看这旗的含义可能不一样…或者确实不那么合适呢🥹…单从设计上讲🏳️‍⚧️公认地能让人看出“柔美”总之是很成功的叭…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022253175345143809",
+        "conversation_id": "2083766548968128988",
+        "created_at": "2026-08-02T04:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T05:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083766548968128988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rain_antar1121…",
+              "end": 116,
+              "expanded_url": "https://twitter.com/rain_antar1121/status/2083724326797476170",
+              "start": 93,
+              "url": "https://t.co/vt07ls45OE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083766548968128988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083724326797476170",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "跨男似乎不喜歡這麼柔美所以用更深色版本的跨旗或乾脆不用，非二元旗在14年後也被獨立設計出來用以表述跨旗被設計時所想要涵蓋但不足以表述的自身。所以，大概可以說這是跨女旗，很漂亮，很可愛。 https://t.co/vt07ls45OE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4883,
+          "following_count": 6792,
+          "like_count": 17684,
+          "listed_count": 12,
+          "media_count": 371,
+          "tweet_count": 4869
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-13T10:15:18.000Z",
+        "description": "伴侶、知己、藏品和奴隸@Diamond_Kokoro",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "Diamond_Kokoro"
+              }
+            ]
+          }
+        },
+        "id": "2022253175345143809",
+        "name": "鴉尾鳶",
+        "pinned_tweet_id": "2034978855153234418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024275236531695616/xar82bpz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 197,
+          "like_count": 15706,
+          "listed_count": 0,
+          "media_count": 227,
+          "tweet_count": 7574
+        },
+        "url": "",
+        "username": "irisdesombres",
+        "verified": false
+      }
+    ]
+  }
+}
