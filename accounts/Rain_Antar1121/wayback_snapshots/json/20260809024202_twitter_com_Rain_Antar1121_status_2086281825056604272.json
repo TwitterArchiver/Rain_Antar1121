@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086281816684802048"
+      ]
+    },
+    "author_id": "1894461745277931524",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2086131117758029867",
+    "created_at": "2026-08-09T02:42:02.000Z",
+    "display_text_range": [
+      12,
+      85
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T03:42:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086281825056604272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1813768883540725760",
+          "start": 0,
+          "username": "ye_and_yae"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GGMugSH0bO",
+          "end": 109,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/2086281825056604272/photo/1",
+          "media_key": "3_2086281816684802048",
+          "start": 86,
+          "url": "https://t.co/GGMugSH0bO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086281825056604272",
+    "in_reply_to_user_id": "1813768883540725760",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2086281816684802048"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086131117758029867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ye_and_yae 喵喵喵标好啦🥰大家只要夏天拍星星注意的都是这一片所以标过好多遍了喵\n\n如果提供尽量精确的拍摄时间咱可以解算一下地理位置玩玩(ﾉ´ヮ´)ﾉ*:･ﾟ✧ https://t.co/GGMugSH0bO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2086281816684802048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPP2QjjasAAM1f3.jpg",
+        "width": 1536
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2086131014246789120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPNtGssa8AAJmmd.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086281816684802048"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2086131117758029867",
+        "created_at": "2026-08-09T02:42:02.000Z",
+        "display_text_range": [
+          12,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T03:42:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086281825056604272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1813768883540725760",
+              "start": 0,
+              "username": "ye_and_yae"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GGMugSH0bO",
+              "end": 109,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2086281825056604272/photo/1",
+              "media_key": "3_2086281816684802048",
+              "start": 86,
+              "url": "https://t.co/GGMugSH0bO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086281825056604272",
+        "in_reply_to_user_id": "1813768883540725760",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2086281816684802048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086131117758029867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ye_and_yae 喵喵喵标好啦🥰大家只要夏天拍星星注意的都是这一片所以标过好多遍了喵\n\n如果提供尽量精确的拍摄时间咱可以解算一下地理位置玩玩(ﾉ´ヮ´)ﾉ*:･ﾟ✧ https://t.co/GGMugSH0bO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086131014246789120"
+          ]
+        },
+        "author_id": "1813768883540725760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "2086131117758029867",
+        "created_at": "2026-08-08T16:43:11.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T17:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086131117758029867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GZH3D1vocs",
+              "end": 48,
+              "expanded_url": "https://x.com/ye_and_yae/status/2086131117758029867/photo/1",
+              "media_key": "3_2086131014246789120",
+              "start": 25,
+              "url": "https://t.co/GZH3D1vocs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086131117758029867",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086131014246789120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 340,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人能帮我指出比较好辨认的星座嘛\n头顶正上方拍摄 https://t.co/GZH3D1vocs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2086281825056604272",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4925,
+          "following_count": 6871,
+          "like_count": 17896,
+          "listed_count": 12,
+          "media_count": 376,
+          "tweet_count": 4949
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-18T02:54:44.000Z",
+        "description": "我是爱晔哦 \n09/01/26 炸柜26/06/09 有时含糖 喜欢航天 二次元 技术至上主义 喜欢画画 学日语\n最最最好的朋友@guoxiufeng5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 64,
+                "username": "guoxiufeng5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/VckYvvu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/VckYvvu",
+                "start": 0,
+                "url": "https://t.co/hiPltpfKRo"
+              }
+            ]
+          }
+        },
+        "id": "1813768883540725760",
+        "is_identity_verified": false,
+        "location": "距你11.4km",
+        "most_recent_tweet_id": "2086271329767141750",
+        "name": "🍥爱晔🚀",
+        "pinned_tweet_id": "2082073672802767121",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813768883540725760/1764440318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079860342965067776/HglcXlhL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1368,
+          "following_count": 1189,
+          "like_count": 9848,
+          "listed_count": 4,
+          "media_count": 464,
+          "tweet_count": 4450
+        },
+        "url": "https://t.co/hiPltpfKRo",
+        "username": "ye_and_yae",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

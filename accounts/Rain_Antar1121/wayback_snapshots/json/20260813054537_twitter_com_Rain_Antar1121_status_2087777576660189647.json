@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2087046555018862920",
+    "created_at": "2026-08-13T05:45:37.000Z",
+    "display_text_range": [
+      24,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T06:45:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087777576660189647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1970942982154223616",
+          "start": 0,
+          "username": "suzume_FANqwq"
+        },
+        {
+          "end": 23,
+          "id": "1591527461279485954",
+          "start": 15,
+          "username": "NoirZnt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087777576660189647",
+    "in_reply_to_user_id": "1970942982154223616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087647642234802514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suzume_FANqwq @NoirZnt 呜呜"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2087647642234802514].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2087647642234802514",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2087647642234802514"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2087046555018862920",
+        "created_at": "2026-08-13T05:45:37.000Z",
+        "display_text_range": [
+          24,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T06:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087777576660189647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1970942982154223616",
+              "start": 0,
+              "username": "suzume_FANqwq"
+            },
+            {
+              "end": 23,
+              "id": "1591527461279485954",
+              "start": 15,
+              "username": "NoirZnt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087777576660189647",
+        "in_reply_to_user_id": "1970942982154223616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087647642234802514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suzume_FANqwq @NoirZnt 呜呜"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2087777576660189647",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4940,
+          "following_count": 6878,
+          "like_count": 18134,
+          "listed_count": 12,
+          "media_count": 384,
+          "tweet_count": 5075
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-24T20:06:56.000Z",
+        "description": "08/双/男",
+        "id": "1970942982154223616",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2076936635233493365",
+        "name": "Suzume_FAN",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044234180725190656/GJgV1jaq_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 45,
+          "like_count": 604,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 46
+        },
+        "url": "",
+        "username": "suzume_FANqwq",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-12T20:25:06.000Z",
+        "description": "可以叫我Noir/玄夜/小章鱼",
+        "id": "1591527461279485954",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086861118832521593",
+        "name": "Noir",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591527461279485954/1778262406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052807425154060289/7Kmvc_Lj_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1070,
+          "following_count": 4988,
+          "like_count": 18290,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 4092
+        },
+        "url": "",
+        "username": "NoirZnt",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

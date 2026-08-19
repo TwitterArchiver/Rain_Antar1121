@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2086059127055482886",
+    "created_at": "2026-08-09T03:41:14.000Z",
+    "display_text_range": [
+      10,
+      124
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T04:41:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086296719135015185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2031270533359349761",
+          "start": 0,
+          "username": "senzhiwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086296719135015185",
+    "in_reply_to_user_id": "2031270533359349761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086059127055482886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@senzhiwu 呜…咱也差不多，啊我父亲跟我关系可能更疏远呢，就是完全的陌生人（）似乎已经很多年没说过话了…而且我连物质都很久没感受到过了\n\n是某种尴尬吧，家庭已经习惯了现状，赖在舒适圈里不想动…打破疏远的关系是一件很尴尬的事情…咱害怕尴尬呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2086059127055482886",
+        "created_at": "2026-08-09T03:41:14.000Z",
+        "display_text_range": [
+          10,
+          124
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T04:41:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086296719135015185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2031270533359349761",
+              "start": 0,
+              "username": "senzhiwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086296719135015185",
+        "in_reply_to_user_id": "2031270533359349761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086059127055482886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@senzhiwu 呜…咱也差不多，啊我父亲跟我关系可能更疏远呢，就是完全的陌生人（）似乎已经很多年没说过话了…而且我连物质都很久没感受到过了\n\n是某种尴尬吧，家庭已经习惯了现状，赖在舒适圈里不想动…打破疏远的关系是一件很尴尬的事情…咱害怕尴尬呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031270533359349761",
+        "conversation_id": "2086059127055482886",
+        "created_at": "2026-08-08T11:57:07.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T12:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086059127055482886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nanami_mua/sta…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/nanami_mua/status/2085929561532063840",
+              "start": 144,
+              "url": "https://t.co/suyqJ8L8MC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086059127055482886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1563,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085929561532063840",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在森森印象中，父亲是个熟悉的陌生人，17年时间中森森跟父亲见面总时间不超过半个月，对于小时候的森森来说，父亲是个很好的“叔叔”，只要见面就会送森森玩具 长大以后，这位熟悉的叔叔不再送玩具了，而是每次见面都会给很多钱，对于现在的森森来说父亲只能算很交心的叔叔 森森从来没感受到父爱只有物质 https://t.co/suyqJ8L8MC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2086296719135015185",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4925,
+          "following_count": 6871,
+          "like_count": 17900,
+          "listed_count": 12,
+          "media_count": 377,
+          "tweet_count": 4953
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-10T07:27:30.000Z",
+        "description": "一个什么都不擅长的废物｜喜欢一切可爱事物｜entp-t 现infp/j｜心归所至：@74025hai 愿为你的天使，化作你的羽翼，与你共赴天堂｜mtx🏳️‍⚧️｜Autogynephilia（性别认同仍然为x）｜小证偷吃｜hrt3.29｜欢迎互fo喵｜常驻南京",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 41,
+                "username": "74025hai"
+              }
+            ]
+          }
+        },
+        "id": "2031270533359349761",
+        "is_identity_verified": false,
+        "location": "你家门口",
+        "most_recent_tweet_id": "2086291688088387774",
+        "name": "senzhiwu🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2086291480478712245",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2031270533359349761/1782638372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070681859684798464/sOsRMjEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1838,
+          "following_count": 426,
+          "like_count": 3415,
+          "listed_count": 5,
+          "media_count": 131,
+          "tweet_count": 2628
+        },
+        "url": "",
+        "username": "senzhiwu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

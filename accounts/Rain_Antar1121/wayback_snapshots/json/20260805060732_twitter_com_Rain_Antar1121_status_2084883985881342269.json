@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2084844883458617450",
+    "created_at": "2026-08-05T06:07:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T07:07:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084883985881342269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1688792465292374016",
+          "start": 0,
+          "username": "unitedly_37400"
+        },
+        {
+          "end": 27,
+          "id": "1531432040909918209",
+          "start": 16,
+          "username": "_ciweiqwq_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084883985881342269",
+    "in_reply_to_user_id": "1688792465292374016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084882144653156446",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@unitedly_37400 @_ciweiqwq_ 哼哼(*ෆ´ ˘ `ෆ*)♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2084844883458617450",
+        "created_at": "2026-08-05T06:07:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T07:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084883985881342269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1688792465292374016",
+              "start": 0,
+              "username": "unitedly_37400"
+            },
+            {
+              "end": 27,
+              "id": "1531432040909918209",
+              "start": 16,
+              "username": "_ciweiqwq_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084883985881342269",
+        "in_reply_to_user_id": "1688792465292374016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084882144653156446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@unitedly_37400 @_ciweiqwq_ 哼哼(*ෆ´ ˘ `ෆ*)♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688792465292374016",
+        "conversation_id": "2084844883458617450",
+        "created_at": "2026-08-05T06:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T07:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084882144653156446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1531432040909918209",
+              "start": 0,
+              "username": "_ciweiqwq_"
+            },
+            {
+              "end": 27,
+              "id": "1894461745277931524",
+              "start": 12,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084882144653156446",
+        "in_reply_to_user_id": "1531432040909918209",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084844883458617450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_ciweiqwq_ @Rain_Antar1121 哇羡慕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4896,
+          "following_count": 6802,
+          "like_count": 17752,
+          "listed_count": 12,
+          "media_count": 373,
+          "tweet_count": 4917
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-08T06:01:32.000Z",
+        "description": "念作なかい つるみ😼称呼我鹤宝就好😋｜大阪人🥰｜现在的名字不像假账号了👊｜🇯🇵🏳️‍⚧️｜微查成分回fo(真的很微)🥺没回就是100%没看到😭｜小号@tsurumi_37400 欢迎关注喵｜魔裁/F1(CL16)/MC/天际线｜最好的伙伴 @tomo9487｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "tsurumi_37400"
+              },
+              {
+                "end": 129,
+                "start": 120,
+                "username": "tomo9487"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/da4B7bSnC",
+                "end": 23,
+                "expanded_url": "https://discord.gg/da4B7bSnC",
+                "start": 0,
+                "url": "https://t.co/QrtZ8v9W7F"
+              }
+            ]
+          }
+        },
+        "id": "1688792465292374016",
+        "location": "滋賀県",
+        "name": "中井鶴見",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060737570250891264/5ckknA3g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 604,
+          "like_count": 86257,
+          "listed_count": 2,
+          "media_count": 305,
+          "tweet_count": 2662
+        },
+        "url": "https://t.co/QrtZ8v9W7F",
+        "username": "unitedly_37400",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-31T00:27:23.000Z",
+        "description": "09/男/双 这个是发泄情绪的号：@suzume_FANqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 17,
+                "username": "suzume_FANqwq"
+              }
+            ]
+          }
+        },
+        "id": "1531432040909918209",
+        "name": "刺猬QWQ",
+        "pinned_tweet_id": "2056926845497409858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047713615419932673/rglwu7N3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 533,
+          "like_count": 25276,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 1602
+        },
+        "url": "",
+        "username": "_ciweiqwq_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2088246565756657705",
+    "created_at": "2026-08-15T08:43:46.000Z",
+    "display_text_range": [
+      20,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T09:43:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088547184082108720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1591527461279485954",
+          "start": 0,
+          "username": "NoirZnt"
+        },
+        {
+          "end": 19,
+          "id": "2023993992783044608",
+          "start": 9,
+          "username": "DerekHam_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088547184082108720",
+    "in_reply_to_user_id": "1591527461279485954",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088369214331470045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NoirZnt @DerekHam_ 且瞻翌晨星，星烛前路明～"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2088369214331470045].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2088369214331470045",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2088369214331470045"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2088246565756657705",
+        "created_at": "2026-08-15T08:43:46.000Z",
+        "display_text_range": [
+          20,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T09:43:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088547184082108720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1591527461279485954",
+              "start": 0,
+              "username": "NoirZnt"
+            },
+            {
+              "end": 19,
+              "id": "2023993992783044608",
+              "start": 9,
+              "username": "DerekHam_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088547184082108720",
+        "in_reply_to_user_id": "1591527461279485954",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088369214331470045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NoirZnt @DerekHam_ 且瞻翌晨星，星烛前路明～"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2088547184082108720",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4970,
+          "following_count": 6914,
+          "like_count": 18290,
+          "listed_count": 12,
+          "media_count": 388,
+          "tweet_count": 5109
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-12T20:25:06.000Z",
+        "description": "可以叫我Noir/玄夜/小章鱼",
+        "id": "1591527461279485954",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086861118832521593",
+        "name": "Noir",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591527461279485954/1778262406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052807425154060289/7Kmvc_Lj_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1071,
+          "following_count": 4996,
+          "like_count": 18443,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 4126
+        },
+        "url": "",
+        "username": "NoirZnt",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-18T05:32:34.000Z",
+        "description": "Aerospace/Urbanism/Physics/Astronomy/SciFi\nIBDP Student\nCN(简繁皆可)&EN; DE ein bisschen. \n什么都会点，有意思的东西都可以来分享讨论，欢迎各位\nCall me Derek/Ham/DerekHam. Gender Neutral.",
+        "id": "2023993992783044608",
+        "is_identity_verified": false,
+        "location": "Global Citizen, I Guess",
+        "most_recent_tweet_id": "2088510266669752335",
+        "name": "DerekHam",
+        "pinned_tweet_id": "2055700446757699622",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023993992783044608/1786334906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024073322666020865/2E08phB__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 75,
+          "like_count": 828,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 295
+        },
+        "url": "",
+        "username": "DerekHam_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
