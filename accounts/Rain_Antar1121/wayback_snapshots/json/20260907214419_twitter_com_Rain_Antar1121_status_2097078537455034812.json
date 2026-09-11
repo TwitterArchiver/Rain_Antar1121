@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2097056268422910382",
+    "created_at": "2026-09-07T21:44:19.000Z",
+    "display_text_range": [
+      12,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T22:44:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097078537455034812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1072534840312913920",
+          "start": 0,
+          "username": "mizuame_t2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097078537455034812",
+    "in_reply_to_user_id": "1072534840312913920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097056268422910382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mizuame_t2 好圆的叽🥰\n啃啃镜子🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2097056245798903808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRo9i3zboAADLDG.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2111,
+        "media_key": "3_2097056258151071744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRo9jl0awAATOus.jpg",
+        "width": 2815
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2097056268422910382",
+        "created_at": "2026-09-07T21:44:19.000Z",
+        "display_text_range": [
+          12,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T22:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097078537455034812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1072534840312913920",
+              "start": 0,
+              "username": "mizuame_t2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097078537455034812",
+        "in_reply_to_user_id": "1072534840312913920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097056268422910382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizuame_t2 好圆的叽🥰\n啃啃镜子🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097056245798903808",
+            "3_2097056258151071744"
+          ]
+        },
+        "author_id": "1072534840312913920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2097056268422910382",
+        "created_at": "2026-09-07T20:15:50.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T21:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097056268422910382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MNp3HV8oDT",
+              "end": 46,
+              "expanded_url": "https://x.com/mizuame_t2/status/2097056268422910382/photo/1",
+              "media_key": "3_2097056245798903808",
+              "start": 23,
+              "url": "https://t.co/MNp3HV8oDT"
+            },
+            {
+              "display_url": "pic.x.com/MNp3HV8oDT",
+              "end": 46,
+              "expanded_url": "https://x.com/mizuame_t2/status/2097056268422910382/photo/1",
+              "media_key": "3_2097056258151071744",
+              "start": 23,
+              "url": "https://t.co/MNp3HV8oDT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097056268422910382",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097056245798903808"
+          },
+          {
+            "media_key": "3_2097056258151071744"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今晚一直在院子里观测，大鸡看起来睡得不是很好 https://t.co/MNp3HV8oDT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2097078537455034812",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5212,
+          "following_count": 7175,
+          "like_count": 20728,
+          "listed_count": 12,
+          "media_count": 452,
+          "tweet_count": 6080
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-12-11T16:53:27.000Z",
+        "description": "大龄天残？党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、爱抓小孩症.jpg，同类欢迎互fo🥺\n马斯克你再封我号试试呢😡",
+        "id": "1072534840312913920",
+        "is_identity_verified": false,
+        "location": "β Cygni",
+        "most_recent_tweet_id": "2097056268422910382",
+        "name": "水母雨🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1072534840312913920/1787807333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092834520789860352/hr9YENoq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 154,
+          "like_count": 872,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 125
+        },
+        "url": "",
+        "username": "mizuame_t2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

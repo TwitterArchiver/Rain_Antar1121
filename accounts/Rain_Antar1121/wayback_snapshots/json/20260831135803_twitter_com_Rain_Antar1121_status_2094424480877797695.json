@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2094004275995431341",
+    "created_at": "2026-08-31T13:58:03.000Z",
+    "display_text_range": [
+      16,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T14:58:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094424480877797695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2007221360704270339",
+          "start": 0,
+          "username": "6AK3RY4NDU517a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094424480877797695",
+    "in_reply_to_user_id": "2007221360704270339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094418971361792122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@6AK3RY4NDU517a ♪(๑ᴖ◡ᴖ๑)贴着你～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2094418963266744320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRDe80xbMAApGeI.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2094004275995431341",
+        "created_at": "2026-08-31T13:58:03.000Z",
+        "display_text_range": [
+          16,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T14:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094424480877797695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2007221360704270339",
+              "start": 0,
+              "username": "6AK3RY4NDU517a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094424480877797695",
+        "in_reply_to_user_id": "2007221360704270339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094418971361792122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6AK3RY4NDU517a ♪(๑ᴖ◡ᴖ๑)贴着你～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094418963266744320"
+          ]
+        },
+        "author_id": "2007221360704270339",
+        "conversation_id": "2094004275995431341",
+        "created_at": "2026-08-31T13:36:09.000Z",
+        "display_text_range": [
+          16,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T14:36:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094418971361792122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LW3FXSK8V9",
+              "end": 57,
+              "expanded_url": "https://x.com/6AK3RY4NDU517a/status/2094418971361792122/photo/1",
+              "media_key": "3_2094418963266744320",
+              "start": 34,
+              "url": "https://t.co/LW3FXSK8V9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094418971361792122",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094418963266744320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094004275995431341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 o(&gt;ω&lt; )o好耶！ https://t.co/LW3FXSK8V9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2094424480877797695",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5129,
+          "following_count": 7074,
+          "like_count": 19930,
+          "listed_count": 12,
+          "media_count": 419,
+          "tweet_count": 5767
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-02T22:44:10.000Z",
+        "description": "MtX/bi/sw (＾ｰ^)ノ ｜鄂贯满盈",
+        "id": "2007221360704270339",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094418971361792122",
+        "name": "椭圆AzureCircle🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2007221360704270339/1787660887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050369003818983424/Wky1yJYI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 102,
+          "like_count": 240,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 159
+        },
+        "url": "",
+        "username": "6AK3RY4NDU517a",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

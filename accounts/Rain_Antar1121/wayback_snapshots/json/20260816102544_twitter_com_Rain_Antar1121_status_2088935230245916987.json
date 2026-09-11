@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2088226702929666469",
+    "created_at": "2026-08-16T10:25:44.000Z",
+    "display_text_range": [
+      15,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T11:25:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088935230245916987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1995338698712633344",
+          "start": 0,
+          "username": "Spitze_dilete"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088935230245916987",
+    "in_reply_to_user_id": "1995338698712633344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088226702929666469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Spitze_dilete 羡慕…想要车但是至今都觉得开车是好可怕的事情😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2088226600261402625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrfB28aQAEBacs.jpg",
+        "width": 4000
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2088226629659308033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrfDkdasAEhN4y.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2088226702929666469",
+        "created_at": "2026-08-16T10:25:44.000Z",
+        "display_text_range": [
+          15,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T11:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088935230245916987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1995338698712633344",
+              "start": 0,
+              "username": "Spitze_dilete"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088935230245916987",
+        "in_reply_to_user_id": "1995338698712633344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088226702929666469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Spitze_dilete 羡慕…想要车但是至今都觉得开车是好可怕的事情😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088226600261402625",
+            "3_2088226629659308033"
+          ]
+        },
+        "author_id": "1995338698712633344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2088226702929666469",
+        "created_at": "2026-08-14T11:30:18.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T12:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088226702929666469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/woqczLdwKZ",
+              "end": 63,
+              "expanded_url": "https://x.com/Spitze_dilete/status/2088226702929666469/photo/1",
+              "media_key": "3_2088226600261402625",
+              "start": 40,
+              "url": "https://t.co/woqczLdwKZ"
+            },
+            {
+              "display_url": "pic.x.com/woqczLdwKZ",
+              "end": 63,
+              "expanded_url": "https://x.com/Spitze_dilete/status/2088226702929666469/photo/1",
+              "media_key": "3_2088226629659308033",
+              "start": 40,
+              "url": "https://t.co/woqczLdwKZ"
+            },
+            {
+              "display_url": "x.com/FJUNNNN/status…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/FJUNNNN/status/2071062046595219727",
+              "start": 64,
+              "url": "https://t.co/MghWYx5Fal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088226702929666469",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088226600261402625"
+          },
+          {
+            "media_key": "3_2088226629659308033"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071062046595219727",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "迟来的驾照炫耀帖\n在居民区和商业街转悠\nε٩(๑&gt; ₃ &lt;)۶ з https://t.co/woqczLdwKZ https://t.co/MghWYx5Fal"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2088935230245916987",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4987,
+          "following_count": 6939,
+          "like_count": 18440,
+          "listed_count": 12,
+          "media_count": 391,
+          "tweet_count": 5146
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-01T03:46:51.000Z",
+        "description": "Asperger/已摆脱心境障碍/不od割手赌博的好宝宝/人类观察协会成员\n小证含糖mtf无性恋/糖商/接线下🚪50\nqq2323190842",
+        "id": "1995338698712633344",
+        "is_identity_verified": false,
+        "location": "长春市哦",
+        "most_recent_tweet_id": "2088674453840675142",
+        "name": "Dilete",
+        "pinned_tweet_id": "2026963906208645146",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1995338698712633344/1783602408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040111729930276864/3ia7upYr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 52,
+          "like_count": 1872,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 81
+        },
+        "url": "",
+        "username": "Spitze_dilete",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

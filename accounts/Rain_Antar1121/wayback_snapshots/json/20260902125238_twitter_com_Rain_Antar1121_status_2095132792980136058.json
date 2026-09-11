@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2094647170653933578",
+    "created_at": "2026-09-02T12:52:38.000Z",
+    "display_text_range": [
+      10,
+      75
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T13:52:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095132792980136058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1894622523033358336",
+          "start": 0,
+          "username": "QXY_WARD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095132792980136058",
+    "in_reply_to_user_id": "1894622523033358336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095086103284056193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QXY_WARD 喵喵呜所有关注咱的人都在里面的啦🥹嘻嘻直接让咱找就行了，AI目前还不太适合这个问题…不如让AI针对这个问题写个脚本的，抱抱～つ♡⊂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 70,
+        "media_key": "3_2095086092055941120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRM9s1LbEAA3WbP.jpg",
+        "width": 64
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2095086097315561473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRM9tIxagAEerZr.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2094647170653933578",
+        "created_at": "2026-09-02T12:52:38.000Z",
+        "display_text_range": [
+          10,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T13:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095132792980136058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1894622523033358336",
+              "start": 0,
+              "username": "QXY_WARD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095132792980136058",
+        "in_reply_to_user_id": "1894622523033358336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095086103284056193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QXY_WARD 喵喵呜所有关注咱的人都在里面的啦🥹嘻嘻直接让咱找就行了，AI目前还不太适合这个问题…不如让AI针对这个问题写个脚本的，抱抱～つ♡⊂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095086092055941120",
+            "3_2095086097315561473"
+          ]
+        },
+        "author_id": "1894622523033358336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2094647170653933578",
+        "created_at": "2026-09-02T09:47:06.000Z",
+        "display_text_range": [
+          26,
+          162
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T10:47:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095086103284056193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 25,
+              "id": "1842197793370435584",
+              "start": 16,
+              "username": "KqottopK"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vQXKOY3O4R",
+              "end": 186,
+              "expanded_url": "https://x.com/QXY_WARD/status/2095086103284056193/photo/1",
+              "media_key": "3_2095086092055941120",
+              "start": 163,
+              "url": "https://t.co/vQXKOY3O4R"
+            },
+            {
+              "display_url": "pic.x.com/vQXKOY3O4R",
+              "end": 186,
+              "expanded_url": "https://x.com/QXY_WARD/status/2095086103284056193/photo/1",
+              "media_key": "3_2095086097315561473",
+              "start": 163,
+              "url": "https://t.co/vQXKOY3O4R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095086103284056193",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095086092055941120"
+          },
+          {
+            "media_key": "3_2095086097315561473"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094647170653933578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 @KqottopK 我在运行Grok AI查找“从这里面找到我的头像在哪里”的时候，我等的不耐烦了，用了7分钟，在等待的途中我一直看白色区域，因为我的头像是白色，不出意外在左上角的找到了！\n我刚才还在想说为什么会没我呢 是不是因为我不是跨？但是找到后，这个疑惑就消失了\n我找到了，我的小正太🥰 https://t.co/vQXKOY3O4R"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2095132792980136058",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5160,
+          "following_count": 7101,
+          "like_count": 20164,
+          "listed_count": 12,
+          "media_count": 441,
+          "tweet_count": 5896
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-26T05:36:40.000Z",
+        "description": "白水鉴心 我心可鉴/性取向随妈☺️\n看不惯我的请直接把我拉黑 不要骂人 无论我有前科者 请别提及说事",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "v.kuaishou.com/nTMTaq6H",
+                "end": 23,
+                "expanded_url": "https://v.kuaishou.com/nTMTaq6H",
+                "start": 0,
+                "url": "https://t.co/HHgVf6Z9xB"
+              }
+            ]
+          }
+        },
+        "id": "1894622523033358336",
+        "is_identity_verified": false,
+        "location": "海南海口",
+        "most_recent_tweet_id": "2095086282611343849",
+        "name": "骏少来咯（原是小怡呀）",
+        "pinned_tweet_id": "2074399814377439716",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894622523033358336/1783356560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074173868386967554/XahyxIed_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1453,
+          "following_count": 826,
+          "like_count": 5357,
+          "listed_count": 1,
+          "media_count": 491,
+          "tweet_count": 2146
+        },
+        "url": "https://t.co/HHgVf6Z9xB",
+        "username": "QXY_WARD",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

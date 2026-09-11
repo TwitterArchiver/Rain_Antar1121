@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2094647170653933578",
+    "created_at": "2026-09-01T17:06:00.000Z",
+    "display_text_range": [
+      16,
+      84
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T18:06:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094834168400335305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1948542333068476420",
+          "start": 0,
+          "username": "MrJie_Official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094834168400335305",
+    "in_reply_to_user_id": "1948542333068476420",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094830588515737886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MrJie_Official 哇呜…GPT居然能找到啊好厉害…AI还是超出了我的想象呢🥹更有效率的方式应该是让AI针对这个问题写个脚本）不过找到了就好哦～抱住揉揉揉🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2094647170653933578",
+        "created_at": "2026-09-01T17:06:00.000Z",
+        "display_text_range": [
+          16,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T18:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094834168400335305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1948542333068476420",
+              "start": 0,
+              "username": "MrJie_Official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094834168400335305",
+        "in_reply_to_user_id": "1948542333068476420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094830588515737886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MrJie_Official 哇呜…GPT居然能找到啊好厉害…AI还是超出了我的想象呢🥹更有效率的方式应该是让AI针对这个问题写个脚本）不过找到了就好哦～抱住揉揉揉🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948542333068476420",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2094647170653933578",
+        "created_at": "2026-09-01T16:51:47.000Z",
+        "display_text_range": [
+          26,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T17:51:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094830588515737886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 25,
+              "id": "1842197793370435584",
+              "start": 16,
+              "username": "KqottopK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094830588515737886",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094647170653933578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 @KqottopK 真的特别复杂欸ChatGPT花了12min 12s才定位到具体位置，我自己都没想到我居然会在图片右上角，一直在图片下方找来找去，rain很厉害"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2094834168400335305",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5146,
+          "following_count": 7090,
+          "like_count": 20112,
+          "listed_count": 12,
+          "media_count": 433,
+          "tweet_count": 5867
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-25T00:34:39.000Z",
+        "description": "16岁 是高中生\n喜欢很多很杂的事情，航天、二次元、音游、化学等等\n希望可以结识很多朋友喵",
+        "id": "1948542333068476420",
+        "is_identity_verified": false,
+        "location": "China Shaanxi & Your heart♡",
+        "most_recent_tweet_id": "2094830588515737886",
+        "name": "Mr.Jie",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948542333068476420/1777611338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948542515952713732/kQ8wdBte_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 76,
+          "like_count": 126,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 267
+        },
+        "url": "",
+        "username": "MrJie_Official",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

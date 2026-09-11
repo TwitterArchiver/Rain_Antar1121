@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2093211946502017362",
+    "created_at": "2026-08-28T11:28:19.000Z",
+    "display_text_range": [
+      13,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T12:28:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093299637918781495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1771476725966532608",
+          "start": 0,
+          "username": "LSEQI146422"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093299637918781495",
+    "in_reply_to_user_id": "1771476725966532608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093299437691129959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LSEQI146422 真的很可怕啊…窝好希望世界上全是软猫猫…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2093211946502017362",
+        "created_at": "2026-08-28T11:28:19.000Z",
+        "display_text_range": [
+          13,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T12:28:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093299637918781495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1771476725966532608",
+              "start": 0,
+              "username": "LSEQI146422"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093299637918781495",
+        "in_reply_to_user_id": "1771476725966532608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093299437691129959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LSEQI146422 真的很可怕啊…窝好希望世界上全是软猫猫…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771476725966532608",
+        "conversation_id": "2093211946502017362",
+        "created_at": "2026-08-28T11:27:32.000Z",
+        "display_text_range": [
+          28,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T12:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093299437691129959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 27,
+              "id": "967668314095853570",
+              "start": 16,
+              "username": "_Malinorne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093299437691129959",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093237445240496275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 @_Malinorne 笨笨的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2093299637918781495",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5071,
+          "following_count": 7017,
+          "like_count": 19468,
+          "listed_count": 12,
+          "media_count": 417,
+          "tweet_count": 5537
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-23T09:59:06.000Z",
+        "description": "About 18 years in this world\n🕗UTC+8 \n🎮project sekai player\n\nwelcome to chat with me! \n日本語を学んでいます",
+        "id": "1771476725966532608",
+        "is_identity_verified": false,
+        "location": "Taoyuan County, Taiwan",
+        "most_recent_tweet_id": "2093299437691129959",
+        "name": "LSEQI",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1771476725966532608/1774663288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037711519476293632/CbSCKEFc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 46,
+          "like_count": 1426,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 144
+        },
+        "url": "",
+        "username": "LSEQI146422",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

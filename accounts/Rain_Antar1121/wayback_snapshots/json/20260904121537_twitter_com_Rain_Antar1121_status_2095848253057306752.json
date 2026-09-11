@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2095823887703675384",
+    "created_at": "2026-09-04T12:15:37.000Z",
+    "display_text_range": [
+      13,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T13:15:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095848253057306752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "912917329272541185",
+          "start": 0,
+          "username": "CCCP8241701"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095848253057306752",
+    "in_reply_to_user_id": "912917329272541185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095847196369514896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CCCP8241701 好耶！喜欢风景喵呜🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2095823887703675384",
+        "created_at": "2026-09-04T12:15:37.000Z",
+        "display_text_range": [
+          13,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T13:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095848253057306752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "912917329272541185",
+              "start": 0,
+              "username": "CCCP8241701"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095848253057306752",
+        "in_reply_to_user_id": "912917329272541185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095847196369514896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCCP8241701 好耶！喜欢风景喵呜🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "912917329272541185",
+        "conversation_id": "2095823887703675384",
+        "created_at": "2026-09-04T12:11:25.000Z",
+        "display_text_range": [
+          16,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T13:11:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095847196369514896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095847196369514896",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095845856406880613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 之後的作品 再麻煩妳多多鑑賞給評價了🌟"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2095848253057306752",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5174,
+          "following_count": 7120,
+          "like_count": 20362,
+          "listed_count": 12,
+          "media_count": 446,
+          "tweet_count": 5964
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-09-27T05:50:27.000Z",
+        "description": "",
+        "id": "912917329272541185",
+        "is_identity_verified": false,
+        "location": "台中市，台灣，中華民國🇹🇼",
+        "most_recent_tweet_id": "2095847843164774490",
+        "name": "德雷斯",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/912917329272541185/1553251662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1109044220428316678/8MSPuTo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 5355,
+          "like_count": 29553,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 16996
+        },
+        "url": "",
+        "username": "CCCP8241701",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

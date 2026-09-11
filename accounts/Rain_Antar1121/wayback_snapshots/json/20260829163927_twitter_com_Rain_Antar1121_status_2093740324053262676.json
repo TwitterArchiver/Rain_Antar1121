@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2092869833125974098",
+    "created_at": "2026-08-29T16:39:27.000Z",
+    "display_text_range": [
+      13,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T17:39:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093740324053262676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1877035470615638016",
+          "start": 0,
+          "username": "LMegurine03"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/rain_antar1121…",
+          "end": 54,
+          "expanded_url": "https://x.com/rain_antar1121/status/2033528953080791287",
+          "start": 31,
+          "url": "https://t.co/vxEYJYG43W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093740324053262676",
+    "in_reply_to_user_id": "1877035470615638016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033528953080791287",
+        "type": "quoted"
+      },
+      {
+        "id": "2093701861740314976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LMegurine03 这就可以看咱的飞机拍星攻略了嘻嘻🥰\nhttps://t.co/vxEYJYG43W"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2092869833125974098",
+        "created_at": "2026-08-29T16:39:27.000Z",
+        "display_text_range": [
+          13,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T17:39:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093740324053262676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/rain_antar1121…",
+              "end": 54,
+              "expanded_url": "https://x.com/rain_antar1121/status/2033528953080791287",
+              "start": 31,
+              "url": "https://t.co/vxEYJYG43W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093740324053262676",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033528953080791287",
+            "type": "quoted"
+          },
+          {
+            "id": "2093701861740314976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 这就可以看咱的飞机拍星攻略了嘻嘻🥰\nhttps://t.co/vxEYJYG43W"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2092869833125974098",
+        "created_at": "2026-08-29T14:06:37.000Z",
+        "display_text_range": [
+          16,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T15:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093701861740314976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093701861740314976",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093624998338654376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 好诶，不过感觉真的挺难看清的（）"
+      },
+      {
+        "article": {
+          "cover_media": "3_2033521745232310272",
+          "entities": {
+            "urls": [
+              {
+                "text": "https://abs-0.twimg.com/emoji/v2/svg/1f970.svg"
+              },
+              {
+                "text": "https://abs-0.twimg.com/emoji/v2/svg/1f618.svg"
+              },
+              {
+                "text": "https://abs-0.twimg.com/emoji/v2/svg/1f30c.svg"
+              },
+              {
+                "text": "https://abs-0.twimg.com/emoji/v2/svg/1f970.svg"
+              },
+              {
+                "text": "https://abs-0.twimg.com/emoji/v2/svg/263a.svg"
+              },
+              {
+                "text": "https://abs-0.twimg.com/emoji/v2/svg/1f30c.svg"
+              },
+              {
+                "text": "https://abs-0.twimg.com/emoji/v2/svg/1f979.svg"
+              },
+              {
+                "text": "https://abs-0.twimg.com/emoji/v2/svg/1f970.svg"
+              },
+              {
+                "text": "https://abs-0.twimg.com/emoji/v2/svg/1f618.svg"
+              }
+            ]
+          },
+          "plain_text": "喵，在夜航的飞机上别急着睡觉哦～不要错过遮光板外的漫天星海🌌～把眼睛贴在舷窗上，繁密的珍宝盒一定能震撼你…来把它藏进相册啵☺️\n\n这篇攻略适用于经济舱靠窗座位，仅研究了手机拍摄🥹只是一点点个人经验总结啦…欢迎批评指正…\n\n平飞后就可以贴着舷窗看星星啦😘～不过摄影最好等到客舱服务结束，灯光全部关闭…平稳飞行无颠簸无转向时最合适喵～\n\n1.  座位  避开机翼附近（会被航行灯干扰喵），坐在最前最后都行喵，如果坐的是787记得把窗户调到最透明\n๑>ᴗO๑\n\n2.  清洁和准备  后置摄像头和窗户…能擦干净的都擦干净喵，放置手机镜头的位置避开窗户上的划痕…然后屏幕亮度调到最暗～\n测试一下遮光板和窗户之间能否卡住手机，有必要就把手机壳拆下来\n也可以用胶带固定把手机固定在窗户上…不过iPhone不建议这样做，因为下文会讲到的对焦操作…\n♪(๑ᴖ◡ᴖ๑)\n3.  屏蔽一切人造光  很重要…否则窗户上的反光会毁掉画面呢～\n所以，用不透光的外套或毛毯披在身上，把自己和手机包起来贴着窗户…就像一百年前的摄影师那样，记得用小臂在头顶把外套贴紧在墙壁上喵\nヾ(๑╹ヮ╹๑)ﾉ”\n\n4.  拍照设置  的话，大多数手机使用夜景模式，关闭闪光灯，关闭自动弹出的微距模式就行啦～\n可以设置几秒的定时拍照，留时间给后续操作…或者使用手表控制拍照喵\n要调参数就是iso尽量低，曝光时间调最长，手动对焦调到无限远…如果照片噪点尚能接受就慢慢调高iso喵（有待咱进一步尝试…）\n当然如果画面过曝过暗就多试几组参数喵，飞机颠簸就只能适当缩短曝光时间啦…\n可是对于iPhone原生相机…对焦和曝光都需要跟系统斗志斗勇\n໒꒰ྀིྀི ꜆ ⁰́꒳⁰̀ ꒱ྀིა \n\n5.  iPhone的特殊技巧  …同样是关闭闪光灯，关闭微距，打开夜间模式设置为最高，曝光补偿+1.3～+2.0（有待咱进一步尝试…）\n对焦的话，可以借用客舱前后最远处的灯…对着它们按对焦框，聚焦之后趁系统不注意把镜头贴回窗户，同时密封好外套遮光喵\n最好在夜间模式显示30秒的时候再拍照\n♡(｡☌ᴗ☌｡）\n6.  开拍  ～把手机架稳在舷窗底部，镜头紧贴玻璃，按下快门吧～\n如果坐在能看到机翼航行灯的位置，最好在频闪灯熄灭后漆黑的那一刻开始拍照，这也会让iPhone有更高概率选择30秒曝光\n趁曝光还没开始，拉下遮光板…把手机封闭在里面，当然坐787就只能用手按稳或者胶带固定了…\n(⑅˘̤ ᵕ˘̤)*♡*\n7.  等待  曝光结束就可以看成品啦～记得多试几组参数，多拍几次…飞机转向和颠簸就可以拿下来等重拍了，不过尝试的够久总会成功的哦\n໒꒰ྀི∗ɞ̴̶̷ ·̮ ɞ̴̶̷∗꒱ྀིა \n\n（也许这篇攻略以后还会更新吧…还有不少没试清楚的事情呢）\n\n祝你飞行顺利喵😘～拍出最可爱的星空喵🌌～愿星海与银河赐大家今晚的好心情🥰🥰🥰",
+          "preview_text": "喵，在夜航的飞机上别急着睡觉哦～不要错过遮光板外的漫天星海🌌～把眼睛贴在舷窗上，繁密的珍宝盒一定能震撼你…来把它藏进相册啵☺️",
+          "title": "夜间航班拍星攻略🌌🥰v1.0"
+        },
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2033528953080791287",
+        "created_at": "2026-03-16T13:00:58.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-03-16T14:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033528953080791287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2033…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2033521378314629120",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "http://x.com/i/article/2033521378314629120",
+              "url": "https://t.co/Z98CeKmphX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033528953080791287",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1790,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Z98CeKmphX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2093740324053262676",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5082,
+          "following_count": 7027,
+          "like_count": 19637,
+          "listed_count": 12,
+          "media_count": 418,
+          "tweet_count": 5618
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/57｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu20 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu20"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "is_identity_verified": false,
+        "location": "Castilla, Madrid",
+        "most_recent_tweet_id": "2093722377133936784",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877035470615638016/1784141419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4461,
+          "following_count": 7020,
+          "like_count": 8714,
+          "listed_count": 9,
+          "media_count": 2006,
+          "tweet_count": 7445
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

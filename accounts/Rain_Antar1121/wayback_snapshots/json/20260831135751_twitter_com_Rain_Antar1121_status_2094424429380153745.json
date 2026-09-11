@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2094004275995431341",
+    "created_at": "2026-08-31T13:57:51.000Z",
+    "display_text_range": [
+      15,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T14:57:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094424429380153745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1499103632255455233",
+          "start": 0,
+          "username": "AKIYAMAYUGUMO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094424429380153745",
+    "in_reply_to_user_id": "1499103632255455233",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094417419951591550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AKIYAMAYUGUMO 耶！贴咪ฅ₍ᐢ⸝⸝›  ̫ ‹⸝⸝ᐢ₎ฅ˒˒"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 274,
+        "media_key": "3_2094417415518224384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRDdiu9bAAAio5w.jpg",
+        "width": 253
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2094004275995431341",
+        "created_at": "2026-08-31T13:57:51.000Z",
+        "display_text_range": [
+          15,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T14:57:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094424429380153745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1499103632255455233",
+              "start": 0,
+              "username": "AKIYAMAYUGUMO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094424429380153745",
+        "in_reply_to_user_id": "1499103632255455233",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094417419951591550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AKIYAMAYUGUMO 耶！贴咪ฅ₍ᐢ⸝⸝›  ̫ ‹⸝⸝ᐢ₎ฅ˒˒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094417415518224384"
+          ]
+        },
+        "author_id": "1499103632255455233",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094004275995431341",
+        "created_at": "2026-08-31T13:29:59.000Z",
+        "display_text_range": [
+          16,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T14:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094417419951591550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vh4sNlfq1f",
+              "end": 47,
+              "expanded_url": "https://x.com/AKIYAMAYUGUMO/status/2094417419951591550/photo/1",
+              "media_key": "3_2094417415518224384",
+              "start": 24,
+              "url": "https://t.co/vh4sNlfq1f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094417419951591550",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2094417415518224384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094004275995431341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 1/5078！ https://t.co/vh4sNlfq1f"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2094424429380153745",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5129,
+          "following_count": 7074,
+          "like_count": 19929,
+          "listed_count": 12,
+          "media_count": 419,
+          "tweet_count": 5766
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-02T19:25:41.000Z",
+        "description": "📸 航空・鉄道写真 | 🏙️ 都市交通研究 | ⚓ 海軍史・国際関係 | 🔭 世界を観測し | 🌅 時よ止まれ、お前は美しい | 🎵 花一匁 | 🌍 We Are The World | 🚫 ファシズム・反人道思想",
+        "id": "1499103632255455233",
+        "is_identity_verified": false,
+        "location": "时隙废都",
+        "most_recent_tweet_id": "2094417419951591550",
+        "name": "秋山夕云✂️",
+        "pinned_tweet_id": "2052954738279473462",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1499103632255455233/1757559031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006631382605520896/kxXzgSYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1132,
+          "following_count": 834,
+          "like_count": 21821,
+          "listed_count": 4,
+          "media_count": 1410,
+          "tweet_count": 5151
+        },
+        "url": "",
+        "username": "AKIYAMAYUGUMO",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

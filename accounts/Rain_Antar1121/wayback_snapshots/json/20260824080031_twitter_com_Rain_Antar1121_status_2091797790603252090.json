@@ -1,0 +1,499 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091797220081463296",
+        "3_2091797220106678272",
+        "13_2091797220110864384",
+        "13_2091797220127543296"
+      ]
+    },
+    "author_id": "1894461745277931524",
+    "conversation_id": "2091797790603252090",
+    "created_at": "2026-08-24T08:00:31.000Z",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T09:00:18.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091797735246864754",
+      "2091797790603252090"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 17,
+          "start": 9,
+          "tag": "Zhuque3"
+        },
+        {
+          "end": 23,
+          "start": 18,
+          "tag": "朱雀三号"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ni48tezfxh",
+          "end": 75,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/2091797790603252090/video/1",
+          "media_key": "3_2091797220081463296",
+          "start": 52,
+          "url": "https://t.co/Ni48tezfxh"
+        },
+        {
+          "display_url": "pic.x.com/Ni48tezfxh",
+          "end": 75,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/2091797790603252090/video/1",
+          "media_key": "3_2091797220106678272",
+          "start": 52,
+          "url": "https://t.co/Ni48tezfxh"
+        },
+        {
+          "display_url": "pic.x.com/Ni48tezfxh",
+          "end": 75,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/2091797790603252090/video/1",
+          "media_key": "13_2091797220110864384",
+          "start": 52,
+          "url": "https://t.co/Ni48tezfxh"
+        },
+        {
+          "display_url": "pic.x.com/Ni48tezfxh",
+          "end": 75,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/2091797790603252090/video/1",
+          "media_key": "13_2091797220127543296",
+          "start": 52,
+          "url": "https://t.co/Ni48tezfxh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091797790603252090",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091797220081463296"
+      },
+      {
+        "media_key": "3_2091797220106678272"
+      },
+      {
+        "media_key": "13_2091797220110864384"
+      },
+      {
+        "media_key": "13_2091797220127543296"
+      }
+    ],
+    "note_tweet": {
+      "entities": {
+        "hashtags": [
+          {
+            "end": 17,
+            "start": 9,
+            "tag": "Zhuque3"
+          },
+          {
+            "end": 23,
+            "start": 18,
+            "tag": "朱雀三号"
+          }
+        ]
+      },
+      "text": "T + 137s\n#Zhuque3 #朱雀三号\n慢放一下咱拍的朱雀三号遥二分级时刻～发现信息量很大呢🥰\n\n譬如一级关机时先侧向喷出了四股间隔90度角的小羽流，相邻的前两股（如图一）比较小且几乎同时，后两股间隔一段时间且规模大些…这是来自关机时序里先关机的四台外侧发动机吗，难道它们也不是同时动作的？或者说不定来自某种RCS？😵‍💫随后释放的大规模羽流大致分成三拨，不知道能否判断它们各来自哪些发动机🥹\n\n此外注意到发动机舱暗下来后箭体右侧出现了一个像是不均匀尾焰的小亮斑并维持了约五六秒（如图二）希望能有大佬解答这是为什么🥺暂时没找到跟踪这个阶段的更清晰的资料喵…\n\n两个视频分别是慢放到0.1x的一级关机和二级点火喵～第一个视频可以清晰看到每拨羽流的形态，第二个视频能观察到羽流是来自箭体中上部的级间段哦😘"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "T + 137s\n#Zhuque3 #朱雀三号\n慢放一下咱拍的朱雀三号遥二分级时刻～发现信息量很大呢🥰 https://t.co/Ni48tezfxh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 519,
+        "media_key": "3_2091797220081463296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQeOfSUa8AAmy5O.jpg",
+        "width": 692
+      },
+      {
+        "height": 431,
+        "media_key": "3_2091797220106678272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQeOfSabsAAAyCz.jpg",
+        "width": 575
+      },
+      {
+        "duration_ms": 19583,
+        "height": 2160,
+        "media_key": "13_2091797220110864384",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2091797220110864384/img/gAN-6JMULZKS6lV8.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091797220110864384/vid/avc1/1920x1080/j5G2-j5m3T8O7yrb.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091797220110864384/vid/avc1/640x360/0OUSJMAcLpVQTR09.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2091797220110864384/pl/4vfEThCnQhHFK7Np.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091797220110864384/vid/avc1/480x270/xjw2hVfPR4IVa18b.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091797220110864384/vid/avc1/3840x2160/WhRy8TscL_dOhxDo.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091797220110864384/vid/avc1/1280x720/4yWK1YvgZYsSRIIk.mp4"
+          }
+        ],
+        "width": 3840
+      },
+      {
+        "duration_ms": 18666,
+        "height": 2160,
+        "media_key": "13_2091797220127543296",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2091797220127543296/img/pqcj19RA9V4CMKNq.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091797220127543296/vid/avc1/1920x1080/Jkcw1MF-7dubSKbp.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091797220127543296/vid/avc1/3840x2160/5sOo4qLrwajES9S9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2091797220127543296/pl/roVIzAzu-czkY4M5.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091797220127543296/vid/avc1/1280x720/HetLKWHrQL-A4ZWh.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091797220127543296/vid/avc1/640x360/Mym3BOGqecHfxA0V.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091797220127543296/vid/avc1/480x270/oo9xwUI_YCPkws5N.mp4"
+          }
+        ],
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091797220081463296",
+            "3_2091797220106678272",
+            "13_2091797220110864384",
+            "13_2091797220127543296"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "conversation_id": "2091797735246864754",
+        "created_at": "2026-08-24T08:00:18.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T09:00:18.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091797735246864754",
+          "2091797790603252090"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 9,
+              "tag": "Zhuque3"
+            },
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "朱雀三号"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PFjXszp2NF",
+              "end": 75,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2091797735246864754/video/1",
+              "media_key": "3_2091797220081463296",
+              "start": 52,
+              "url": "https://t.co/PFjXszp2NF"
+            },
+            {
+              "display_url": "pic.x.com/PFjXszp2NF",
+              "end": 75,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2091797735246864754/video/1",
+              "media_key": "3_2091797220106678272",
+              "start": 52,
+              "url": "https://t.co/PFjXszp2NF"
+            },
+            {
+              "display_url": "pic.x.com/PFjXszp2NF",
+              "end": 75,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2091797735246864754/video/1",
+              "media_key": "13_2091797220110864384",
+              "start": 52,
+              "url": "https://t.co/PFjXszp2NF"
+            },
+            {
+              "display_url": "pic.x.com/PFjXszp2NF",
+              "end": 75,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2091797735246864754/video/1",
+              "media_key": "13_2091797220127543296",
+              "start": 52,
+              "url": "https://t.co/PFjXszp2NF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091797735246864754",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091797220081463296"
+          },
+          {
+            "media_key": "3_2091797220106678272"
+          },
+          {
+            "media_key": "13_2091797220110864384"
+          },
+          {
+            "media_key": "13_2091797220127543296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 9,
+                "tag": "Zhuque3"
+              },
+              {
+                "end": 23,
+                "start": 18,
+                "tag": "朱雀三号"
+              }
+            ]
+          },
+          "text": "T + 137s\n#Zhuque3 #朱雀三号\n慢放一下咱拍的朱雀三号遥二分级时刻～发现信息量很大呢🥰\n\n譬如一级关机时先侧向喷出了四股间隔90度角的小羽流，相邻的前两股（如图一）比较小且几乎同时，后两股间隔一段时间且规模大些…这是来自关机时序里先关机的四台外侧发动机吗，难道它们也不是同时动作的？或者说不定来自某种RCS？😵‍💫随后释放的大规模羽流大致分成三拨，不知道能否判断它们各来自哪些发动机🥹\n\n此外注意到发动机舱暗下来后箭体右侧出现了一个像是不均匀尾焰的小亮斑并维持了约五六秒（如图二）希望能有大佬解答这是为什么🥺暂时没找到跟踪这个阶段的更清晰的资料喵…\n\n两个视频分别是慢放到0.1x的一级关机和二级点火喵～第一个视频可以清晰看到每拨羽流的形态，第二个视频能观察到羽流是来自箭体中上部的级间段哦😘"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "T + 137s\n#Zhuque3 #朱雀三号\n慢放一下咱拍的朱雀三号遥二分级时刻～发现信息量很大呢🥰 https://t.co/PFjXszp2NF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091797220081463296",
+            "3_2091797220106678272",
+            "13_2091797220110864384",
+            "13_2091797220127543296"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "conversation_id": "2091797790603252090",
+        "created_at": "2026-08-24T08:00:31.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T09:00:18.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091797735246864754",
+          "2091797790603252090"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 9,
+              "tag": "Zhuque3"
+            },
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "朱雀三号"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ni48tezfxh",
+              "end": 75,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2091797790603252090/video/1",
+              "media_key": "3_2091797220081463296",
+              "start": 52,
+              "url": "https://t.co/Ni48tezfxh"
+            },
+            {
+              "display_url": "pic.x.com/Ni48tezfxh",
+              "end": 75,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2091797790603252090/video/1",
+              "media_key": "3_2091797220106678272",
+              "start": 52,
+              "url": "https://t.co/Ni48tezfxh"
+            },
+            {
+              "display_url": "pic.x.com/Ni48tezfxh",
+              "end": 75,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2091797790603252090/video/1",
+              "media_key": "13_2091797220110864384",
+              "start": 52,
+              "url": "https://t.co/Ni48tezfxh"
+            },
+            {
+              "display_url": "pic.x.com/Ni48tezfxh",
+              "end": 75,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2091797790603252090/video/1",
+              "media_key": "13_2091797220127543296",
+              "start": 52,
+              "url": "https://t.co/Ni48tezfxh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091797790603252090",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091797220081463296"
+          },
+          {
+            "media_key": "3_2091797220106678272"
+          },
+          {
+            "media_key": "13_2091797220110864384"
+          },
+          {
+            "media_key": "13_2091797220127543296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 9,
+                "tag": "Zhuque3"
+              },
+              {
+                "end": 23,
+                "start": 18,
+                "tag": "朱雀三号"
+              }
+            ]
+          },
+          "text": "T + 137s\n#Zhuque3 #朱雀三号\n慢放一下咱拍的朱雀三号遥二分级时刻～发现信息量很大呢🥰\n\n譬如一级关机时先侧向喷出了四股间隔90度角的小羽流，相邻的前两股（如图一）比较小且几乎同时，后两股间隔一段时间且规模大些…这是来自关机时序里先关机的四台外侧发动机吗，难道它们也不是同时动作的？或者说不定来自某种RCS？😵‍💫随后释放的大规模羽流大致分成三拨，不知道能否判断它们各来自哪些发动机🥹\n\n此外注意到发动机舱暗下来后箭体右侧出现了一个像是不均匀尾焰的小亮斑并维持了约五六秒（如图二）希望能有大佬解答这是为什么🥺暂时没找到跟踪这个阶段的更清晰的资料喵…\n\n两个视频分别是慢放到0.1x的一级关机和二级点火喵～第一个视频可以清晰看到每拨羽流的形态，第二个视频能观察到羽流是来自箭体中上部的级间段哦😘"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "T + 137s\n#Zhuque3 #朱雀三号\n慢放一下咱拍的朱雀三号遥二分级时刻～发现信息量很大呢🥰 https://t.co/Ni48tezfxh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2091797790603252090",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5038,
+          "following_count": 6988,
+          "like_count": 19063,
+          "listed_count": 12,
+          "media_count": 409,
+          "tweet_count": 5364
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

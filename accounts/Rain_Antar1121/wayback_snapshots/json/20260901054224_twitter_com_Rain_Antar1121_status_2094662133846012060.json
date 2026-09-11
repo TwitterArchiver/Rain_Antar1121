@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2094647170653933578",
+    "created_at": "2026-09-01T05:42:24.000Z",
+    "display_text_range": [
+      10,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T06:42:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094662133846012060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2048799636241219584",
+          "start": 0,
+          "username": "YQ_CUTE_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094662133846012060",
+    "in_reply_to_user_id": "2048799636241219584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094660055673225235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YQ_CUTE_ 好耶抱抱揉！(๑•͈ᴗ•͈)～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2094660047024582656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRG6NvwacAArn7X.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2094647170653933578",
+        "created_at": "2026-09-01T05:42:24.000Z",
+        "display_text_range": [
+          10,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T06:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094662133846012060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2048799636241219584",
+              "start": 0,
+              "username": "YQ_CUTE_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094662133846012060",
+        "in_reply_to_user_id": "2048799636241219584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094660055673225235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YQ_CUTE_ 好耶抱抱揉！(๑•͈ᴗ•͈)～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094660047024582656"
+          ]
+        },
+        "author_id": "2048799636241219584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094647170653933578",
+        "created_at": "2026-09-01T05:34:08.000Z",
+        "display_text_range": [
+          26,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T06:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094660055673225235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 25,
+              "id": "1842197793370435584",
+              "start": 16,
+              "username": "KqottopK"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KFGwJg0qJp",
+              "end": 56,
+              "expanded_url": "https://x.com/YQ_CUTE_/status/2094660055673225235/photo/1",
+              "media_key": "3_2094660047024582656",
+              "start": 33,
+              "url": "https://t.co/KFGwJg0qJp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094660055673225235",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094660047024582656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094647170653933578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 @KqottopK 找到我了诶😋 https://t.co/KFGwJg0qJp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2094662133846012060",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5136,
+          "following_count": 7077,
+          "like_count": 20011,
+          "listed_count": 12,
+          "media_count": 422,
+          "tweet_count": 5816
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-27T16:21:24.000Z",
+        "description": "500fo大号 @YQ_Cute 被冻结了😭/无证含糖/生产于2006.10.4/2026.5.19🍥/家长反对党/172/100斤/大二啦/坐标江苏/不割不od/爱哭鬼/欢迎同类互fo喵！😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 8,
+                "username": "YQ_Cute"
+              }
+            ]
+          }
+        },
+        "id": "2048799636241219584",
+        "is_identity_verified": false,
+        "location": "常州",
+        "most_recent_tweet_id": "2094660055673225235",
+        "name": "艺清🍥(重生版)",
+        "pinned_tweet_id": "2066191774176202924",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048799636241219584/1779202011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048799922049482754/qs6pb683_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 174,
+          "like_count": 422,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 194
+        },
+        "url": "",
+        "username": "YQ_CUTE_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

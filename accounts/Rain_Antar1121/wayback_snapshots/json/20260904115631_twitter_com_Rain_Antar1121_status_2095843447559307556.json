@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2095823887703675384",
+    "created_at": "2026-09-04T11:56:31.000Z",
+    "display_text_range": [
+      13,
+      75
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T12:56:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095843447559307556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "912917329272541185",
+          "start": 0,
+          "username": "CCCP8241701"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095843447559307556",
+    "in_reply_to_user_id": "912917329272541185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095823887703675384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CCCP8241701 喜欢喵！🥰咱就喜欢这样的高饱和度调色ww…很干净澄澈的天与水呢，最后一张略微广角的构图应用的超级好喵꒰｡ › ·̮ ‹ ｡꒱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2095823877947772928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRXctnzb0AAmh4W.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2095823877951938560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRXctn0bYAAzWRx.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2095823877947666432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRXctnzaMAAGSBg.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2095823877943508993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRXctnyawAEzuB_.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2095823887703675384",
+        "created_at": "2026-09-04T11:56:31.000Z",
+        "display_text_range": [
+          13,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T12:56:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095843447559307556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "912917329272541185",
+              "start": 0,
+              "username": "CCCP8241701"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095843447559307556",
+        "in_reply_to_user_id": "912917329272541185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095823887703675384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCCP8241701 喜欢喵！🥰咱就喜欢这样的高饱和度调色ww…很干净澄澈的天与水呢，最后一张略微广角的构图应用的超级好喵꒰｡ › ·̮ ‹ ｡꒱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095823877947772928",
+            "3_2095823877951938560",
+            "3_2095823877947666432",
+            "3_2095823877943508993"
+          ]
+        },
+        "author_id": "912917329272541185",
+        "conversation_id": "2095823887703675384",
+        "created_at": "2026-09-04T10:38:48.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T11:38:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095823887703675384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PcymQLFlXN",
+              "end": 35,
+              "expanded_url": "https://x.com/CCCP8241701/status/2095823887703675384/photo/1",
+              "media_key": "3_2095823877947772928",
+              "start": 12,
+              "url": "https://t.co/PcymQLFlXN"
+            },
+            {
+              "display_url": "pic.x.com/PcymQLFlXN",
+              "end": 35,
+              "expanded_url": "https://x.com/CCCP8241701/status/2095823887703675384/photo/1",
+              "media_key": "3_2095823877951938560",
+              "start": 12,
+              "url": "https://t.co/PcymQLFlXN"
+            },
+            {
+              "display_url": "pic.x.com/PcymQLFlXN",
+              "end": 35,
+              "expanded_url": "https://x.com/CCCP8241701/status/2095823887703675384/photo/1",
+              "media_key": "3_2095823877947666432",
+              "start": 12,
+              "url": "https://t.co/PcymQLFlXN"
+            },
+            {
+              "display_url": "pic.x.com/PcymQLFlXN",
+              "end": 35,
+              "expanded_url": "https://x.com/CCCP8241701/status/2095823887703675384/photo/1",
+              "media_key": "3_2095823877943508993",
+              "start": 12,
+              "url": "https://t.co/PcymQLFlXN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095823887703675384",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095823877947772928"
+          },
+          {
+            "media_key": "3_2095823877951938560"
+          },
+          {
+            "media_key": "3_2095823877947666432"
+          },
+          {
+            "media_key": "3_2095823877943508993"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人喜歡，就多傳幾張💕 https://t.co/PcymQLFlXN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2095843447559307556",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5173,
+          "following_count": 7120,
+          "like_count": 20348,
+          "listed_count": 12,
+          "media_count": 445,
+          "tweet_count": 5959
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-09-27T05:50:27.000Z",
+        "description": "",
+        "id": "912917329272541185",
+        "is_identity_verified": false,
+        "location": "台中市，台灣，中華民國🇹🇼",
+        "most_recent_tweet_id": "2095829611997519978",
+        "name": "德雷斯",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/912917329272541185/1553251662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1109044220428316678/8MSPuTo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 5354,
+          "like_count": 29546,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 16991
+        },
+        "url": "",
+        "username": "CCCP8241701",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

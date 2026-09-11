@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2095863903846588687",
+    "created_at": "2026-09-04T13:21:32.000Z",
+    "display_text_range": [
+      8,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T14:21:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095864841340948785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2067849131939307520",
+          "start": 0,
+          "username": "hxr258"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095864841340948785",
+    "in_reply_to_user_id": "2067849131939307520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095863903846588687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hxr258 可爱耶！抱住～喜欢🏳️‍⚧️色调喵～\n‘- ̗̀ ෆ( ˶'ᵕ'˶)ෆ ̖́-"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095863804835803137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRYBBrDWMAEKLHV.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2095863812050354176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRYBCF7bgAAsW9z.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2095863795293822978",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRYBBHgXIAIzrR0.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2095863805498810368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRYBBtha4AAgHfo.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2095863903846588687",
+        "created_at": "2026-09-04T13:21:32.000Z",
+        "display_text_range": [
+          8,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T14:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095864841340948785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2067849131939307520",
+              "start": 0,
+              "username": "hxr258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095864841340948785",
+        "in_reply_to_user_id": "2067849131939307520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095863903846588687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hxr258 可爱耶！抱住～喜欢🏳️‍⚧️色调喵～\n‘- ̗̀ ෆ( ˶'ᵕ'˶)ෆ ̖́-"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095863804835803137",
+            "3_2095863812050354176",
+            "3_2095863795293822978",
+            "3_2095863805498810368"
+          ]
+        },
+        "author_id": "2067849131939307520",
+        "conversation_id": "2095863903846588687",
+        "created_at": "2026-09-04T13:17:48.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T14:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095863903846588687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hL53gngNOo",
+              "end": 35,
+              "expanded_url": "https://x.com/hxr258/status/2095863903846588687/photo/1",
+              "media_key": "3_2095863804835803137",
+              "start": 12,
+              "url": "https://t.co/hL53gngNOo"
+            },
+            {
+              "display_url": "pic.x.com/hL53gngNOo",
+              "end": 35,
+              "expanded_url": "https://x.com/hxr258/status/2095863903846588687/photo/1",
+              "media_key": "3_2095863812050354176",
+              "start": 12,
+              "url": "https://t.co/hL53gngNOo"
+            },
+            {
+              "display_url": "pic.x.com/hL53gngNOo",
+              "end": 35,
+              "expanded_url": "https://x.com/hxr258/status/2095863903846588687/photo/1",
+              "media_key": "3_2095863795293822978",
+              "start": 12,
+              "url": "https://t.co/hL53gngNOo"
+            },
+            {
+              "display_url": "pic.x.com/hL53gngNOo",
+              "end": 35,
+              "expanded_url": "https://x.com/hxr258/status/2095863903846588687/photo/1",
+              "media_key": "3_2095863805498810368",
+              "start": 12,
+              "url": "https://t.co/hL53gngNOo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095863903846588687",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095863804835803137"
+          },
+          {
+            "media_key": "3_2095863812050354176"
+          },
+          {
+            "media_key": "3_2095863795293822978"
+          },
+          {
+            "media_key": "3_2095863805498810368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "天津19岁休学xyn喵 https://t.co/hL53gngNOo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2095864841340948785",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5174,
+          "following_count": 7120,
+          "like_count": 20368,
+          "listed_count": 12,
+          "media_count": 447,
+          "tweet_count": 5966
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-19T05:57:51.000Z",
+        "description": "",
+        "id": "2067849131939307520",
+        "is_identity_verified": false,
+        "location": "中国",
+        "most_recent_tweet_id": "2095863903846588687",
+        "name": "好性人🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2067849131939307520/1781956883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068301100030054400/FfL8szVr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 64,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "hxr258",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2096629870264729980",
+    "created_at": "2026-09-07T01:55:03.000Z",
+    "display_text_range": [
+      20,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T02:55:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096779247247556876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1813768883540725760",
+          "start": 0,
+          "username": "ye_and_yae"
+        },
+        {
+          "end": 19,
+          "id": "1945485747953475584",
+          "start": 12,
+          "username": "ianiaj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096779247247556876",
+    "in_reply_to_user_id": "1813768883540725760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096629870264729980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ye_and_yae @ianiaj 呜啊，好阳光啊…社交能量好耀眼🥹羡慕咪…（缩起来）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2096629847821025280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRi5vPjagAAJT0P.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096629847804301312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRi5vPfbUAAaTn8.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096629847804264449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRi5vPfawAEih0W.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096629847804276736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRi5vPfa8AAr-VK.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2096629870264729980",
+        "created_at": "2026-09-07T01:55:03.000Z",
+        "display_text_range": [
+          20,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T02:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096779247247556876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1813768883540725760",
+              "start": 0,
+              "username": "ye_and_yae"
+            },
+            {
+              "end": 19,
+              "id": "1945485747953475584",
+              "start": 12,
+              "username": "ianiaj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096779247247556876",
+        "in_reply_to_user_id": "1813768883540725760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096629870264729980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ye_and_yae @ianiaj 呜啊，好阳光啊…社交能量好耀眼🥹羡慕咪…（缩起来）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096629847821025280",
+            "3_2096629847804301312",
+            "3_2096629847804264449",
+            "3_2096629847804276736"
+          ]
+        },
+        "author_id": "1813768883540725760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2096629870264729980",
+        "created_at": "2026-09-06T16:01:29.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T17:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096629870264729980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 39,
+              "id": "1945485747953475584",
+              "start": 32,
+              "username": "ianiaj"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fwqDB0Ri2g",
+              "end": 108,
+              "expanded_url": "https://x.com/ye_and_yae/status/2096629870264729980/photo/1",
+              "media_key": "3_2096629847821025280",
+              "start": 85,
+              "url": "https://t.co/fwqDB0Ri2g"
+            },
+            {
+              "display_url": "pic.x.com/fwqDB0Ri2g",
+              "end": 108,
+              "expanded_url": "https://x.com/ye_and_yae/status/2096629870264729980/photo/1",
+              "media_key": "3_2096629847804301312",
+              "start": 85,
+              "url": "https://t.co/fwqDB0Ri2g"
+            },
+            {
+              "display_url": "pic.x.com/fwqDB0Ri2g",
+              "end": 108,
+              "expanded_url": "https://x.com/ye_and_yae/status/2096629870264729980/photo/1",
+              "media_key": "3_2096629847804264449",
+              "start": 85,
+              "url": "https://t.co/fwqDB0Ri2g"
+            },
+            {
+              "display_url": "pic.x.com/fwqDB0Ri2g",
+              "end": 108,
+              "expanded_url": "https://x.com/ye_and_yae/status/2096629870264729980/photo/1",
+              "media_key": "3_2096629847804276736",
+              "start": 85,
+              "url": "https://t.co/fwqDB0Ri2g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096629870264729980",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096629847821025280"
+          },
+          {
+            "media_key": "3_2096629847804301312"
+          },
+          {
+            "media_key": "3_2096629847804264449"
+          },
+          {
+            "media_key": "3_2096629847804276736"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 39,
+                "id": "1945485747953475584",
+                "start": 32,
+                "username": "ianiaj"
+              }
+            ]
+          },
+          "text": "今天是我人生中最开心的一天！早上见证了广州说变就变的天气，然后和@ianiaj 贴贴~带我第一次去了宜家和山姆，中午吃了超好吃的牛肉火锅！还第一次见到了特斯拉的擎天柱！\n下午去了广州塔附近，和我三个月没有见面的高三同学见面~好棒！快递也陆陆续续的到了，我的小空间也慢慢的装饰起来~发现舍友们人都挺好的还邀请我一起打游戏~\n越来越期待以后的生活了！"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 466,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是我人生中最开心的一天！早上见证了广州说变就变的天气，然后和@ianiaj 贴贴~带我第一次去了宜家和山姆，中午吃了超好吃的牛肉火锅！还第一次见到了特斯拉的擎天柱！ https://t.co/fwqDB0Ri2g"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2096779247247556876",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5195,
+          "following_count": 7141,
+          "like_count": 20565,
+          "listed_count": 12,
+          "media_count": 450,
+          "tweet_count": 6047
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-18T02:54:44.000Z",
+        "description": "我是爱晔哦 \n09/01/26 炸柜26/06/09 有时含糖 喜欢航天 二次元 技术至上主义 喜欢画画 学日语\n最最最好的朋友@guoxiufeng5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 64,
+                "username": "guoxiufeng5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "spacex.com",
+                "end": 23,
+                "expanded_url": "http://spacex.com",
+                "start": 0,
+                "url": "https://t.co/8kxr0UGOJ6"
+              }
+            ]
+          }
+        },
+        "id": "1813768883540725760",
+        "is_identity_verified": false,
+        "location": "距你11.4km",
+        "most_recent_tweet_id": "2096778886667481449",
+        "name": "🍥爱晔🚀",
+        "pinned_tweet_id": "2096629870264729980",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813768883540725760/1764440318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079860342965067776/HglcXlhL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2042,
+          "following_count": 1419,
+          "like_count": 13068,
+          "listed_count": 3,
+          "media_count": 653,
+          "tweet_count": 5600
+        },
+        "url": "https://t.co/8kxr0UGOJ6",
+        "username": "ye_and_yae",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-16T14:09:00.000Z",
+        "description": "",
+        "id": "1945485747953475584",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094764125725552773",
+        "name": "ian",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1945485747953475584/1776012898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043371005230669824/eaLqJSgt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 20,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "ianiaj",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

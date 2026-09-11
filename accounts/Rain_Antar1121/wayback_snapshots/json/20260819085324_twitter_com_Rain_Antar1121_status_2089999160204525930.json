@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2089987138125496809",
+    "created_at": "2026-08-19T08:53:24.000Z",
+    "display_text_range": [
+      15,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T09:53:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089999160204525930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1545736499597307904",
+          "start": 0,
+          "username": "Andy_Zaychilk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089999160204525930",
+    "in_reply_to_user_id": "1545736499597307904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089996916356706797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Andy_Zaychilk 好可爱喵，这个跟Andy一样可爱）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2089987138125496809",
+        "created_at": "2026-08-19T08:53:24.000Z",
+        "display_text_range": [
+          15,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T09:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089999160204525930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1545736499597307904",
+              "start": 0,
+              "username": "Andy_Zaychilk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089999160204525930",
+        "in_reply_to_user_id": "1545736499597307904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089996916356706797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Andy_Zaychilk 好可爱喵，这个跟Andy一样可爱）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545736499597307904",
+        "conversation_id": "2089987138125496809",
+        "created_at": "2026-08-19T08:44:29.000Z",
+        "display_text_range": [
+          16,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T09:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089996916356706797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089996916356706797",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089987138125496809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 好好看喵，朱雀跟你一样好看w（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2089999160204525930",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5004,
+          "following_count": 6940,
+          "like_count": 18723,
+          "listed_count": 12,
+          "media_count": 403,
+          "tweet_count": 5259
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T11:48:14.000Z",
+        "description": "欢迎您访问“苏乐达·年份原浆”冠名的品牌账号\n与你的日常，就是奇迹！\n上海市某中学ENTP准高二牲喵（2010.06）\nHAM | Callsign BI4BJJ | 73！\n闺蜜 @Rain_Antar1121\n碎碎念@Andy_Kaslana",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "Rain_Antar1121"
+              },
+              {
+                "end": 123,
+                "start": 110,
+                "username": "Andy_Kaslana"
+              }
+            ]
+          }
+        },
+        "id": "1545736499597307904",
+        "is_identity_verified": false,
+        "location": "永恒之地-翁法罗斯 AMPHOREUS",
+        "most_recent_tweet_id": "2089996916356706797",
+        "name": "Andy Zaychilk（Andy今天吃什么）",
+        "pinned_tweet_id": "1941881650650165609",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545736499597307904/1736861702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870824253593194496/Xhiu7ZRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2263,
+          "following_count": 4581,
+          "like_count": 13649,
+          "listed_count": 5,
+          "media_count": 139,
+          "tweet_count": 1514
+        },
+        "url": "",
+        "username": "Andy_Zaychilk",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

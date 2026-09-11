@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2096452873110643046",
+    "created_at": "2026-09-06T07:33:44.000Z",
+    "display_text_range": [
+      16,
+      113
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T08:33:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096502090764059100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2053864757329817600",
+          "start": 0,
+          "username": "today_is_foggy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096502090764059100",
+    "in_reply_to_user_id": "2053864757329817600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096452873110643046",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@today_is_foggy 其实咱眼里Raptor 2最好看🥹纯美学上的感觉啦…燃烧室和喷管的比例最协调，颜色也丰富一点…3代比例就失衡了哇有点脚重头轻，还有纯哑光质感的黑色这种像商业消费品的马氏审美一点都没有工业美感嘛）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1776,
+        "media_key": "3_2096452860385050624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRgYxN-aQAA6v9j.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2096452873110643046",
+        "created_at": "2026-09-06T07:33:44.000Z",
+        "display_text_range": [
+          16,
+          113
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T08:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096502090764059100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2053864757329817600",
+              "start": 0,
+              "username": "today_is_foggy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096502090764059100",
+        "in_reply_to_user_id": "2053864757329817600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096452873110643046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@today_is_foggy 其实咱眼里Raptor 2最好看🥹纯美学上的感觉啦…燃烧室和喷管的比例最协调，颜色也丰富一点…3代比例就失衡了哇有点脚重头轻，还有纯哑光质感的黑色这种像商业消费品的马氏审美一点都没有工业美感嘛）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096452860385050624"
+          ]
+        },
+        "author_id": "2053864757329817600",
+        "conversation_id": "2096452873110643046",
+        "created_at": "2026-09-06T04:18:09.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T05:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096452873110643046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UFxAuXnuAK",
+              "end": 39,
+              "expanded_url": "https://x.com/today_is_foggy/status/2096452873110643046/photo/1",
+              "media_key": "3_2096452860385050624",
+              "start": 16,
+              "url": "https://t.co/UFxAuXnuAK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096452873110643046",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096452860385050624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 160,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这要是真的的话，猛禽四好难看。 https://t.co/UFxAuXnuAK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2096502090764059100",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5190,
+          "following_count": 7135,
+          "like_count": 20503,
+          "listed_count": 12,
+          "media_count": 449,
+          "tweet_count": 6009
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-11T15:48:30.000Z",
+        "description": "友情从不区分国籍、人种和性别\n希望和ta人的关系，可以变得很纯粹\n这里是大雾喵ww叫咱大雾就好~欢迎聊天眯",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spacex.com",
+                "end": 23,
+                "expanded_url": "http://spacex.com",
+                "start": 0,
+                "url": "https://t.co/xiWmsdOb78"
+              }
+            ]
+          }
+        },
+        "id": "2053864757329817600",
+        "is_identity_verified": false,
+        "location": "月球 坎帕努斯环形山",
+        "most_recent_tweet_id": "2096499761234985143",
+        "name": "今天是大雾！",
+        "pinned_tweet_id": "2056698586688364704",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053864757329817600/1788185714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073740142737846272/5wS-JDPo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 127,
+          "like_count": 1979,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 1327
+        },
+        "url": "https://t.co/xiWmsdOb78",
+        "username": "today_is_foggy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2092199101832241198",
+    "created_at": "2026-08-25T10:35:11.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T11:35:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092199101832241198"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 73,
+          "start": 65,
+          "tag": "Zhuque3"
+        },
+        {
+          "end": 79,
+          "start": 74,
+          "tag": "朱雀三号"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1894461745277931524",
+          "start": 3,
+          "username": "Rain_Antar1121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092199101832241198",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092195327566823885",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rain_Antar1121: 朱雀三号遥二的两张发射前状态～咱家小可爱的证件照嘻嘻ฅ₍ᐢ⸝⸝›  ̫ ‹⸝⸝ᐢ₎ฅ˒˒\n#Zhuque3 #朱雀三号 \n分别拍摄于大约T - 30min和T - 4min…有趣的细节是，加注低温燃料的过程中不锈钢箭体从下往上缓缓蒙上了一…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2092186686382075904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQjwtNWa8AAGrwx.jpg",
+        "width": 3074
+      },
+      {
+        "height": 3148,
+        "media_key": "3_2092186686130409472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQjwtMaa0AAfJp4.jpg",
+        "width": 2361
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2092199101832241198",
+        "created_at": "2026-08-25T10:35:11.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T11:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092199101832241198"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 73,
+              "start": 65,
+              "tag": "Zhuque3"
+            },
+            {
+              "end": 79,
+              "start": 74,
+              "tag": "朱雀三号"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1894461745277931524",
+              "start": 3,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092199101832241198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092195327566823885",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rain_Antar1121: 朱雀三号遥二的两张发射前状态～咱家小可爱的证件照嘻嘻ฅ₍ᐢ⸝⸝›  ̫ ‹⸝⸝ᐢ₎ฅ˒˒\n#Zhuque3 #朱雀三号 \n分别拍摄于大约T - 30min和T - 4min…有趣的细节是，加注低温燃料的过程中不锈钢箭体从下往上缓缓蒙上了一…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092186686382075904",
+            "3_2092186686130409472"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "conversation_id": "2092195327566823885",
+        "created_at": "2026-08-25T10:20:11.000Z",
+        "display_text_range": [
+          0,
+          154
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T11:20:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092195327566823885"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 45,
+              "tag": "Zhuque3"
+            },
+            {
+              "end": 59,
+              "start": 54,
+              "tag": "朱雀三号"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TixABVIr4p",
+              "end": 178,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2092195327566823885/photo/1",
+              "media_key": "3_2092186686382075904",
+              "start": 155,
+              "url": "https://t.co/TixABVIr4p"
+            },
+            {
+              "display_url": "pic.x.com/TixABVIr4p",
+              "end": 178,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2092195327566823885/photo/1",
+              "media_key": "3_2092186686130409472",
+              "start": 155,
+              "url": "https://t.co/TixABVIr4p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092195327566823885",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092186686382075904"
+          },
+          {
+            "media_key": "3_2092186686130409472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 45,
+                "tag": "Zhuque3"
+              },
+              {
+                "end": 59,
+                "start": 54,
+                "tag": "朱雀三号"
+              }
+            ]
+          },
+          "text": "朱雀三号遥二的两张发射前状态～咱家小可爱的证件照嘻嘻ฅ₍ᐢ⸝⸝›  ̫ ‹⸝⸝ᐢ₎ฅ˒˒\n#Zhuque3 #朱雀三号 \n分别拍摄于大约T - 30min和T - 4min…有趣的细节是，加注低温燃料的过程中不锈钢箭体从下往上缓缓蒙上了一层雪白的冰霜，遮住了整只朱雀图腾…限时体验了一下老航天风格统一的白漆）\n\n咱架好相机的时候一级下部的液氧储罐已经结满了霜（图一）…不过我亲眼见证了二级和一级上部的甲烷储罐缓缓被封进将近零下两百度的冰雪里（图二）\n\n没想到能亲眼见证蓝箭大流量全过冷加注技术的实力…话说这种加注过程的“透明可视化”奇观也是不锈钢箭体的专属吧，可以据此推算一下各储罐容积，以及加注顺序和速率…"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "朱雀三号遥二的两张发射前状态～咱家小可爱的证件照嘻嘻ฅ₍ᐢ⸝⸝›  ̫ ‹⸝⸝ᐢ₎ฅ˒˒\n#Zhuque3 #朱雀三号 \n分别拍摄于大约T - 30min和T - 4min…有趣的细节是，加注低温燃料的过程中不锈钢箭体从下往上缓缓蒙上了一层雪白的冰霜，遮住了整只朱雀图腾…限时体验了一下老航天风格统一的白漆） https://t.co/TixABVIr4p"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2092199101832241198",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5050,
+          "following_count": 7003,
+          "like_count": 19207,
+          "listed_count": 12,
+          "media_count": 411,
+          "tweet_count": 5415
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

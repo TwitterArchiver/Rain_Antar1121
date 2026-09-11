@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2094677547422560398",
+    "created_at": "2026-09-01T07:43:48.000Z",
+    "display_text_range": [
+      8,
+      100
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T08:43:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094692686498607480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1926459207613599745",
+          "start": 0,
+          "username": "k0ns10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094692686498607480",
+    "in_reply_to_user_id": "1926459207613599745",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {},
+      "text": "うぅ、こわくなってきちゃったよぉ🥺💦\nこの言葉って、どのくらい冗談なんですか……？🥹\nいやいや、さすがにそこまでじゃないですよ〜😌\nこれらのアイコンのダウンロードには、ちゃんと公式のX APIを有料で利用していますし、その後の処理や生成も、ローカルで動かしているPythonプログラムを使って行っています՞˶･֊･˶՞ \n規約違反になるような自動化は一切してないですよ〜"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094677547422560398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@k0ns10 うぅ、こわくなってきちゃったよぉ🥺💦\nこの言葉って、どのくらい冗談なんですか……？🥹\nいやいや、さすがにそこまでじゃないですよ〜😌\nこれらのアイコンのダウンロードには、ちゃんと公式のX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2094677547422560398",
+        "created_at": "2026-09-01T07:43:48.000Z",
+        "display_text_range": [
+          8,
+          100
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T08:43:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094692686498607480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1926459207613599745",
+              "start": 0,
+              "username": "k0ns10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094692686498607480",
+        "in_reply_to_user_id": "1926459207613599745",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "うぅ、こわくなってきちゃったよぉ🥺💦\nこの言葉って、どのくらい冗談なんですか……？🥹\nいやいや、さすがにそこまでじゃないですよ〜😌\nこれらのアイコンのダウンロードには、ちゃんと公式のX APIを有料で利用していますし、その後の処理や生成も、ローカルで動かしているPythonプログラムを使って行っています՞˶･֊･˶՞ \n規約違反になるような自動化は一切してないですよ〜"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094677547422560398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k0ns10 うぅ、こわくなってきちゃったよぉ🥺💦\nこの言葉って、どのくらい冗談なんですか……？🥹\nいやいや、さすがにそこまでじゃないですよ〜😌\nこれらのアイコンのダウンロードには、ちゃんと公式のX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926459207613599745",
+        "conversation_id": "2094677547422560398",
+        "created_at": "2026-09-01T06:43:39.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T07:43:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094677547422560398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rain_Antar1121…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/Rain_Antar1121/status/2094004275995431341",
+              "start": 27,
+              "url": "https://t.co/pafMkJMMUV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094677547422560398",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094004275995431341",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ちょっと、過剰な自動化を宣伝するとすぐBANされるよ https://t.co/pafMkJMMUV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2094692686498607480",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5137,
+          "following_count": 7083,
+          "like_count": 20037,
+          "listed_count": 12,
+          "media_count": 426,
+          "tweet_count": 5827
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-25T02:04:18.000Z",
+        "description": "NSFW @k0nstoo\nmain @z0uy1n\nmaster @wburst966\n2i2teЯ @liru_55\nNSFWじゃないのにNSFW判定された\n🏳️‍⚧️#MtF🌐#OSS👁️‍🗨️#Frontend🍜#AsianFood🌏️#cjk👀#HRT",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 90,
+                "start": 86,
+                "tag": "MtF"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "OSS"
+              },
+              {
+                "end": 109,
+                "start": 100,
+                "tag": "Frontend"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "tag": "AsianFood"
+              },
+              {
+                "end": 126,
+                "start": 122,
+                "tag": "cjk"
+              },
+              {
+                "end": 131,
+                "start": 127,
+                "tag": "HRT"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "k0nstoo"
+              },
+              {
+                "end": 26,
+                "start": 19,
+                "username": "z0uy1n"
+              },
+              {
+                "end": 44,
+                "start": 34,
+                "username": "wburst966"
+              },
+              {
+                "end": 60,
+                "start": 52,
+                "username": "liru_55"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zyn.f5.si",
+                "end": 23,
+                "expanded_url": "http://zyn.f5.si/",
+                "start": 0,
+                "url": "https://t.co/pMlKoNtGlk"
+              }
+            ]
+          }
+        },
+        "id": "1926459207613599745",
+        "is_identity_verified": false,
+        "location": "Oyama City, Tochigi Pref.",
+        "most_recent_tweet_id": "2094686777542123997",
+        "name": "奏音🏳️‍⚧️Kanon┊︎No.卌┊︎Zòuyīn",
+        "pinned_tweet_id": "2073425487125451001",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1926459207613599745/1785180167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992970281678413824/8xw6Aixl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 1242,
+          "like_count": 21345,
+          "listed_count": 3,
+          "media_count": 447,
+          "tweet_count": 5559
+        },
+        "url": "https://t.co/pMlKoNtGlk",
+        "username": "k0ns10",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

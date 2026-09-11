@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2093679013403451579",
+    "created_at": "2026-08-29T12:35:50.000Z",
+    "display_text_range": [
+      0,
+      123
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T13:35:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093679013403451579"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 55,
+          "start": 47,
+          "tag": "Zhuque3"
+        },
+        {
+          "end": 61,
+          "start": 56,
+          "tag": "朱雀三号"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/rain_antar1121…",
+          "end": 147,
+          "expanded_url": "https://twitter.com/rain_antar1121/status/2092195327566823885",
+          "start": 124,
+          "url": "https://t.co/DetBy9EH1h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093679013403451579",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "hashtags": [
+          {
+            "end": 55,
+            "start": 47,
+            "tag": "Zhuque3"
+          },
+          {
+            "end": 61,
+            "start": 56,
+            "tag": "朱雀三号"
+          }
+        ]
+      },
+      "text": "🚀～既然想到了可以根据不锈钢箭体表面冰霜的变化推算燃料加注速率～那咱当然要自己简单算一下啦🥰\n#Zhuque3 #朱雀三号 \n火箭总高66.1m，直径4.5m，一级甲烷贮箱高占总高510/2508（像素数量）；在T - 55min开始结霜，T - 15min就基本没有变化了，那么按沸点时甲烷的数据（不知道到底有多过冷…）算加注速率约2.26t/min或5.35m^3/min～\n\n作为对比，算了一下现在的猎鹰九号一级的加注速率大概是煤油4.2t/min或5.2m^3/min，液氧9.2t/min或7.2m^3/min…虽然计算肯定有不小误差，但说明蓝箭现在的大流量全过冷加注技术离猎鹰九号还有点差距…跟星舰就没法比了🥹未来可期嗯！咱相信蓝箭最棒啦～\n\n注意到朱雀三号遥二是先加满一级最下面的液氧贮箱（这时候咱还没开始拍摄），再开始加注一级甲烷贮箱并似乎在其加注到一半的时候开始加注二级…二级被摆杆挡着比较难看清…咱就只算了一级甲烷贮箱的数据啦🥹"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092195327566823885",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🚀～既然想到了可以根据不锈钢箭体表面冰霜的变化推算燃料加注速率～那咱当然要自己简单算一下啦🥰\n#Zhuque3 #朱雀三号 \n火箭总高66.1m，直径4.5m，一级甲烷贮箱高占总高510/2508（像素数量）；在T - 55min开始结霜，T - https://t.co/DetBy9EH1h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2092186686382075904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQjwtNWa8AAGrwx.jpg",
+        "width": 3074
+      },
+      {
+        "height": 3148,
+        "media_key": "3_2092186686130409472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQjwtMaa0AAfJp4.jpg",
+        "width": 2361
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2093679013403451579",
+        "created_at": "2026-08-29T12:35:50.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T13:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093679013403451579"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 47,
+              "tag": "Zhuque3"
+            },
+            {
+              "end": 61,
+              "start": 56,
+              "tag": "朱雀三号"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/rain_antar1121…",
+              "end": 147,
+              "expanded_url": "https://twitter.com/rain_antar1121/status/2092195327566823885",
+              "start": 124,
+              "url": "https://t.co/DetBy9EH1h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093679013403451579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 47,
+                "tag": "Zhuque3"
+              },
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "朱雀三号"
+              }
+            ]
+          },
+          "text": "🚀～既然想到了可以根据不锈钢箭体表面冰霜的变化推算燃料加注速率～那咱当然要自己简单算一下啦🥰\n#Zhuque3 #朱雀三号 \n火箭总高66.1m，直径4.5m，一级甲烷贮箱高占总高510/2508（像素数量）；在T - 55min开始结霜，T - 15min就基本没有变化了，那么按沸点时甲烷的数据（不知道到底有多过冷…）算加注速率约2.26t/min或5.35m^3/min～\n\n作为对比，算了一下现在的猎鹰九号一级的加注速率大概是煤油4.2t/min或5.2m^3/min，液氧9.2t/min或7.2m^3/min…虽然计算肯定有不小误差，但说明蓝箭现在的大流量全过冷加注技术离猎鹰九号还有点差距…跟星舰就没法比了🥹未来可期嗯！咱相信蓝箭最棒啦～\n\n注意到朱雀三号遥二是先加满一级最下面的液氧贮箱（这时候咱还没开始拍摄），再开始加注一级甲烷贮箱并似乎在其加注到一半的时候开始加注二级…二级被摆杆挡着比较难看清…咱就只算了一级甲烷贮箱的数据啦🥹"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092195327566823885",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🚀～既然想到了可以根据不锈钢箭体表面冰霜的变化推算燃料加注速率～那咱当然要自己简单算一下啦🥰\n#Zhuque3 #朱雀三号 \n火箭总高66.1m，直径4.5m，一级甲烷贮箱高占总高510/2508（像素数量）；在T - 55min开始结霜，T - https://t.co/DetBy9EH1h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092186686382075904",
+            "3_2092186686130409472"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "conversation_id": "2092195327566823885",
+        "created_at": "2026-08-25T10:20:11.000Z",
+        "display_text_range": [
+          0,
+          154
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T11:20:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092195327566823885"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 45,
+              "tag": "Zhuque3"
+            },
+            {
+              "end": 59,
+              "start": 54,
+              "tag": "朱雀三号"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TixABVIr4p",
+              "end": 178,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2092195327566823885/photo/1",
+              "media_key": "3_2092186686382075904",
+              "start": 155,
+              "url": "https://t.co/TixABVIr4p"
+            },
+            {
+              "display_url": "pic.x.com/TixABVIr4p",
+              "end": 178,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2092195327566823885/photo/1",
+              "media_key": "3_2092186686130409472",
+              "start": 155,
+              "url": "https://t.co/TixABVIr4p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092195327566823885",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092186686382075904"
+          },
+          {
+            "media_key": "3_2092186686130409472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 45,
+                "tag": "Zhuque3"
+              },
+              {
+                "end": 59,
+                "start": 54,
+                "tag": "朱雀三号"
+              }
+            ]
+          },
+          "text": "朱雀三号遥二的两张发射前状态～咱家小可爱的证件照嘻嘻ฅ₍ᐢ⸝⸝›  ̫ ‹⸝⸝ᐢ₎ฅ˒˒\n#Zhuque3 #朱雀三号 \n分别拍摄于大约T - 30min和T - 4min…有趣的细节是，加注低温燃料的过程中不锈钢箭体从下往上缓缓蒙上了一层雪白的冰霜，遮住了整只朱雀图腾…限时体验了一下老航天风格统一的白漆）\n\n咱架好相机的时候一级下部的液氧储罐已经结满了霜（图一）…不过我亲眼见证了二级和一级上部的甲烷储罐缓缓被封进将近零下两百度的冰雪里（图二）\n\n没想到能亲眼见证蓝箭大流量全过冷加注技术的实力…话说这种加注过程的“透明可视化”奇观也是不锈钢箭体的专属吧，可以据此推算一下各储罐容积，以及加注顺序和速率…"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2006,
+          "like_count": 28,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "朱雀三号遥二的两张发射前状态～咱家小可爱的证件照嘻嘻ฅ₍ᐢ⸝⸝›  ̫ ‹⸝⸝ᐢ₎ฅ˒˒\n#Zhuque3 #朱雀三号 \n分别拍摄于大约T - 30min和T - 4min…有趣的细节是，加注低温燃料的过程中不锈钢箭体从下往上缓缓蒙上了一层雪白的冰霜，遮住了整只朱雀图腾…限时体验了一下老航天风格统一的白漆） https://t.co/TixABVIr4p"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2093679013403451579",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5079,
+          "following_count": 7026,
+          "like_count": 19625,
+          "listed_count": 12,
+          "media_count": 418,
+          "tweet_count": 5604
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

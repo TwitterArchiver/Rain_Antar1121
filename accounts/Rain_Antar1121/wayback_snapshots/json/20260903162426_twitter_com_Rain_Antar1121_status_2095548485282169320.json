@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2095548485282169320",
+    "created_at": "2026-09-03T16:24:26.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T17:24:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095548485282169320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1436287470207832064",
+          "start": 3,
+          "username": "wuyuandev"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/R",
+          "end": 139,
+          "start": 125,
+          "url": "https://t.co/R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095548485282169320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095495034477183287",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wuyuandev: 2233fo！\n半年了，猫毛青丝变白发后终于也是有了这么多fo！猫爱你们！\n\n赞评转fo，这周六下午抽\n一等奖：6个月x premium，可折现20r，一份\n二等奖：一坤杯柠檬水（10r），两份\n三等奖：5r红包，三份 https://t.co/R…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2095495008199880704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRSxm4hbsAAbkV7.jpg",
+        "width": 3015
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2095548485282169320",
+        "created_at": "2026-09-03T16:24:26.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T17:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095548485282169320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1436287470207832064",
+              "start": 3,
+              "username": "wuyuandev"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/R",
+              "end": 139,
+              "start": 125,
+              "url": "https://t.co/R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095548485282169320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095495034477183287",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wuyuandev: 2233fo！\n半年了，猫毛青丝变白发后终于也是有了这么多fo！猫爱你们！\n\n赞评转fo，这周六下午抽\n一等奖：6个月x premium，可折现20r，一份\n二等奖：一坤杯柠檬水（10r），两份\n三等奖：5r红包，三份 https://t.co/R…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095495008199880704"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "conversation_id": "2095495034477183287",
+        "created_at": "2026-09-03T12:52:03.000Z",
+        "display_text_range": [
+          0,
+          109
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T13:52:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095495034477183287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RBVl1zUcMH",
+              "end": 133,
+              "expanded_url": "https://x.com/wuyuandev/status/2095495034477183287/photo/1",
+              "media_key": "3_2095495008199880704",
+              "start": 110,
+              "url": "https://t.co/RBVl1zUcMH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095495034477183287",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095495008199880704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 910,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "2233fo！\n半年了，猫毛青丝变白发后终于也是有了这么多fo！猫爱你们！\n\n赞评转fo，这周六下午抽\n一等奖：6个月x premium，可折现20r，一份\n二等奖：一坤杯柠檬水（10r），两份\n三等奖：5r红包，三份 https://t.co/RBVl1zUcMH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2095548485282169320",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5170,
+          "following_count": 7114,
+          "like_count": 20288,
+          "listed_count": 12,
+          "media_count": 442,
+          "tweet_count": 5934
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者，学生，应该是猫猫。\n所以猫猫想要被你关注！\n\n私人号 @Yukizomecat ｜❤️ @tsgostar\n你看白雪人间。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 31,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "is_identity_verified": true,
+        "location": "zh-CN 🌏",
+        "most_recent_tweet_id": "2095547236851777593",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2086710393263841339",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436287470207832064/1785236279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2244,
+          "following_count": 1242,
+          "like_count": 12338,
+          "listed_count": 10,
+          "media_count": 978,
+          "tweet_count": 4369
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

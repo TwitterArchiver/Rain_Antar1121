@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2094676045177946532",
+    "created_at": "2026-09-02T18:14:27.000Z",
+    "display_text_range": [
+      28,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T19:14:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095213780653523098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1224020250733268995",
+          "start": 0,
+          "username": "appleneko2001"
+        },
+        {
+          "end": 27,
+          "id": "1600024316552179713",
+          "start": 15,
+          "username": "kiki_qiqing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095213780653523098",
+    "in_reply_to_user_id": "1224020250733268995",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095211700618441210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@appleneko2001 @kiki_qiqing 开心最重要！早点睡哦～🥰"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2095211700618441210].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2095211700618441210",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2095211700618441210"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2094676045177946532",
+        "created_at": "2026-09-02T18:14:27.000Z",
+        "display_text_range": [
+          28,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T19:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095213780653523098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1224020250733268995",
+              "start": 0,
+              "username": "appleneko2001"
+            },
+            {
+              "end": 27,
+              "id": "1600024316552179713",
+              "start": 15,
+              "username": "kiki_qiqing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095213780653523098",
+        "in_reply_to_user_id": "1224020250733268995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095211700618441210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@appleneko2001 @kiki_qiqing 开心最重要！早点睡哦～🥰"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2095213780653523098",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5164,
+          "following_count": 7106,
+          "like_count": 20209,
+          "listed_count": 12,
+          "media_count": 442,
+          "tweet_count": 5918
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "淡出推特X | 在虛空中試著創造星空✨ | 男騷擾者拉黑🚫 | 平均計算機用戶🖥️ | 重度網路依賴🌐 | 討厭炒作人士🚫 | OSS自由開發者/貢獻者👩‍💻 | 前Material.Avalonia貢獻者⚙️ | 母語中文📖 | I speak ENG/RUS📖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "appleneko.moe",
+                "end": 23,
+                "expanded_url": "https://appleneko.moe/",
+                "start": 0,
+                "url": "https://t.co/5CNGBqFNCw"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093261408947560678",
+        "name": "笨蛋夜星＊絕讚淡推生活中",
+        "pinned_tweet_id": "2081264628445979049",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1224020250733268995/1787909512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082828677990191104/YOW-0eqb_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 297,
+          "like_count": 119275,
+          "listed_count": 3,
+          "media_count": 1801,
+          "tweet_count": 18718
+        },
+        "url": "https://t.co/5CNGBqFNCw",
+        "username": "appleneko2001",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T07:08:19.000Z",
+        "description": "出厂日期2007.9.24 | mtx/f | 小证含糖 | HRT 2025.12.05 | 非二元 | 同类可以找我互fo，但最好说一声 | 喜欢同类 | 169cm/60kg | 有点地雷",
+        "id": "1600024316552179713",
+        "is_identity_verified": false,
+        "location": "Silverstone Track",
+        "most_recent_tweet_id": "2095206370207469815",
+        "name": "祈晴kiki🍥",
+        "pinned_tweet_id": "2071875138975580225",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600024316552179713/1784887409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080617205654503424/h9hH830E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1781,
+          "following_count": 365,
+          "like_count": 6488,
+          "listed_count": 7,
+          "media_count": 231,
+          "tweet_count": 2153
+        },
+        "url": "",
+        "username": "kiki_qiqing",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

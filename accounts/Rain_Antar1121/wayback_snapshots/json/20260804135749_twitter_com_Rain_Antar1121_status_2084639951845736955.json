@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2084230800271380822",
+    "created_at": "2026-08-04T13:57:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T14:57:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084639951845736955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1932597869049229313",
+          "start": 0,
+          "username": "lian_296"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084639951845736955",
+    "in_reply_to_user_id": "1932597869049229313",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084506020370649206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lian_296 抱着🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2084230800271380822",
+        "created_at": "2026-08-04T13:57:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T14:57:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084639951845736955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1932597869049229313",
+              "start": 0,
+              "username": "lian_296"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084639951845736955",
+        "in_reply_to_user_id": "1932597869049229313",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084506020370649206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lian_296 抱着🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932597869049229313",
+        "conversation_id": "2084230800271380822",
+        "created_at": "2026-08-04T05:05:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T06:05:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084506020370649206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 27,
+              "id": "2042786439738327042",
+              "start": 16,
+              "username": "tiancun520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084506020370649206",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084230800271380822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 @tiancun520 抱抱你，一切都会好起来的😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4894,
+          "following_count": 6796,
+          "like_count": 17721,
+          "listed_count": 12,
+          "media_count": 373,
+          "tweet_count": 4901
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-11T00:37:19.000Z",
+        "description": "业余大提琴爱好者/摄影爱好者/大一/？t？/电子信息\n聊天入口\nhttps://t.co/iEHDKbpJGa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+pxrOwfDD9BM4O…",
+                "end": 55,
+                "expanded_url": "https://t.me/+pxrOwfDD9BM4OTA1",
+                "start": 32,
+                "url": "https://t.co/iEHDKbpJGa"
+              }
+            ]
+          }
+        },
+        "id": "1932597869049229313",
+        "location": "惡魔城入城口",
+        "name": "我姓西北风",
+        "pinned_tweet_id": "2058067180399538571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060601929341054976/sySTkYo1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 216,
+          "like_count": 4322,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 367
+        },
+        "url": "",
+        "username": "lian_296",
+        "verified": false
+      }
+    ]
+  }
+}

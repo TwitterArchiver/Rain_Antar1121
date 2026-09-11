@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096422472514195456"
+      ]
+    },
+    "author_id": "1894461745277931524",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2096439415111655734",
+    "created_at": "2026-09-06T03:24:41.000Z",
+    "display_text_range": [
+      0,
+      160
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T04:24:15.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096439307460571301",
+      "2096439415111655734"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 8,
+          "start": 0,
+          "tag": "ra今天吃什么"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 149,
+          "id": "1739472736693735424",
+          "start": 136,
+          "username": "guo_lao32576"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GGfYs51Wld",
+          "end": 184,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/2096439415111655734/photo/1",
+          "media_key": "3_2096422472514195456",
+          "start": 161,
+          "url": "https://t.co/GGfYs51Wld"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096439415111655734",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2096422472514195456"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#ra今天吃什么 \n🥰以后好吃的就用这个tag收集喵～要是咱的日常太平淡，说不定就只能吃好喝好啦\nヘ(&gt;_&lt;ヘ)\n\n这个是之前看火箭回来在嘉峪关吃哒！番茄蛋包饭喵～嘻嘻咱还是最爱番茄汁和土豆可乐饼，没想到这座小城居然能有池奈蛋包饭…话说第一次吃这一套是在重庆被@guo_lao32576 投喂的呢…好怀念呜🥹 https://t.co/GGfYs51Wld"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 899,
+        "media_key": "3_2096422472514195456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRf9IaVa0AAFAgi.jpg",
+        "width": 1199
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096422472514195456"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2096439307460571301",
+        "created_at": "2026-09-06T03:24:15.000Z",
+        "display_text_range": [
+          0,
+          159
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T04:24:15.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096439307460571301",
+          "2096439415111655734"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "ra今天吃什么"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 148,
+              "id": "1739472736693735424",
+              "start": 135,
+              "username": "guo_lao32576"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gcask1JHAx",
+              "end": 183,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2096439307460571301/photo/1",
+              "media_key": "3_2096422472514195456",
+              "start": 160,
+              "url": "https://t.co/Gcask1JHAx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096439307460571301",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096422472514195456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#ra今天吃什么 \n🥰以后好吃的就用这个tag收集喵～要是咱的日常太平淡，说不定就只能吃好喝好啦ヘ(&gt;_&lt;ヘ)\n\n这个是之前看火箭回来在嘉峪关吃哒！番茄蛋包饭喵～嘻嘻咱还是最爱番茄汁和土豆可乐饼，没想到这座小城居然能有池奈蛋包饭…话说第一次吃这一套是在重庆被@guo_lao32576 投喂的呢…好怀念呜🥹 https://t.co/Gcask1JHAx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096422472514195456"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2096439415111655734",
+        "created_at": "2026-09-06T03:24:41.000Z",
+        "display_text_range": [
+          0,
+          160
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T04:24:15.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096439307460571301",
+          "2096439415111655734"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "ra今天吃什么"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 149,
+              "id": "1739472736693735424",
+              "start": 136,
+              "username": "guo_lao32576"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GGfYs51Wld",
+              "end": 184,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2096439415111655734/photo/1",
+              "media_key": "3_2096422472514195456",
+              "start": 161,
+              "url": "https://t.co/GGfYs51Wld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096439415111655734",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096422472514195456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#ra今天吃什么 \n🥰以后好吃的就用这个tag收集喵～要是咱的日常太平淡，说不定就只能吃好喝好啦\nヘ(&gt;_&lt;ヘ)\n\n这个是之前看火箭回来在嘉峪关吃哒！番茄蛋包饭喵～嘻嘻咱还是最爱番茄汁和土豆可乐饼，没想到这座小城居然能有池奈蛋包饭…话说第一次吃这一套是在重庆被@guo_lao32576 投喂的呢…好怀念呜🥹 https://t.co/GGfYs51Wld"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2096439415111655734",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5189,
+          "following_count": 7135,
+          "like_count": 20481,
+          "listed_count": 12,
+          "media_count": 449,
+          "tweet_count": 5997
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-26T02:26:43.000Z",
+        "description": "25時、ナイトコードで",
+        "id": "1739472736693735424",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095828686301974804",
+        "name": "K",
+        "pinned_tweet_id": "1974327998120911343",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1739472736693735424/1714183118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974324318495707136/9J9pIZ8k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 979,
+          "like_count": 5470,
+          "listed_count": 4,
+          "media_count": 140,
+          "tweet_count": 2361
+        },
+        "url": "",
+        "username": "guo_lao32576",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

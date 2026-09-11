@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2093301669975203900",
+    "created_at": "2026-08-28T13:39:59.000Z",
+    "display_text_range": [
+      12,
+      126
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T14:39:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093332772958162948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1813768883540725760",
+          "start": 0,
+          "username": "ye_and_yae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093332772958162948",
+    "in_reply_to_user_id": "1813768883540725760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093301669975203900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ye_and_yae 好…好羡慕你的能量…好恐怖，膜拜呜呜…🥺像咱这样整天瘫在床上的人看见这种光芒耀目的励志故事真的会缩在垃圾桶里哭的…羡慕你的毅力啊，加油哦…\n\n抱抱抱抱…你有这样的能量就什么都不算困难的哦，咱要是在这种环境里咱只会绝望摆烂…好羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2622,
+        "media_key": "3_2093301645560147968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQzmwX9acAAKhcY.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2093301669975203900",
+        "created_at": "2026-08-28T13:39:59.000Z",
+        "display_text_range": [
+          12,
+          126
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T14:39:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093332772958162948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1813768883540725760",
+              "start": 0,
+              "username": "ye_and_yae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093332772958162948",
+        "in_reply_to_user_id": "1813768883540725760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093301669975203900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ye_and_yae 好…好羡慕你的能量…好恐怖，膜拜呜呜…🥺像咱这样整天瘫在床上的人看见这种光芒耀目的励志故事真的会缩在垃圾桶里哭的…羡慕你的毅力啊，加油哦…\n\n抱抱抱抱…你有这样的能量就什么都不算困难的哦，咱要是在这种环境里咱只会绝望摆烂…好羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093301645560147968"
+          ]
+        },
+        "author_id": "1813768883540725760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2093301669975203900",
+        "created_at": "2026-08-28T11:36:24.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T12:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093301669975203900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sLKIUhxly6",
+              "end": 56,
+              "expanded_url": "https://x.com/ye_and_yae/status/2093301669975203900/photo/1",
+              "media_key": "3_2093301645560147968",
+              "start": 33,
+              "url": "https://t.co/sLKIUhxly6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093301669975203900",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093301645560147968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "干了一个月家教，最后给的钱还不够我预期的一半…也没办法至少有钱…\n然后我有点不满意吧，我爸看我不满意就给我打算给我解释，无非就是什么人情世故啊（学生是他朋友家里的）我不想听这些，就说不用说了，然后我也不知道咋了他们就急了开始骂我，说我吃着家里的用着家里的怎么怎么着…说我考上大学都是家里给的条件，是祖上积德…说我上学这六年花了家里好多钱…（我从来没找家里要过钱，他们也没有给过我零花钱，所有东西都是他们一手操办…我六年的流水加起来不到5000吧…因为有一年去旅游给了我点钱）…总之就是骂我，说我到了外面是不是骂老师，说什么总有人治我…\n我本来想着这次能挣不少钱，打算再攒攒明年就可以出国旅游了现在看来有点困难了…教的学生今年中考他妈的小学水平，讲个题能气死人…我每天大中午出门都他妈给我晒黑了…我受这气\n说我就知道玩游戏…这跟游戏有啥关系…"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 309,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "干了一个月家教，最后给的钱还不够我预期的一半…也没办法至少有钱… https://t.co/sLKIUhxly6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2093332772958162948",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5074,
+          "following_count": 7016,
+          "like_count": 19484,
+          "listed_count": 12,
+          "media_count": 418,
+          "tweet_count": 5547
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-18T02:54:44.000Z",
+        "description": "我是爱晔哦 \n09/01/26 炸柜26/06/09 有时含糖 喜欢航天 二次元 技术至上主义 喜欢画画 学日语\n最最最好的朋友@guoxiufeng5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 64,
+                "username": "guoxiufeng5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "spacex.com",
+                "end": 23,
+                "expanded_url": "http://spacex.com",
+                "start": 0,
+                "url": "https://t.co/8kxr0UGOJ6"
+              }
+            ]
+          }
+        },
+        "id": "1813768883540725760",
+        "is_identity_verified": false,
+        "location": "距你11.4km",
+        "most_recent_tweet_id": "2093327429456789513",
+        "name": "🍥爱晔🚀",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813768883540725760/1764440318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079860342965067776/HglcXlhL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1927,
+          "following_count": 1361,
+          "like_count": 12386,
+          "listed_count": 3,
+          "media_count": 626,
+          "tweet_count": 5360
+        },
+        "url": "https://t.co/8kxr0UGOJ6",
+        "username": "ye_and_yae",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

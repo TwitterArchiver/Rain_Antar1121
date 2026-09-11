@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2094004275995431341",
+    "created_at": "2026-08-31T17:59:02.000Z",
+    "display_text_range": [
+      10,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T18:59:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094485124700422630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1673951764364820481",
+          "start": 0,
+          "username": "emoat3am"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094485124700422630",
+    "in_reply_to_user_id": "1673951764364820481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094483673064341560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@emoat3am 能找到真好呢～🥰抱着揉揉～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 763,
+        "media_key": "3_2094483659873239041",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HREZyqaawAEM9yq.jpg",
+        "width": 763
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2094004275995431341",
+        "created_at": "2026-08-31T17:59:02.000Z",
+        "display_text_range": [
+          10,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T18:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094485124700422630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1673951764364820481",
+              "start": 0,
+              "username": "emoat3am"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094485124700422630",
+        "in_reply_to_user_id": "1673951764364820481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094483673064341560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@emoat3am 能找到真好呢～🥰抱着揉揉～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094483659873239041"
+          ]
+        },
+        "author_id": "1673951764364820481",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094004275995431341",
+        "created_at": "2026-08-31T17:53:15.000Z",
+        "display_text_range": [
+          16,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T18:53:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094483673064341560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ieRC5Qddta",
+              "end": 70,
+              "expanded_url": "https://x.com/emoat3am/status/2094483673064341560/photo/1",
+              "media_key": "3_2094483659873239041",
+              "start": 47,
+              "url": "https://t.co/ieRC5Qddta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094483673064341560",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094483659873239041"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094004275995431341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 试着找了自己、好厉害的纪念方式((((；ﾟДﾟ))))))) https://t.co/ieRC5Qddta"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2094485124700422630",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5131,
+          "following_count": 7075,
+          "like_count": 19951,
+          "listed_count": 12,
+          "media_count": 419,
+          "tweet_count": 5781
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T07:09:48.000Z",
+        "description": "=🍠 20↑ =) 🤍🌸 中｜Eng.｜日 OK #_# 陰キャラ、chimitanが好き。最近兴趣：ゴールデンカムイ｜挫人间。https://t.co/QDC1zApw3e",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cyouimo.bearblog.dev",
+                "end": 87,
+                "expanded_url": "http://cyouimo.bearblog.dev",
+                "start": 64,
+                "url": "https://t.co/QDC1zApw3e"
+              }
+            ]
+          }
+        },
+        "id": "1673951764364820481",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2094483673064341560",
+        "name": "芭菲段落",
+        "pinned_tweet_id": "2050831186805886985",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1673951764364820481/1763656691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030818713193365504/JOVfBRre_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 655,
+          "like_count": 18848,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 64
+        },
+        "url": "",
+        "username": "emoat3am",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

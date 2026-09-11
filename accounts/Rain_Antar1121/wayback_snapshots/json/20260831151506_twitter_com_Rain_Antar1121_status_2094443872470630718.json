@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2094225013918286134",
+    "created_at": "2026-08-31T15:15:06.000Z",
+    "display_text_range": [
+      21,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T16:15:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094443872470630718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1591527461279485954",
+          "start": 0,
+          "username": "NoirZnt"
+        },
+        {
+          "end": 20,
+          "id": "1531432040909918209",
+          "start": 9,
+          "username": "_ciweiqwq_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094443872470630718",
+    "in_reply_to_user_id": "1591527461279485954",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094427301454741829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NoirZnt @_ciweiqwq_ 呜呜，抱住揉…🥺"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2094427301454741829].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2094427301454741829",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2094427301454741829"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2094225013918286134",
+        "created_at": "2026-08-31T15:15:06.000Z",
+        "display_text_range": [
+          21,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T16:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094443872470630718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1591527461279485954",
+              "start": 0,
+              "username": "NoirZnt"
+            },
+            {
+              "end": 20,
+              "id": "1531432040909918209",
+              "start": 9,
+              "username": "_ciweiqwq_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094443872470630718",
+        "in_reply_to_user_id": "1591527461279485954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094427301454741829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NoirZnt @_ciweiqwq_ 呜呜，抱住揉…🥺"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2094443872470630718",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5129,
+          "following_count": 7074,
+          "like_count": 19931,
+          "listed_count": 12,
+          "media_count": 419,
+          "tweet_count": 5769
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-12T20:25:06.000Z",
+        "description": "可以叫我Noir/玄夜/小章鱼",
+        "id": "1591527461279485954",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086861118832521593",
+        "name": "Noir",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591527461279485954/1778262406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052807425154060289/7Kmvc_Lj_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1073,
+          "following_count": 4987,
+          "like_count": 18847,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 4197
+        },
+        "url": "",
+        "username": "NoirZnt",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-31T00:27:23.000Z",
+        "description": "09/男/双 这个是发泄情绪的号：@suzume_FANqwq /\n最重要的姐姐: ❤️@Rain_Antar1121❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 17,
+                "username": "suzume_FANqwq"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "Rain_Antar1121"
+              }
+            ]
+          }
+        },
+        "id": "1531432040909918209",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094436218205299035",
+        "name": "刺猬QWQ",
+        "pinned_tweet_id": "2056926845497409858",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047713615419932673/rglwu7N3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 560,
+          "like_count": 26755,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 1903
+        },
+        "url": "",
+        "username": "_ciweiqwq_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

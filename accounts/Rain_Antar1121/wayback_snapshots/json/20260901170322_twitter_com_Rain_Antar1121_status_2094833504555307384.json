@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2094676045177946532",
+    "created_at": "2026-09-01T17:03:22.000Z",
+    "display_text_range": [
+      23,
+      103
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T18:03:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094833504555307384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1673951764364820481",
+          "start": 0,
+          "username": "emoat3am"
+        },
+        {
+          "end": 22,
+          "id": "1600024316552179713",
+          "start": 10,
+          "username": "kiki_qiqing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094833504555307384",
+    "in_reply_to_user_id": "1673951764364820481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094823500926403008",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@emoat3am @kiki_qiqing 咱用这个身份打字的时候，至少大多数时候吧，都会立即进入这种元气状态\n (◍＞◡＜◍)\n\n所以用不着保持～正是这种依赖认同感的“代入角色”的状态塑造了这里的我呢🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2094676045177946532",
+        "created_at": "2026-09-01T17:03:22.000Z",
+        "display_text_range": [
+          23,
+          103
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T18:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094833504555307384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1673951764364820481",
+              "start": 0,
+              "username": "emoat3am"
+            },
+            {
+              "end": 22,
+              "id": "1600024316552179713",
+              "start": 10,
+              "username": "kiki_qiqing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094833504555307384",
+        "in_reply_to_user_id": "1673951764364820481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094823500926403008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@emoat3am @kiki_qiqing 咱用这个身份打字的时候，至少大多数时候吧，都会立即进入这种元气状态\n (◍＞◡＜◍)\n\n所以用不着保持～正是这种依赖认同感的“代入角色”的状态塑造了这里的我呢🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1673951764364820481",
+        "conversation_id": "2094676045177946532",
+        "created_at": "2026-09-01T16:23:37.000Z",
+        "display_text_range": [
+          29,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T17:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094823500926403008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 28,
+              "id": "1600024316552179713",
+              "start": 16,
+              "username": "kiki_qiqing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094823500926403008",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094746770655842800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 @kiki_qiqing 哦哦，对。感觉要一直保持这样挺累的，总是很元气的样子。瑞酱很可爱（点头"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2094833504555307384",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5146,
+          "following_count": 7090,
+          "like_count": 20110,
+          "listed_count": 12,
+          "media_count": 433,
+          "tweet_count": 5865
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T07:09:48.000Z",
+        "description": "=🍠 20↑ =) 🤍🌸 中｜Eng.｜日 OK #_# 陰キャラ、chimitanが好き。最近兴趣：ゴールデンカムイ｜挫人间。https://t.co/QDC1zApw3e",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cyouimo.bearblog.dev",
+                "end": 87,
+                "expanded_url": "http://cyouimo.bearblog.dev",
+                "start": 64,
+                "url": "https://t.co/QDC1zApw3e"
+              }
+            ]
+          }
+        },
+        "id": "1673951764364820481",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2094826017324228678",
+        "name": "芭菲段落",
+        "pinned_tweet_id": "2050831186805886985",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1673951764364820481/1763656691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030818713193365504/JOVfBRre_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 655,
+          "like_count": 18858,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 69
+        },
+        "url": "",
+        "username": "emoat3am",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T07:08:19.000Z",
+        "description": "出厂日期2007.9.24 | mtx/f | 小证含糖 | HRT 2025.12.05 | 非二元 | 同类可以找我互fo，但最好说一声 | 喜欢同类 | 169cm/60kg | 有点地雷",
+        "id": "1600024316552179713",
+        "is_identity_verified": false,
+        "location": "Silverstone Track",
+        "most_recent_tweet_id": "2094780863590600997",
+        "name": "祈晴kiki🍥",
+        "pinned_tweet_id": "2071875138975580225",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600024316552179713/1784887409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080617205654503424/h9hH830E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1753,
+          "following_count": 364,
+          "like_count": 6464,
+          "listed_count": 7,
+          "media_count": 226,
+          "tweet_count": 2138
+        },
+        "url": "",
+        "username": "kiki_qiqing",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
