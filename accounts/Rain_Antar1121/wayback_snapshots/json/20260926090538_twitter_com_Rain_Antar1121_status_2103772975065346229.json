@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103772941213388800",
+        "3_2103772941213466624",
+        "3_2103772941196668928",
+        "3_2103772941221847040"
+      ]
+    },
+    "author_id": "1894461745277931524",
+    "conversation_id": "2103772975065346229",
+    "created_at": "2026-09-26T09:05:38.000Z",
+    "display_text_range": [
+      0,
+      120
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T10:05:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103772975065346229"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Pq1Dm6WayW",
+          "end": 144,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/2103772975065346229/photo/1",
+          "media_key": "3_2103772941213388800",
+          "start": 121,
+          "url": "https://t.co/Pq1Dm6WayW"
+        },
+        {
+          "display_url": "pic.x.com/Pq1Dm6WayW",
+          "end": 144,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/2103772975065346229/photo/1",
+          "media_key": "3_2103772941213466624",
+          "start": 121,
+          "url": "https://t.co/Pq1Dm6WayW"
+        },
+        {
+          "display_url": "pic.x.com/Pq1Dm6WayW",
+          "end": 144,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/2103772975065346229/photo/1",
+          "media_key": "3_2103772941196668928",
+          "start": 121,
+          "url": "https://t.co/Pq1Dm6WayW"
+        },
+        {
+          "display_url": "pic.x.com/Pq1Dm6WayW",
+          "end": 144,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/2103772975065346229/photo/1",
+          "media_key": "3_2103772941221847040",
+          "start": 121,
+          "url": "https://t.co/Pq1Dm6WayW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103772975065346229",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103772941213388800"
+      },
+      {
+        "media_key": "3_2103772941213466624"
+      },
+      {
+        "media_key": "3_2103772941196668928"
+      },
+      {
+        "media_key": "3_2103772941221847040"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "呜…问问大家，发推的时候有没有遇到过这个问题🥹\n\n帖子包含某些图片就会无法发送，如图一所示…与网络问题无关，去除特定图片就能正常发送喵😵‍💫应该是某些参数超标，但似乎不是文件大小…6MB以上的图片就有概率发送失败，有些体积很大的却能发出去😇\n\n注意到被卡的似乎都是细节丰富的风景照…例如下面几张大面积密集树叶、碎石堆和石板表面，原图都无法发送…\n\n有没有大佬知道，具体是哪个参数被怎样限制了呢，这个问题困扰咱很久了૮₍ɵ̷﹏ɵ̷̥̥᷅₎ა"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "呜…问问大家，发推的时候有没有遇到过这个问题🥹\n\n帖子包含某些图片就会无法发送，如图一所示…与网络问题无关，去除特定图片就能正常发送喵😵‍💫应该是某些参数超标，但似乎不是文件大小…6MB以上的图片就有概率发送失败，有些体积很大的却能发出去😇 https://t.co/Pq1Dm6WayW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2622,
+        "media_key": "3_2103772941213388800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTIaWAEaUAAbpai.jpg",
+        "width": 1206
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2103772941213466624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTIaWAEbgAAotZJ.jpg",
+        "width": 1966
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2103772941196668928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTIaWAAbMAAwhU_.jpg",
+        "width": 1966
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2103772941221847040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTIaWAGbYAAZg3r.jpg",
+        "width": 1966
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103772941213388800",
+            "3_2103772941213466624",
+            "3_2103772941196668928",
+            "3_2103772941221847040"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "conversation_id": "2103772975065346229",
+        "created_at": "2026-09-26T09:05:38.000Z",
+        "display_text_range": [
+          0,
+          120
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T10:05:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103772975065346229"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pq1Dm6WayW",
+              "end": 144,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2103772975065346229/photo/1",
+              "media_key": "3_2103772941213388800",
+              "start": 121,
+              "url": "https://t.co/Pq1Dm6WayW"
+            },
+            {
+              "display_url": "pic.x.com/Pq1Dm6WayW",
+              "end": 144,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2103772975065346229/photo/1",
+              "media_key": "3_2103772941213466624",
+              "start": 121,
+              "url": "https://t.co/Pq1Dm6WayW"
+            },
+            {
+              "display_url": "pic.x.com/Pq1Dm6WayW",
+              "end": 144,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2103772975065346229/photo/1",
+              "media_key": "3_2103772941196668928",
+              "start": 121,
+              "url": "https://t.co/Pq1Dm6WayW"
+            },
+            {
+              "display_url": "pic.x.com/Pq1Dm6WayW",
+              "end": 144,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2103772975065346229/photo/1",
+              "media_key": "3_2103772941221847040",
+              "start": 121,
+              "url": "https://t.co/Pq1Dm6WayW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103772975065346229",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103772941213388800"
+          },
+          {
+            "media_key": "3_2103772941213466624"
+          },
+          {
+            "media_key": "3_2103772941196668928"
+          },
+          {
+            "media_key": "3_2103772941221847040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "呜…问问大家，发推的时候有没有遇到过这个问题🥹\n\n帖子包含某些图片就会无法发送，如图一所示…与网络问题无关，去除特定图片就能正常发送喵😵‍💫应该是某些参数超标，但似乎不是文件大小…6MB以上的图片就有概率发送失败，有些体积很大的却能发出去😇\n\n注意到被卡的似乎都是细节丰富的风景照…例如下面几张大面积密集树叶、碎石堆和石板表面，原图都无法发送…\n\n有没有大佬知道，具体是哪个参数被怎样限制了呢，这个问题困扰咱很久了૮₍ɵ̷﹏ɵ̷̥̥᷅₎ა"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呜…问问大家，发推的时候有没有遇到过这个问题🥹\n\n帖子包含某些图片就会无法发送，如图一所示…与网络问题无关，去除特定图片就能正常发送喵😵‍💫应该是某些参数超标，但似乎不是文件大小…6MB以上的图片就有概率发送失败，有些体积很大的却能发出去😇 https://t.co/Pq1Dm6WayW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年女孩纸🍬 | 杭州/南京 | 同类互fo喵🍥 | 可以叫咱瑞/ra | 温顺软软小动物 | 社恐小透明 | 阵发中二病 | 可爱就想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2103772975065346229",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5381,
+          "following_count": 7329,
+          "like_count": 22727,
+          "listed_count": 12,
+          "media_count": 501,
+          "tweet_count": 6877
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2098480090846007331",
+    "created_at": "2026-09-12T08:37:40.000Z",
+    "display_text_range": [
+      12,
+      79
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T09:37:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098692508884832478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1822213745176932352",
+          "start": 0,
+          "username": "hmbi217663"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098692508884832478",
+    "in_reply_to_user_id": "1822213745176932352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098480090846007331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hmbi217663 哇咪！感觉再早一些拍的话，颜色淡一点就真能凑出🏳️‍⚧️了…这是咱见到的实拍构图上最接近的啦，天空夹在两道粉霞间的机会可遇不可求哇…🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2098480070390370304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR9MgXva0AADGBd.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2098480075515801600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR9Mgq1asAADAf0.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2098480080670588928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR9Mg-CagAAxdYq.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2098480085816995840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR9MhRNacAArphw.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2098480090846007331",
+        "created_at": "2026-09-12T08:37:40.000Z",
+        "display_text_range": [
+          12,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T09:37:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098692508884832478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1822213745176932352",
+              "start": 0,
+              "username": "hmbi217663"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098692508884832478",
+        "in_reply_to_user_id": "1822213745176932352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098480090846007331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hmbi217663 哇咪！感觉再早一些拍的话，颜色淡一点就真能凑出🏳️‍⚧️了…这是咱见到的实拍构图上最接近的啦，天空夹在两道粉霞间的机会可遇不可求哇…🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098480070390370304",
+            "3_2098480075515801600",
+            "3_2098480080670588928",
+            "3_2098480085816995840"
+          ]
+        },
+        "author_id": "1822213745176932352",
+        "conversation_id": "2098480090846007331",
+        "created_at": "2026-09-11T18:33:36.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T19:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098480090846007331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o4O4zJ4Obj",
+              "end": 40,
+              "expanded_url": "https://x.com/hmbi217663/status/2098480090846007331/photo/1",
+              "media_key": "3_2098480070390370304",
+              "start": 17,
+              "url": "https://t.co/o4O4zJ4Obj"
+            },
+            {
+              "display_url": "pic.x.com/o4O4zJ4Obj",
+              "end": 40,
+              "expanded_url": "https://x.com/hmbi217663/status/2098480090846007331/photo/1",
+              "media_key": "3_2098480075515801600",
+              "start": 17,
+              "url": "https://t.co/o4O4zJ4Obj"
+            },
+            {
+              "display_url": "pic.x.com/o4O4zJ4Obj",
+              "end": 40,
+              "expanded_url": "https://x.com/hmbi217663/status/2098480090846007331/photo/1",
+              "media_key": "3_2098480080670588928",
+              "start": 17,
+              "url": "https://t.co/o4O4zJ4Obj"
+            },
+            {
+              "display_url": "pic.x.com/o4O4zJ4Obj",
+              "end": 40,
+              "expanded_url": "https://x.com/hmbi217663/status/2098480090846007331/photo/1",
+              "media_key": "3_2098480085816995840",
+              "start": 17,
+              "url": "https://t.co/o4O4zJ4Obj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098480090846007331",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098480070390370304"
+          },
+          {
+            "media_key": "3_2098480075515801600"
+          },
+          {
+            "media_key": "3_2098480080670588928"
+          },
+          {
+            "media_key": "3_2098480085816995840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "诶？！好眼熟的配色，猜猜这是哪😋 https://t.co/o4O4zJ4Obj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2098692508884832478",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5271,
+          "following_count": 7244,
+          "like_count": 21351,
+          "listed_count": 12,
+          "media_count": 464,
+          "tweet_count": 6303
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-10T10:09:55.000Z",
+        "description": "喜欢樟木，渴望自由，笔名禾木白，一枚MTF爆柜转CD的xnn吖，生产日期0708，不开课不给控制码！",
+        "id": "1822213745176932352",
+        "is_identity_verified": false,
+        "location": "Paris, France",
+        "most_recent_tweet_id": "2098684792116330516",
+        "name": "樟羽木白🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1822213745176932352/1787995446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093775656475582464/RRUQJBuL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 35,
+          "like_count": 859,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 236
+        },
+        "url": "",
+        "username": "hmbi217663",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

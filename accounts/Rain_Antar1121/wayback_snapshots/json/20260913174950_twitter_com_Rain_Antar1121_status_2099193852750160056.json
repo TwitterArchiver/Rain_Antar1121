@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2099072780650336585",
+    "created_at": "2026-09-13T17:49:50.000Z",
+    "display_text_range": [
+      10,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T18:49:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099193852750160056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2025104576224055296",
+          "start": 0,
+          "username": "CYan4359"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099193852750160056",
+    "in_reply_to_user_id": "2025104576224055296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "唉，这种话是咱的台词才对…咱们这种性格逃不出这种感觉，一直被困在自卑里…身边人会你不会的才会造成负面累积，反之就会被忽视…\n\n同时自己脑子里已经有的东西也会被矮化，因为知道是怎么回事…比如你觉得我懂这个嘛，我对军舰设计的了解无非是读了几本书加上日常看一大堆视频，写之前再查证一下资料…谈何懂呢，你来你也行…我大部分这样的知识都是空有广度的业余半桶水\n\n反观我在羡慕的，大家会画画会打扮会电脑上的魔法…那才是需要刻苦和系统性学习的，真正值得绝望的是慵懒的我已经基本丧失努力和钻研的能力了…完全没有能量扩展新领域😭"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099124709103120547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CYan4359 唉，这种话是咱的台词才对…咱们这种性格逃不出这种感觉，一直被困在自卑里…身边人会你不会的才会造成负面累积，反之就会被忽视…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2099072780650336585",
+        "created_at": "2026-09-13T17:49:50.000Z",
+        "display_text_range": [
+          10,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T18:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099193852750160056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2025104576224055296",
+              "start": 0,
+              "username": "CYan4359"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099193852750160056",
+        "in_reply_to_user_id": "2025104576224055296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "唉，这种话是咱的台词才对…咱们这种性格逃不出这种感觉，一直被困在自卑里…身边人会你不会的才会造成负面累积，反之就会被忽视…\n\n同时自己脑子里已经有的东西也会被矮化，因为知道是怎么回事…比如你觉得我懂这个嘛，我对军舰设计的了解无非是读了几本书加上日常看一大堆视频，写之前再查证一下资料…谈何懂呢，你来你也行…我大部分这样的知识都是空有广度的业余半桶水\n\n反观我在羡慕的，大家会画画会打扮会电脑上的魔法…那才是需要刻苦和系统性学习的，真正值得绝望的是慵懒的我已经基本丧失努力和钻研的能力了…完全没有能量扩展新领域😭"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099124709103120547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CYan4359 唉，这种话是咱的台词才对…咱们这种性格逃不出这种感觉，一直被困在自卑里…身边人会你不会的才会造成负面累积，反之就会被忽视…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025104576224055296",
+        "conversation_id": "2099072780650336585",
+        "created_at": "2026-09-13T13:15:05.000Z",
+        "display_text_range": [
+          16,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T14:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099124709103120547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099124709103120547",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099072780650336585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 姐你怎么什么都懂……我好崩溃 至少80%的帖子我都看不懂……废了 都是同龄人我怎么天天被降维打击"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2099193852750160056",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5276,
+          "following_count": 7246,
+          "like_count": 21484,
+          "listed_count": 12,
+          "media_count": 472,
+          "tweet_count": 6373
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-21T07:05:39.000Z",
+        "description": "草色烟光残照里 无言谁会凭阑意\n@emiliaino42977 我的可爱橘猫\n@Amakawa_Miu 我的黏人雪狐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "emiliaino42977"
+              },
+              {
+                "end": 51,
+                "start": 39,
+                "username": "Amakawa_Miu"
+              }
+            ]
+          }
+        },
+        "id": "2025104576224055296",
+        "is_identity_verified": false,
+        "location": "是处红衰绿减 苒苒物华休",
+        "most_recent_tweet_id": "2099169289341444363",
+        "name": "辰宴",
+        "pinned_tweet_id": "2060935524886691933",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025104576224055296/1773069950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025104786207772674/QUvX8qXf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 48,
+          "like_count": 822,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 1552
+        },
+        "url": "",
+        "username": "CYan4359",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

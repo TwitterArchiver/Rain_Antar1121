@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2099190150534430837",
+    "created_at": "2026-09-16T08:54:23.000Z",
+    "display_text_range": [
+      17,
+      84
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T09:54:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100146268643406090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1498893713178644482",
+          "start": 0,
+          "username": "ParanQidAndrQid"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100146268643406090",
+    "in_reply_to_user_id": "1498893713178644482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099190150534430837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@ParanQidAndrQid 喵呜…至少在这里陪着软猫猫们会好很多吧，因为大家都同病相怜…肯定有很多猫能做到哒，软猫也自私但是咱们可以从彼此倾诉中获得足够的价值呀🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2099190150534430837",
+        "created_at": "2026-09-16T08:54:23.000Z",
+        "display_text_range": [
+          17,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T09:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100146268643406090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1498893713178644482",
+              "start": 0,
+              "username": "ParanQidAndrQid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100146268643406090",
+        "in_reply_to_user_id": "1498893713178644482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099190150534430837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@ParanQidAndrQid 喵呜…至少在这里陪着软猫猫们会好很多吧，因为大家都同病相怜…肯定有很多猫能做到哒，软猫也自私但是咱们可以从彼此倾诉中获得足够的价值呀🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498893713178644482",
+        "conversation_id": "2099190150534430837",
+        "created_at": "2026-09-13T17:35:07.000Z",
+        "display_text_range": [
+          0,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T18:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099190150534430837"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099190150534430837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 882,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "世界上不会有一个人能每天听我说一句“我感觉很痛苦”还不愿意离我而去的，可能连续一个月就已经没人做得到了。人类都是极度自私的，稍不留神做出了社交礼节以外的举动就已经能让他们一辈子躲着你走了，这实在让我绝望至极。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2100146268643406090",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5297,
+          "following_count": 7264,
+          "like_count": 21640,
+          "listed_count": 12,
+          "media_count": 475,
+          "tweet_count": 6426
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-02T05:31:35.000Z",
+        "description": "「八寶山最後的少女偶像」 \n抒澄/Cassie ｜ She/They ｜ Aro-Ace",
+        "id": "1498893713178644482",
+        "is_identity_verified": false,
+        "location": "在你背后！",
+        "most_recent_tweet_id": "2100144872586129716",
+        "name": "呆頭鵝Cassie🍭",
+        "pinned_tweet_id": "1815959150519804155",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1498893713178644482/1674052819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039443279473958913/Ulx2qoUX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 534,
+          "like_count": 30454,
+          "listed_count": 1,
+          "media_count": 235,
+          "tweet_count": 6187
+        },
+        "url": "",
+        "username": "ParanQidAndrQid",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

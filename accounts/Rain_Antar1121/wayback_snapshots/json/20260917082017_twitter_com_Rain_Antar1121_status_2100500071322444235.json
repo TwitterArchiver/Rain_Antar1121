@@ -1,0 +1,708 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100500050615132160",
+        "3_2100500050615128064",
+        "3_2100500050602582016",
+        "3_2100500050648711168"
+      ]
+    },
+    "author_id": "1894461745277931524",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Generic Drinks",
+          "id": "834828445238431744",
+          "name": "Generic Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Coffee",
+          "id": "850442647088971776",
+          "name": "Coffee"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Generic Drinks",
+          "id": "834828445238431744",
+          "name": "Generic Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Coffee",
+          "id": "850442647088971776",
+          "name": "Coffee"
+        }
+      }
+    ],
+    "conversation_id": "2100500071322444235",
+    "created_at": "2026-09-17T08:20:17.000Z",
+    "display_text_range": [
+      0,
+      153
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T09:20:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100500071322444235"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1kmr3Kwwma",
+          "end": 177,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/2100500071322444235/photo/1",
+          "media_key": "3_2100500050615132160",
+          "start": 154,
+          "url": "https://t.co/1kmr3Kwwma"
+        },
+        {
+          "display_url": "pic.x.com/1kmr3Kwwma",
+          "end": 177,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/2100500071322444235/photo/1",
+          "media_key": "3_2100500050615128064",
+          "start": 154,
+          "url": "https://t.co/1kmr3Kwwma"
+        },
+        {
+          "display_url": "pic.x.com/1kmr3Kwwma",
+          "end": 177,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/2100500071322444235/photo/1",
+          "media_key": "3_2100500050602582016",
+          "start": 154,
+          "url": "https://t.co/1kmr3Kwwma"
+        },
+        {
+          "display_url": "pic.x.com/1kmr3Kwwma",
+          "end": 177,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/2100500071322444235/photo/1",
+          "media_key": "3_2100500050648711168",
+          "start": 154,
+          "url": "https://t.co/1kmr3Kwwma"
+        },
+        {
+          "display_url": "x.com/rain_antar1121…",
+          "end": 201,
+          "expanded_url": "https://twitter.com/rain_antar1121/status/2100144759230943659",
+          "start": 178,
+          "url": "https://t.co/12uiEYNdaS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100500071322444235",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2100500050615132160"
+      },
+      {
+        "media_key": "3_2100500050615128064"
+      },
+      {
+        "media_key": "3_2100500050602582016"
+      },
+      {
+        "media_key": "3_2100500050648711168"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100144759230943659",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😘南京水平方的Stage☆Cafe女仆咖啡厅喵～第一次体验仆咖耶好开心(ﾉ´ヮ´)ﾉ*:･ﾟ✧\n\n和温柔的阿念姐姐合影了拍立得～怎么能把咱拍得这么可爱呜…姐姐画的装饰也超好看🥰背面的寄语特意让姐姐用蓝粉白🏳️‍⚧️写了～字真的超萌喵呜🥹\n\n抹茶冰淇淋很好吃！也喜欢粉萌萌的陈设…咱好愿意再去陪姐姐们玩的☺️ https://t.co/1kmr3Kwwma https://t.co/12uiEYNdaS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2100500050615132160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSZ5qsea4AACgoj.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2689,
+        "media_key": "3_2100500050615128064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSZ5qsea0AAwa50.jpg",
+        "width": 3602
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2100500050602582016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSZ5qsbbYAAzAyv.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2100500050648711168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSZ5qsmbQAA4IIC.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3008,
+        "media_key": "3_2100144733393928192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSU2ggraQAAhIgN.jpg",
+        "width": 3008
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2100144733666545664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSU2ghsaEAAM14L.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2100144733662433280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSU2ghrbUAABRTo.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2305,
+        "media_key": "3_2100144733666582528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSU2ghsaoAAJrtc.jpg",
+        "width": 3073
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100500050615132160",
+            "3_2100500050615128064",
+            "3_2100500050602582016",
+            "3_2100500050648711168"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          }
+        ],
+        "conversation_id": "2100500071322444235",
+        "created_at": "2026-09-17T08:20:17.000Z",
+        "display_text_range": [
+          0,
+          153
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T09:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100500071322444235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1kmr3Kwwma",
+              "end": 177,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2100500071322444235/photo/1",
+              "media_key": "3_2100500050615132160",
+              "start": 154,
+              "url": "https://t.co/1kmr3Kwwma"
+            },
+            {
+              "display_url": "pic.x.com/1kmr3Kwwma",
+              "end": 177,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2100500071322444235/photo/1",
+              "media_key": "3_2100500050615128064",
+              "start": 154,
+              "url": "https://t.co/1kmr3Kwwma"
+            },
+            {
+              "display_url": "pic.x.com/1kmr3Kwwma",
+              "end": 177,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2100500071322444235/photo/1",
+              "media_key": "3_2100500050602582016",
+              "start": 154,
+              "url": "https://t.co/1kmr3Kwwma"
+            },
+            {
+              "display_url": "pic.x.com/1kmr3Kwwma",
+              "end": 177,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2100500071322444235/photo/1",
+              "media_key": "3_2100500050648711168",
+              "start": 154,
+              "url": "https://t.co/1kmr3Kwwma"
+            },
+            {
+              "display_url": "x.com/rain_antar1121…",
+              "end": 201,
+              "expanded_url": "https://twitter.com/rain_antar1121/status/2100144759230943659",
+              "start": 178,
+              "url": "https://t.co/12uiEYNdaS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100500071322444235",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100500050615132160"
+          },
+          {
+            "media_key": "3_2100500050615128064"
+          },
+          {
+            "media_key": "3_2100500050602582016"
+          },
+          {
+            "media_key": "3_2100500050648711168"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100144759230943659",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😘南京水平方的Stage☆Cafe女仆咖啡厅喵～第一次体验仆咖耶好开心(ﾉ´ヮ´)ﾉ*:･ﾟ✧\n\n和温柔的阿念姐姐合影了拍立得～怎么能把咱拍得这么可爱呜…姐姐画的装饰也超好看🥰背面的寄语特意让姐姐用蓝粉白🏳️‍⚧️写了～字真的超萌喵呜🥹\n\n抹茶冰淇淋很好吃！也喜欢粉萌萌的陈设…咱好愿意再去陪姐姐们玩的☺️ https://t.co/1kmr3Kwwma https://t.co/12uiEYNdaS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100144733393928192",
+            "3_2100144733666545664",
+            "3_2100144733662433280",
+            "3_2100144733666582528"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2100144759230943659",
+        "created_at": "2026-09-16T08:48:24.000Z",
+        "display_text_range": [
+          0,
+          162
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T09:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100144759230943659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 59,
+              "id": "1894461745277931524",
+              "start": 44,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 71,
+              "id": "2031270533359349761",
+              "start": 60,
+              "username": "hailoveszw"
+            },
+            {
+              "end": 83,
+              "id": "2004272815181385729",
+              "start": 72,
+              "username": "BaiDierose"
+            },
+            {
+              "end": 96,
+              "id": "1657702204961361922",
+              "start": 84,
+              "username": "mxiyo160320"
+            },
+            {
+              "end": 113,
+              "id": "1498893713178644482",
+              "start": 97,
+              "username": "ParanQidAndrQid"
+            },
+            {
+              "end": 127,
+              "id": "1986489544045412352",
+              "start": 114,
+              "username": "yx_BA4UED_11"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PcyrLD4bX9",
+              "end": 186,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2100144759230943659/photo/1",
+              "media_key": "3_2100144733393928192",
+              "start": 163,
+              "url": "https://t.co/PcyrLD4bX9"
+            },
+            {
+              "display_url": "pic.x.com/PcyrLD4bX9",
+              "end": 186,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2100144759230943659/photo/1",
+              "media_key": "3_2100144733666545664",
+              "start": 163,
+              "url": "https://t.co/PcyrLD4bX9"
+            },
+            {
+              "display_url": "pic.x.com/PcyrLD4bX9",
+              "end": 186,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2100144759230943659/photo/1",
+              "media_key": "3_2100144733662433280",
+              "start": 163,
+              "url": "https://t.co/PcyrLD4bX9"
+            },
+            {
+              "display_url": "pic.x.com/PcyrLD4bX9",
+              "end": 186,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2100144759230943659/photo/1",
+              "media_key": "3_2100144733666582528",
+              "start": 163,
+              "url": "https://t.co/PcyrLD4bX9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100144759230943659",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100144733393928192"
+          },
+          {
+            "media_key": "3_2100144733666545664"
+          },
+          {
+            "media_key": "3_2100144733662433280"
+          },
+          {
+            "media_key": "3_2100144733666582528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 59,
+                "id": "1894461745277931524",
+                "start": 44,
+                "username": "Rain_Antar1121"
+              },
+              {
+                "end": 71,
+                "id": "2031270533359349761",
+                "start": 60,
+                "username": "hailoveszw"
+              },
+              {
+                "end": 83,
+                "id": "2004272815181385729",
+                "start": 72,
+                "username": "BaiDierose"
+              },
+              {
+                "end": 96,
+                "id": "1657702204961361922",
+                "start": 84,
+                "username": "mxiyo160320"
+              },
+              {
+                "end": 113,
+                "id": "1498893713178644482",
+                "start": 97,
+                "username": "ParanQidAndrQid"
+              },
+              {
+                "end": 127,
+                "id": "1986489544045412352",
+                "start": 114,
+                "username": "yx_BA4UED_11"
+              }
+            ]
+          },
+          "text": "六人大面面～在南京的六只xyn堆在一起开猫猫趴☺️好幸福喵…(⑅˘̤ ᵕ˘̤)*❤️*\n@Rain_Antar1121 @hailoveszw @BaiDierose @mxiyo160320 @ParanQidAndrQid @yx_BA4UED_11 \n面基拼盘…拍出来像某种鱼板🍥风味披萨🍕～谢谢最好的你们愿意陪着咱🥰\n\n不知道吃什么，于是又去了米纸越南小馆🤤～下午逛了水平方的stage cafe女仆咖啡厅…然后晚上一起激情唱K～大家声音都好可爱唱功都好好听太惊艳了🥹回家就累瘫了但是这一天玩得超开心～今生难忘呀⸝⸝⸝˘◡˘♡"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 17458,
+          "like_count": 112,
+          "quote_count": 4,
+          "reply_count": 48,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "六人大面面～在南京的六只xyn堆在一起开猫猫趴☺️好幸福喵…(⑅˘̤ ᵕ˘̤)*❤️*\n@Rain_Antar1121 @hailoveszw @BaiDierose @mxiyo160320 @ParanQidAndrQid @yx_BA4UED_11 \n面基拼盘…拍出来像某种鱼板🍥风味披萨🍕～谢谢最好的你们愿意陪着咱🥰 https://t.co/PcyrLD4bX9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2100500071322444235",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5321,
+          "following_count": 7284,
+          "like_count": 21818,
+          "listed_count": 12,
+          "media_count": 479,
+          "tweet_count": 6520
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

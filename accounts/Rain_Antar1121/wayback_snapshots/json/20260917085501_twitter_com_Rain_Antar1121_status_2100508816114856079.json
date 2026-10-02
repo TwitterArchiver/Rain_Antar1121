@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2097730000560824590",
+    "created_at": "2026-09-17T08:55:01.000Z",
+    "display_text_range": [
+      14,
+      85
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T09:55:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100508816114856079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1586779015574327296",
+          "start": 0,
+          "username": "ForeverYuuka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100508816114856079",
+    "in_reply_to_user_id": "1586779015574327296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097730000560824590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ForeverYuuka 是呢是呢是呢…一天总会按到一两次，咱很讨厌给AI误输入东西，因为总是会把它人格化，就像给人发错消息了一样尴尬😭以及会污染打乱咱的对话历史记录…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1089,
+        "media_key": "3_2097729993103355904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRyiUIGbsAAYtmL.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2097730000560824590",
+        "created_at": "2026-09-17T08:55:01.000Z",
+        "display_text_range": [
+          14,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T09:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100508816114856079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1586779015574327296",
+              "start": 0,
+              "username": "ForeverYuuka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100508816114856079",
+        "in_reply_to_user_id": "1586779015574327296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097730000560824590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ForeverYuuka 是呢是呢是呢…一天总会按到一两次，咱很讨厌给AI误输入东西，因为总是会把它人格化，就像给人发错消息了一样尴尬😭以及会污染打乱咱的对话历史记录…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097729993103355904"
+          ]
+        },
+        "author_id": "1586779015574327296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2097730000560824590",
+        "created_at": "2026-09-09T16:53:00.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T17:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097730000560824590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/orawa8Eqp1",
+              "end": 122,
+              "expanded_url": "https://x.com/ForeverYuuka/status/2097730000560824590/photo/1",
+              "media_key": "3_2097729993103355904",
+              "start": 99,
+              "url": "https://t.co/orawa8Eqp1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097730000560824590",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097729993103355904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 432,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "右上角的Grok按钮真烦人，点进去或者要点菜单删除回复一不小心就点到，每次点到我都会叫一声，好像被电到一样，因为我去年为了防止花太多时间使用AI设置了对话数量限制，点到对话加载出来就要少用一个对话 https://t.co/orawa8Eqp1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2100508816114856079",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5322,
+          "following_count": 7287,
+          "like_count": 21849,
+          "listed_count": 12,
+          "media_count": 479,
+          "tweet_count": 6532
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-30T17:56:28.000Z",
+        "description": "新形态次世代能源茶酱・🚩🏴🏳️‍⚧️・El mundo unido por un balón⚽🌍・169㎝ 49.8㎏・喜欢JK制服/lolita/地雷系・优香，喜欢",
+        "id": "1586779015574327296",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100508672912916727",
+        "name": "Yuuka Elite💜",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1586779015574327296/1779207377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063920555859042304/vHVT7FGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 453,
+          "like_count": 27755,
+          "listed_count": 3,
+          "media_count": 558,
+          "tweet_count": 21058
+        },
+        "url": "",
+        "username": "ForeverYuuka",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

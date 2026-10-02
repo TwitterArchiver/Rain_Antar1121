@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2102365779039756369",
+    "created_at": "2026-09-25T12:06:09.000Z",
+    "display_text_range": [
+      17,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T13:06:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103456018806255979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1498893713178644482",
+          "start": 0,
+          "username": "ParanQidAndrQid"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103456018806255979",
+    "in_reply_to_user_id": "1498893713178644482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102365779039756369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@ParanQidAndrQid 好软，扑扑🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29640,
+        "height": 720,
+        "media_key": "13_2102365740041129984",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2102365740041129984/img/Md26L521MdzHh510.jpg",
+        "public_metrics": {
+          "view_count": 86
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102365740041129984/vid/avc1/480x270/b6BnvD79syZxbdYw.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102365740041129984/vid/avc1/640x360/sJlbF4kMzW54eONu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102365740041129984/vid/avc1/1280x720/SMg9ValKCkjlSiBq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2102365740041129984/pl/BfltyOyNoUIT0Zkq.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2102365779039756369",
+        "created_at": "2026-09-25T12:06:09.000Z",
+        "display_text_range": [
+          17,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T13:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103456018806255979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1498893713178644482",
+              "start": 0,
+              "username": "ParanQidAndrQid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103456018806255979",
+        "in_reply_to_user_id": "1498893713178644482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102365779039756369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@ParanQidAndrQid 好软，扑扑🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2102365740041129984"
+          ]
+        },
+        "author_id": "1498893713178644482",
+        "conversation_id": "2102365779039756369",
+        "created_at": "2026-09-22T11:53:56.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T12:53:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102365779039756369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kSQc56GEGk",
+              "end": 39,
+              "expanded_url": "https://x.com/ParanQidAndrQid/status/2102365779039756369/video/1",
+              "media_key": "13_2102365740041129984",
+              "start": 16,
+              "url": "https://t.co/kSQc56GEGk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102365779039756369",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2102365740041129984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 249,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "点进来看小冰雪龙给你磕头30秒 https://t.co/kSQc56GEGk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年女孩纸🍬 | 杭州/南京 | 同类互fo喵🍥 | 可以叫咱瑞/ra | 温顺软软小动物 | 社恐小透明 | 阵发中二病 | 可爱就想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2103456018806255979",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5376,
+          "following_count": 7326,
+          "like_count": 22652,
+          "listed_count": 12,
+          "media_count": 498,
+          "tweet_count": 6843
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-02T05:31:35.000Z",
+        "description": "「八寶山最後的少女偶像」 \n抒澄/Cassie ｜ She/They ｜ Aro-Ace",
+        "id": "1498893713178644482",
+        "is_identity_verified": false,
+        "location": "在你背后！",
+        "most_recent_tweet_id": "2103452111006728347",
+        "name": "呆頭鵝Cassie🍭",
+        "pinned_tweet_id": "1815959150519804155",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1498893713178644482/1674052819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039443279473958913/Ulx2qoUX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 531,
+          "like_count": 30675,
+          "listed_count": 1,
+          "media_count": 238,
+          "tweet_count": 6230
+        },
+        "url": "",
+        "username": "ParanQidAndrQid",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

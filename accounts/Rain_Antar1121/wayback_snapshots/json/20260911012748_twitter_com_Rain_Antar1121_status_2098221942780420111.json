@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2098043222669000814",
+    "created_at": "2026-09-11T01:27:48.000Z",
+    "display_text_range": [
+      24,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T02:27:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098221942780420111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1813768883540725760",
+          "start": 0,
+          "username": "ye_and_yae"
+        },
+        {
+          "end": 23,
+          "id": "1822213745176932352",
+          "start": 12,
+          "username": "hmbi217663"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098221942780420111",
+    "in_reply_to_user_id": "1813768883540725760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098043222669000814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ye_and_yae @hmbi217663 嗷呜对哦你在宿舍怎么玩的）难道你不喘嘛）怎么控制声音ww"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 576,
+        "media_key": "3_2098043204113518592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR2_LaCb0AA80jE.jpg",
+        "width": 1024
+      },
+      {
+        "height": 640,
+        "media_key": "3_2098043205312995328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR2_LegaYAAiltH.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2098043222669000814",
+        "created_at": "2026-09-11T01:27:48.000Z",
+        "display_text_range": [
+          24,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T02:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098221942780420111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1813768883540725760",
+              "start": 0,
+              "username": "ye_and_yae"
+            },
+            {
+              "end": 23,
+              "id": "1822213745176932352",
+              "start": 12,
+              "username": "hmbi217663"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098221942780420111",
+        "in_reply_to_user_id": "1813768883540725760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098043222669000814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ye_and_yae @hmbi217663 嗷呜对哦你在宿舍怎么玩的）难道你不喘嘛）怎么控制声音ww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098043204113518592",
+            "3_2098043205312995328"
+          ]
+        },
+        "author_id": "1813768883540725760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2098043222669000814",
+        "created_at": "2026-09-10T13:37:38.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T14:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098043222669000814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1822213745176932352",
+              "start": 1,
+              "username": "hmbi217663"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pDQHlkitx8",
+              "end": 60,
+              "expanded_url": "https://x.com/ye_and_yae/status/2098043222669000814/photo/1",
+              "media_key": "3_2098043204113518592",
+              "start": 37,
+              "url": "https://t.co/pDQHlkitx8"
+            },
+            {
+              "display_url": "pic.x.com/pDQHlkitx8",
+              "end": 60,
+              "expanded_url": "https://x.com/ye_and_yae/status/2098043222669000814/photo/1",
+              "media_key": "3_2098043205312995328",
+              "start": 37,
+              "url": "https://t.co/pDQHlkitx8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098043222669000814",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098043204113518592"
+          },
+          {
+            "media_key": "3_2098043205312995328"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1970,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和@hmbi217663 玩VRC~\n又被草了喵～如果有真实的触感就好了 https://t.co/pDQHlkitx8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2098221942780420111",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5241,
+          "following_count": 7204,
+          "like_count": 21039,
+          "listed_count": 12,
+          "media_count": 460,
+          "tweet_count": 6215
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-18T02:54:44.000Z",
+        "description": "我是爱晔哦 \n09/01/26 炸柜26/06/09 有时含糖 喜欢航天 二次元 技术至上主义 喜欢画画 学日语\n最最最好的朋友@guoxiufeng5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 64,
+                "username": "guoxiufeng5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "spacex.com",
+                "end": 23,
+                "expanded_url": "http://spacex.com",
+                "start": 0,
+                "url": "https://t.co/8kxr0UGOJ6"
+              }
+            ]
+          }
+        },
+        "id": "1813768883540725760",
+        "is_identity_verified": false,
+        "location": "距你11.4km",
+        "most_recent_tweet_id": "2098221328386142319",
+        "name": "🍥爱晔🚀",
+        "pinned_tweet_id": "2096629870264729980",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813768883540725760/1764440318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079860342965067776/HglcXlhL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2060,
+          "following_count": 1435,
+          "like_count": 13299,
+          "listed_count": 3,
+          "media_count": 662,
+          "tweet_count": 5683
+        },
+        "url": "https://t.co/8kxr0UGOJ6",
+        "username": "ye_and_yae",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-10T10:09:55.000Z",
+        "description": "喜欢樟木，渴望自由，笔名禾木白，一枚MTF爆柜转CD的xnn吖，生产日期0708，不开课不给控制码！",
+        "id": "1822213745176932352",
+        "is_identity_verified": false,
+        "location": "Paris, France",
+        "most_recent_tweet_id": "2098099983358767262",
+        "name": "樟羽木白🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1822213745176932352/1787995446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093775656475582464/RRUQJBuL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 26,
+          "like_count": 726,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 225
+        },
+        "url": "",
+        "username": "hmbi217663",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2101062703183958139",
+    "created_at": "2026-09-19T03:40:36.000Z",
+    "display_text_range": [
+      17,
+      155
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T04:40:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101154462719205440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2094128030973403136",
+          "start": 0,
+          "username": "AmanomiyaSakuya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101154462719205440",
+    "in_reply_to_user_id": "2094128030973403136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101062703183958139",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmanomiyaSakuya 听你这么说，怎么感觉是变好了呢…变可爱猫猫了，多好啊～原来以前不会顾及陌生人感受，不会这么温柔的吗…那太可怕了，赶紧给咱钉死成软猫猫🥹\n\n中二病永远不会结束喵⌯&gt;ᴗo⌯嘻嘻咱也是来这里之后感觉性格被重塑了一部分，但不如说是以前藏起来的那些终于有地方发泄了…这都是好事呀～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2097,
+        "media_key": "3_2101062068950724608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSh40d7a8AAIku9.jpg",
+        "width": 1572
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2101062703183958139",
+        "created_at": "2026-09-19T03:40:36.000Z",
+        "display_text_range": [
+          17,
+          155
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T04:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101154462719205440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2094128030973403136",
+              "start": 0,
+              "username": "AmanomiyaSakuya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101154462719205440",
+        "in_reply_to_user_id": "2094128030973403136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101062703183958139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmanomiyaSakuya 听你这么说，怎么感觉是变好了呢…变可爱猫猫了，多好啊～原来以前不会顾及陌生人感受，不会这么温柔的吗…那太可怕了，赶紧给咱钉死成软猫猫🥹\n\n中二病永远不会结束喵⌯&gt;ᴗo⌯嘻嘻咱也是来这里之后感觉性格被重塑了一部分，但不如说是以前藏起来的那些终于有地方发泄了…这都是好事呀～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101062068950724608"
+          ]
+        },
+        "author_id": "2094128030973403136",
+        "conversation_id": "2101062703183958139",
+        "created_at": "2026-09-18T21:35:58.000Z",
+        "display_text_range": [
+          0,
+          133
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T22:35:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101062703183958139"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S8KhRuSEEQ",
+              "end": 157,
+              "expanded_url": "https://x.com/AmanomiyaSakuya/status/2101062703183958139/photo/1",
+              "media_key": "3_2101062068950724608",
+              "start": 134,
+              "url": "https://t.co/S8KhRuSEEQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101062703183958139",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101062068950724608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你变得软弱了啊……一凣。\n\n曾经的你比可不是这个样子，你不会在人际关系上花费这么多精力和废话，不会像现在这样容易犹豫不决，那张刀子嘴从来不会顾及陌生人感受，更不屑于……\n\n是你的中二病终于结束了，还是你也被“磨平棱角”了呢？又或者……现在的你，只是自我的另一体现呢？ https://t.co/S8KhRuSEEQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2101154462719205440",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5330,
+          "following_count": 7289,
+          "like_count": 22005,
+          "listed_count": 12,
+          "media_count": 481,
+          "tweet_count": 6593
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-30T18:20:43.000Z",
+        "description": "此前，你见过那只红色的兔子了吗？\n性别女🏳️‍⚧️ || 全性恋 || GAHT：7.10.2026🍥 || 体重63kg 身高180cm(?) || 很粘人🥰 || 爱哭鬼🪻 || 性冷淡🫧 || 神经衰弱🥀 || 尝试重新点燃自己心中的热情❤️‍🔥",
+        "id": "2094128030973403136",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2101064019360854255",
+        "name": "天ノ宮朔夜",
+        "pinned_tweet_id": "2096184015732822507",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099520351525056512/Y-ahOArE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 107,
+          "like_count": 847,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 257
+        },
+        "url": "",
+        "username": "AmanomiyaSakuya",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
