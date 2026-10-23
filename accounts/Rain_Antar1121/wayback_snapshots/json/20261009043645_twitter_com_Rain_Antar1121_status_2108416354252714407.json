@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2108416335126663168",
+        "3_2108416335143456768",
+        "3_2108416335147630592"
+      ]
+    },
+    "author_id": "1894461745277931524",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2108416354252714407",
+    "created_at": "2026-10-09T04:36:45.000Z",
+    "display_text_range": [
+      0,
+      141
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T05:36:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108416354252714407"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 8,
+          "start": 0,
+          "tag": "ra今天吃什么"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tRxVQH7cmC",
+          "end": 165,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/2108416354252714407/photo/1",
+          "media_key": "3_2108416335126663168",
+          "start": 142,
+          "url": "https://t.co/tRxVQH7cmC"
+        },
+        {
+          "display_url": "pic.x.com/tRxVQH7cmC",
+          "end": 165,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/2108416354252714407/photo/1",
+          "media_key": "3_2108416335143456768",
+          "start": 142,
+          "url": "https://t.co/tRxVQH7cmC"
+        },
+        {
+          "display_url": "pic.x.com/tRxVQH7cmC",
+          "end": 165,
+          "expanded_url": "https://x.com/Rain_Antar1121/status/2108416354252714407/photo/1",
+          "media_key": "3_2108416335147630592",
+          "start": 142,
+          "url": "https://t.co/tRxVQH7cmC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108416354252714407",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2108416335126663168"
+      },
+      {
+        "media_key": "3_2108416335143456768"
+      },
+      {
+        "media_key": "3_2108416335147630592"
+      }
+    ],
+    "note_tweet": {
+      "entities": {
+        "hashtags": [
+          {
+            "end": 8,
+            "start": 0,
+            "tag": "ra今天吃什么"
+          }
+        ]
+      },
+      "text": "#ra今天吃什么 \n农家菜～虽然并不是今天吃的ww既然来千岛湖了咱就多尝几次这种吧～ෆ( ˶'ᵕ'˶)ෆ～\n\n鸡煲喵！炖烂烂的鸡肉香喷喷～咱最爱还留着一点纤维感的软烂哦😘\n然后～这个炒鸡锅气很足耶，喜欢来自火焰的味道呀…好久没尝到这样的炽烈啦🥰可是切得好碎全是骨头吃起来挺折磨😵‍💫\n还有酒酿馒头～作为主食真的绝赞呢，有它在咱一点都不想吃米饭…可惜回家就吃不到了…🥹"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#ra今天吃什么 \n农家菜～虽然并不是今天吃的ww既然来千岛湖了咱就多尝几次这种吧～ෆ( ˶'ᵕ'˶)ෆ～\n\n鸡煲喵！炖烂烂的鸡肉香喷喷～咱最爱还留着一点纤维感的软烂哦😘\n然后～这个炒鸡锅气很足耶，喜欢来自火焰的味道呀…好久没尝到这样的炽烈啦🥰可是切得好碎全是骨头吃起来挺折磨😵‍💫 https://t.co/tRxVQH7cmC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2108416335126663168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUKZfGXbEAAMN7q.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2108416335143456768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUKZfGbbUAAZf9v.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2108416335147630592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUKZfGcbAAAFI0B.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108416335126663168",
+            "3_2108416335143456768",
+            "3_2108416335147630592"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2108416354252714407",
+        "created_at": "2026-10-09T04:36:45.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T05:36:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108416354252714407"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "ra今天吃什么"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tRxVQH7cmC",
+              "end": 165,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2108416354252714407/photo/1",
+              "media_key": "3_2108416335126663168",
+              "start": 142,
+              "url": "https://t.co/tRxVQH7cmC"
+            },
+            {
+              "display_url": "pic.x.com/tRxVQH7cmC",
+              "end": 165,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2108416354252714407/photo/1",
+              "media_key": "3_2108416335143456768",
+              "start": 142,
+              "url": "https://t.co/tRxVQH7cmC"
+            },
+            {
+              "display_url": "pic.x.com/tRxVQH7cmC",
+              "end": 165,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2108416354252714407/photo/1",
+              "media_key": "3_2108416335147630592",
+              "start": 142,
+              "url": "https://t.co/tRxVQH7cmC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108416354252714407",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2108416335126663168"
+          },
+          {
+            "media_key": "3_2108416335143456768"
+          },
+          {
+            "media_key": "3_2108416335147630592"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "ra今天吃什么"
+              }
+            ]
+          },
+          "text": "#ra今天吃什么 \n农家菜～虽然并不是今天吃的ww既然来千岛湖了咱就多尝几次这种吧～ෆ( ˶'ᵕ'˶)ෆ～\n\n鸡煲喵！炖烂烂的鸡肉香喷喷～咱最爱还留着一点纤维感的软烂哦😘\n然后～这个炒鸡锅气很足耶，喜欢来自火焰的味道呀…好久没尝到这样的炽烈啦🥰可是切得好碎全是骨头吃起来挺折磨😵‍💫\n还有酒酿馒头～作为主食真的绝赞呢，有它在咱一点都不想吃米饭…可惜回家就吃不到了…🥹"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#ra今天吃什么 \n农家菜～虽然并不是今天吃的ww既然来千岛湖了咱就多尝几次这种吧～ෆ( ˶'ᵕ'˶)ෆ～\n\n鸡煲喵！炖烂烂的鸡肉香喷喷～咱最爱还留着一点纤维感的软烂哦😘\n然后～这个炒鸡锅气很足耶，喜欢来自火焰的味道呀…好久没尝到这样的炽烈啦🥰可是切得好碎全是骨头吃起来挺折磨😵‍💫 https://t.co/tRxVQH7cmC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年女孩纸🍬 | 杭州/南京 | 同类互fo喵🍥 | 可以叫咱瑞/ra | 温顺软软小动物 | 社恐小透明 | 阵发中二病 | 可爱就想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2108416354252714407",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5497,
+          "following_count": 7472,
+          "like_count": 23989,
+          "listed_count": 11,
+          "media_count": 526,
+          "tweet_count": 7411
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

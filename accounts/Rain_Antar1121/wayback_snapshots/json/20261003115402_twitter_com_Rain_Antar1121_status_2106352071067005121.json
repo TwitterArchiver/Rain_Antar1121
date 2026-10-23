@@ -1,0 +1,512 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2106320513354367280",
+    "created_at": "2026-10-03T11:54:02.000Z",
+    "display_text_range": [
+      62,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T12:54:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106352071067005121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2086258214631591936",
+          "start": 0,
+          "username": "netxfer"
+        },
+        {
+          "end": 20,
+          "id": "2089649353724153856",
+          "start": 9,
+          "username": "yu_kirins2"
+        },
+        {
+          "end": 28,
+          "id": "1690570637499154432",
+          "start": 21,
+          "username": "zhweaa"
+        },
+        {
+          "end": 39,
+          "id": "1893109107034574848",
+          "start": 29,
+          "username": "4rcadia__"
+        },
+        {
+          "end": 49,
+          "id": "1543753719451242496",
+          "start": 40,
+          "username": "4x_n2ym3"
+        },
+        {
+          "end": 61,
+          "id": "1818920358403256320",
+          "start": 50,
+          "username": "xuanyu_awa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106352071067005121",
+    "in_reply_to_user_id": "2086258214631591936",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106320513354367280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@netxfer @yu_kirins2 @zhweaa @4rcadia__ @4x_n2ym3 @xuanyu_awa xm…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2106320462515253248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTsnTQdbsAAjhOL.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2106320513354367280",
+        "created_at": "2026-10-03T11:54:02.000Z",
+        "display_text_range": [
+          62,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T12:54:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106352071067005121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2086258214631591936",
+              "start": 0,
+              "username": "netxfer"
+            },
+            {
+              "end": 20,
+              "id": "2089649353724153856",
+              "start": 9,
+              "username": "yu_kirins2"
+            },
+            {
+              "end": 28,
+              "id": "1690570637499154432",
+              "start": 21,
+              "username": "zhweaa"
+            },
+            {
+              "end": 39,
+              "id": "1893109107034574848",
+              "start": 29,
+              "username": "4rcadia__"
+            },
+            {
+              "end": 49,
+              "id": "1543753719451242496",
+              "start": 40,
+              "username": "4x_n2ym3"
+            },
+            {
+              "end": 61,
+              "id": "1818920358403256320",
+              "start": 50,
+              "username": "xuanyu_awa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106352071067005121",
+        "in_reply_to_user_id": "2086258214631591936",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106320513354367280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@netxfer @yu_kirins2 @zhweaa @4rcadia__ @4x_n2ym3 @xuanyu_awa xm…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106320462515253248"
+          ]
+        },
+        "author_id": "2086258214631591936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2106320513354367280",
+        "created_at": "2026-10-03T09:48:38.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T10:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106320513354367280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "2089649353724153856",
+              "start": 17,
+              "username": "yu_kirins2"
+            },
+            {
+              "end": 37,
+              "id": "1690570637499154432",
+              "start": 30,
+              "username": "zhweaa"
+            },
+            {
+              "end": 49,
+              "id": "1893109107034574848",
+              "start": 39,
+              "username": "4rcadia__"
+            },
+            {
+              "end": 60,
+              "id": "1543753719451242496",
+              "start": 51,
+              "username": "4x_n2ym3"
+            },
+            {
+              "end": 73,
+              "id": "1818920358403256320",
+              "start": 62,
+              "username": "xuanyu_awa"
+            },
+            {
+              "end": 83,
+              "id": "2086258214631591936",
+              "start": 75,
+              "username": "netxfer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hUNVu0qrtb",
+              "end": 107,
+              "expanded_url": "https://x.com/netxfer/status/2106320513354367280/photo/1",
+              "media_key": "3_2106320462515253248",
+              "start": 84,
+              "url": "https://t.co/hUNVu0qrtb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106320513354367280",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106320462515253248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 264,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "百联世纪牛new寿喜烧跨圈研讨会\n@yu_kirins2 \n@zhweaa \n@4rcadia__ \n@4x_n2ym3 \n@xuanyu_awa \n@netxfer https://t.co/hUNVu0qrtb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年女孩纸🍬 | 杭州/南京 | 同类互fo喵🍥 | 可以叫咱瑞/ra | 温顺软软小动物 | 社恐小透明 | 阵发中二病 | 可爱就想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2106352071067005121",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5427,
+          "following_count": 7397,
+          "like_count": 23452,
+          "listed_count": 11,
+          "media_count": 512,
+          "tweet_count": 7158
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-09T01:09:40.000Z",
+        "description": "上海张江C++码农，1986.11.22生于西安，高172cm、重71kg，性别认同女，性取向中性，HRT日期2026.8.26。二代账号，已同步旧账号所有关注并从旧账号取关，旧账号同步书签后注销。不定期删除本人部分历史评论或回复，无特殊原因。",
+        "id": "2086258214631591936",
+        "is_identity_verified": false,
+        "location": "GitHub",
+        "most_recent_tweet_id": "2106350211752972415",
+        "name": "天涯過客",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087559008005820416/OYwMldre_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 193,
+          "like_count": 3650,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 607
+        },
+        "url": "",
+        "username": "netxfer",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-18T09:44:46.000Z",
+        "description": "叫我小雨或者雨麟｜MTF｜HRT：2025.9.16｜去势：2026.7.27｜BOD：2001.4.29｜同类互fo喵\nVRChat似乎基本大概是退坑了吧\n大号:@yu_kirins，大概是似了，重新开始吧喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "yu_kirins"
+              }
+            ]
+          }
+        },
+        "id": "2089649353724153856",
+        "is_identity_verified": false,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2106322669591511115",
+        "name": "yu_s_two",
+        "pinned_tweet_id": "2096084062889034164",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095919829471645696/_ZjyUbqo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 84,
+          "like_count": 24,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 139
+        },
+        "url": "",
+        "username": "yu_kirins2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Zhi Wei 🤗｜精益求精｜想要看遍大千世界 ✈️｜想要组办构建前沿技术项目 🏗️ 📲",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/zhweaa",
+                "end": 23,
+                "expanded_url": "http://github.com/zhweaa",
+                "start": 0,
+                "url": "https://t.co/MtaZw36pCH"
+              }
+            ]
+          }
+        },
+        "id": "1690570637499154432",
+        "is_identity_verified": false,
+        "location": "🌐 → Yangtze Delta Region 🌏",
+        "most_recent_tweet_id": "2106336795344748957",
+        "name": "Zhi Wei 🥥🧊",
+        "pinned_tweet_id": "2104618676922241509",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690570637499154432/1790169870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102751600225968128/Je3rVd9S_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8392,
+          "following_count": 437,
+          "like_count": 33703,
+          "listed_count": 23,
+          "media_count": 2953,
+          "tweet_count": 22303
+        },
+        "url": "https://t.co/MtaZw36pCH",
+        "username": "zhweaa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-22T01:22:49.000Z",
+        "description": "这里是可雯\n高中生/萌新kiger/mc/sensei/友跨🏳‍⚧/不是mtf\n简/繁/En \n不抽烟/不喝酒/不od/不自残\n有什么烦心事欢迎找我倾诉\n欢迎互fo聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kewen.moe",
+                "end": 23,
+                "expanded_url": "http://kewen.moe",
+                "start": 0,
+                "url": "https://t.co/kkQMQI6voL"
+              }
+            ]
+          }
+        },
+        "id": "1893109107034574848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106250166785466742",
+        "name": "🧊🥥Wei Zhi",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1893109107034574848/1788456272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102311897081294848/fQ8357kO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 173,
+          "like_count": 223,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 566
+        },
+        "url": "https://t.co/kkQMQI6voL",
+        "username": "4rcadia__",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-04T00:29:15.000Z",
+        "description": "赛博社恐/08 沪/性别不明/含糖25.08/目前使用gnrha/明日方舟摆烂玩家/arcaea7.0享受中/maimai有点菜/chunithm没瓶颈/间歇性潜水/99.99%回fo/备用号@�����",
+        "id": "1543753719451242496",
+        "is_identity_verified": false,
+        "location": "上海",
+        "most_recent_tweet_id": "2106227496945664135",
+        "name": "4x.n2ym3_酵素",
+        "pinned_tweet_id": "2100072181577257039",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1543753719451242496/1765199277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103482814536839168/56s_hSl7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1039,
+          "following_count": 3574,
+          "like_count": 3648,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 960
+        },
+        "url": "",
+        "username": "4x_n2ym3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-01T08:03:18.000Z",
+        "description": "mtf🍥🏳️‍⚧️/birthday:2010.4.14/hrt:2024.3.16/小证2026.9.7？/疑似家长不管？/CChOer（距离省队只差几名的废物…）/高二物化生/彩笔音游人/精神状态随机/坐标重庆主城/欢迎来找我面基或者聊天哦",
+        "id": "1818920358403256320",
+        "is_identity_verified": false,
+        "location": "重庆",
+        "most_recent_tweet_id": "2106321556926574850",
+        "name": "萱雨🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2054504636170817941",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1818920358403256320/1769963861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619597285576704/qBOYoEc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3792,
+          "following_count": 4356,
+          "like_count": 42586,
+          "listed_count": 7,
+          "media_count": 136,
+          "tweet_count": 1384
+        },
+        "url": "",
+        "username": "xuanyu_awa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,487 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2105976088635601103",
+    "created_at": "2026-10-02T15:11:41.000Z",
+    "display_text_range": [
+      31,
+      112
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T16:11:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106039424899580064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1842197793370435584",
+          "start": 0,
+          "username": "KqottopK"
+        },
+        {
+          "end": 22,
+          "id": "1870108535268487169",
+          "start": 10,
+          "username": "MomoseReina"
+        },
+        {
+          "end": 30,
+          "id": "1690570637499154432",
+          "start": 23,
+          "username": "zhweaa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/rain_antar1121…",
+          "end": 112,
+          "expanded_url": "https://x.com/rain_antar1121/status/2106037323876139382",
+          "start": 89,
+          "url": "https://t.co/1QX856aiiH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106039424899580064",
+    "in_reply_to_user_id": "1842197793370435584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106037323876139382",
+        "type": "quoted"
+      },
+      {
+        "id": "2106038315711631784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KqottopK @MomoseReina @zhweaa 很早很早就想玩了呀至少一年了…昨天才有第一次的唯一原因就是没人带不敢去嗯。如下，只要窝家里没装一台机子就没办法嗯…\nhttps://t.co/1QX856aiiH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2105976088635601103",
+        "created_at": "2026-10-02T15:11:41.000Z",
+        "display_text_range": [
+          31,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T16:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106039424899580064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842197793370435584",
+              "start": 0,
+              "username": "KqottopK"
+            },
+            {
+              "end": 22,
+              "id": "1870108535268487169",
+              "start": 10,
+              "username": "MomoseReina"
+            },
+            {
+              "end": 30,
+              "id": "1690570637499154432",
+              "start": 23,
+              "username": "zhweaa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/rain_antar1121…",
+              "end": 112,
+              "expanded_url": "https://x.com/rain_antar1121/status/2106037323876139382",
+              "start": 89,
+              "url": "https://t.co/1QX856aiiH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106039424899580064",
+        "in_reply_to_user_id": "1842197793370435584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106037323876139382",
+            "type": "quoted"
+          },
+          {
+            "id": "2106038315711631784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KqottopK @MomoseReina @zhweaa 很早很早就想玩了呀至少一年了…昨天才有第一次的唯一原因就是没人带不敢去嗯。如下，只要窝家里没装一台机子就没办法嗯…\nhttps://t.co/1QX856aiiH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842197793370435584",
+        "conversation_id": "2105976088635601103",
+        "created_at": "2026-10-02T15:07:17.000Z",
+        "display_text_range": [
+          37,
+          148
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T16:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106038315711631784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 28,
+              "id": "1870108535268487169",
+              "start": 16,
+              "username": "MomoseReina"
+            },
+            {
+              "end": 36,
+              "id": "1690570637499154432",
+              "start": 29,
+              "username": "zhweaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106038315711631784",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105976088635601103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 @MomoseReina @zhweaa 哇！rain居然也开始打舞萌了，想和rain拼机！\n如果是因为人太多所以不好意思的话以后自己去打可以试试在早上九、十点刚营业的时候去机厅，一般来说至少会有半个小时是没有第二个玩家的，运气好直到中午都不会有人，尤其是工作日。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2106012771406258533",
+        "created_at": "2026-10-02T15:03:20.000Z",
+        "display_text_range": [
+          20,
+          117
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T16:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106037323876139382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2032037309219315712",
+              "start": 0,
+              "username": "fcjdfb"
+            },
+            {
+              "end": 19,
+              "id": "1813768883540725760",
+              "start": 8,
+              "username": "ye_and_yae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106037323876139382",
+        "in_reply_to_user_id": "2032037309219315712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106035515128779106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fcjdfb @ye_and_yae 让咱恐惧的是“公共场合”这个心理暗示…只要处在可能会有陌生人经过的空间窝就会很紧张，太在意内心想象的那个陌生观察者的看法了\n\n想象一下，独自去玩的话背后随便路过一个陌生人窝都会神经紧绷手足无措…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年女孩纸🍬 | 杭州/南京 | 同类互fo喵🍥 | 可以叫咱瑞/ra | 温顺软软小动物 | 社恐小透明 | 阵发中二病 | 可爱就想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2106039424899580064",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5416,
+          "following_count": 7384,
+          "like_count": 23303,
+          "listed_count": 11,
+          "media_count": 510,
+          "tweet_count": 7112
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-04T13:39:25.000Z",
+        "description": "喜鹊/XiQuedhm233\n顺男/中国人/友跨/INTJ/处女座/2008.09.17\n计算机/翻唱/音游/明日方舟\n高中生，不定时出没\n好闺蜜：@Rain_Antar1121 & @Andy_Zaychilk\ntg：@XiQuedhm233\nemail：xiquedhm233@outlook.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 74,
+                "username": "Rain_Antar1121"
+              },
+              {
+                "end": 106,
+                "start": 92,
+                "username": "Andy_Zaychilk"
+              },
+              {
+                "end": 122,
+                "start": 110,
+                "username": "XiQuedhm233"
+              }
+            ]
+          }
+        },
+        "id": "1842197793370435584",
+        "is_identity_verified": false,
+        "location": "中国无锡",
+        "most_recent_tweet_id": "2106038315711631784",
+        "name": "XiQuedhm233",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842197920189460480/2mawBbx6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 209,
+          "like_count": 449,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 121
+        },
+        "url": "",
+        "username": "KqottopK",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2106035515128779106",
+        "name": "cjy",
+        "pinned_tweet_id": "2105448850626683119",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 66,
+          "like_count": 1012,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 1727
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友\n音游吃 | 术术人 | VPS梦女 | 社恐 | 帕罗西汀重度依赖 \n逃生舱: @NanaseReina @MomohaReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 83,
+                "start": 71,
+                "username": "MomohaReina"
+              },
+              {
+                "end": 99,
+                "start": 89,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "is_identity_verified": false,
+        "location": "舞萌DX 2026",
+        "most_recent_tweet_id": "2105964368525689108",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870108535268487169/1760192567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100856226414510080/xYwmKY56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1841,
+          "following_count": 364,
+          "like_count": 10611,
+          "listed_count": 6,
+          "media_count": 500,
+          "tweet_count": 7564
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Zhi Wei 🤗｜精益求精｜想要看遍大千世界 ✈️｜想要组办构建前沿技术项目 🏗️ 📲",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/zhweaa",
+                "end": 23,
+                "expanded_url": "http://github.com/zhweaa",
+                "start": 0,
+                "url": "https://t.co/MtaZw36pCH"
+              }
+            ]
+          }
+        },
+        "id": "1690570637499154432",
+        "is_identity_verified": false,
+        "location": "🌐 → Yangtze Delta Region 🌏",
+        "most_recent_tweet_id": "2106036375229522372",
+        "name": "Zhi Wei 🥥🧊",
+        "pinned_tweet_id": "2104618676922241509",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690570637499154432/1790169870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102751600225968128/Je3rVd9S_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8388,
+          "following_count": 436,
+          "like_count": 33683,
+          "listed_count": 23,
+          "media_count": 2944,
+          "tweet_count": 22273
+        },
+        "url": "https://t.co/MtaZw36pCH",
+        "username": "zhweaa",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

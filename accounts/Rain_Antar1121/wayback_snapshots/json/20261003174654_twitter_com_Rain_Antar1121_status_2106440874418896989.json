@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2104573005489901837",
+    "created_at": "2026-10-03T17:46:54.000Z",
+    "display_text_range": [
+      13,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T18:46:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106440874418896989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1771476725966532608",
+          "start": 0,
+          "username": "LSEQI146422"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106440874418896989",
+    "in_reply_to_user_id": "1771476725966532608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104573005489901837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LSEQI146422 笨笨哒！抱在咱怀里软软的就不会消失～也不会变成灰的哦🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2104573005489901837",
+        "created_at": "2026-10-03T17:46:54.000Z",
+        "display_text_range": [
+          13,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T18:46:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106440874418896989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1771476725966532608",
+              "start": 0,
+              "username": "LSEQI146422"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106440874418896989",
+        "in_reply_to_user_id": "1771476725966532608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104573005489901837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LSEQI146422 笨笨哒！抱在咱怀里软软的就不会消失～也不会变成灰的哦🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771476725966532608",
+        "conversation_id": "2104573005489901837",
+        "created_at": "2026-09-28T14:04:40.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T15:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104573005489901837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pinkcatlovesky…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/pinkcatlovesky/status/2104242072781996176",
+              "start": 62,
+              "url": "https://t.co/tvNg2rlvsr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104573005489901837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104242072781996176",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "或許去死挺容易的，但是容易的並不是去死，而是不在面臨一堆堆的煩惱吧\n我也不知道我還能堅持多久。或許沒過幾天就變成一堆灰了呢 https://t.co/tvNg2rlvsr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年女孩纸🍬 | 杭州/南京 | 同类互fo喵🍥 | 可以叫咱瑞/ra | 温顺软软小动物 | 社恐小透明 | 阵发中二病 | 可爱就想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2106440874418896989",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5430,
+          "following_count": 7398,
+          "like_count": 23473,
+          "listed_count": 11,
+          "media_count": 513,
+          "tweet_count": 7173
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-23T09:59:06.000Z",
+        "description": "About 18 years in this world\n🕗UTC+8 \n🎮project sekai player\n\nwelcome to chat with me! \n日本語を学んでいます",
+        "id": "1771476725966532608",
+        "is_identity_verified": false,
+        "location": "Taoyuan County, Taiwan",
+        "most_recent_tweet_id": "2106429214203494634",
+        "name": "LSEQI",
+        "pinned_tweet_id": "2102332598378979655",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1771476725966532608/1774663288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037711519476293632/CbSCKEFc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 48,
+          "like_count": 1881,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 264
+        },
+        "url": "",
+        "username": "LSEQI146422",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

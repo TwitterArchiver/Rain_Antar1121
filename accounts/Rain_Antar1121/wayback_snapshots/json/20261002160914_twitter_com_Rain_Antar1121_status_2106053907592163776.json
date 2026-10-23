@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2105976088635601103",
+    "created_at": "2026-10-02T16:09:14.000Z",
+    "display_text_range": [
+      26,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T17:09:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106053907592163776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1499411488645074945",
+          "start": 0,
+          "username": "runnaosfa"
+        },
+        {
+          "end": 25,
+          "id": "1442362841193795593",
+          "start": 11,
+          "username": "kusunoki_riko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106053907592163776",
+    "in_reply_to_user_id": "1499411488645074945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106043321693172061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@runnaosfa @kusunoki_riko 太可爱了🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2105976088635601103",
+        "created_at": "2026-10-02T16:09:14.000Z",
+        "display_text_range": [
+          26,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T17:09:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106053907592163776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1499411488645074945",
+              "start": 0,
+              "username": "runnaosfa"
+            },
+            {
+              "end": 25,
+              "id": "1442362841193795593",
+              "start": 11,
+              "username": "kusunoki_riko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106053907592163776",
+        "in_reply_to_user_id": "1499411488645074945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106043321693172061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@runnaosfa @kusunoki_riko 太可爱了🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499411488645074945",
+        "conversation_id": "2105976088635601103",
+        "created_at": "2026-10-02T15:27:10.000Z",
+        "display_text_range": [
+          31,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T16:27:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106043321693172061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1442362841193795593",
+              "start": 0,
+              "username": "kusunoki_riko"
+            },
+            {
+              "end": 30,
+              "id": "1894461745277931524",
+              "start": 15,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106043321693172061",
+        "in_reply_to_user_id": "1442362841193795593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106030753599615354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kusunoki_riko @Rain_Antar1121 苏楠怎么？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年女孩纸🍬 | 杭州/南京 | 同类互fo喵🍥 | 可以叫咱瑞/ra | 温顺软软小动物 | 社恐小透明 | 阵发中二病 | 可爱就想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2106053907592163776",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5418,
+          "following_count": 7384,
+          "like_count": 23326,
+          "listed_count": 11,
+          "media_count": 510,
+          "tweet_count": 7118
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-03T15:48:58.000Z",
+        "description": "一个友跨男喜欢玩星际公民和战术小队，还有断箭，是尼龙佬，肥宅，郊狼专家（存疑）雌激素药师（也就是比一般人懂点）男/药娘（并不是）\n友跨，友同，双性恋switch\n欢迎来和我进行无效的社交\n前任ex  @lianshufa  是可爱的女高呢\n\nhttps://t.co/FtV3YvE7EY提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 100,
+                "username": "lianshufa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/runnaaosfa",
+                "end": 144,
+                "expanded_url": "https://ngl.link/runnaaosfa",
+                "start": 121,
+                "url": "https://t.co/FtV3YvE7EY"
+              }
+            ]
+          }
+        },
+        "id": "1499411488645074945",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2106050311119139120",
+        "name": "奥斯润珐（）",
+        "pinned_tweet_id": "1616034566858506240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1499411488645074945/1671849870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928397150133817344/gPy64LUu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 1175,
+          "like_count": 1832,
+          "listed_count": 3,
+          "media_count": 194,
+          "tweet_count": 5438
+        },
+        "url": "",
+        "username": "runnaosfa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-27T05:38:10.000Z",
+        "description": "是非在己，毁誉由人，得失不论‖\n匿名提问箱：\nhttps://t.co/N7GBPQKIYY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/bxigpwgwwmbr8e…",
+                "end": 46,
+                "expanded_url": "https://marshmallow-qa.com/bxigpwgwwmbr8e0?t=le0DzQ&utm_medium=url_text&utm_source=promotion",
+                "start": 23,
+                "url": "https://t.co/N7GBPQKIYY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/kusunoki_riko",
+                "end": 23,
+                "expanded_url": "https://t.me/kusunoki_riko",
+                "start": 0,
+                "url": "https://t.co/n7zJdOnlgI"
+              }
+            ]
+          }
+        },
+        "id": "1442362841193795593",
+        "is_identity_verified": false,
+        "location": "此心安处是吾乡",
+        "most_recent_tweet_id": "2106052399161094256",
+        "name": "楠•理子",
+        "pinned_tweet_id": "2083491575318155443",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1442362841193795593/1787237632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100028633796792320/MIvBOdhR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8298,
+          "following_count": 1707,
+          "like_count": 112616,
+          "listed_count": 32,
+          "media_count": 4702,
+          "tweet_count": 61611
+        },
+        "url": "https://t.co/n7zJdOnlgI",
+        "username": "kusunoki_riko",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

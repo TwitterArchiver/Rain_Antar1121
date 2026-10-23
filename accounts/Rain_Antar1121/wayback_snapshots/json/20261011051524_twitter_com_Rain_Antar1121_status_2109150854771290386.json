@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2109144053740953748",
+    "created_at": "2026-10-11T05:15:24.000Z",
+    "display_text_range": [
+      17,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T06:15:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109150854771290386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2094128030973403136",
+          "start": 0,
+          "username": "AmanomiyaSakuya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109150854771290386",
+    "in_reply_to_user_id": "2094128030973403136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109150214359797841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmanomiyaSakuya 咪嘻嘻嘻～欸呀给咱说得瘾犯了今天晚上咱一定要点一只吃…希望能找回在千岛湖吃的味道🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2109144053740953748",
+        "created_at": "2026-10-11T05:15:24.000Z",
+        "display_text_range": [
+          17,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T06:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109150854771290386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2094128030973403136",
+              "start": 0,
+              "username": "AmanomiyaSakuya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109150854771290386",
+        "in_reply_to_user_id": "2094128030973403136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109150214359797841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmanomiyaSakuya 咪嘻嘻嘻～欸呀给咱说得瘾犯了今天晚上咱一定要点一只吃…希望能找回在千岛湖吃的味道🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094128030973403136",
+        "conversation_id": "2109144053740953748",
+        "created_at": "2026-10-11T05:12:51.000Z",
+        "display_text_range": [
+          16,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T06:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109150214359797841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109150214359797841",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109144053740953748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 哇这个！我当时去杭州吃到的东西里面，印象最深的就是这个了！真的入口即化，非常入味🥰"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年女孩纸🍬 | 杭州/南京 | 同类互fo喵🍥 | 可以叫咱瑞/ra | 温顺软软小动物 | 社恐小透明 | 阵发中二病 | 可爱就想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2109150854771290386",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5505,
+          "following_count": 7475,
+          "like_count": 24063,
+          "listed_count": 11,
+          "media_count": 529,
+          "tweet_count": 7468
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-30T18:20:43.000Z",
+        "description": "可爱的大只兔娘~\n性别女🏳️‍⚧️ || 全性恋 || INFP-A || GAHT：2026-07-10🍥 || 体重63kg 身高178cm || 爱哭鬼🪻 || 性冷淡(?)🫧 || 神经衰弱🥀 || 尝试重新点燃自己心中的热情❤️‍🔥 || 欢迎同类互fo呀~",
+        "id": "2094128030973403136",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2109150214359797841",
+        "name": "天ノ宮朔夜",
+        "pinned_tweet_id": "2096184015732822507",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094128030973403136/1791382848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099520351525056512/Y-ahOArE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 171,
+          "like_count": 1880,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 497
+        },
+        "url": "",
+        "username": "AmanomiyaSakuya",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

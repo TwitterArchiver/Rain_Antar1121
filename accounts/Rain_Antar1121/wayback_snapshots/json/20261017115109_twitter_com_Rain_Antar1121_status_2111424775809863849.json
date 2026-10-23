@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2111219865898094828",
+    "created_at": "2026-10-17T11:51:09.000Z",
+    "display_text_range": [
+      14,
+      115
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-17T12:51:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2111424775809863849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "705777407794352129",
+          "start": 0,
+          "username": "ServalCandle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2111424775809863849",
+    "in_reply_to_user_id": "705777407794352129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2111219865898094828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ServalCandle 有在做设定计算的太空科幻最棒啦…诶嘿嘿咱就喜欢看这个喵ww，加油哦！🥰\n\n可惜咱大脑退化得差不多了没什么精力看计算（）😵‍💫不过，为什么散射板设计成贴片形式呢，这样既没有远离船体，又浪费了一半表面积吖～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1640,
+        "media_key": "3_2111219847879417856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUyPRBObYAAiuC8.jpg",
+        "width": 2360
+      },
+      {
+        "height": 1974,
+        "media_key": "3_2111219847866830848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUyPRBLbUAAWNeM.jpg",
+        "width": 1333
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2111219865898094828",
+        "created_at": "2026-10-17T11:51:09.000Z",
+        "display_text_range": [
+          14,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-17T12:51:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2111424775809863849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "705777407794352129",
+              "start": 0,
+              "username": "ServalCandle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2111424775809863849",
+        "in_reply_to_user_id": "705777407794352129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2111219865898094828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ServalCandle 有在做设定计算的太空科幻最棒啦…诶嘿嘿咱就喜欢看这个喵ww，加油哦！🥰\n\n可惜咱大脑退化得差不多了没什么精力看计算（）😵‍💫不过，为什么散射板设计成贴片形式呢，这样既没有远离船体，又浪费了一半表面积吖～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2111219847879417856",
+            "3_2111219847866830848"
+          ]
+        },
+        "author_id": "705777407794352129",
+        "conversation_id": "2111219865898094828",
+        "created_at": "2026-10-16T22:16:55.000Z",
+        "display_text_range": [
+          0,
+          153
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-16T23:16:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2111219865898094828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R6FZSG9lE9",
+              "end": 177,
+              "expanded_url": "https://x.com/ServalCandle/status/2111219865898094828/photo/1",
+              "media_key": "3_2111219847879417856",
+              "start": 154,
+              "url": "https://t.co/R6FZSG9lE9"
+            },
+            {
+              "display_url": "pic.x.com/R6FZSG9lE9",
+              "end": 177,
+              "expanded_url": "https://x.com/ServalCandle/status/2111219865898094828/photo/1",
+              "media_key": "3_2111219847866830848",
+              "start": 154,
+              "url": "https://t.co/R6FZSG9lE9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2111219865898094828",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2111219847879417856"
+          },
+          {
+            "media_key": "3_2111219847866830848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 798,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一万字的小说修的差不多了现在和AI对设定（\n\n作为背景板的飞船是用磁帆来进行加速减速的，船身几乎盖满红外散热器散发废热。主引擎设定反而不重要\n\n近光速旅行加速15年减速15年，AI建议峰值，但是我觉得洛伦兹因子平均4.23乘10的六次方比较好_(:з」∠)_\n\n这些设定不会明写在小说里，但应该能增加真实感 https://t.co/R6FZSG9lE9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年女孩纸🍬 | 杭州/南京 | 同类互fo喵🍥 | 可以叫咱瑞/ra | 温顺软软小动物 | 社恐小透明 | 阵发中二病 | 可爱就想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2111424775809863849",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5569,
+          "following_count": 7494,
+          "like_count": 24678,
+          "listed_count": 11,
+          "media_count": 540,
+          "tweet_count": 7795
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-03-04T15:30:21.000Z",
+        "description": "和男朋友一起六年啦！\n身分證性別女\n封鎖必回\n大笨笨走四方 (*≧ω≦)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ServalCandle",
+                "end": 23,
+                "expanded_url": "https://t.me/ServalCandle",
+                "start": 0,
+                "url": "https://t.co/GBuxuZ2BVg"
+              }
+            ]
+          }
+        },
+        "id": "705777407794352129",
+        "is_identity_verified": true,
+        "location": "🐈🥖Pain chat🥯🙀",
+        "most_recent_tweet_id": "2111395297037574197",
+        "name": "🧸傻貓ℭ𝔞𝔫𝔡𝔩𝔢🍥🎀",
+        "pinned_tweet_id": "2091663126920138868",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/705777407794352129/1791539190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100961297345212416/8vr0rl92_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34319,
+          "following_count": 424,
+          "like_count": 238654,
+          "listed_count": 109,
+          "media_count": 9496,
+          "tweet_count": 61967
+        },
+        "url": "https://t.co/GBuxuZ2BVg",
+        "username": "ServalCandle",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

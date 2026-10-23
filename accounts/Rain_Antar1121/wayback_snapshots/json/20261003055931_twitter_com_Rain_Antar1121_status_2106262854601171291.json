@@ -1,0 +1,429 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2106069661414785329",
+    "created_at": "2026-10-03T05:59:31.000Z",
+    "display_text_range": [
+      47,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T06:59:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106262854601171291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1813768883540725760",
+          "start": 0,
+          "username": "ye_and_yae"
+        },
+        {
+          "end": 22,
+          "id": "2018986573090717696",
+          "start": 12,
+          "username": "a_and_zhe"
+        },
+        {
+          "end": 34,
+          "id": "1822213745176932352",
+          "start": 23,
+          "username": "hmbi217663"
+        },
+        {
+          "end": 46,
+          "id": "1689095384956633088",
+          "start": 35,
+          "username": "KfirC10SRC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106262854601171291",
+    "in_reply_to_user_id": "1813768883540725760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106069661414785329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ye_and_yae @a_and_zhe @hmbi217663 @KfirC10SRC 呜。羡慕。想抱爱晔，呜。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2106069641802215425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTpDLkfa8AEJq-3.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2106069661414785329",
+        "created_at": "2026-10-03T05:59:31.000Z",
+        "display_text_range": [
+          47,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T06:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106262854601171291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1813768883540725760",
+              "start": 0,
+              "username": "ye_and_yae"
+            },
+            {
+              "end": 22,
+              "id": "2018986573090717696",
+              "start": 12,
+              "username": "a_and_zhe"
+            },
+            {
+              "end": 34,
+              "id": "1822213745176932352",
+              "start": 23,
+              "username": "hmbi217663"
+            },
+            {
+              "end": 46,
+              "id": "1689095384956633088",
+              "start": 35,
+              "username": "KfirC10SRC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106262854601171291",
+        "in_reply_to_user_id": "1813768883540725760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106069661414785329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ye_and_yae @a_and_zhe @hmbi217663 @KfirC10SRC 呜。羡慕。想抱爱晔，呜。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106069641802215425"
+          ]
+        },
+        "author_id": "1813768883540725760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2106069661414785329",
+        "created_at": "2026-10-02T17:11:50.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T18:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106069661414785329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "2018986573090717696",
+              "start": 12,
+              "username": "a_and_zhe"
+            },
+            {
+              "end": 44,
+              "id": "1822213745176932352",
+              "start": 33,
+              "username": "hmbi217663"
+            },
+            {
+              "end": 61,
+              "id": "1689095384956633088",
+              "start": 50,
+              "username": "KfirC10SRC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qJcEZaw6XW",
+              "end": 104,
+              "expanded_url": "https://x.com/ye_and_yae/status/2106069661414785329/photo/1",
+              "media_key": "3_2106069641802215425",
+              "start": 81,
+              "url": "https://t.co/qJcEZaw6XW"
+            },
+            {
+              "display_url": "x.com/ye_and_yae/sta…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/ye_and_yae/status/2105970296738271464",
+              "start": 105,
+              "url": "https://t.co/EPa4HXZOqP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106069661414785329",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106069641802215425"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 394,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105970296738271464",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嘿嘿，另一位神秘小可爱是@a_and_zhe 哦~还有第一天就来的@hmbi217663 和早上来的@KfirC10SRC ~面基面基~\n大家都好可爱呀喜欢喜欢 https://t.co/qJcEZaw6XW https://t.co/EPa4HXZOqP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年女孩纸🍬 | 杭州/南京 | 同类互fo喵🍥 | 可以叫咱瑞/ra | 温顺软软小动物 | 社恐小透明 | 阵发中二病 | 可爱就想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2106262854601171291",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5420,
+          "following_count": 7385,
+          "like_count": 23351,
+          "listed_count": 11,
+          "media_count": 510,
+          "tweet_count": 7125
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-18T02:54:44.000Z",
+        "description": "0126 ║不会编程的机器人学习者\n170/55 ║ 没出版过作品的小说家\n不可爱的男娘 ║退圈的正化副吧\n不会画画的画家 ║可爱男娘一只\n没有知识的星舰爱好者 ║175/75\n不会说日语的日语学习者 ║0708\n爱晔最最最好的朋友@yena_official0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 116,
+                "username": "yena_official0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "spacex.com",
+                "end": 23,
+                "expanded_url": "http://spacex.com",
+                "start": 0,
+                "url": "https://t.co/cd2rHaLqOI"
+              }
+            ]
+          }
+        },
+        "id": "1813768883540725760",
+        "is_identity_verified": false,
+        "location": "距你11.4km",
+        "most_recent_tweet_id": "2106229352325386327",
+        "name": "🚀爱晔&禾木白🍥",
+        "pinned_tweet_id": "2099339418234736908",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813768883540725760/1764440318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079860342965067776/HglcXlhL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2277,
+          "following_count": 1547,
+          "like_count": 14931,
+          "listed_count": 2,
+          "media_count": 801,
+          "tweet_count": 6252
+        },
+        "url": "https://t.co/cd2rHaLqOI",
+        "username": "ye_and_yae",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-04T09:56:48.000Z",
+        "description": "🏳️‍⚧️",
+        "id": "2018986573090717696",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106064497031200970",
+        "name": "阿这",
+        "pinned_tweet_id": "2106029144471736623",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037862051725594624/P9TAAf07_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 855,
+          "like_count": 10332,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 36
+        },
+        "url": "",
+        "username": "a_and_zhe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-10T10:09:55.000Z",
+        "description": "喜欢樟木，渴望自由，笔名禾木白，一枚MTF爆柜转CD的xnn吖，生产日期0708，不开课不给控制码！\n最最最喜欢的老大：@violetta2333\n现在已经重新hrt了喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 60,
+                "username": "violetta2333"
+              }
+            ]
+          }
+        },
+        "id": "1822213745176932352",
+        "is_identity_verified": false,
+        "location": "Paris, France",
+        "most_recent_tweet_id": "2106061501551559073",
+        "name": "樟羽木白_zybc🍥",
+        "pinned_tweet_id": "2098851790779527672",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1822213745176932352/1787995446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093775656475582464/RRUQJBuL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 60,
+          "like_count": 3004,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 397
+        },
+        "url": "",
+        "username": "hmbi217663",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-09T02:05:07.000Z",
+        "description": "",
+        "id": "1689095384956633088",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2106030011342008388",
+        "name": "KfirC10🚀",
+        "pinned_tweet_id": "2067118496895697078",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1689095384956633088/1776852013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080593363854852096/diibPAn5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1238,
+          "following_count": 295,
+          "like_count": 520,
+          "listed_count": 3,
+          "media_count": 241,
+          "tweet_count": 855
+        },
+        "url": "",
+        "username": "KfirC10SRC",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

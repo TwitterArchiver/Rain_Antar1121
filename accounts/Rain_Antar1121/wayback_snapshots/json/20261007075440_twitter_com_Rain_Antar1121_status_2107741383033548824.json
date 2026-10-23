@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2107482257531539938",
+    "created_at": "2026-10-07T07:54:40.000Z",
+    "display_text_range": [
+      12,
+      157
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T08:54:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107741383033548824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1813768883540725760",
+          "start": 0,
+          "username": "ye_and_yae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107741383033548824",
+    "in_reply_to_user_id": "1813768883540725760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107482257531539938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ye_and_yae 咱会对你说没事哒～想去抱你啦🥹\n\n这种聚会散去后的空虚好珍贵呀，好怀念呢…心灵第一次被填满的感觉以后再也无法替代了呢☺️\n\n唔，也许见多了聚散离合，这种伤心就会被磨淡了…不过要是不会淡掉的话岂不更好ww因为这代表你心里有着足够重要的人呢～会很幸福哦\n\n不妨开始期待下一次抱抱…要咱去找你嘛～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2622,
+        "media_key": "3_2107482241026895872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT9H7qraMAAm6IA.jpg",
+        "width": 1474
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2107482257531539938",
+        "created_at": "2026-10-07T07:54:40.000Z",
+        "display_text_range": [
+          12,
+          157
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T08:54:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107741383033548824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1813768883540725760",
+              "start": 0,
+              "username": "ye_and_yae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107741383033548824",
+        "in_reply_to_user_id": "1813768883540725760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107482257531539938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ye_and_yae 咱会对你说没事哒～想去抱你啦🥹\n\n这种聚会散去后的空虚好珍贵呀，好怀念呢…心灵第一次被填满的感觉以后再也无法替代了呢☺️\n\n唔，也许见多了聚散离合，这种伤心就会被磨淡了…不过要是不会淡掉的话岂不更好ww因为这代表你心里有着足够重要的人呢～会很幸福哦\n\n不妨开始期待下一次抱抱…要咱去找你嘛～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107482241026895872"
+          ]
+        },
+        "author_id": "1813768883540725760",
+        "conversation_id": "2107482257531539938",
+        "created_at": "2026-10-06T14:44:59.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T15:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107482257531539938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1NOpgDB2bk",
+              "end": 109,
+              "expanded_url": "https://x.com/ye_and_yae/status/2107482257531539938/photo/1",
+              "media_key": "3_2107482241026895872",
+              "start": 86,
+              "url": "https://t.co/1NOpgDB2bk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107482257531539938",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107482241026895872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1001,
+          "like_count": 41,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "六年来的第一次，意识到你们走后我在床上痛哭，从床上哭到阳台，为什么这时不在我身边了呢…为什么没人抱住我了…我用鲨鲨蹭眼泪但是鲨鲨不会抱住我的头说没事的…\n不想分开不想分开 https://t.co/1NOpgDB2bk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年女孩纸🍬 | 杭州/南京 | 同类互fo喵🍥 | 可以叫咱瑞/ra | 温顺软软小动物 | 社恐小透明 | 阵发中二病 | 可爱就想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2107741383033548824",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5478,
+          "following_count": 7448,
+          "like_count": 23784,
+          "listed_count": 11,
+          "media_count": 518,
+          "tweet_count": 7297
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-18T02:54:44.000Z",
+        "description": "0126 ║不会编程的机器人学习者\n170/55 ║ 没出版过作品的小说家\n不可爱的男娘 ║退圈的正化副吧\n不会画画的画家 ║可爱男娘一只\n没有知识的星舰爱好者 ║175/75\n不会说日语的日语学习者 ║0708\n爱晔最最最好的朋友@yena_official0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 116,
+                "username": "yena_official0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "spacex.com",
+                "end": 23,
+                "expanded_url": "http://spacex.com",
+                "start": 0,
+                "url": "https://t.co/cd2rHaLqOI"
+              }
+            ]
+          }
+        },
+        "id": "1813768883540725760",
+        "is_identity_verified": false,
+        "location": "距你11.4km",
+        "most_recent_tweet_id": "2107674386400743549",
+        "name": "🚀爱晔&禾木白🍥",
+        "pinned_tweet_id": "2099339418234736908",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813768883540725760/1764440318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079860342965067776/HglcXlhL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2363,
+          "following_count": 1568,
+          "like_count": 15173,
+          "listed_count": 2,
+          "media_count": 813,
+          "tweet_count": 6301
+        },
+        "url": "https://t.co/cd2rHaLqOI",
+        "username": "ye_and_yae",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

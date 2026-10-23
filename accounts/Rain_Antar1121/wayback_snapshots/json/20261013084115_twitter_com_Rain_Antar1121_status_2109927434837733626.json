@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2109901094965166213",
+    "created_at": "2026-10-13T08:41:15.000Z",
+    "display_text_range": [
+      12,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-13T09:41:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109927434837733626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2089649353724153856",
+          "start": 0,
+          "username": "yu_kirins2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109927434837733626",
+    "in_reply_to_user_id": "2089649353724153856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109927131589599275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu_kirins2 是啊说明文档里这么写的，所以咱来问问具体怎么计算呀～🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2109901094965166213",
+        "created_at": "2026-10-13T08:41:15.000Z",
+        "display_text_range": [
+          12,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-13T09:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109927434837733626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2089649353724153856",
+              "start": 0,
+              "username": "yu_kirins2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109927434837733626",
+        "in_reply_to_user_id": "2089649353724153856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109927131589599275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu_kirins2 是啊说明文档里这么写的，所以咱来问问具体怎么计算呀～🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089649353724153856",
+        "conversation_id": "2109901094965166213",
+        "created_at": "2026-10-13T08:40:03.000Z",
+        "display_text_range": [
+          16,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-13T09:40:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109927131589599275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109927131589599275",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109901094965166213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 需要增加被关注数才能关注更多人"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年女孩纸🍬 | 杭州/南京 | 同类互fo喵🍥 | 可以叫咱瑞/ra | 温顺软软小动物 | 社恐小透明 | 阵发中二病 | 可爱就想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2109927434837733626",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5533,
+          "following_count": 7499,
+          "like_count": 24325,
+          "listed_count": 11,
+          "media_count": 532,
+          "tweet_count": 7615
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-18T09:44:46.000Z",
+        "description": "叫我小雨或者雨麟｜MTF｜HRT：2025.9.16｜去势：2026.7.27｜BOD：2001.4.29｜同类互fo喵\nVRChat似乎基本大概是退坑了吧\n大号:@yu_kirins，大概是似了，重新开始吧喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "yu_kirins"
+              }
+            ]
+          }
+        },
+        "id": "2089649353724153856",
+        "is_identity_verified": false,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2109927131589599275",
+        "name": "yu_s_two",
+        "pinned_tweet_id": "2096084062889034164",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095919829471645696/_ZjyUbqo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 89,
+          "like_count": 37,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 195
+        },
+        "url": "",
+        "username": "yu_kirins2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

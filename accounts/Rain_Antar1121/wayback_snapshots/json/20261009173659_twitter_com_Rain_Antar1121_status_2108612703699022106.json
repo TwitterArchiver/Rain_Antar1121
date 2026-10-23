@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2108417712556777837",
+    "created_at": "2026-10-09T17:36:59.000Z",
+    "display_text_range": [
+      11,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T18:36:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108612703699022106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1240547719090810881",
+          "start": 0,
+          "username": "CharCaius"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108612703699022106",
+    "in_reply_to_user_id": "1240547719090810881",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108586325893099713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CharCaius 咬咬😘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2108417712556777837",
+        "created_at": "2026-10-09T17:36:59.000Z",
+        "display_text_range": [
+          11,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T18:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108612703699022106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1240547719090810881",
+              "start": 0,
+              "username": "CharCaius"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108612703699022106",
+        "in_reply_to_user_id": "1240547719090810881",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108586325893099713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CharCaius 咬咬😘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1240547719090810881",
+        "conversation_id": "2108417712556777837",
+        "created_at": "2026-10-09T15:52:10.000Z",
+        "display_text_range": [
+          16,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T16:52:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108586325893099713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108586325893099713",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108417712556777837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 吃吃"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年女孩纸🍬 | 杭州/南京 | 同类互fo喵🍥 | 可以叫咱瑞/ra | 温顺软软小动物 | 社恐小透明 | 阵发中二病 | 可爱就想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2108612703699022106",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5504,
+          "following_count": 7474,
+          "like_count": 24046,
+          "listed_count": 11,
+          "media_count": 528,
+          "tweet_count": 7446
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-19T07:57:02.000Z",
+        "description": "个人介绍不会写...反正...有爱人？（似乎吧…?不知道，没有吧）\nHRT 2024.8.29 | 🏳️‍🌈双性恋 |",
+        "id": "1240547719090810881",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2108586325893099713",
+        "name": "Charlotte Caius",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1240547719090810881/1740234089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108607989448065024/vOwK9zMU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 1084,
+          "like_count": 1925,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 788
+        },
+        "url": "",
+        "username": "CharCaius",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2109959517316514076",
+    "created_at": "2026-10-14T14:58:51.000Z",
+    "display_text_range": [
+      10,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-14T15:58:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2110384847630037250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1299363467816697857",
+          "start": 0,
+          "username": "iNitSans"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2110384847630037250",
+    "in_reply_to_user_id": "1299363467816697857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2110358557870920031",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iNitSans 呜唉咱都没学驾照ww…好遥远的事情呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2109959517316514076",
+        "created_at": "2026-10-14T14:58:51.000Z",
+        "display_text_range": [
+          10,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-14T15:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2110384847630037250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1299363467816697857",
+              "start": 0,
+              "username": "iNitSans"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2110384847630037250",
+        "in_reply_to_user_id": "1299363467816697857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2110358557870920031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iNitSans 呜唉咱都没学驾照ww…好遥远的事情呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1299363467816697857",
+        "conversation_id": "2109959517316514076",
+        "created_at": "2026-10-14T13:14:23.000Z",
+        "display_text_range": [
+          16,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-14T14:14:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2110358557870920031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2110358557870920031",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2110239322708603174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 学校位置有点偏僻，不过肉眼还是看不到啦，用相机曝光久一点才看得到。\n出去玩的时候可以租辆车什么的，看星星会方便很多😊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年女孩纸🍬 | 杭州/南京 | 同类互fo喵🍥 | 可以叫咱瑞/ra | 温顺软软小动物 | 社恐小透明 | 阵发中二病 | 可爱就想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2110384847630037250",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5552,
+          "following_count": 7470,
+          "like_count": 24461,
+          "listed_count": 11,
+          "media_count": 535,
+          "tweet_count": 7705
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-08-28T15:09:53.000Z",
+        "description": "摄影向，偶尔发点怪东西。写给你看，也写给自己。\n🇨🇳🇬🇧(🇯🇵🇩🇪)\nEmail: i3nit@outlook.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gallery.3nit.icu",
+                "end": 23,
+                "expanded_url": "http://gallery.3nit.icu",
+                "start": 0,
+                "url": "https://t.co/MVoa9vCZJR"
+              }
+            ]
+          }
+        },
+        "id": "1299363467816697857",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2110358557870920031",
+        "name": "nnNNit",
+        "pinned_tweet_id": "1746568664130662459",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1299363467816697857/1772379347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986100157105176576/ZysLDoO8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 520,
+          "like_count": 15980,
+          "listed_count": 2,
+          "media_count": 240,
+          "tweet_count": 835
+        },
+        "url": "https://t.co/MVoa9vCZJR",
+        "username": "iNitSans",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

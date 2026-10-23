@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2105960988193567060",
+    "created_at": "2026-10-03T06:03:30.000Z",
+    "display_text_range": [
+      17,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T07:03:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106263854930120727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1699273459325390848",
+          "start": 0,
+          "username": "DurantRaym93677"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106263854930120727",
+    "in_reply_to_user_id": "1699273459325390848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106230759677890972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DurantRaym93677 唔唔这几天人太多了唔…"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2106230759677890972].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2106230759677890972",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2106230759677890972"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2105960988193567060",
+        "created_at": "2026-10-03T06:03:30.000Z",
+        "display_text_range": [
+          17,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T07:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106263854930120727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1699273459325390848",
+              "start": 0,
+              "username": "DurantRaym93677"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106263854930120727",
+        "in_reply_to_user_id": "1699273459325390848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106230759677890972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DurantRaym93677 唔唔这几天人太多了唔…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年女孩纸🍬 | 杭州/南京 | 同类互fo喵🍥 | 可以叫咱瑞/ra | 温顺软软小动物 | 社恐小透明 | 阵发中二病 | 可爱就想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2106263854930120727",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5421,
+          "following_count": 7386,
+          "like_count": 23366,
+          "listed_count": 11,
+          "media_count": 510,
+          "tweet_count": 7133
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-06T04:09:04.000Z",
+        "description": "🍊 あぁ 闇はただ純粋で | \n🚼🔑裏: @AmmieColl84391 / 🌠サブ: @AuroraYume (フォロー歓迎) | 💼 Speaker of the Parliament of @enchenia | 💕 @Chiyorin0908",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 21,
+                "username": "AmmieColl84391"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "AuroraYume"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "enchenia"
+              },
+              {
+                "end": 125,
+                "start": 112,
+                "username": "Chiyorin0908"
+              }
+            ]
+          }
+        },
+        "id": "1699273459325390848",
+        "is_identity_verified": false,
+        "location": "Japan",
+        "most_recent_tweet_id": "2101594725623197698",
+        "name": "Luke 鈴木 さくらみ⛩️",
+        "pinned_tweet_id": "1991375034833883218",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1699273459325390848/1738540793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036740912668389376/LWPePSYk_normal.png",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3807,
+          "following_count": 4412,
+          "like_count": 54698,
+          "listed_count": 19,
+          "media_count": 664,
+          "tweet_count": 13371
+        },
+        "url": "",
+        "username": "DurantRaym93677",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

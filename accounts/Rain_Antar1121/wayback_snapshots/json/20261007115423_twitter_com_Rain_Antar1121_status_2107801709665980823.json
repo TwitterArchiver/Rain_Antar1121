@@ -1,0 +1,435 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2107504991925837830",
+    "created_at": "2026-10-07T11:54:23.000Z",
+    "display_text_range": [
+      39,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T12:54:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107801709665980823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1963297807374106624",
+          "start": 0,
+          "username": "GlowingTree880"
+        },
+        {
+          "end": 27,
+          "id": "2031270533359349761",
+          "start": 16,
+          "username": "hailoveszw"
+        },
+        {
+          "end": 38,
+          "id": "1415721484199235585",
+          "start": 28,
+          "username": "ump45chan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107801709665980823",
+    "in_reply_to_user_id": "1963297807374106624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107504991925837830",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GlowingTree880 @hailoveszw @ump45chan 欢迎回来～好丰富的生活呀羡慕咪😘"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2252,
+        "media_key": "3_2107504107397509120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT9b0dQa8AASbQ-.jpg",
+        "width": 4000
+      },
+      {
+        "height": 2248,
+        "media_key": "3_2107504132085215232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT9b15ObcAAEZkl.jpg",
+        "width": 3580
+      },
+      {
+        "height": 1072,
+        "media_key": "3_2107504176444186624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT9b4eeboAADJck.jpg",
+        "width": 1680
+      },
+      {
+        "height": 1076,
+        "media_key": "3_2107504642813022208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT9cTn1bUAAA2Hj.jpg",
+        "width": 1816
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2107504991925837830",
+        "created_at": "2026-10-07T11:54:23.000Z",
+        "display_text_range": [
+          39,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T12:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107801709665980823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1963297807374106624",
+              "start": 0,
+              "username": "GlowingTree880"
+            },
+            {
+              "end": 27,
+              "id": "2031270533359349761",
+              "start": 16,
+              "username": "hailoveszw"
+            },
+            {
+              "end": 38,
+              "id": "1415721484199235585",
+              "start": 28,
+              "username": "ump45chan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107801709665980823",
+        "in_reply_to_user_id": "1963297807374106624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107504991925837830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GlowingTree880 @hailoveszw @ump45chan 欢迎回来～好丰富的生活呀羡慕咪😘"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107504107397509120",
+            "3_2107504132085215232",
+            "3_2107504176444186624",
+            "3_2107504642813022208"
+          ]
+        },
+        "author_id": "1963297807374106624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2107504991925837830",
+        "created_at": "2026-10-06T16:15:20.000Z",
+        "display_text_range": [
+          0,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T17:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107504991925837830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 34,
+              "id": "2031270533359349761",
+              "start": 23,
+              "username": "hailoveszw"
+            },
+            {
+              "end": 49,
+              "id": "1415721484199235585",
+              "start": 39,
+              "username": "ump45chan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RSGKimnxqw",
+              "end": 130,
+              "expanded_url": "https://x.com/GlowingTree880/status/2107504991925837830/photo/1",
+              "media_key": "3_2107504107397509120",
+              "start": 107,
+              "url": "https://t.co/RSGKimnxqw"
+            },
+            {
+              "display_url": "pic.x.com/RSGKimnxqw",
+              "end": 130,
+              "expanded_url": "https://x.com/GlowingTree880/status/2107504991925837830/photo/1",
+              "media_key": "3_2107504132085215232",
+              "start": 107,
+              "url": "https://t.co/RSGKimnxqw"
+            },
+            {
+              "display_url": "pic.x.com/RSGKimnxqw",
+              "end": 130,
+              "expanded_url": "https://x.com/GlowingTree880/status/2107504991925837830/photo/1",
+              "media_key": "3_2107504176444186624",
+              "start": 107,
+              "url": "https://t.co/RSGKimnxqw"
+            },
+            {
+              "display_url": "pic.x.com/RSGKimnxqw",
+              "end": 130,
+              "expanded_url": "https://x.com/GlowingTree880/status/2107504991925837830/photo/1",
+              "media_key": "3_2107504642813022208",
+              "start": 107,
+              "url": "https://t.co/RSGKimnxqw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107504991925837830",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107504107397509120"
+          },
+          {
+            "media_key": "3_2107504132085215232"
+          },
+          {
+            "media_key": "3_2107504176444186624"
+          },
+          {
+            "media_key": "3_2107504642813022208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 34,
+                "id": "2031270533359349761",
+                "start": 23,
+                "username": "hailoveszw"
+              },
+              {
+                "end": 49,
+                "id": "1415721484199235585",
+                "start": 39,
+                "username": "ump45chan"
+              }
+            ]
+          },
+          "text": "树树子，复活喵！🥰\n\n2号去广州玩了喵，小森森@hailoveszw和45猪咪@ump45chan也从上海和安徽远道而来陪树树子玩喵\n3号一起去cicf了捏 (树树子出偶玛，45猪出蕾服邮箱，小豆 [另一个朋友] 出妮可喵，然后森森cos一个n55😋)；虽然中间出了点小插曲但是还是玩的很开心喵；粗略估计被集了15次邮左右，也送出/互换了一些小无料，开心喵🥰 (最后在6馆爆了300米左右买周边喵，虽然有点肉疼但是吃的很开心捏🥰)\n4号重游本科学校，然后去了正佳，广州塔喵，晚上吃寿司郎，很美味喵🥰\n5号求万能的45麻麻给树树子化妆再出了一次偶玛一起逛了地王广场捏，晚上吃了萨莉亚喝了广式糖水喵，成功的当了一天可爱的女孩子很开心喵🥰；但是走在街上的时候还是会紧张怕别人偷偷议论什么的 (虽然可能广州核心区那边的人已经见怪不怪了但是还是会在意别人的看法捏🥺)；不过树树子马上也老了呜呜，明年23了，还能当多久可爱的女孩子呢🥺\n\n这几天虽然很累 (所以一直没上推) 但是玩的很开心喵🥰，45猪和森森愿意远道而来陪树树子，树树子也很感动，虽然玩了4天但是感觉还是没玩够，马上又要回学校面对生活了 (树树子能在一个月内大修完第二篇论文然后完成第三篇论文的初稿吗🥺)\n\n另外广东终于入秋了喵，昨天早上起床就感觉有点凉凉的了，一看气温终于不是35度了🥰，很舒服喵，可以穿树树子的猫猫外套了；然后开了蓝v喵，不然每次发推文都有字数限制只能发一点点好折磨喵"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 550,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "树树子，复活喵！🥰\n\n2号去广州玩了喵，小森森@hailoveszw和45猪咪@ump45chan也从上海和安徽远道而来陪树树子玩喵\n3号一起去cicf了捏 (树树子出偶玛，45猪出蕾服邮箱，小豆 [另一个朋友] https://t.co/RSGKimnxqw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年女孩纸🍬 | 杭州/南京 | 同类互fo喵🍥 | 可以叫咱瑞/ra | 温顺软软小动物 | 社恐小透明 | 阵发中二病 | 可爱就想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2107801709665980823",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5482,
+          "following_count": 7458,
+          "like_count": 23857,
+          "listed_count": 11,
+          "media_count": 521,
+          "tweet_count": 7324
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-03T17:47:43.000Z",
+        "description": "是超可爱的树树子喵/mtf🏳️‍⚧️/生产日期2004-04-11/HRT2026-04-11🍥/某小破本计科研究牲在读喵/计算机爱好者/蔚蓝档案重度依赖/想要成为可爱的女孩子！/欢迎互fo喵",
+        "id": "1963297807374106624",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107516412831072405",
+        "name": "超绝可爱树树子🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1963297807374106624/1756921994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963299198570524672/r0UD2-iK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 341,
+          "like_count": 2630,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 1103
+        },
+        "url": "",
+        "username": "GlowingTree880",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-10T07:27:30.000Z",
+        "description": "（淡圈中）一个什么都不擅长的废物喵｜喜欢一切可爱事物｜entp-t ｜心归所至：@lfgy74025｜小宝宝：@YuChenawa @MZiyu81757｜mtx🏳️‍⚧️｜AGP｜生产日期：2008｜小证偷吃｜hrt3.29｜欢迎互fo喵｜常驻南京",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 40,
+                "username": "lfgy74025"
+              },
+              {
+                "end": 65,
+                "start": 55,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 77,
+                "start": 66,
+                "username": "MZiyu81757"
+              }
+            ]
+          }
+        },
+        "id": "2031270533359349761",
+        "is_identity_verified": false,
+        "location": "你家门口",
+        "most_recent_tweet_id": "2107453574058021305",
+        "name": "senzhiwu",
+        "pinned_tweet_id": "2086291480478712245",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2031270533359349761/1787898878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088941031123505152/lRU5eFsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2259,
+          "following_count": 449,
+          "like_count": 4272,
+          "listed_count": 6,
+          "media_count": 201,
+          "tweet_count": 3060
+        },
+        "url": "",
+        "username": "hailoveszw",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-15T17:14:46.000Z",
+        "description": "草拟吗世界为什么还不爆炸",
+        "id": "1415721484199235585",
+        "is_identity_verified": false,
+        "location": "反正不是地球",
+        "most_recent_tweet_id": "2106082947678064738",
+        "name": "是45哦",
+        "pinned_tweet_id": "1980020705518551458",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1415721484199235585/1761070329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1633945471915032576/P6D9F91c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 406,
+          "like_count": 26976,
+          "listed_count": 0,
+          "media_count": 244,
+          "tweet_count": 5820
+        },
+        "url": "",
+        "username": "ump45chan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

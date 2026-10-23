@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894461745277931524",
+    "conversation_id": "2106742215221645794",
+    "created_at": "2026-10-05T04:09:49.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T05:09:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106960022664298567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1818920358403256320",
+          "start": 0,
+          "username": "xuanyu_awa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106960022664298567",
+    "in_reply_to_user_id": "1818920358403256320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106742215221645794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuanyu_awa 羡慕🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2106737236033347584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTyiWqzbIAA4aRi.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2106737251795476481",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTyiXlhaIAEgCRb.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2106737319764238337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTyibiubIAE42_F.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2106737334771437568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTyicaoa0AAm-bW.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2106742215221645794",
+        "created_at": "2026-10-05T04:09:49.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T05:09:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106960022664298567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1818920358403256320",
+              "start": 0,
+              "username": "xuanyu_awa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106960022664298567",
+        "in_reply_to_user_id": "1818920358403256320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106742215221645794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuanyu_awa 羡慕🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106737236033347584",
+            "3_2106737251795476481",
+            "3_2106737319764238337",
+            "3_2106737334771437568"
+          ]
+        },
+        "author_id": "1818920358403256320",
+        "conversation_id": "2106742215221645794",
+        "created_at": "2026-10-04T13:44:20.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T14:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106742215221645794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AUWLapPQ1b",
+              "end": 29,
+              "expanded_url": "https://x.com/xuanyu_awa/status/2106742215221645794/photo/1",
+              "media_key": "3_2106737236033347584",
+              "start": 6,
+              "url": "https://t.co/AUWLapPQ1b"
+            },
+            {
+              "display_url": "pic.x.com/AUWLapPQ1b",
+              "end": 29,
+              "expanded_url": "https://x.com/xuanyu_awa/status/2106742215221645794/photo/1",
+              "media_key": "3_2106737251795476481",
+              "start": 6,
+              "url": "https://t.co/AUWLapPQ1b"
+            },
+            {
+              "display_url": "pic.x.com/AUWLapPQ1b",
+              "end": 29,
+              "expanded_url": "https://x.com/xuanyu_awa/status/2106742215221645794/photo/1",
+              "media_key": "3_2106737319764238337",
+              "start": 6,
+              "url": "https://t.co/AUWLapPQ1b"
+            },
+            {
+              "display_url": "pic.x.com/AUWLapPQ1b",
+              "end": 29,
+              "expanded_url": "https://x.com/xuanyu_awa/status/2106742215221645794/photo/1",
+              "media_key": "3_2106737334771437568",
+              "start": 6,
+              "url": "https://t.co/AUWLapPQ1b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106742215221645794",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2106737236033347584"
+          },
+          {
+            "media_key": "3_2106737251795476481"
+          },
+          {
+            "media_key": "3_2106737319764238337"
+          },
+          {
+            "media_key": "3_2106737334771437568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 529,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Y701喵 https://t.co/AUWLapPQ1b"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年女孩纸🍬 | 杭州/南京 | 同类互fo喵🍥 | 可以叫咱瑞/ra | 温顺软软小动物 | 社恐小透明 | 阵发中二病 | 可爱就想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2106960022664298567",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5464,
+          "following_count": 7441,
+          "like_count": 23664,
+          "listed_count": 11,
+          "media_count": 516,
+          "tweet_count": 7235
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-01T08:03:18.000Z",
+        "description": "mtf🍥🏳️‍⚧️/birthday:2010.4.14/hrt:2024.3.16/小证2026.9.7？/疑似家长不管？/CChOer（距离省队只差几名的废物…）/高二物化生/彩笔音游人/精神状态随机/坐标重庆主城/欢迎来找我面基或者聊天哦",
+        "id": "1818920358403256320",
+        "is_identity_verified": false,
+        "location": "重庆",
+        "most_recent_tweet_id": "2106776104552001732",
+        "name": "萱雨🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2054504636170817941",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1818920358403256320/1769963861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619597285576704/qBOYoEc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3811,
+          "following_count": 4366,
+          "like_count": 42640,
+          "listed_count": 7,
+          "media_count": 139,
+          "tweet_count": 1389
+        },
+        "url": "",
+        "username": "xuanyu_awa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
